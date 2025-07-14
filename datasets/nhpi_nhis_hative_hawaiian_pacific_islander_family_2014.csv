@@ -1,0 +1,73 @@
+﻿Variable,Description
+   RECTYPE   ,File type identifier
+   SRVY_YR   ,Year of Native Hawaiian and Pacific Islander Survey (NHPI)
+   HHX       ,Household Number
+   FMX       ,Family Number
+   WTFA_FAM  ,Weight - Final Annual
+   FINT_Y_P  ,Year Interview Completed - Year
+   FINT_M_P  ,Date of Interview - Month
+   TELN_FLG  ,Supplied telephone number
+   CURWRKN   ,Working phone inside home
+   TELCELN   ,Working cell phone in family
+   WRKCELNP  ,Number of working cell phones
+   PHONEUSE  ,Received calls cell/landline/both
+   FLNGINTV  ,Language of Interview
+   FM_TYPE   ,Family type
+   FM_STRN   ,Family Structure
+   FM_EDUCN  ,Education of adult with highest education in family
+   FCHLMYN   ,Any children under age 5 in family with play limitations?
+   FSPEDYN   ,Any children in family receive Special Education/EIS?
+   FLAADLYN  ,Any family member need help with an ADL?
+   FLIADLYN  ,Any family member need help with an IADL?
+   FWKLIMYN  ,Any family member have work limitations due to a health problem?
+   FWALKYN   ,Any family member have difficulty walking without equipment?
+   FREMEMYN  ,Any family member limited by difficulty remembering?
+   FANYLYN   ,Is any family member limited in ANY WAY?
+   FSRUNOUT  ,Worried food would run out before got money to buy more
+   FSLAST    ,Food did not last before had money to get more
+   FSBALANC  ,Could not afford to eat balanced meals
+   FSSKIP    ,Cut size or skipped meals because not enough money
+   FSSKDAYR  ,Number of days cut size or skipped meals recode
+   FSLESS    ,Eat less than felt should because not enough money
+   FSHUNGRY  ,Hungry but did not eat because not enough money
+   FSWEIGHT  ,Lose weight because not enough money for food
+   FSNOTEAT  ,Not eat for a whole day because not enough money for food
+   FSNEDAYR  ,Number of days did not eat recode
+   FDMEDYN   ,"Any family member delay seeking medical care, 12m?"
+   FNMEDYN   ,"Any family member need and not get medical care, 12m?"
+   FHOSP2YN  ,"Any family member in hospital overnight, 12m?"
+   FHCHMYN   ,"Any family member receive home care, 2wk?"
+   FHCPHRYN  ,"Any family member get advice/test results over the phone, 2wk?"
+   FHCDVYN   ,"Any family member have an office visit, etc., 2wk"
+   F10DVYN   ,"Any family member receive care 10+ times, 12m?"
+   FHICOVYN  ,Any family member have health insurance coverage?
+   FPRCOOH   ,Any persons covered living outside of the household
+   COVCONF   ,Confidence in obtaining affordable coverage
+   FHICOST   ,Cost of family medical/dental care in the past 12 months
+   FMEDBILL  ,Problems paying or unable to pay any medical bills
+   FMEDBPAY  ,Medical bills being paid off over time
+   FMEDBNOP  ,Unable to pay medical bills
+   FSAF      ,Family has a Flexible Spending Account
+   FSALYN    ,Any family member receive income from wages or salary?
+   FSEINCYN  ,Any family member receive income from self-employment?
+   FSSRRYN   ,Any family member receive Social Security or Railroad Retirement income?
+   FPENSYN   ,Any family members receive disability pensions (See file layout)
+   FOPENSYN  ,Any family member receive other survivor or retirement pensions?
+   FSSIYN    ,Any family member receive income from SSI?
+   FTANFYN   ,Any family member receive income from a state or county welfare program?
+   FOWBENYN  ,Any family member receive other kind of welfare assistance?
+   FINTR1YN  ,"Any family member receive income from interest bearing accounts, funds, etc.?"
+   FDIVDYN   ,"Any family member receive dividends from stocks, etc.?"
+   FCHSPYN   ,Any family member receive child support income?
+   FINCOTYN  ,Any family member receive income from any other source?
+   INCGRP4   ,Total combined family income (grouped)
+   INCGRP5   ,Total combined family income (grouped)
+   RAT_CAT4  ,Ratio of family income to the poverty threshold
+   RAT_CAT5  ,Ratio of family income to the poverty threshold
+   HOUSEOWN  ,Home tenure status
+   FGAH      ,Paying lower rent due to government program
+   FSSAPLYN  ,Any family member ever apply for SSI?
+   FSDAPLYN  ,Any family member ever apply for SSDI?
+   FSNAP     ,Any family member receive food stamp/SNAP benefits last calendar year?
+   FSNAPMYR  ,"Number of months family received food stamps/SNAP benefits, last calendar year"
+   FWICYN    ,Any family member receiving WIC benefits?

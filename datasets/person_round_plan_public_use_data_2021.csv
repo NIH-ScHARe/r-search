@@ -1,0 +1,56 @@
+﻿Variable,Description
+ANNDEDCT,Annual deductible
+CMJINS,Current main job is the source of plan
+COBRA,COBRA coverage
+COVROUT_M18,Policy covers person not in RU
+COVTYPIN,Single or family health insurance coverage plan
+DECPHLDR,Deceased policyholder flag
+DENTLINS,Type health insurance received: dental
+DEPNDNT,Dependent of policy holder flag
+DUPERSID,Person identifier
+EMPLSTAT,Policyholder employment status
+EPCPIDX,Insurance source-phldr-dependent identifier
+EPRSIDX,Unique insurance policy-source
+ESTBIDX,Insurance source identifier
+EVALCOVR,Covered at interview or December 31st
+FYFLG,Person in full year file
+HOSPINSX,Type health insurance received: hosp phys/HMO (ed)
+HSAACCT,HSA with this plan
+InsurPrivIDEX,Unique insurance plcy source-insurance identifier
+JOBSFILE,Jobs file containing job information
+JOBSIDX,Policyholder job-round identifier
+JOBSINFR,Job identifier inferred not reported
+MSUPINSX,Type health insurance received: Medigap (edited)
+NAMECHNG,Plan name change
+NOPUFLG,Policyholder not in full year file
+OOPELIG,Policyholder-insurance source has premium
+OOPFLAG,OOPPREMX edit/imputation flag
+OOPPREM,Monthly out-of-pocket premium
+OOPPREMX,Monthly out-of-pocket premium (edited/imputed)
+OOPX12X,Annual out-of-pocket premium (edited/imputed)
+OUTPHLDR,Out-of-RU policyholder flag
+PANEL,Panel number
+PHLDRIDX,Policyholder person identifier
+PHOLDER,Policy holder flag
+PLANMETL,Plan metal level
+PMEDINS,Type health insurance received: prescription drug
+PREMLEVX,Portion of premium paid by family (edited)
+PREMSUBZ,Cost of the premium subsidized
+PrivateCat,Category of private coverage
+RN,Round number
+STAT1,Insurance active in January
+STAT10,Insurance active in October
+STAT11,Insurance active in November
+STAT12,Insurance active in December
+STAT2,Insurance active in February
+STAT3,Insurance active in March
+STAT4,Insurance active in April
+STAT5,Insurance active in May
+STAT6,Insurance active in June
+STAT7,Insurance active in July
+STAT8,Insurance active in August
+STAT9,Insurance active in September
+STEXCH,State exchange coverage
+TYPEFLAG,Type of insurance source
+UPRHMO,HMO coverage (edited)
+VISIONIN,Type health insurance received: vision

@@ -1,0 +1,17 @@
+Variable,Description
+Geo_code,Geographic id
+Geo_label,Geographic unit of analysis
+Population,Number of units in denominator
+Year,Data year
+Race,indicator of race
+Cohort,Cohort label
+Eventname,Numerator event: condition or procedure grouping
+Event_label,Descriptive label for this event
+Observed,Number of events actually found
+O_e_ratio,Observed:Expected ratio
+Crude_rate,Unadjusted rate
+Std_error,Standard Error for crude rate
+Uppercl,Upper confidence label
+Lowercl,Lower confidence label
+Percentile,Percentile of the rate
+Adjusted_rate,Adjusted rate

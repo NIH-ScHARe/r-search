@@ -1,0 +1,25 @@
+﻿Variable,Description
+Year,Year
+StateAbbr,State abbreviation
+StateDesc,State name
+CityName,City name
+GeographicLevel,Identifies either City Level or Tract Level
+DataSource,Data Source
+Category,Topic
+UniqueID,"At city-level, it is the FIPS code of CityFIPS. For tract-level data, it is a combined ID of CityFIPS and TractFIPS for tracts within the respective city with the exception of Honolulu, which only uses TractFIPS"
+Measure,Measure full name
+Data_Value_Unit,"The data value unit, such as ""%"" for percentage"
+DataValueTypeID,Identifier for the data value type
+Data_Value_Type,"The data type, such as age-adjusted prevalence or crude prevalence"
+Data_Value,"Data Value, such as 14.7"
+Data_Value_Footnote_Symbol,Footnote Symbol
+Data_Value_Footnote,Footnote Text
+Low_Confidence_Limit,Low Confidence Limit
+High_Confidence_Limit,High Confidence Limit
+Population2010,Population count from census 2010
+GeoLocation,"Latitude, longitude of city or census tract centroid"
+CategoryID,Identifier for Topic/Category
+MeasureId,Measure Identifier
+CityFIPS,FIPS code
+TractFIPS,FIPS code
+Short_Question_Text,Measure short name

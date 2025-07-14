@@ -1,0 +1,123 @@
+Variable,Description
+TYPEABC,Type of noninterview
+TYPEA,Reason for Type A
+TYPEBOBS,Type B by observation
+RECTYPE,Record type
+SRVY_YR,Year of the National Health Interview Survey
+HHX,Randomly assigned household number unique to a household
+OUTCOME1,"Outcome code--restricted to 201, 203, Type A, select Type B codes"
+REGION,Household region
+PSTRAT,Pseudo-stratum for public-use file variance estimation
+PPSU,Pseudo-PSU for public-use file variance estimation
+TOTCOUNT,Total count of CHI records for this case
+MODE_P,Number of personal visit attempts for this case
+MODE_T,Number of telephone attempts for this case
+CTSTAT1,Number of contacts with sample unit members
+CTSTAT2,Number of contacts with non-sample unit members
+CTSTAT3,Number of noncontacts
+UNABLE1R,"Number of times ""Eligible person not available"" was entered"
+UNABLE2R,"Number of times ""Inconvenient time"" was entered"
+UNABLE3R,"Number of times ""Respondent is reluctant"" was entered"
+UNABLE4R,"Number of times ""Language problem--specify"" was entered"
+UNABLE5R,"Number of times ""Health problem"" was entered"
+UNABL99R,"Number of times ""Other--specify"" was entered"
+LANG1R,"Number of times ""Specify language or dialect"" was entered"
+LANG2R,"Number of times ""No household member able to translate"" was entered"
+LANG3R,"Number of times ""Contact RO about language problem"" was entered"
+LANG4R,"Number of times ""Unable to find translator"" was entered"
+LANG5R,"Number of times ""No time left to find translator"" was entered"
+NCTP01R,"Number of times ""No one home/No eligible person home"" was entered"
+NCTPR03R,"Number of times ""No one home--previous note/letter taken"" was entered"
+NCTPR04R,"Number of times ""Household does not answer door--someone is home"" entered"
+NCTP05R,"Number of times ""Observed HH from vehicle"" was entered"
+NCTPR07R,"Number of times ""Unable to reach/locked gate/buzzer entry"" was entered"
+NCTPR08R,"Number of times ""Address does not exist/unable to locate"" was entered"
+NCTPR09R,"Number of times ""On vacation, away from home/at second home"" was entered"
+NCTPR10R,"Number of times ""Spoke with neighbor"" was entered"
+NCTPR11R,"Number of times ""Building management/doorman contact"" was entered"
+NCTP12R,"Number of times ""Completed case (Type B or C or Vacant interview)"" entered"
+NCTPR99R,"Number of times ""Other--specify"" was entered"
+NCTL01R,"Number of times ""Got answering machine"" was entered"
+NCTL02R,"Number of times ""Ring, no answer"" was entered"
+NCTEL03R,"Number of times ""Busy signal"" was entered"
+NCTEL04R,"Number of times ""Disconnected"" was entered"
+NCTEL05R,"Number of times ""Wrong number"" was entered"
+NCTL06R,"Number of times ""Spoke with ineligible person"" was entered"
+NCTL07R,"Number of times ""Respondent left message"" was entered"
+NCTEL99R,"Number of times ""Other-specify"" was entered"
+RELC01R,"Number of times ""Not interested"" was entered"
+RELUC02R,"Number of times ""Too busy"" was entered"
+RELUC03R,"Number of times ""Interview takes too much time"" was entered"
+RELUC05R,"Number of times ""Scheduling difficulties"" was entered"
+RELUC06R,"Number of times ""Survey is voluntary"" was entered"
+RELUC07R,"Number of times ""Privacy concerns"" was entered"
+RELC08R,"Number of times ""Local/State/Fed. Govt. concerns"" was entered"
+RELC09R,"Number of times ""Asks questions about the survey"" was entered"
+RELUC11R,"Number of times ""Hang-up/slams door on FR"" was entered"
+RELUC12R,"Number of times ""Hostile or threatens FR"" was entered"
+RELC15R,"Number of times ""Family Issues (death, illness, etc.)"" entered"
+RELUC98R,"Number of times ""No concerns"" was entered"
+RELUC99R,"Number of times ""Other-specify"" was entered"
+STRAT01R,"Number of times ""Advance letter given"" was entered"
+STRAT02R,"Number of times ""Scheduled appointment"" was entered"
+STRAT03R,"Number of times ""Left note/appointment card"" was entered"
+STRAT04R,"Number of times ""Left promotional packet/informational brochure"" was entered"
+STRAT05R,"Number of times ""Called household"" was entered"
+STRAT06R,"Number of times ""Left message on answering machine"" was entered"
+STRT11R,"Number of times ""Waited for respondent"" was entered"
+STRAT12R,"Number of times ""Checked with neighbors"" was entered"
+STRAT13R,"Number of times ""Contacted other family members"" was entered"
+STRT14R,"Number of times ""Contacted property manager/doorman"" was entered"
+STRAT98R,"Number of times ""No strategies"" was entered"
+STRAT99R,"Number of times ""Other--specify"" was entered"
+REASSIGN,Case reassignment to another interviewer (FR)
+SA_TOD,Time of day that the Sample Adult section was started
+SASTRPNT,Point in the interview period when the Sample Adult section was started
+SC_TOD,Time of day that the Sample Child section was started
+SCSTRPNT,Point in the interview period when the Sample Child section was started
+ONEFAM_FLG,All people in the household are in the same family
+QUALITY_SA,SA overall flag indicating the record is being removed for a quality reason
+QUALITY_SC,SC overall flag indicating the record is being removed for a quality reason
+SARESPSC_FLG,Sample Adult is Sample Child respondent
+INTV_QRT,Interview quarter
+INTV_MON,Interview month
+HH_PCLASS,Household phone classification
+AD_PCLASS,Adult phone classification
+WTIA_PD,Paradata file weight
+HHC_TOD,Time of day that the Household Composition section was started
+STRTPNT,Point in the interview period when the Household Composition section was
+ENDPNT,Point in the interview period when the case was finished
+TELCURWRK_A,House has non-cell phone
+TELCEL_A,Cell phone
+PHONELIVE_A,Cell phone in HH
+PHONEUSE_A,Calls answered
+RLINK_A,Link without SSN/Medicare Numbers
+TELCURWRK_C,Landline phone
+PHONELIVE_C,Working cell phone
+RLINK_C,Link without SSN
+INTLANGSA,Language of SA Interview
+INTRPTSA,Interpreter used in Adult interview
+OTHERSSA,Other people present during Sample Adult interview
+INTLANGSC,Language of SC Interview
+OTHERSSC,Other people present during Sample Child interview
+INTMODESA,Sample Adult section primarily conducted by phone
+INTMODEWHYSA,Main reason primarily conducted by phone
+INTMODESC,Sample Child section primarily conducted by phone
+INTMODEWHYSC,Main reason primarily conducted by phone
+PARWHY,Reason interview not complete
+BRKREASON,Main reason respondent terminated interview
+BRKHHC,Break off in household section
+BRKSA,Break off in Sample Adult section
+BRKSC,Break off in Sample Child section
+NCOMHHC,Household section not complete
+NCOMSA,Sample Adult section not complete
+NCOMSC,Sample child section not complete
+LOCATION01,Location of interview - Inside respondent's home
+LOCATION02,Location of interview - Immediately outside respondent's home
+LOCATION03,Location of interview - Over the telephone
+LOCATION04,Location of interview - Inside interviewer's/respondent's car
+LOCATION05,Location of interview - At respondent's place of work
+LOCATION06,Location of interview - Common area of apartment
+LOCATION07,Location of interview - Public area
+LOCATION08,"Location of interview - In a home of a neighbor, friend, or relative"
+LOCATION09,Location of interview - Other location

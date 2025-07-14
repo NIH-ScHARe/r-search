@@ -1,0 +1,59 @@
+﻿Variable,Description
+   RECTYPE   ,File type identifier
+   SRVY_YR   ,Year of Native Hawaiian and Pacific Islander Survey (NHPI)
+   HHX       ,Household Number
+   FMX       ,Family Number
+   FPX       ,Person Number (Within family)
+   IPEPNO    ,Injury/Poisoning Episode Number
+   WTFA      ,Weight - Final Annual
+   IPDATEM   ,Month of injury/poisoning episode
+   IPDATEY   ,Year of injury/poisoning episode
+   IPDATENO  ,Approximate time since injury/poisoning episode: Number of units
+   IPDATETP  ,Approximate time since injury/poisoning episode: Time period
+   IPDATEMT  ,Approximate point in month of injury/poisoning episode
+   RPD_P     ,Days between the date of injury/poisoning episode and  questions were asked
+   EDIPBR    ,Episode date information reported by the respondent
+   IMPMETH   ,Imputed part of I/P date or elapsed time interval
+   MUMON     ,Imputed month
+   MUYEAR    ,Imputed year
+   ETFLG     ,Elapsed time flag
+   BEIFLG    ,Elapsed time interval boundary flag
+   ICAUS     ,Cause of injury episode
+   ECAUS     ,Cause of injury/poisoning based on E codes
+   IJBODY1   ,Parts of body hurt: 1st body part
+   IJBODY2   ,Parts of body hurt: 2nd body part
+   IJBODY3   ,Parts of body hurt: 3rd body part
+   IJBODY4   ,Parts of body hurt: 4th body part
+   IJTYPE1A  ,How body part 1 was hurt: First response
+   IJTYPE1B  ,How body part 1 was hurt: Second response
+   IJTYPE2A  ,How body part 2 was hurt: First response
+   IJTYPE2B  ,How body part 2 was hurt: Second response
+   IJTYPE3A  ,How body part 3 was hurt: First response
+   IJTYPE3B  ,How body part 3 was hurt: Second response
+   IJTYPE4A  ,How body part 4 was hurt: First response
+   IJTYPE4B  ,How body part 4 was hurt: Second response
+   PPCC      ,Where received medical care: Call to PCC
+   IPEV      ,Where received medical care: Emergency vehicle
+   IPER      ,Where received medical care: Emergency room
+   IPDO      ,Where received medical care: Doctor's office/clinic
+   IPPCHCP   ,Where received medical care: Call to medical prof
+   IPOTH     ,Where received medical care: Any place else
+   IPHOSP    ,Hospitalized overnight due to injury/poisoning episode
+   IPIHNO_P  ,Number of nights in the hospital
+   IMTRAF    ,Traffic-related injury
+   IMVWHO    ,Injured as . . .
+   IMVTYP_P  ,Type of vehicle injured person was in
+   ISBELT    ,Restrained at time of accident
+   IHELMT    ,Wearing a helmet at the time of the accident
+   IFALL1    ,How person fell: First response
+   IFALL2    ,How person fell: Second response
+   IFALLWHY  ,Cause of fall
+   PPOIS_P   ,Cause of poisoning episode
+   IPWHAT1   ,Activity at time of inj/pois episode: First response
+   IPWHAT2   ,Activity at time of inj/pois episode: Second response
+   IPWHER1   ,Location at time of inj/pois episode: First response
+   IPWHER2   ,Location at time of inj/pois episode: Second response
+   IPEMP     ,Employed at the time of the injury/poisoning episode
+   IPWKLS    ,Days of work missed
+   IPSTU     ,Student at the time of the injury/poisoning episode
+   IPSCLS    ,Days of school missed

@@ -1,0 +1,22 @@
+﻿Variable,Description
+Year,Year
+StateAbbr,State abbreviation
+StateDesc,State Name
+LocationName,County name
+DataSource,Data source
+Category,Topic
+Measure,Measure full name
+Data_Value_Unit,"The data value unit, such as ""%"" for percentage"
+Data_Value_Type,"The data type, such as age-adjusted prevalence or crude prevalence"
+Data_Value,"Data Value, such as 14.7"
+Data_Value_Footnote_Symbol,Footnote symbol
+Data_Value_Footnote,Footnote text
+Low_Confidence_Limit,Low confidence limit
+High_Confidence_Limit,High confidence limit
+TotalPopulation,Total population of census 2021 estimates
+LocationID,County FIPS
+CategoryID,Identifier for Topic/Category
+MeasureId,Measure identifier
+DataValueTypeID,Identifier for the data value type
+Short_Question_Text,Measure short name
+Geolocation,Geolocation

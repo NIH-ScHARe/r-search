@@ -1,0 +1,35 @@
+﻿Variable,Description
+YearStart,Starting year
+YearEnd,Ending year
+LocationAbbr,Location abbreviation
+LocationDesc,Location description
+DataSource,Data source abbreviation
+Topic,Topic
+Question,Question full-length text
+Response,Response
+DataValueUnit,"The unit, such as $, %, years, etc."
+DataValueType,"The data type, such as prevalence or mean."
+DataValue,"Data Value, such as 14.7 or Category 1."
+DataValueAlt,"Equal to Data Value, but formatting is numeric."
+DataValueFootnoteSymbol,Footnote symbol
+DataValueFootnote,Footnote text
+LowConfidenceLimit,Low confidence limit
+HighConfidenceLimit,High confidence limit
+StratificationCategory1,"The category of the stratification, such as Gender"
+Stratification1,"The stratification within the category, such as Male or Female"
+StratificationCategory2,"The category of the stratification, such as Gender"
+Stratification2,"The stratification within the category, such as Male or Female"
+StratificationCategory3,"The category of the stratification, such as Gender"
+Stratification3,"The stratification within the category, such as Male or Female"
+Geolocation,Geolocation code for mapping
+LocationID,Location identifier
+TopicID,Topic identifier
+QuestionID,Question identifier
+ResponseID,Identifier for the response
+DataValueTypeID,Identifier for the data value type
+StratificationCategoryID1,Identifier for stratification category 1
+StratificationID1,Identifier for stratification 1
+StratificationCategoryID2,Identifier for stratification category 2
+StratificationID2,Identifier for stratification 2
+StratificationCategoryID3,Identifier for stratification category 3
+StratificationID3,Identifier for stratification 3

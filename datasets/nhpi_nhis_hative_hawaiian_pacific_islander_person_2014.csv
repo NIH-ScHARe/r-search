@@ -1,0 +1,388 @@
+﻿Variable,Description
+   RECTYPE   ,File type identifier
+   SRVY_YR   ,Year of Native Hawaiian and Pacific Islander Survey (NHPI)
+   HHX       ,Household Number
+   FMX       ,Family Number
+   FPX       ,Person Number (Within family)
+   WTFA      ,Weight - Final Annual
+   VAR_STR   ,Pseudo-stratum for variance estimation
+   VAR_PSU   ,Pseudo-PSU for variance estimation
+   SEX       ,Sex
+   ORIGIN_I  ,Hispanic Ethnicity
+   ORIGIMPT  ,Hispanic Origin Imputation Flag
+   HISPAN_I  ,Hispanic subgroup detail
+   HISPIMPT  ,Type of Hispanic Origin Imputation Flag
+   RACERPI2  ,OMB groups w/multiple race
+   RACEIMP2  ,Race Imputation Flag
+   MRACRPI2  ,Race coded to single/multiple race group
+   ERIMPFLG  ,Ethnicity/Race Imputation Flag
+   NHPI_ANY  ,Any mention of NHPI group
+   NOWAF     ,Armed Forces Status
+   RRP       ,Relationship to the HH reference person
+   HHREFLG   ,HH Reference Person Flag
+   FRRP      ,Relationship to family ref. Person
+   DOB_Y_P   ,Year of Birth
+   AGE_P     ,Age
+   AGE_CHG   ,Indication of AGE correction due to data entry error
+   FMRPFLG   ,Family Respondent Flag
+   FMREFLG   ,Family Reference Person Flag
+   MAR_STAT  ,Marital status
+   FSPOUS2   ,Person # of spouse
+   COHAB1    ,Cohabiting person ever married
+   COHAB2N   ,Cohabiting person's current marital status
+   FCOHAB3   ,Person # of partner
+   SIB_DEGN  ,Degree of sibling relationship to HH reference person
+   FMOTHER1  ,Person # of mother
+   MOM_DEGN  ,Type of relationship with Mother
+   FFATHER1  ,Person # of father
+   DAD_DEGN  ,Type of relationship with father
+   PARENTSN  ,Parent(s) present in the family
+   MOM_EDN   ,Education of Mother
+   DAD_EDN   ,Education of Father
+   ASTATFLG  ,Sample Adult Flag
+   CSTATFLG  ,Sample Child Flag
+   QCADULT   ,Quality control flag for sample adult
+   QCCHILD   ,Quality control flag for sample child
+   FDRN_FLG  ,Disability Questions flag
+   PLAPLYLM  ,Is - - limited in kind/amount play?
+   PLAPLYUN  ,Is - - able to play at all?
+   PSPEDEIS  ,Does - - receive Special Education or EIS?
+   PSPEDEM   ,Receive Special Education/EIS due to emotional/behavioral problem
+   PLAADL    ,Does - - need help with personal care?
+   LABATH    ,Does - - need help with bathing/showering?
+   LADRESS   ,Does - - need help dressing?
+   LAEAT     ,Does - - need help eating?
+   LABED     ,Does - - need help in/out of bed or chairs?
+   LATOILT   ,Does - - need help using the toilet?
+   LAHOME    ,Does - - need help to get around in the home?
+   PLAIADL   ,Does - - need help with routine needs?
+   PLAWKNOW  ,Is - - unable to work NOW due to health problem?
+   PLAWKLIM  ,Is - - limited in kind/amount of work?
+   PLAWALK   ,Does - - have difficulty walking without equipment?
+   PLAREMEM  ,Is - - limited by difficulty remembering?
+   PLIMANY   ,Is - - limited in any (other) way?
+   LA1AR     ,"Any limitation - all persons, all conditions"
+   LAHCC1    ,Vision/problem seeing causes limitation
+   LAHCC2    ,Hearing problem causes limitation
+   LAHCC3    ,Speech problem causes limitation
+   LAHCC4    ,Asthma/breathing problem causes limitation
+   LAHCC5    ,Birth defect causes limitation
+   LAHCC6    ,Injury causes limitation
+   LAHCC7A   ,"Intellectual disability, also known as mental retardation causes limitation"
+   LAHCC8    ,"Other developmental problem (e.g., cerebral palsy) causes limitation"
+   LAHCC9    ,"Other mental, emotional, or behavioral problem causes limitation"
+   LAHCC10   ,"Bone, joint, or muscle problem causes limitation"
+   LAHCC11   ,Epilepsy or seizures cause limitation
+   LAHCC12   ,Learning disability causes limitation
+   LAHCC13   ,Attention Deficit/Hyperactivity Disorder (ADD/ADHD) causes limitation
+   LAHCC90   ,Other impairment/problem (1) causes limitation
+   LCCHRC1   ,Vision problem condition status
+   LCCHRC2   ,Hearing problem condition status
+   LCCHRC3   ,Speech problem condition status
+   LCCHRC4   ,Asthma/breathing problem condition status
+   LCCHRC5   ,Birth defect condition status
+   LCCHRC6   ,Injury condition status
+   LCCHRC7A  ,"Intellectual disability, also known as mental retardation condition status"
+   LCCHRC8   ,Other developmental problem condition status
+   LCCHRC9   ,"Other mental, emotional, or behavioral problem condition status"
+   LCCHRC10  ,"Bone, joint, or muscle problem condition status"
+   LCCHRC11  ,Epilepsy or seizures condition status
+   LCCHRC12  ,Learning disability condition status
+   LCCHRC13  ,Attention deficit/hyperactivity disorder (ADD/ADHD) condition status
+   LCCHRC90  ,Other impairment/problem (1) condition status
+   LAHCA1    ,Vision/problem seeing causes limitation
+   LAHCA2    ,Hearing problem causes limitation
+   LAHCA3    ,Arthritis/rheumatism causes limitation
+   LAHCA4    ,Back or neck problem causes limitation
+   LAHCA5    ,"Fracture, bone/joint injury causes limitation"
+   LAHCA6    ,Other injury causes limitation
+   LAHCA7    ,Heart problem causes limitation
+   LAHCA8    ,Stroke problem causes limitation
+   LAHCA9    ,Hypertension/high blood pressure causes limitation
+   LAHCA10   ,Diabetes causes limitation
+   LAHCA11   ,"Lung/breathing problem (e.g., asthma and emphysema) causes limitation"
+   LAHCA12   ,Cancer causes limitation
+   LAHCA13   ,Birth defect causes limitation
+   LAHCA14A  ,"Intellectual disability, also known as mental retardation causes limitation"
+   LAHCA15   ,"Other developmental problem (e.g., cerebral palsy) causes limitation"
+   LAHCA16   ,Senility causes limitation
+   LAHCA17   ,Depression/anxiety/emotional problem causes limitation
+   LAHCA18   ,Weight problem causes limitation
+   LAHCA19_  ,Missing or amputated limb/finger/digit causes limitation
+   LAHCA20_  ,Musculoskeletal/connective tissue problem causes limitation
+   LAHCA21_  ,Circulation problems (including blood clots) cause limitation
+   LAHCA22_  ,Endocrine/nutritional/metabolic problem causes limitation
+   LAHCA23_  ,Nervous system/sensory organ condition causes limitation
+   LAHCA24_  ,Digestive system problem causes limitation
+   LAHCA25_  ,Genitourinary system problem causes limitation
+   LAHCA26_  ,Skin/subcutaneous system problem causes limitation
+   LAHCA27_  ,Blood or blood-forming organ problem causes limitation
+   LAHCA28_  ,Benign tumor/cyst causes limitation
+   LAHCA30_  ,Other mental problem/ADD/bipolar/schizophrenia causes limitation
+   LAHCA31_  ,Surgical after-effects/medical treatment causes limitation
+   LAHCA32_  ,'Old age'/elderly/aging-related problem causes limitation
+   LAHCA33_  ,Fatigue/tiredness/weakness causes limitation
+   LAHCA34_  ,Pregnancy-related problem causes limitation
+   LAHCA90   ,Other impairment/problem (1) causes limitation
+   LACHRC1   ,Vision problem condition status
+   LACHRC2   ,Hearing problem condition status
+   LACHRC3   ,Arthritis/rheumatism condition status
+   LACHRC4   ,Back or neck problem condition status
+   LACHRC5   ,"Fracture, bone/joint injury condition status"
+   LACHRC6   ,Other injury condition status
+   LACHRC7   ,Heart problem condition status
+   LACHRC8   ,Stroke problem condition status
+   LACHRC9   ,Hypertension or high blood pressure condition status
+   LACHRC10  ,Diabetes condition status
+   LACHRC11  ,"Lung or breathing problem (e.g., asthma and emphysema): condition status"
+   LACHRC12  ,Cancer condition status
+   LACHRC13  ,Birth defect condition status
+   LCHRC14A  ,"Intellectual disability, also known as mental retardation condition status"
+   LACHRC15  ,"Other developmental problem (e.g., cerebral palsy) condition status"
+   LACHRC16  ,Senility condition status
+   LACHRC17  ,Depression/anxiety/emotional problem condition status
+   LACHRC18  ,Weight problem condition status
+   LACHRC19  ,"Missing limbs (fingers, toes, or digits); amputation condition status"
+   LACHRC20  ,Musculoskeletal/connective tissue problem condition status
+   LACHRC21  ,Circulation problems (including blood clots) condition status
+   LACHRC22  ,Endocrine/nutritional/metabolic problem condition status
+   LACHRC23  ,Nervous system/sensory organ condition status
+   LACHRC24  ,Digestive system problems condition status
+   LACHRC25  ,Genitourinary system problem condition status
+   LACHRC30  ,Other mental problem/ADD/Bipolar/Schizophrenia condition status
+   LACHRC31  ,Surgical after-effects/medical treatment problems condition status
+   LACHRC32  ,'Old age'/elderly/aging-related problems condition status
+   LACHRC33  ,Fatigue/tiredness/weakness problem condition status
+   LACHRC34  ,Pregnancy-related condition status
+   LACHRC90  ,Other impairment/problem N.E.C. (1) condition status
+   PHSTAT    ,Reported health status
+   PDMED12M  ,"Has medical care been delayed for - - (cost), 12m"
+   PNMED12M  ,"Did - - need and NOT get medical care (cost), 12m"
+   PHOSPYR2  ,"Has - - been in a hospital OVERNIGHT, 12m"
+   HOSPNO_P  ,"Number of times in hospital overnight, 12m"
+   HPNITE_P  ,"Number of nights in hospital, 12m"
+   PHCHM2W   ,"Did - - receive HOME care by health professional, 2 wk"
+   PHCHN2WP  ,"Number of HOME visits by health professional, 2wk"
+   PHCPH2WR  ,"Did--get advice/test results by phone, 2wk"
+   PHCPN2WP  ,"Number of PHONE calls to health professional, 2wk"
+   PHCDV2W   ,"Did - - see health professional in office, etc, 2wk"
+   PHCDN2WP  ,"Number of times VISITED health professional, 2wk"
+   P10DVYR   ,"Did - - receive care 10+ times, 12m"
+   NOTCOV    ,Cov stat as used in Health United States
+   MEDICARE  ,Medicare coverage recode
+   MCPART    ,Type of Medicare coverage
+   MCCHOICE  ,Enrolled in Medicare Advantage Plan
+   MCHMO     ,Is - - signed up with an HMO
+   MCADVR    ,Medicare Advantage Plan
+   MCPREM    ,Premium for Medicare Advantage/ Medicare HMO
+   MCREF     ,Need a referral for special care
+   MCPARTD   ,Medicare Part D
+   MEDICAID  ,Medicaid coverage recode
+   MAFLG     ,Medicaid reassignment flag
+   MACHMD    ,"Any doc, chooses from a list, doc assigned"
+   MXCHNG    ,Medicaid Exchange
+   MEDPREM   ,Medicaid Premium
+   MDPRINC   ,Medicaid Premium based on income
+   MAPCMD    ,Primary care physician for routine care
+   MAREF     ,Need a referral for special care
+   SINGLE    ,Single service plan recode
+   SSTYPEA   ,Accidents
+   SSTYPEB   ,AIDS care
+   SSTYPEC   ,Cancer treatment
+   SSTYPED   ,Catastrophic care
+   SSTYPEE   ,Dental care
+   SSTYPEF   ,Disability insurance
+   SSTYPEG   ,Hospice care
+   SSTYPEH   ,Hospitalization only
+   SSTYPEI   ,Long-term care
+   SSTYPEJ   ,Prescriptions
+   SSTYPEK   ,Vision care
+   SSTYPEL   ,Other
+   PRIVATE   ,Private health insurance recode
+   PRFLG     ,Private reassignment flag
+   EXCHANGE  ,"Plan through Health Insurance Exchange, NCHS algorithm"
+   WHONAM1   ,Plan in whose name (Plan 1)
+   PRPOLH1   ,Relationship to outside policyholder (Plan 1)
+   PRCOOH1   ,Covered persons outside family roster (Plan 1)
+   PRRLOH11  ,"Child, including stepchild (Plan 1)"
+   PRRLOH21  ,Spouse (Plan 1)
+   PRRLOH31  ,Former spouse (Plan 1)
+   PRRLOH41  ,Some other relationship (Plan 1)
+   PLNWRKR1  ,How plan was originally obtained (Plan 1)
+   PLNEXCH1  ,Health Plan obtained through the MarketPlace (Plan 1)
+   EXCHPR1   ,"Exchange company coding, NCHS (Plan 1)"
+   PLNPAY11  ,Paid for by self or family (Plan 1)
+   PLNPAY21  ,Paid for by employer or union (Plan 1)
+   PLNPAY31  ,Paid for by someone outside the household (Plan 1)
+   PLNPAY41  ,Paid for by Medicare (Plan 1)
+   PLNPAY51  ,Paid for by Medicaid (Plan 1)
+   PLNPAY61  ,Paid for by CHIP (Plan 1)
+   PLNPAY71  ,Paid for by government program (Plan 1)
+   PLNPRE1   ,Premium based on income (Plan 1)
+   EMPPAY1   ,Know how much employer or union pays (Plan 1)
+   PLNMGD1   ,Type of private plan (Plan 1)
+   HDHP1     ,High deductible health plan (Plan 1)
+   HSAHRA1   ,Health Savings Accounts/Health Reimbursement Accounts (plan 1)
+   MGCHMD1   ,Doctor choice (Plan 1)
+   MGPRMD1   ,Preferred list (Plan 1)
+   MGPYMD1   ,Out of plan use (Plan 1)
+   MGPREF1   ,Private referral (Plan 1)
+   PCPREQ1   ,Primary care doctor required (Plan 1)
+   PRRXCOV1  ,Prescription drug benefit (Plan 1)
+   PRDNCOV1  ,Dental Coverage (Plan 1)
+   PXCHNG    ,"Marketplace or state exchange, reassigned from public to private"
+   PLEXCHPR  ,"Exchange company coding, NCHS, reassigned from public to private"
+   PSTRFPRM  ,Premium or enrollment fee on plan reassigned from public to private
+   PSSPRINC  ,Premium based on income on plan reassigned from public to private
+   PSTDOC    ,"Any dr, chooses from list, dr assigned on plan reassigned from public to private"
+   PSTCMD    ,"Primary care physician for routine care, plan reassigned from public to private"
+   PSTREF    ,Need referral for special care on plan reassigned from public to private
+   WHONAM2   ,Plan in whose name (Plan 2)
+   PRPOLH2   ,Relationship to outside policyholder (Plan 2)
+   PRCOOH2   ,Covered persons outside family roster (Plan 2)
+   PRRLOH12  ,Child including stepchild (Plan 2)
+   PRRLOH22  ,Spouse (Plan 2)
+   PRRLOH32  ,Former spouse (Plan 2)
+   PLNWK2    ,How plan was originally obtained collapsed (Plan 2)
+   PLNEXCH2  ,Health Plan obtained through the MarketPlace (Plan 2)
+   EXCHPR2R  ,"Exchange company coding, NCHS (Plan 2)"
+   PLNPAY12  ,Paid for by self or family (Plan 2)
+   PLNPAY22  ,Paid for by employer or union (Plan 2)
+   PLNPAY32  ,Paid for by someone outside the household (Plan 2)
+   PLNPRE2   ,Premium based on income (Plan 2)
+   EMPPAY2   ,Know how much employer or union pays (Plan 2)
+   PLNMGD2   ,Type of private plan (plan 2)
+   HDHP2     ,High deductible health plan (Plan 2)
+   HSAHRA2   ,Health Savings Accounts/Health Reimbursement Accounts (plan 2)
+   MGCHMD2   ,Doctor choice (Plan 2)
+   MGPRMD2   ,Preferred list (Plan 2)
+   MGPYMD2   ,Out of plan use (Plan 2)
+   MGPREF2   ,Private referral (Plan 2)
+   PCPREQ2   ,Primary care doctor required (Plan 2)
+   PRRXCOV2  ,Prescription drug benefit (Plan 2)
+   PRDNCOV2  ,Dental Coverage (Plan 2)
+   PRPLPLUS  ,Person has more than two private plans
+   FCOVCONF  ,Obtaining affordable coverage
+   SCHIP     ,SCHIP coverage recode
+   CHFLG     ,CHIP reassignment flag
+   CHXCHNG   ,CHIP Exchange
+   STRFPRM1  ,CHIP Premium
+   CHPRINC   ,CHIP Premium based on income
+   STDOC1    ,"Any doc, chooses from a list, doc assigned (SCHIP)"
+   STPCMD1   ,Primary care physician for routine care (SCHIP)
+   STREF1    ,Need a referral for special care (SCHIP)
+   OTHPUB    ,State-sponsored health plan recode
+   OPFLG     ,Other public reassignment flag
+   OPXCHNG   ,Other state program Exchange
+   PLEXCHOP  ,"Exchange company coding, NCHS (OTHPUB)"
+   STRFPRM2  ,Other state program premium
+   SSPRINC   ,Other state program premium based on income
+   STDOC2    ,"Any doc, chooses from a list, doc assigned (OTHPUB)"
+   STPCMD2   ,Primary care physician for routine care (OTHPUB)
+   STREF2    ,Need a referral for special care (OTHPUB)
+   OTHGOV    ,Other government program recode
+   OGFLG     ,Other government reassignment flag
+   OGXCHNG   ,Other government program Exchange
+   PLEXCHOG  ,"Exchange company coding, NCHS (OTHGOV)"
+   STRFPRM3  ,Other government program Premium
+   OGPRINC   ,Other government program Premium based on income
+   STDOC3    ,"Any doc, chooses from a list, doc assigned (OTHGOV)"
+   STPCMD3   ,Primary care physician for routine care (OTHGOV)
+   STREF3    ,Need a referral for special care (OTHGOV)
+   MILCAREN  ,Military health care coverage collapsed recode
+   MILSPC1   ,TRICARE coverage
+   MILSPC2   ,VA coverage
+   MILSPC3   ,CHAMP-VA coverage
+   MILSPC4   ,Other military coverage
+   MILMANR   ,Type of TRICARE coverage
+   IHS       ,Indian Health Service recode
+   HILAST    ,How long since last had health coverage
+   HISTOP1   ,Lost job or changed employers
+   HISTOP2   ,Divorced/sep/death of spouse or parent
+   HISTOP3   ,Ineligible because of age/left school
+   HISTOP4   ,Employer does not offer/not eligible for cov
+   HISTOP5   ,Cost is too high
+   HISTOP6   ,Insurance company refused coverage
+   HISTOP7   ,Medicaid/medi plan stopped after pregnancy
+   HISTOP8   ,Lost Medicaid/new job/increase in income
+   HISTOP9   ,Lost Medicaid (other)
+   HISTOP10  ,Other
+   HISTOP11  ,Never had health insurance
+   HISTOP12  ,Moved from another county/state/country
+   HISTOP13  ,Self-employed
+   HISTOP14  ,No need for it/chooses not to have
+   HISTOP15  ,Got married
+   HINOTYR   ,No health coverage during past 12 months
+   HINOTMYR  ,Months without coverage in past 12 months
+   FHICHNG   ,Change in coverage in past 12 months
+   FHIKDBA   ,Had private health insurance coverage in the past 12 months
+   FHIKDBB   ,Had Medicare coverage in the past 12 months
+   FHIKDBC   ,Had Medi-Gap coverage in the past 12 months
+   FHIKDBD   ,Had Medicaid coverage in the past 12 months
+   FHIKDBE   ,Had SCHIP coverage in the past 12 months
+   FHIKDBF   ,Had Military health care coverage in the past 12 months
+   FHIKDBG   ,Had Indian Health Service coverage in the past 12 months
+   FHIKDBH   ,Had State-sponsored health plan coverage in the past 12 months
+   FHIKDBI   ,Had Other government program coverage in the past 12 months
+   FHIKDBJ   ,Had Single service plan coverage in the past 12 months
+   FHIKDBK   ,Had no coverage in the past 12 months
+   PWRKBR1   ,How previous private coverage was obtained
+   HCSPFYR   ,Amount family spent for medical care
+   MEDBILL   ,Problems paying medical bills
+   MEDBPAY   ,Medical bills being paid off over time
+   MEDBNOP   ,Unable to pay medical bills
+   FSA       ,Flexible Spending Accounts
+   HIKINDNA  ,Private health insurance
+   HIKINDNB  ,Medicare
+   HIKINDNC  ,Medi-Gap
+   HIKINDND  ,Medicaid
+   HIKINDNE  ,SCHIP
+   HIKINDNF  ,Military health care
+   HIKINDNG  ,Indian Health Service
+   HIKINDNH  ,State-sponsored health plan
+   HIKINDNI  ,Other government plan
+   HIKINDNJ  ,Single service plan
+   HIKINDNK  ,No coverage of any type
+   MCAREPRB  ,Medicare coverage probe
+   MCAIDPRB  ,Medicaid coverage probe
+   SINCOV    ,Single service plan probe
+   PLBORN    ,Born in the United States
+   GEOBRTH   ,Geographic place of birth recode
+   YRSINUSN  ,Years that -- has been in the U.S.
+   CITIZENP  ,U.S. citizenship status
+   HEADST    ,Now attending Head Start
+   HEADSTV1  ,Ever attended Head Start
+   EDUCN     ,Highest level of school completed
+   ARMFEV    ,"Has - - ever served in U.S. Armed Forces, Reserves, or National Guard?"
+   ARMFFC    ,Active duty personnel who served on a humanitarian or peacekeeping mission?
+   DOINGLNP  ,What was - - doing last week
+   WHYNOWNP  ,Main reason for not working last week
+   WRKHRSN   ,Hours worked last week
+   WRKFTALL  ,Usually work full time
+   WRKLYR1   ,Work for pay last year
+   WRKMYRN   ,Months worked last year
+   ERNYR_P   ,Total earnings last year
+   HIEMPOF   ,Health insurance offered at workplace
+   FINCINT   ,Introduction to the family income section
+   PSAL      ,Received income from wages or salary (last CY)
+   PSEINC    ,Received income from self-employment (last CY)
+   PSSRR     ,Received income from Social Security or Railroad Retirement (last CY)
+   PSSRRDB   ,Received Social Security or Railroad Retirement income as a disability benefit
+   PSSRRD    ,Received benefit due to disability
+   PPENS     ,Received income from disability pension exp. Soc Security or Railroad Retirement
+   POPENS    ,Received income from any other pension
+   PSSI      ,Received income from SSI
+   PSSID     ,Received SSI due to disability
+   PTANF     ,"Received income from a state or county welfare program (e.g., TANF)"
+   POWBEN    ,Received other government assistance
+   PINTRSTR  ,Received interest income
+   PDIVD     ,"Received dividends from stocks, funds, etc."
+   PCHLDSP   ,Received income from child support
+   PINCOT    ,Received income from any other source
+   PSSAPL    ,Ever applied for Supplemental Security Income (SSI)
+   PSDAPL    ,Ever applied for Social Security Disability Insurance (SSDI)
+   TANFMYR   ,Months received welfare/TANF (last CY)
+   ELIGPWIC  ,Anyone age-eligible for the WIC program?
+   PWIC      ,Received WIC benefits
+   WIC_FLAG  ,WIC recipient age-eligible
+   ENGLANG   ,How well English is spoken

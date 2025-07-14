@@ -1,0 +1,35 @@
+﻿Variable,Description
+STNAM,State Name
+FIPST[1],The two-digit American National Standards Institute (ANSI) code for state
+LEAID[2],District NCES ID
+LEANM,District Name 
+NCESSCH,School NCES ID (Not in District file)
+SCHNAM,School Name (Not in District file)
+ALL_RLA##numvalid_1314,Total number of students that completed an assessment and for whom a proficiency level was assigned
+ALL_RLA##pctprof_1314,Percentage of students in the school that scored at or above proficient
+MAM_RLA##numvalid_1314,Number of Native American students that completed an assessment and for whom a proficiency level was assigned
+MAM_RLA##pctprof_1314,Percentage of Native American students that scored at or above proficient
+MAS_RLA##numvalid_1314,Number of Asian/Pacific Islander students that completed an assessment and for whom a proficiency level was assigned
+MAS_RLA##pctprof_1314,Percentage of Asian/Pacific Islander students that scored at or above proficient
+MBL_RLA##numvalid_1314,Number of Black students that completed an assessment and for whom a proficiency level was assigned
+MBL_RLA##pctprof_1314,Percentage of Black students that scored at or above proficient
+MHI_RLA##numvalid_1314,Number of Hispanic students that completed an assessment and for whom a proficiency level was assigned
+MHI_RLA##pctprof_1314,Percentage of Hispanic students that scored at or above proficient
+MTR_RLA##numvalid_1314,Number of students with Two or More Races that completed an assessment and for whom a proficiency level was assigned
+MTR_RLA##pctprof_1314,Percentage of students with Two or More Races that scored at or above proficient
+MWH_RLA##numvalid_1314,Number of White students that completed an assessment and for whom a proficiency level was assigned
+MWH_RLA##pctprof_1314,Percentage of White students that scored at or above proficient
+F_RLA##numvalid_1314,Number of female students that completed an assessment and for whom a proficiency level was assigned
+F_RLA##pctprof_1314,Percentage of female students that scored at or above proficient
+M_RLA##numvalid_1314,Number of male students that completed an assessment and for whom a proficiency level was assigned
+M_RLA##pctprof_1314,Percentage of male students that scored at or above proficient
+CWD_RLA##numvalid_1314,Number of children with disabilities that completed an assessment and for whom a proficiency level was assigned
+CWD_RLA##pctprof_1314,Percentage of children with disabilities that scored at or above proficient
+ECD_RLA##numvalid_1314,Number of economically disadvantaged students that completed an assessment and for whom a proficiency level was assigned
+ECD_RLA##pctprof_1314,Percentage of economically disadvantaged students that scored at or above proficient
+LEP_RLA##numvalid_1314,Number of limited English proficient students that completed an assessment and for whom a proficiency level was assigned
+LEP_RLA##pctprof_1314,Percentage of limited English proficient students that scored at or above proficient
+HOM_RLA##numvalid_1314,Number of homeless students that completed an assessment and for whom a proficiency level was assigned
+HOM_RLA##pctprof_1314,Percentage of homeless students that scored at or above proficient
+MIG_RLA##numvalid_1314,Number of migrant students that completed an assessment and for whom a proficiency level was assigned
+MIG_RLA##pctprof_1314,Percentage of migrant students that scored at or above proficient

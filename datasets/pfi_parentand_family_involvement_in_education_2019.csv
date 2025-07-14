@@ -1,0 +1,829 @@
+Variable,Description
+BASMID,Unique child identifier
+ALLGRADEX,Current grade
+EDCPUB,Type of school - Public
+EDCCAT,Type of school - Private catholic
+EDCREL,Type of school - Private religious not catholic
+EDCPRI,Type of school - Private not religious
+EDCINTK12,Type of school - Full time online grade K through 12
+EDCINTCOL,Type of school - Online college or university
+EDCCOL,Type of school - Regular college or university
+EDCHSFL,Type of school - Homeschooled
+HOMESCHLX,Homeschooled for some classes or subjects
+HMSCHARR,Homeschooling arrangement
+HSCOOP,Homeschool instruction by homeschool group
+HSWHOX,Person providing homeschool instruction
+HSTUTOR,Homeschool instruction by tutor
+HSINTNET,Internet homeschool instruction
+ONLNAP,"Online, virtual or cyber enrollment - Advanced placement"
+ONLNSC,"Online, virtual or cyber enrollment - Specialized course"
+ONLNEH,"Online, virtual or cyber enrollment - Extra help"
+ONLNLS,"Online, virtual or cyber enrollment - Learning style"
+ONLNPR,"Online, virtual or cyber enrollment - Prefers online/virtual"
+ONLNHS,"Online, virtual or cyber enrollment - Began homeschooling to enroll in online/virtual"
+ONLNOTH,"Online, virtual or cyber enrollment - Another reason"
+ONLBULLY,"Online, virtual or cyber enrollment - Bullying"
+ONLHLTH,"Online, virtual or cyber enrollment - Physical or mental health problem"
+ONLSPNDS,"Online, virtual or cyber enrollment - Other special needs"
+ONLAVDPUB,"Online, virtual or cyber enrollment - Concerns about public school"
+HSIMPONLI,"Most important reason for online, virtual or cyber enrollment"
+HSINTPUB,Homeschool online instruction provided by - Local public school
+HSINTPRI,Homeschool online instruction provided by - Private school
+HSINTCOL,Homeschool online instruction provided by - College
+HSINTVRT,Homeschool online instruction provided by - Online academy instruction
+HSINTCMP,Homeschool online instruction provided by - Courses purchased online
+HSINTK12,Homeschool online instruction provided by - K-12 public or private school
+HSINTIND,Homeschool online instruction provided by - Independent instructor
+HSINTOH,Homeschool online instruction provided by - Someplace else
+HSINTNUM,Total online courses
+HSINTFEE,Total tuition for online courses
+HSINTHRS,Homeschooling hours spent online
+HSSTYL,Homeschool teaching style
+HSKACTIV,Participated in activities while homeschooled
+HSINTLIB,"Online, virtual or cyber resources - Public library resource"
+HSINTCAT,"Online, virtual or cyber resources - Specialized provider of homeschooling materials"
+HSINTREL,"Online, virtual or cyber resources - Affiliated with a particular religion"
+HSINTSCH,"Online, virtual or cyber resources - Local public school or school district"
+HSINTFRWB,"Online, virtual or cyber resources - Free website"
+HSINTWEB,"Online, virtual or cyber resources - Cyber educational resources"
+HSINTOTH,"Online, virtual or cyber resources - Other sources"
+HSCLIBRX,Homeschool physical curriculum source - Library
+HSCHSPUBX,Homeschool physical curriculum source - Homeschool catalog
+HSCHSRELX,Homeschool physical curriculum source - Catalog affiliation
+HSCPUBLX,Homeschool physical curriculum source - Public school or district
+HSCCNVX,Homeschool physical curriculum source - Homeschooling convention
+HSCEVTX,Homeschool physical curriculum source - Curriculum swap or exchange
+HSCFMLY,Homeschool physical curriculum source - Other homeschool families
+HSCOTH,Homeschool physical curriculum source - Other source
+HSCOURS,Courses online or in person
+HOMEKX,Homeschooled in kindergarten
+HOME1,Homeschooled in first grade
+HOME2,Homeschooled in second grade
+HOME3,Homeschooled in third grade
+HOME4,Homeschooled in fourth grade
+HOME5,Homeschooled in fifth grade
+HOME6,Homeschooled in sixth grade
+HOME7,Homeschooled in seventh grade
+HOME8,Homeschooled in eighth grade
+HOME9,Homeschooled in ninth grade
+HOME10,Homeschooled in tenth grade
+HOME11,Homeschooled in eleventh grade
+HOME12,Homeschooled in twelfth grade
+HSSAFETYX,Reason to homeschool - School environment
+HSDISSATX,Reason to homeschool - Dissatisfied with instruction
+HSRELGON,Reason to homeschool - Religious instruction
+HSMORAL,Reason to homeschool - Moral instruction
+HSDISABLX,Reason to homeschool - Health problem
+HSILLX,Reason to homeschool - Temporary illness
+HSSPCLNDX,Reason to homeschool - Special needs
+HSALTX,Reason to homeschool - Nontraditional education
+HSFMLY,Reason to homeschool - Emphasize family life together
+HSOTHERX,Reason to homeschool - Other
+HSBULLY,Reason to homeschool - Bullying
+HSMOSTX,Most important reason to homeschool
+HSSUBJ1,1st home instruction subject area
+HSSUBJ2,2nd home instruction subject area
+HSSUBJ3,3rd home instruction subject area
+HSSUBJ4,4th home instruction subject area
+HSSUBJ5,5th home instruction subject area
+HSSUBJ6,6th home instruction subject area
+HSSUBJ7,7th home instruction subject area
+HSSUBJ8,8th home instruction subject area
+HSSUBJ9,9th home instruction subject area
+HSSUBJ10,10th home instruction subject area
+HSASSNX,Participate in homeschool activities
+HSFREQX,Participate in homeschool activities - times
+HSNATL,Member of homeschool organization
+HSMLTY,Military family that frequently relocates
+HSENRL,Homeschooled child enrolled in school
+DISTASSI,District-assigned school
+SCHRTSCHL,Charter school
+SCHLMAGNET,Magnet school
+SNEIGHBRX,Moved to attend school
+SCCHOICE,Choice in school attendance
+SPUBCHOIX,District allows school choice
+SCONSIDR,Other schools considered
+LOCALE,Reason for choosing school - Convenient location
+SCHLSAFETY,Reason for choosing school - Safety
+SCHLSTFQUALITY,Reason for choosing school - Quality of staff
+AVAILCOURSE,Reason for choosing school - Curriculum focus
+XTRACURRIC,Reason for choosing school - Extracurricular options
+STUDNTCHAR,Reason for choosing school - Student body characteristics
+STUDNTPERFORM,Reason for choosing school - Academic performance of student
+RELIGSOR,Reason for choosing school - Religious orientation
+SPECALEDSERVS,Reason for choosing school - Quality or availability of special education
+SPECALFACILTS,Reason for choosing school - Special facilities
+CLSSIZE,Reason for choosing school - Number of students in class
+SCHLCOST,Reason for choosing school - Cost
+FINDSCHL,Finding school - In my neighborhood
+FINDFRND,Finding school - Friend
+FINDFAM,Finding school - Family member
+FINDNEWS,Finding school - Newspaper or magazine articles
+FINDRPT,Finding school - State report cards
+FINDWEB,Finding school - School ratings website
+FINDADS,Finding school - Advertisements
+FINDFLY,Finding school - Flier
+FINDSTF,Finding school - School or district staff
+FINDCHRC,Finding school - Church
+FINDOTH,Finding school - Other reason
+S1STCHOI,First choice school
+SSAMSC,Same school since beginning of school year
+SCHLHRSWK,Hours attend school each week
+EINTNET,"Child enrolled in online, virtual or cyber courses"
+ADVCCRSE,"Online, virtual or cyber enrollment - Advanced Placement or college courses"
+SPCLCRSE,"Online, virtual or cyber enrollment - Specialized courses"
+MKUPCRSE,"Online, virtual or cyber enrollment - Make up course"
+ADDCRSE,"Online, virtual or cyber enrollment - Earn additional credits"
+HELP,"Online, virtual or cyber enrollment - Extra help in a course or subject"
+CONFLCT,"Online, virtual or cyber enrollment - Schedule conflict with the in-person courses"
+DISABLX,"Online, virtual or cyber enrollment - Physical or mental health problem"
+TEMPILL,"Online, virtual or cyber enrollment - Temporary illness"
+SPCLND,"Online, virtual or cyber enrollment - Other special needs"
+LRNSTYLE,"Online, virtual or cyber enrollment - Learning style"
+NOCHOICE,"Online, virtual or cyber enrollment - Was required"
+SCHLPLCE,"Online, virtual or cyber enrollment - School placement in online course"
+ONLINEPREF,"Online, virtual or cyber enrollment - Online course preference"
+ONLINEOTH,"Online, virtual or cyber enrollment - Other reason"
+MOSTIMPT,"Most important reason for online, virtual or cyber enrollment"
+SPBSCH,"Online, virtual, or cyber instruction - Public school instruction"
+SPRIVT,"Online, virtual, or cyber instruction - Private school instruction"
+SUNIVSCH,"Online, virtual, or cyber instruction - Community college/university instruction"
+SCYBER,"Online, virtual, or cyber instruction - Online academy instruction"
+SCOMPANY,"Online, virtual, or cyber instruction - Courses purchased for instruction"
+SOTHRSCH,"Online, virtual, or cyber instruction - Another K-12 public or private school"
+STUTR,"Online, virtual, or cyber instruction - Independent instructor"
+SOTHSCH,"Online, virtual, or cyber instruction - Instruction from someplace else"
+INTNUM,Number of online courses
+SINSTFEE,Total tuition for online courses
+INTHRS,Virtual/cyber instruction hours spent online
+SEENJOY,Child enjoyment of school
+SEGRADES,Child’s grades
+SEADPLCXX,Advanced placement enrollment
+SEBEHAVX,Times contacted about behavior problems
+SESCHWRK,Times contacted about problems with school work
+SEGBEHAV,Times contacted about very good behavior
+SEGWORK,Times contacted about very good school work
+SEABSNT,Days absent
+SEREPEAT,Whether grades repeated
+SEREPTK,Which grades repeated - Kindergarten
+SEREPT1,Which grades repeated - 1st grade
+SEREPT2,Which grades repeated - 2nd grade
+SEREPT3,Which grades repeated - 3rd grade
+SEREPT4,Which grades repeated - 4th grade
+SEREPT5,Which grades repeated - 5th grade
+SEREPT6,Which grades repeated - 6th grade
+SEREPT7,Which grades repeated - 7th grade
+SEREPT8,Which grades repeated - 8th grade
+SEREPT9,Which grades repeated - 9th grade
+SEREPT10,Which grades repeated - 10th grade
+SEREPT11,Which grades repeated - 11th grade
+SEREPT12,Which grades repeated - 12th grade
+SESUSOUT,Out of school suspension
+SESUSPIN,In school suspension
+SEEXPEL,Expelled
+SEGRADEQ,Description of school work
+FSSPORTX,Participation in school activities - Attend a school event
+FSVOL,Participation in school activities - Serve as a volunteer
+FSMTNG,Participation in school activities - Attend a school meeting
+FSPTMTNG,Participation in school activities - Attend a parent - teacher organization meeting
+FSATCNFN,Participation in school activities - Attend parent - teacher conference
+FSFUNDRS,Participation in school activities - Participate in fundraising
+FSCOMMTE,Participation in school activities - Serve on school committee
+FSCOUNSLR,Participation in school activities - Meet with guidance counselor
+FSFREQ,Times participated in school meetings
+FSNOTESX,School communication - Receive notes or emails
+FSMEMO,School communication - Receive newsletters
+FSPHONCHX,School communication - Receive phone calls
+FSSPPERF,School provides child progress between report cards
+FSSPHW,School provides information on homework help
+FSSPCOUR,School provides information on class placement
+FSSPROLE,School provides information on your expected role
+FSSPCOLL,School provides information on college
+FCSCHOOL,Satisfaction with school
+FCTEACHR,Satisfaction with teachers
+FCSTDS,Satisfaction with academic standards
+FCORDER,Satisfaction with discipline
+FCSUPPRT,Satisfaction with school staff/parent interaction
+FHHOME,Days spent doing homework
+FHWKHRS,Hours spent doing homework
+FHAMOUNT,Adult’s feelings about amount of homework
+FHCAMT,Child’s feelings about amount of homework
+FHPLACE,Place at home to do homework
+FHCHECKX,Check for homework completion
+FHHELP,Days help with homework
+FOSTORY2X,"In the past week, child has been told a story"
+FOCRAFTS,"In the past week, spent time on arts and crafts"
+FOGAMES,"In the past week, played board games"
+FOBUILDX,"In the past week, worked on a project"
+FOSPORT,"In the past week, spent time playing sports"
+FORESPON,"In the past week, discussed time management"
+FOHISTX,"In the past week, discussed ethnic heritage"
+FODINNERX,Eaten the evening meal together in the past week
+FOLIBRAYX,Visited a library in the past month
+FOBOOKSTX,Visited a bookstore in the past month
+FOCONCRTX,Gone to a play in the past month
+FOMUSEUMX,Visited an art gallery in the past month
+FOZOOX,Visited a zoo in the past month
+FOGROUPX,Attended a religious event in the past month
+FOSPRTEVX,Attended a sporting event in the past month
+HDHEALTH,Health of child
+HDINTDIS,Intellectual disability
+HDSPEECHX,Speech or language impairment
+HDDISTRBX,Serious emotional disturbance
+HDDEAFIMX,Deafness or another hearing impairment
+HDBLINDX,Blindness or another visual impairment
+HDORTHOX,Orthopedic impairment
+HDAUTISMX,Autism
+HDPDDX,Pervasive Developmental Disorder
+HDADDX,Attention Deficit Disorder
+HDLEARNX,Learning disability
+HDDELAYX,Developmental delay
+HDTRBRAIN,Traumatic brain injury
+HDOTHERX,Another health impairment
+HDIEPX,Services provided by IEP
+HDCOMMUX,Satisfaction with service provider communication
+HDSPCLED,Enrollment in special education classes
+HDLEARN,Condition interferes with learning
+HDPLAY,Condition interferes with participation in sports
+HDOUT,Condition interferes with attending school regularly
+HDFRNDS,Condition interferes with making friends
+CDOBMM,Month child born
+CDOBYY,Year child born
+CPLCBRTH,Country where child born
+CMOVEAGE,Age of child when first moved to US
+CHISPAN,"Child of Spanish, Hispanic, or Latino origin"
+CAMIND,Child Race - American Indian or Alaska Native
+CASIAN,Child Race - Asian
+CBLACK,Child Race - Black or African American
+CPACI,Child Race - Native Hawaiian or other Pacific Islander
+CWHITE,Child Race - White
+CHISPRM,"Child Race - Hispanic, race not reported"
+CSEX,Child sex
+CLIVYN,Child lives at another address
+CLIVELSWX,Address where child spends most time
+CSPEAKX,Language spoken by child at home
+CENGLPRG,Enrolled in language program
+HHTOTALXX,Total people in household
+HHBROSX,Brothers
+HHSISSX,Sisters
+HHMOM,Mothers
+HHDAD,Fathers
+HHAUNTSX,Aunts
+HHUNCLSX,Uncles
+HHGMASX,Grandmothers
+HHGPASX,Grandfathers
+HHCSNSX,Cousins
+HHPRTNRSX,Parent’s girlfriend/boyfriend/partner
+HHORELSX,Other relatives
+HHONRELSX,Other non - relatives
+RELATION,Relation to child
+HHENGLISH,Language spoken at home - English
+HHSPANISH,Language spoken at home - Spanish
+HHFRENCH,Language spoken at home - French
+HHCHINESE,Language spoken at home - Chinese
+HHOTHLANG,Language spoken at home - Other
+P1REL,Relation of first parent/guardian to child
+P1SEX,First parent/guardian sex
+P1MRSTA,First parent/guardian marital status
+P1BFGF,First parent/guardian living with partner
+P1FRLNG,First parent/guardian first language
+P1SPEAK,Language spoken most often at home by first parent/guardian
+P1DIFFI,First parent/guardian difficulty participating in child’s school due to language
+P1SCINT,Interpreters at school for first parent/guardian
+P1WRMTL,Written materials at school in first parent/guardian native language
+P1PLCBRTH,First parent/guardian born in U.S
+P1AGEMV,Age of first parent/guardian when first moved to US
+P1HISPAN,"First parent/guardian of Spanish, Hispanic, or Latino origin"
+P1AMIND,First parent/guardian race - American Indian or Alaska Native
+P1ASIAN,First parent/guardian race - Asian
+P1BLACK,First parent/guardian race - Black or African American
+P1PACI,First parent/guardian race - Native Hawaiian or other Pacific Islander
+P1WHITE,First parent/guardian race - White
+P1HISPRM,"First parent/guardian race - Hispanic, race not reported"
+P1EDUC,First parent/guardian highest grade level completed
+P1ENRL,First parent/guardian attending school
+P1EMPL,First parent/guardian employment status
+P1HRSWK,First parent/guardian hours worked per week
+P1LKWRK,First parent/guardian looking for work
+P1MTHSWRK,First parent/guardian months worked
+P1AGE,First parent/guardian age
+P2GUARD,Second parent/guardian
+P2REL,Relation of second parent/guardian to child
+P2SEX,Second parent/guardian sex
+P2MRSTA,Second parent/guardian marital status
+P2BFGF,Second parent/guardian living with partner
+P2FRLNG,Second parent/guardian first language
+P2SPEAK,Language spoken most often at home by second parent/guardian
+P2DIFFI,Second parent/guardian difficulty participating in child’s school due to language
+P2SCINT,Interpreters at school for second parent/guardian
+P2WRMTL,Written materials at school in second parent/guardian native language
+P2PLCBRTH,Second parent/guardian born in U.S.
+P2AGEMV,Age of second parent/guardian when first moved to US
+P2HISPAN,"Second parent/guardian of Spanish, Hispanic, or Latino origin"
+P2AMIND,Second parent/guardian race - American Indian or Alaska Native
+P2ASIAN,Second parent/guardian race - Asian
+P2BLACK,Second parent/guardian race - Black or African American
+P2PACI,Second parent/guardian race - Native Hawaiian or other Pacific Islander
+P2WHITE,Second parent/guardian race - White
+P2HISPRM,"Second parent/guardian race - Hispanic, race not reported"
+P2EDUC,Second parent/guardian highest grade level completed
+P2ENRL,Second parent/guardian attending school
+P2EMPL,Second parent/guardian employment status
+P2HRSWK,Second parent/guardian hours worked per week
+P2LKWRK,Second parent/guardian looking for work
+P2MTHSWRK,Second parent/guardian months worked
+P2AGE,Second parent/guardian age
+HWELFTANST,Received TANF in past 12 months
+HWIC,Received WIC in past 12 months
+HFOODST,Received food stamps in past 12 months
+HMEDICAID,Received Medicaid in past 12 months
+HCHIP,Received CHIP in past 12 months
+HSECN8,Received Section 8 in past 12 months
+TTLHHINC,Total income
+OWNRNTHB,Own/rent house
+HVINTSPHO,Internet access on cell phone
+HVINTCOM,Internet access on computer or tablet
+CHLDNT,Child use of internet for learning at home
+LRNCOMP,Learning activities on computer
+LRNTAB,Learning activities on tablet
+LRNCELL,Learning activities on cell phone
+SEFUTUREX,Expectations for child’s future education
+DSBLTY,D - Child currently has disability
+PAR1EDUC,D - Educational attainment of child’s first parent or guardian
+PAR1EMPL,D - Work status of child’s first parent or guardian
+PAR1FTFY,D - First parent or guardian works full time
+PAR1MARST,D - First parent or guardian marital status
+PAR1TYPE,D - Specific relationship of first parent or guardian to child
+PAR1FSTGN,D - First parent or guardian first generation immigrant status
+PAR2EDUC,D - Educational attainment of child’s second parent or guardian
+PAR2EMPL,D - Work status of child’s second parent or guardian
+PAR2FTFY,D - Second parent or guardian works full time
+PAR2MARST,D - Second parent or guardian marital status
+PAR2TYPE,D - Specific relationship of second parent or guardian to child
+PAR2FSTGN,D - Second parent or guardian first generation immigrant status
+HHPARN19X,D - Parental structure of household
+HHPARN19_BRD,D - Household has second parent or guardian
+NUMSIBSX,D - Number of child’s siblings
+FAMILY19X,D - Family type with parents
+FAMILY19_BRD,D - Family type with adults
+HHUNDR6X,D - Number of children younger than age 6
+HHUNDR10X,D - Number of children younger than age 10
+HHUNDR16X,D - Number of children younger than age 16
+HHUNDR18X,D - Number of children younger than age 18
+HHUNID,"D - Other household member, not identified"
+LANGUAGEX,D - English spoken most by parents
+PARGRADEX,D - Parent/guardian highest education
+RACEETH,D - Race and ethnicity of child
+RACEETH2,D - Detailed race and ethnicity of child
+INTACC,D - Household has internet access
+CENREG,D - Census region where child lives
+ZIP18PO2,D - Percent of families in zip code with children under 18 below the poverty line
+ZIPBLHI2,D - Percent of persons in zip code who were Black or Hispanic
+ZIPLOCL,D - Zip code classification by community type
+S19CHART,"D - School charter, magnet/regular public, other on CCD"
+S19NUMST,D - Total school enrollment of students on CCD/PSS
+S19PBPV,D - School is public or private on CCD/PSS
+S19TYPE,D - Type of school on CCD/PSS
+SCHLGRAD,D - Child’s school level classification on CCD/PSS
+ENGLSPANX,D - Questionnaire in English or Spanish
+AGE2018,"D - Age of child as of Dec 31, 2018"
+MODECOMP,D - Completed on web or paper
+CHAGE1,D - Age of 1st nonsampled child
+CHAGE2,D - Age of 2nd nonsampled child
+CHAGE3,D - Age of 3rd nonsampled child
+CHAGE4,D - Age of 4th nonsampled child
+CHSEX1,D - Sex of 1st nonsampled child
+CHSEX2,D - Sex of 2nd nonsampled child
+CHSEX3,D - Sex of 3rd nonsampled child
+CHSEX4,D - Sex of 4th nonsampled child
+CHENRL1,D - Enrollment status of 1st nonsampled child
+CHENRL2,D - Enrollment status of 2nd nonsampled child
+CHENRL3,D - Enrollment status of 3rd nonsampled child
+CHENRL4,D - Enrollment status of 4th nonsampled child
+CHGRD1,D - Grade of 1st nonsampled child
+CHGRD2,D - Grade of 2nd nonsampled child
+CHGRD3,D - Grade of 3rd nonsampled child
+CHGRD4,D - Grade of 4th nonsampled child
+PPSU,PSU FOR TAYLOR SERIES VAR EST
+PSTRATUM,STRATUM FOR TAYLOR SERIES VAR EST
+FPWT,FINAL INTV WEIGHT
+FPWT1,"FINAL INTV REPLICATE WEIGHT, FPWT1"
+FPWT2,"FINAL INTV REPLICATE WEIGHT, FPWT2"
+FPWT3,"FINAL INTV REPLICATE WEIGHT, FPWT3"
+FPWT4,"FINAL INTV REPLICATE WEIGHT, FPWT4"
+FPWT5,"FINAL INTV REPLICATE WEIGHT, FPWT5"
+FPWT6,"FINAL INTV REPLICATE WEIGHT, FPWT6"
+FPWT7,"FINAL INTV REPLICATE WEIGHT, FPWT7"
+FPWT8,"FINAL INTV REPLICATE WEIGHT, FPWT8"
+FPWT9,"FINAL INTV REPLICATE WEIGHT, FPWT9"
+FPWT10,"FINAL INTV REPLICATE WEIGHT, FPWT10"
+FPWT11,"FINAL INTV REPLICATE WEIGHT, FPWT11"
+FPWT12,"FINAL INTV REPLICATE WEIGHT, FPWT12"
+FPWT13,"FINAL INTV REPLICATE WEIGHT, FPWT13"
+FPWT14,"FINAL INTV REPLICATE WEIGHT, FPWT14"
+FPWT15,"FINAL INTV REPLICATE WEIGHT, FPWT15"
+FPWT16,"FINAL INTV REPLICATE WEIGHT, FPWT16"
+FPWT17,"FINAL INTV REPLICATE WEIGHT, FPWT17"
+FPWT18,"FINAL INTV REPLICATE WEIGHT, FPWT18"
+FPWT19,"FINAL INTV REPLICATE WEIGHT, FPWT19"
+FPWT20,"FINAL INTV REPLICATE WEIGHT, FPWT20"
+FPWT21,"FINAL INTV REPLICATE WEIGHT, FPWT21"
+FPWT22,"FINAL INTV REPLICATE WEIGHT, FPWT22"
+FPWT23,"FINAL INTV REPLICATE WEIGHT, FPWT23"
+FPWT24,"FINAL INTV REPLICATE WEIGHT, FPWT24"
+FPWT25,"FINAL INTV REPLICATE WEIGHT, FPWT25"
+FPWT26,"FINAL INTV REPLICATE WEIGHT, FPWT26"
+FPWT27,"FINAL INTV REPLICATE WEIGHT, FPWT27"
+FPWT28,"FINAL INTV REPLICATE WEIGHT, FPWT28"
+FPWT29,"FINAL INTV REPLICATE WEIGHT, FPWT29"
+FPWT30,"FINAL INTV REPLICATE WEIGHT, FPWT30"
+FPWT31,"FINAL INTV REPLICATE WEIGHT, FPWT31"
+FPWT32,"FINAL INTV REPLICATE WEIGHT, FPWT32"
+FPWT33,"FINAL INTV REPLICATE WEIGHT, FPWT33"
+FPWT34,"FINAL INTV REPLICATE WEIGHT, FPWT34"
+FPWT35,"FINAL INTV REPLICATE WEIGHT, FPWT35"
+FPWT36,"FINAL INTV REPLICATE WEIGHT, FPWT36"
+FPWT37,"FINAL INTV REPLICATE WEIGHT, FPWT37"
+FPWT38,"FINAL INTV REPLICATE WEIGHT, FPWT38"
+FPWT39,"FINAL INTV REPLICATE WEIGHT, FPWT39"
+FPWT40,"FINAL INTV REPLICATE WEIGHT, FPWT40"
+FPWT41,"FINAL INTV REPLICATE WEIGHT, FPWT41"
+FPWT42,"FINAL INTV REPLICATE WEIGHT, FPWT42"
+FPWT43,"FINAL INTV REPLICATE WEIGHT, FPWT43"
+FPWT44,"FINAL INTV REPLICATE WEIGHT, FPWT44"
+FPWT45,"FINAL INTV REPLICATE WEIGHT, FPWT45"
+FPWT46,"FINAL INTV REPLICATE WEIGHT, FPWT46"
+FPWT47,"FINAL INTV REPLICATE WEIGHT, FPWT47"
+FPWT48,"FINAL INTV REPLICATE WEIGHT, FPWT48"
+FPWT49,"FINAL INTV REPLICATE WEIGHT, FPWT49"
+FPWT50,"FINAL INTV REPLICATE WEIGHT, FPWT50"
+FPWT51,"FINAL INTV REPLICATE WEIGHT, FPWT51"
+FPWT52,"FINAL INTV REPLICATE WEIGHT, FPWT52"
+FPWT53,"FINAL INTV REPLICATE WEIGHT, FPWT53"
+FPWT54,"FINAL INTV REPLICATE WEIGHT, FPWT54"
+FPWT55,"FINAL INTV REPLICATE WEIGHT, FPWT55"
+FPWT56,"FINAL INTV REPLICATE WEIGHT, FPWT56"
+FPWT57,"FINAL INTV REPLICATE WEIGHT, FPWT57"
+FPWT58,"FINAL INTV REPLICATE WEIGHT, FPWT58"
+FPWT59,"FINAL INTV REPLICATE WEIGHT, FPWT59"
+FPWT60,"FINAL INTV REPLICATE WEIGHT, FPWT60"
+FPWT61,"FINAL INTV REPLICATE WEIGHT, FPWT61"
+FPWT62,"FINAL INTV REPLICATE WEIGHT, FPWT62"
+FPWT63,"FINAL INTV REPLICATE WEIGHT, FPWT63"
+FPWT64,"FINAL INTV REPLICATE WEIGHT, FPWT64"
+FPWT65,"FINAL INTV REPLICATE WEIGHT, FPWT65"
+FPWT66,"FINAL INTV REPLICATE WEIGHT, FPWT66"
+FPWT67,"FINAL INTV REPLICATE WEIGHT, FPWT67"
+FPWT68,"FINAL INTV REPLICATE WEIGHT, FPWT68"
+FPWT69,"FINAL INTV REPLICATE WEIGHT, FPWT69"
+FPWT70,"FINAL INTV REPLICATE WEIGHT, FPWT70"
+FPWT71,"FINAL INTV REPLICATE WEIGHT, FPWT71"
+FPWT72,"FINAL INTV REPLICATE WEIGHT, FPWT72"
+FPWT73,"FINAL INTV REPLICATE WEIGHT, FPWT73"
+FPWT74,"FINAL INTV REPLICATE WEIGHT, FPWT74"
+FPWT75,"FINAL INTV REPLICATE WEIGHT, FPWT75"
+FPWT76,"FINAL INTV REPLICATE WEIGHT, FPWT76"
+FPWT77,"FINAL INTV REPLICATE WEIGHT, FPWT77"
+FPWT78,"FINAL INTV REPLICATE WEIGHT, FPWT78"
+FPWT79,"FINAL INTV REPLICATE WEIGHT, FPWT79"
+FPWT80,"FINAL INTV REPLICATE WEIGHT, FPWT80"
+F_ALLGRADEX,Imputation flag for ALLGRADEX
+F_EDCPUB,Imputation flag for EDCPUB
+F_EDCCAT,Imputation flag for EDCCAT
+F_EDCREL,Imputation flag for EDCREL
+F_EDCPRI,Imputation flag for EDCPRI
+F_EDCINTK12,Imputation flag for EDCINTK12
+F_EDCINTCOL,Imputation flag for EDCINTCOL
+F_EDCCOL,Imputation flag for EDCCOL
+F_EDCHSFL,Imputation flag for EDCHSFL
+F_HOMESCHLX,Imputation flag for HOMESCHLX
+F_HMSCHARR,Imputation flag for HMSCHARR
+F_HSCOOP,Imputation flag for HSCOOP
+F_HSWHOX,Imputation flag for HSWHOX
+F_HSTUTOR,Imputation flag for HSTUTOR
+F_HSINTNET,Imputation flag for HSINTNET
+F_ONLNAP,Imputation flag for ONLNAP
+F_ONLNSC,Imputation flag for ONLNSC
+F_ONLNEH,Imputation flag for ONLNEH
+F_ONLNLS,Imputation flag for ONLNLS
+F_ONLNPR,Imputation flag for ONLNPR
+F_ONLNHS,Imputation flag for ONLNHS
+F_ONLNOTH,Imputation flag for ONLNOTH
+F_ONLBULLY,Imputation flag for ONLBULLY
+F_ONLHLTH,Imputation flag for ONLHLTH
+F_ONLSPNDS,Imputation flag for ONLSPNDS
+F_ONLAVDPUB,Imputation flag for ONLAVDPUB
+F_HSIMPONLI,Imputation flag for HSIMPONLI
+F_HSINTPUB,Imputation flag for HSINTPUB
+F_HSINTPRI,Imputation flag for HSINTPRI
+F_HSINTCOL,Imputation flag for HSINTCOL
+F_HSINTVRT,Imputation flag for HSINTVRT
+F_HSINTCMP,Imputation flag for HSINTCMP
+F_HSINTK12,Imputation flag for HSINTK12
+F_HSINTIND,Imputation flag for HSINTIND
+F_HSINTOH,Imputation flag for HSINTOH
+F_HSINTNUM,Imputation flag for HSINTNUM
+F_HSINTFEE,Imputation flag for HSINTFEE
+F_HSINTHRS,Imputation flag for HSINTHRS
+F_HSSTYL,Imputation flag for HSSTYL
+F_HSKACTIV,Imputation flag for HSKACTIV
+F_HSINTLIB,Imputation flag for HSINTLIB
+F_HSINTCAT,Imputation flag for HSINTCAT
+F_HSINTREL,Imputation flag for HSINTREL
+F_HSINTSCH,Imputation flag for HSINTSCH
+F_HSINTFRWB,Imputation flag for HSINTFRWB
+F_HSINTWEB,Imputation flag for HSINTWEB
+F_HSINTOTH,Imputation flag for HSINTOTH
+F_HSCLIBRX,Imputation flag for HSCLIBRX
+F_HSCHSPUBX,Imputation flag for HSCHSPUBX
+F_HSCHSRELX,Imputation flag for HSCHSRELX
+F_HSCPUBLX,Imputation flag for HSCPUBLX
+F_HSCCNVX,Imputation flag for HSCCNVX
+F_HSCEVTX,Imputation flag for HSCEVTX
+F_HSCFMLY,Imputation flag for HSCFMLY
+F_HSCOTH,Imputation flag for HSCOTH
+F_HSCOURS,Imputation flag for HSCOURS
+F_HOMEKX,Imputation flag for HOMEKX
+F_HOME1,Imputation flag for HOME1
+F_HOME2,Imputation flag for HOME2
+F_HOME3,Imputation flag for HOME3
+F_HOME4,Imputation flag for HOME4
+F_HOME5,Imputation flag for HOME5
+F_HOME6,Imputation flag for HOME6
+F_HOME7,Imputation flag for HOME7
+F_HOME8,Imputation flag for HOME8
+F_HOME9,Imputation flag for HOME9
+F_HOME10,Imputation flag for HOME10
+F_HOME11,Imputation flag for HOME11
+F_HOME12,Imputation flag for HOME12
+F_HSSAFETYX,Imputation flag for HSSAFETYX
+F_HSDISSATX,Imputation flag for HSDISSATX
+F_HSRELGON,Imputation flag for HSRELGON
+F_HSMORAL,Imputation flag for HSMORAL
+F_HSDISABLX,Imputation flag for HSDISABLX
+F_HSILLX,Imputation flag for HSILLX
+F_HSSPCLNDX,Imputation flag for HSSPCLNDX
+F_HSALTX,Imputation flag for HSALTX
+F_HSFMLY,Imputation flag for HSFMLY
+F_HSOTHERX,Imputation flag for HSOTHERX
+F_HSBULLY,Imputation flag for HSBULLY
+F_HSMOSTX,Imputation flag for HSMOSTX
+F_HSASSNX,Imputation flag for HSASSNX
+F_HSFREQX,Imputation flag for HSFREQX
+F_HSNATL,Imputation flag for HSNATL
+F_HSMLTY,Imputation flag for HSMLTY
+F_HSENRL,Imputation flag for HSENRL
+F_DISTASSI,Imputation flag for DISTASSI
+F_SCHRTSCHL,Imputation flag for SCHRTSCHL
+F_SCHLMAGNET,Imputation flag for SCHLMAGNET
+F_SNEIGHBRX,Imputation flag for SNEIGHBRX
+F_SCCHOICE,Imputation flag for SCCHOICE
+F_SPUBCHOIX,Imputation flag for SPUBCHOIX
+F_SCONSIDR,Imputation flag for SCONSIDR
+F_LOCALE,Imputation flag for LOCALE
+F_SCHLSAFETY,Imputation flag for SCHLSAFETY
+F_SCHLSTFQUALITY,Imputation flag for SCHLSTFQUALITY
+F_AVAILCOURSE,Imputation flag for AVAILCOURSE
+F_XTRACURRIC,Imputation flag for XTRACURRIC
+F_STUDNTCHAR,Imputation flag for STUDNTCHAR
+F_STUDNTPERFORM,Imputation flag for STUDNTPERFORM
+F_RELIGSOR,Imputation flag for RELIGSOR
+F_SPECALEDSERVS,Imputation flag for SPECALEDSERVS
+F_SPECALFACILTS,Imputation flag for SPECALFACILTS
+F_CLSSIZE,Imputation flag for CLSSIZE
+F_SCHLCOST,Imputation flag for SCHLCOST
+F_FINDSCHL,Imputation flag for FINDSCHL
+F_FINDFRND,Imputation flag for FINDFRND
+F_FINDFAM,Imputation flag for FINDFAM
+F_FINDNEWS,Imputation flag for FINDNEWS
+F_FINDRPT,Imputation flag for FINDRPT
+F_FINDWEB,Imputation flag for FINDWEB
+F_FINDADS,Imputation flag for FINDADS
+F_FINDFLY,Imputation flag for FINDFLY
+F_FINDSTF,Imputation flag for FINDSTF
+F_FINDCHRC,Imputation flag for FINDCHRC
+F_FINDOTH,Imputation flag for FINDOTH
+F_S1STCHOI,Imputation flag for S1STCHOI
+F_SSAMSC,Imputation flag for SSAMSC
+F_SCHLHRSWK,Imputation flag for SCHLHRSWK
+F_EINTNET,Imputation flag for EINTNET
+F_ADVCCRSE,Imputation flag for ADVCCRSE
+F_SPCLCRSE,Imputation flag for SPCLCRSE
+F_MKUPCRSE,Imputation flag for MKUPCRSE
+F_ADDCRSE,Imputation flag for ADDCRSE
+F_HELP,Imputation flag for HELP
+F_CONFLCT,Imputation flag for CONFLCT
+F_DISABLX,Imputation flag for DISABLX
+F_TEMPILL,Imputation flag for TEMPILL
+F_SPCLND,Imputation flag for SPCLND
+F_LRNSTYLE,Imputation flag for LRNSTYLE
+F_NOCHOICE,Imputation flag for NOCHOICE
+F_SCHLPLCE,Imputation flag for SCHLPLCE
+F_ONLINEPREF,Imputation flag for ONLINEPREF
+F_ONLINEOTH,Imputation flag for ONLINEOTH
+F_MOSTIMPT,Imputation flag for MOSTIMPT
+F_SPBSCH,Imputation flag for SPBSCH
+F_SPRIVT,Imputation flag for SPRIVT
+F_SUNIVSCH,Imputation flag for SUNIVSCH
+F_SCYBER,Imputation flag for SCYBER
+F_SCOMPANY,Imputation flag for SCOMPANY
+F_SOTHRSCH,Imputation flag for SOTHRSCH
+F_STUTR,Imputation flag for STUTR
+F_SOTHSCH,Imputation flag for SOTHSCH
+F_INTNUM,Imputation flag for INTNUM
+F_SINSTFEE,Imputation flag for SINSTFEE
+F_INTHRS,Imputation flag for INTHRS
+F_SEENJOY,Imputation flag for SEENJOY
+F_SEGRADES,Imputation flag for SEGRADES
+F_SEADPLCXX,Imputation flag for SEADPLCXX
+F_SEBEHAVX,Imputation flag for SEBEHAVX
+F_SESCHWRK,Imputation flag for SESCHWRK
+F_SEGBEHAV,Imputation flag for SEGBEHAV
+F_SEGWORK,Imputation flag for SEGWORK
+F_SEABSNT,Imputation flag for SEABSNT
+F_SEREPEAT,Imputation flag for SEREPEAT
+F_SEREPTK,Imputation flag for SEREPTK
+F_SEREPT1,Imputation flag for SEREPT1
+F_SEREPT2,Imputation flag for SEREPT2
+F_SEREPT3,Imputation flag for SEREPT3
+F_SEREPT4,Imputation flag for SEREPT4
+F_SEREPT5,Imputation flag for SEREPT5
+F_SEREPT6,Imputation flag for SEREPT6
+F_SEREPT7,Imputation flag for SEREPT7
+F_SEREPT8,Imputation flag for SEREPT8
+F_SEREPT9,Imputation flag for SEREPT9
+F_SEREPT10,Imputation flag for SEREPT10
+F_SEREPT11,Imputation flag for SEREPT11
+F_SEREPT12,Imputation flag for SEREPT12
+F_SESUSOUT,Imputation flag for SESUSOUT
+F_SESUSPIN,Imputation flag for SESUSPIN
+F_SEEXPEL,Imputation flag for SEEXPEL
+F_SEGRADEQ,Imputation flag for SEGRADEQ
+F_FSSPORTX,Imputation flag for FSSPORTX
+F_FSVOL,Imputation flag for FSVOL
+F_FSMTNG,Imputation flag for FSMTNG
+F_FSPTMTNG,Imputation flag for FSPTMTNG
+F_FSATCNFN,Imputation flag for FSATCNFN
+F_FSFUNDRS,Imputation flag for FSFUNDRS
+F_FSCOMMTE,Imputation flag for FSCOMMTE
+F_FSCOUNSLR,Imputation flag for FSCOUNSLR
+F_FSFREQ,Imputation flag for FSFREQ
+F_FSNOTESX,Imputation flag for FSNOTESX
+F_FSMEMO,Imputation flag for FSMEMO
+F_FSPHONCHX,Imputation flag for FSPHONCHX
+F_FSSPPERF,Imputation flag for FSSPPERF
+F_FSSPHW,Imputation flag for FSSPHW
+F_FSSPCOUR,Imputation flag for FSSPCOUR
+F_FSSPROLE,Imputation flag for FSSPROLE
+F_FSSPCOLL,Imputation flag for FSSPCOLL
+F_FCSCHOOL,Imputation flag for FCSCHOOL
+F_FCTEACHR,Imputation flag for FCTEACHR
+F_FCSTDS,Imputation flag for FCSTDS
+F_FCORDER,Imputation flag for FCORDER
+F_FCSUPPRT,Imputation flag for FCSUPPRT
+F_FHHOME,Imputation flag for FHHOME
+F_FHWKHRS,Imputation flag for FHWKHRS
+F_FHAMOUNT,Imputation flag for FHAMOUNT
+F_FHCAMT,Imputation flag for FHCAMT
+F_FHPLACE,Imputation flag for FHPLACE
+F_FHCHECKX,Imputation flag for FHCHECKX
+F_FHHELP,Imputation flag for FHHELP
+F_FOSTORY2X,Imputation flag for FOSTORY2X
+F_FOCRAFTS,Imputation flag for FOCRAFTS
+F_FOGAMES,Imputation flag for FOGAMES
+F_FOBUILDX,Imputation flag for FOBUILDX
+F_FOSPORT,Imputation flag for FOSPORT
+F_FORESPON,Imputation flag for FORESPON
+F_FOHISTX,Imputation flag for FOHISTX
+F_FODINNERX,Imputation flag for FODINNERX
+F_FOLIBRAYX,Imputation flag for FOLIBRAYX
+F_FOBOOKSTX,Imputation flag for FOBOOKSTX
+F_FOCONCRTX,Imputation flag for FOCONCRTX
+F_FOMUSEUMX,Imputation flag for FOMUSEUMX
+F_FOZOOX,Imputation flag for FOZOOX
+F_FOGROUPX,Imputation flag for FOGROUPX
+F_FOSPRTEVX,Imputation flag for FOSPRTEVX
+F_HDHEALTH,Imputation flag for HDHEALTH
+F_HDINTDIS,Imputation flag for HDINTDIS
+F_HDSPEECHX,Imputation flag for HDSPEECHX
+F_HDDISTRBX,Imputation flag for HDDISTRBX
+F_HDDEAFIMX,Imputation flag for HDDEAFIMX
+F_HDBLINDX,Imputation flag for HDBLINDX
+F_HDORTHOX,Imputation flag for HDORTHOX
+F_HDAUTISMX,Imputation flag for HDAUTISMX
+F_HDPDDX,Imputation flag for HDPDDX
+F_HDADDX,Imputation flag for HDADDX
+F_HDLEARNX,Imputation flag for HDLEARNX
+F_HDDELAYX,Imputation flag for HDDELAYX
+F_HDTRBRAIN,Imputation flag for HDTRBRAIN
+F_HDOTHERX,Imputation flag for HDOTHERX
+F_HDIEPX,Imputation flag for HDIEPX
+F_HDCOMMUX,Imputation flag for HDCOMMUXX
+F_HDSPCLED,Imputation flag for HDSPCLED
+F_HDLEARN,Imputation flag for HDLEARN
+F_HDPLAY,Imputation flag for HDPLAY
+F_HDOUT,Imputation flag for HDOUT
+F_HDFRNDS,Imputation flag for HDFRNDS
+F_CDOBMM,Imputation flag for CDOBMM
+F_CDOBYY,Imputation flag for CDOBYY
+F_CPLCBRTH,Imputation flag for CPLCBRTH
+F_CMOVEAGE,Imputation flag for CMOVEAGE
+F_CHISPAN,Imputation flag for CHISPAN
+F_CAMIND,Imputation flag for CAMIND
+F_CASIAN,Imputation flag for CASIAN
+F_CBLACK,Imputation flag for CBLACK
+F_CPACI,Imputation flag for CPACI
+F_CWHITE,Imputation flag for CWHITE
+F_CHISPRM,Imputation flag for CHISPRM
+F_CSEX,Imputation flag for CSEX
+F_CLIVYN,Imputation flag for CLIVYN
+F_CLIVELSWX,Imputation flag for CLIVELSWX
+F_CSPEAKX,Imputation flag for CSPEAKX
+F_CENGLPRG,Imputation flag for CENGLPRG
+F_HHTOTALXX,Imputation flag for HHTOTALXX
+F_HHBROSX,Imputation flag for HHBROSX
+F_HHSISSX,Imputation flag for HHSISSX
+F_HHMOM,Imputation flag for HHMOM
+F_HHDAD,Imputation flag for HHDAD
+F_HHAUNTSX,Imputation flag for HHAUNTSX
+F_HHUNCLSX,Imputation flag for HHUNCLSX
+F_HHGMASX,Imputation flag for HHGMASX
+F_HHGPASX,Imputation flag for HHGPASX
+F_HHCSNSX,Imputation flag for HHCSNSX
+F_HHPRTNRSX,Imputation flag for HHPRTNRSX
+F_HHORELSX,Imputation flag for HHORELSX
+F_HHONRELSX,Imputation flag for HHONRELSX
+F_RELATION,Imputation flag for RELATION
+F_HHENGLISH,Imputation flag for HHENGLISH
+F_HHSPANISH,Imputation flag for HHSPANISH
+F_HHFRENCH,Imputation flag for HHFRENCH
+F_HHCHINESE,Imputation flag for HHCHINESE
+F_HHOTHLANG,Imputation flag for HHOTHLANG
+F_P1REL,Imputation flag for P1REL
+F_P1SEX,Imputation flag for P1SEX
+F_P1MRSTA,Imputation flag for P1MRSTA
+F_P1BFGF,Imputation flag for P1BFGF
+F_P1FRLNG,Imputation flag for P1FRLNG
+F_P1SPEAK,Imputation flag for P1SPEAK
+F_P1DIFFI,Imputation flag for P1DIFFI
+F_P1SCINT,Imputation flag for P1SCINT
+F_P1WRMTL,Imputation flag for P1WRMTL
+F_P1PLCBRTH,Imputation flag for P1PLCBRTH
+F_P1AGEMV,Imputation flag for P1AGEMV
+F_P1HISPAN,Imputation flag for P1HISPAN
+F_P1AMIND,Imputation flag for P1AMIND
+F_P1ASIAN,Imputation flag for P1ASIAN
+F_P1BLACK,Imputation flag for P1BLACK
+F_P1PACI,Imputation flag for P1PACI
+F_P1WHITE,Imputation flag for P1WHITE
+F_P1HISPRM,Imputation flag for P1HISPRM
+F_P1EDUC,Imputation flag for P1EDUC
+F_P1ENRL,Imputation flag for P1ENRL
+F_P1EMPL,Imputation flag for P1EMPL
+F_P1HRSWK,Imputation flag for P1HRSWK
+F_P1LKWRK,Imputation flag for P1LKWRK
+F_P1MTHSWRK,Imputation flag for P1MTHSWRK
+F_P1AGE,Imputation flag for P1AGE
+F_P2GUARD,Imputation flag for P2GUARD
+F_P2REL,Imputation flag for P2REL
+F_P2SEX,Imputation flag for P2SEX
+F_P2MRSTA,Imputation flag for P2MRSTA
+F_P2BFGF,Imputation flag for P2BFGF
+F_P2FRLNG,Imputation flag for P2FRLNG
+F_P2SPEAK,Imputation flag for P2SPEAK
+F_P2DIFFI,Imputation flag for P2DIFFI
+F_P2SCINT,Imputation flag for P2SCINT
+F_P2WRMTL,Imputation flag for P2WRMTL
+F_P2PLCBRTH,Imputation flag for P2PLCBRTH
+F_P2AGEMV,Imputation flag for P2AGEMV
+F_P2HISPAN,Imputation flag for P2HISPAN
+F_P2AMIND,Imputation flag for P2AMIND
+F_P2ASIAN,Imputation flag for P2ASIAN
+F_P2BLACK,Imputation flag for P2BLACK
+F_P2PACI,Imputation flag for P2PACI
+F_P2WHITE,Imputation flag for P2WHITE
+F_P2HISPRM,Imputation flag for P2HISPRM
+F_P2EDUC,Imputation flag for P2EDUC
+F_P2ENRL,Imputation flag for P2ENRL
+F_P2EMPL,Imputation flag for P2EMPL
+F_P2HRSWK,Imputation flag for P2HRSWK
+F_P2LKWRK,Imputation flag for P2LKWRK
+F_P2MTHSWRK,Imputation flag for P2MTHSWRK
+F_P2AGE,Imputation flag for P2AGE
+F_HWELFTANST,Imputation flag for HWELFTANST
+F_HWIC,Imputation flag for HWIC
+F_HFOODST,Imputation flag for HFOODST
+F_HMEDICAID,Imputation flag for HMEDICAID
+F_HCHIP,Imputation flag for HCHIP
+F_HSECN8,Imputation flag for HSECN8
+F_TTLHHINC,Imputation flag for TTLHHINC
+F_OWNRNTHB,Imputation flag for OWNRNTHB
+F_HVINTSPHO,Imputation flag for HVINTSPHO
+F_HVINTCOM,Imputation flag for HVINTCOM
+F_CHLDNT,Imputation flag for CHLDNT
+F_LRNCOMP,Imputation flag for LRNCOMP
+F_LRNTAB,Imputation flag for LRNTAB
+F_LRNCELL,Imputation flag for LRNCELL
+F_SEFUTUREX,Imputation flag for SEFUTUREX
+F_HHUNID,Imputation flag for HHUNID
+F_ZIPLOCL,Imputation flag for ZIPLOCL

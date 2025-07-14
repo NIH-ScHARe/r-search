@@ -1,0 +1,371 @@
+Variable,Description
+RECTYPE,Record type
+SRVY_YR,Year of the National Health Interview Survey
+HHX,Randomly assigned household number unique to a household
+WTFA_C,Weight - Final Annual
+URBRRL,2013 NCHS Urban-Rural Classification Scheme for Counties
+REGION,Household region
+PSTRAT,Pseudo-stratum for public-use file variance estimation
+PPSU,Pseudo-PSU for public-use file variance estimation
+HHRESPSC_FLG,Sample Child respondent is the household respondent
+INTV_QRT,Interview quarter
+INTV_MON,Interview month
+HHSTAT_C,Indicates the person is the Sample Child
+CSTATNEW,Recoded CSTAT
+RELTIVP_C,Respondent's relationship to Sample Child
+SEX_C,Sex of Sample Child
+AGEP_C,Age of SC
+HISP_C,Recode: Hispanic ethnicity of SC
+HISPALLP_C,Single and multiple race groups with Hispanic origin
+RACEALLP_C,Single and multiple race groups
+HISDETP_C,Hispanic origin detail
+AFNOW,Full-time active duty screener
+PCNT18UPTC,Top-coded count of persons 18 or older in the household
+PCNTLT18TC,Top-coded count of persons under 18 in the household
+PCNTADLT_C,"Number of adults in Sample Child family, top-coded 3+"
+PCNTKIDS_C,"Number of children in Sample Child family, top-coded 3+"
+OVER65FLG_C,Indicator for at least 1 person aged 65+ in SC family
+MLTFAMFLG_C,Indicator for multifamily household
+MAXEDUCP_C,Highest level of education of the adults in the SC's family
+PHSTAT_C,General health status
+ASEV_C,Ever had asthma
+ASTILL_C,Still have asthma
+ASAT12M_C,Asthma episode past 12m
+ASER12M_C,"Asthma ER visit, past 12m"
+PREDIB_C,Ever had prediabetes
+DIBEV_C,Ever had diabetes
+ADHDEV_C,Ever had ADD/ADHD
+ADHDNW_C,Currently has ADD/ADHD
+IDEV1_C,Ever had intellectual disability
+IDNW1_C,Currently has intellectual disability
+ASDEV_C,Ever had autism
+ASDNW_C,Currently has autism
+DDEV_C,Ever had developmental delay
+DDNW_C,Currently has developmental delay
+LDEV_C,Ever had learning disability
+LDNW_C,Currently has learning disability
+WEARGLSS_C,Wear glasses/contact lenses
+VISIONDF_C,Difficulty seeing
+HEARAID_C,Use hearing aid
+HEARINGDF_C,Difficulty hearing sounds
+EQUIP_C,Use of equipment for mobility
+NOEQWLKDF_C,Difficulty walking without using equipment
+EQWLKDF_C,Difficulty walking when using equipment
+WLKDF_C,Difficulty walking for those who do not use equipment
+NOEQWLK100_C,Difficulty walking 100 yards without using equipment
+NOEQWLK13M_C,Difficulty walking 1/3 mile without using equipment
+EQWLK100_C,Difficulty walking 100 yards when using equipment
+EQWLK13M_C,Difficulty walking 1/3 mile when using equipment
+WLK100_C,Difficulty walking 100 yards for those who do not use equipment
+WLK13M_C,Difficulty walking 1/3 mile for those who do not use equipment
+PICKUPDF_C,Motor skills difficulty
+SELFCAREDF_C,Motor skills difficulty
+UNDRSTYOU_C,Child's difficulty understanding respondent
+UNDRSTCHD_C,Respondent's difficulty understanding child
+UNDRSTIHH_C,Difficulty being understood by people inside household
+UNDRSTOHH_C,Difficulty being understood by people outside household
+LEARNDF_C,Difficulty learning things
+REMEMBERDF_C,Difficulty remembering things
+ANXFREQ_C,"How often seems anxious, nervous, or worried"
+DEPFREQ_C,How often seems sad or depressed
+BEHDFPLYG_C,Difficulty playing
+BEHKBHYG_C,"Kick, bite or hit"
+BEHDFCNTR_C,Difficulty controlling behavior
+BEHDFFCS_C,Difficulty concentrating
+BEHDFCHG_C,Difficulty with changes in routine
+BEHDFMKFR_C,Difficulty making friends
+DISAB2_C,"The Washington Group Short Set Composite Disability Indicator, children 2-4"
+DISAB5_C,"The Washington Group Short Set Composite Disability Indicator, children 5-17"
+BSCNWPPL_C,Hard time with new people
+BSCNWPLCS_C,Hard time in new places
+BSCCHG_C,Hard time with change
+BSCHLOPPL_C,Held by other people
+BSCCRYALT_C,Cries a lot
+BSCCLMDWN_C,Hard time calming down
+BSCFUSSY_C,Fussy or irritable
+BSCSTHE_C,Hard to comfort
+BSCSCHD_C,Hard to keep on schedule
+BSCPTSLP_C,Hard to put to sleep
+BSCSTYSLP_C,Trouble staying asleep
+BSCPRLKSL_C,Hard to get sleep due to SC
+SCHDYMSSTC_C,"Days of school missed due to illness or injury past 12 months, top-coded"
+SCHSPEDEV_C,Ever had a special education or early intervention plan
+SCHSPED_C,Currently have a special education or early intervention plan
+SCHSPEDEM_C,Currently receives services for mental health
+NOTCOV_C,Coverage status as used in Health United States
+COVER_C,Health insurance hierarchy
+SINCOVDE_C,Single service plan - dental
+SINCOVVS_C,Single service plan - vision
+SINCOVRX_C,Single service plan - prescription
+MEDICAID_C,Medicaid recode
+MAXCHNG_C,Medicaid through Marketplace
+MAPREM_C,Medicaid premium
+MADEDUC_C,Medicaid deductible
+MAHDHP_C,Medicaid HDHP
+MAFLG_C,Medicaid reassignment flag
+PRIVATE_C,Private health insurance recode
+EXCHANGE_C,"Plan through Health Insurance Exchange, NCHS algorithm"
+POLHLD1_C,Policyholder for private plan 1
+PRPLCOV1_C,Plan coverage for others - plan 1
+PRPLCOV1_A_C,Response to PRPLCOV1_A or PRPLCOV2_A from adult - plan 1
+PLNWRKR1_C,How plan was originally obtained - plan 1
+PLNEXCHG1_C,Health plan obtained through Marketplace - plan 1
+PLN1PAY1_C,Paid for by self or family - plan 1
+PLN1PAY2_C,Paid for by employer or union - plan 1
+PLN1PAY3_C,Paid for by someone outside the household - plan 1
+PLN1PAY5_C,Paid for by Medicaid - plan 1
+PLN1PAY6R_C,Paid for by other government program - plan 1
+HICOSTR1_C,Out-of-pocket premium cost - plan 1
+PRDEDUC1_C,Deductible - plan 1
+PRHDHP1_C,High deductible health plan - plan 1
+HSAHRA1_C,Health Savings Accounts / Health Reimbursement Accounts - plan 1
+PRRXCOV1_C,Plan pays for prescription drug - plan 1
+PRDNCOV1_C,Plan pays for dental care - plan 1
+PRVSCOV1_C,Plan pays for vision care - plan 1
+EXCHPR1_C,"Exchange company coding, NCHS - plan 1"
+PRFLG_C,Private reassignment flag
+PXCHNG1_C,"Marketplace or state exchange, reassigned from public to private"
+PRPREM1_C,Premium on plan reassigned from public to private
+PLEXCHPR1_C,"Exchange company coding, NCHS, reassigned from public to private"
+POLHLD2_C,Policyholder for private plan 2
+PRPLCOV2_C,Plan coverage for others - plan 2
+PRPLCOV2_A_C,Response to PRPLCOV1_A or PRPLCOV2_A from adult - plan 2
+PLNWRKR2_C,How plan was originally obtained - plan 2
+PLNEXCHG2_C,Health plan obtained through Marketplace - plan 2
+PLN2PAY1_C,Paid for by self or family - plan 2
+PLN2PAY2_C,Paid for by employer or union - plan 2
+PLN2PAY3_C,Paid for by someone outside the household - plan 2
+PLN2PAY5_C,Paid for by Medicaid - plan 2
+PLN2PAY6R_C,Paid for by other government program - plan 2
+HICOSTR2_C,Out-of-pocket premium cost - plan 2
+PRDEDUC2_C,Deductible - plan 2
+PRHDHP2_C,High deductible health plan - plan 2
+HSAHRA2_C,Health Savings Accounts / Health Reimbursement Accounts - plan 2
+PRRXCOV2_C,Plan pays for prescription drug - plan 2
+PRDNCOV2_C,Plan pays for dental care - plan 2
+PRVSCOV2_C,Plan pays for vision care - plan 2
+EXCHPR2_C,"Exchange company coding, NCHS - plan 2"
+CHIP_C,Children's Health Insurance Program (CHIP) recode
+CHXCHNG_C,CHIP through Marketplace
+CHPREM_C,Pay CHIP premium
+CHDEDUC_C,CHIP deductible
+CHHDHP_C,CHIP HDHP
+CHFLG_C,CHIP reassignment flag
+OTHPUB_C,State-sponsored health plan recode
+OPXCHNG_C,State-sponsored plan through Marketplace
+OPPREM_C,Pay premium for state-sponsored plan
+OPDEDUC_C,State-sponsored plan deductible
+OPHDHP_C,State-sponsored plan HDHP
+PLEXCHOP_C,"Exchange company coding, NCHS (state-sponsored plan)"
+OPFLG_C,State-sponsored reassignment flag
+OTHGOVR_C,Other government program public use file recode
+OGXCHNGR_C,Other government program through Marketplace
+OGPREMR_C,Pay premium for other government program
+OGDEDUCR_C,Other government program deductible
+OGHDHPR_C,Other government program HDHP
+PLEXCHOGR_C,"Exchange company coding, NCHS (other government program)"
+OGFLGR_C,Other government reassignment flag
+MILITARY_C,Military health care coverage recode
+MILSPC2_C,Types of military health care - TRICARE
+MILSPC3_C,Types of military health care - CHAMP-VA
+IHS_C,Indian Health Service recode
+HILAST_C,How long since last health coverage
+HILASTMY_C,Number of months without coverage
+HISTOPJOB_C,Lost job or changed employers
+HISTOPMISS_C,Missed deadline
+HISTOPAGE_C,Ineligible because of age/left school
+HISTOPCOST_C,Cost increase
+HISTOPELIG_C,"Not eligible for Medicaid, CHIP, or other public coverage"
+RSNHICOST_C,Not affordable
+RSNHIWANT_C,Do not need or want coverage
+RSNHIELIG_C,Not eligible for coverage
+RSNHICONF_C,Signing up too difficult or confusing
+RSNHIMEET_C,Cannot find a plan that meets the needs
+RSNHIWAIT_C,Coverage has not started yet
+RSNHIOTH_C,Another reason
+RSNHIJOB_C,Lost job
+RSNHIMISS_C,Missed deadline
+HINOTYR_C,No health coverage during past 12 months
+HINOTMYR_C,Months without coverage in past 12 months
+HICOV_C,Have health insurance
+HIKIND01R_C,Kind(s) of health insurance - private health insurance public use file
+HIKIND04_C,Kind(s) of health insurance - Medicaid
+HIKIND05_C,Kind(s) of health insurance - CHIP
+HIKIND06_C,Kind(s) of health insurance - military related health care
+HIKIND07_C,Kind(s) of health insurance - Indian Health Service
+HIKIND08_C,Kind(s) of health insurance - State-sponsored health plan
+HIKIND09R_C,Kind(s) of health insurance - Other government program public use file
+HIKIND10_C,Kind(s) of health insurance - No coverage of any type
+MCAIDPRB_C,Medicaid coverage probe
+PAYBLL12M_C,"Problems paying medical bills, past 12m"
+PAYNOBLLNW_C,Unable to pay medical bills
+PAYWORRY_C,"Get sick or have accident, worry about paying medical bills"
+EVERCOVD_C,Ever had COVID-19
+LONGCOVD1_C,Had COVID-19 symptoms for 3 or more months
+SYMPNOW1_C,Currently has COVID-19 symptoms
+LCVDACT_C,COVID-19 impacts activities
+DENPREV_C,Time since last dental exam/cleaning
+DENDL12M_C,"Delayed dental care due to cost, past 12 months"
+DENNG12M_C,"Needed dental care but did not get it due to cost, past 12 months"
+LASTDR_C,Time since last saw doctor
+WELLNESS_C,Was last visit a wellness visit
+WELLVIS_C,Time since last wellness visit
+USUALPL_C,Have a usual place for care
+USPLKIND_C,Type of place for usual care
+URGNT12MTC_C,"Number of times visited urgent care, past 12 months, top-coded"
+EMERG12MTC_C,"Number of times visited hospital emergency room, past 12 months, top-coded"
+HOSPONGT_C,"Hospitalized overnight, past 12 months"
+MEDDL12M_C,"Delayed medical care due to cost, past 12 months"
+MEDNG12M_C,"Needed medical care but did not get it due to cost, past 12 months"
+VIRAPP12M_C,"Virtual medical appointment, past 12m"
+RX12M_C,"Took prescription medication, past 12 months"
+RXDL12M_C,"Delayed filling prescription to save money, past 12 months"
+RXDG12M_C,"Needed prescription medication but did not get it due to cost, past 12 months"
+SHTFLU12M_C,"Flu vaccine, past 12 months"
+SHTFLUNUM_C,"Number of flu vaccines, past 12 months"
+FLUVAC1M_C,Month of most recent flu vaccine
+FLUVAC1Y_C,Year of most recent flu vaccine
+FLUVAC2M_C,Month of next most recent flu vaccine
+FLUVAC2Y_C,Year of next most recent flu vaccine
+SHTCVD191_C,COVID-19 vaccination
+SHTCVD19NM1_C,Number of COVID-19 vaccines
+CVDVAC1M1_C,Month of most recent COVID-19 vaccine
+CVDVAC1Y1_C,Year of most recent COVID-19 vaccine
+SHOTTYPE1_C,Brand of first COVID-19 shot
+EYEEX12M_C,"Had eye exam, past 12 months"
+THERA12M_C,"Received physical/speech/rehabilitative/occupational therapy, past 12 months"
+HOMEHC12M_C,"Received care at home, past 12 months"
+MHRX_C,"Took medication for emotions/concentration/behavior/mental health, past 12"
+MHTHRPY_C,"Received counseling/therapy from mental health professional, past 12 months"
+MHTHDLY_C,"Delayed counseling, therapy due to cost, past 12 months"
+MHTHND_C,"Needed counseling, therapy but did not get it due to cost, past 12 months"
+COMSUPPORT_C,Presence of community support
+VIOLENEV_C,Victim of/witnessed violence
+JAILEV1_C,Ever separated from parent who was incarcerated
+MENTDEPEV_C,Ever lived with anyone mentally ill or severely depressed
+ALCDRUGEV_C,Ever lived with anyone with alcohol/drug problem
+PUTDOWN_C,Lifetime of being put down by adults in home
+BNEEDS_C,Lifetime of lacking basic needs
+UNFAIRRE_C,Treated/judged based on race/ethnicity
+ANYINJURY_C,Any injury in the past 3 months
+INJLIMIT_C,Limited by injury in the past 3 months
+NUMINJ_C,Number of injuries in the past 3 months
+INJHOME_C,Did injury occur at home
+INJSCHOOL_C,Did injury occur at school or daycare
+INJSPORTS_C,Did injury occur while playing sports or exercising
+INJFALL_C,Did injury occur because of a fall
+INJFALLHOM_C,Did fall occur at home
+INJFALLSCH_C,Did fall occur at daycare or school
+INJMOTOR_C,Injury caused by a motor vehicle crash or collision
+INJMVTYPE1_C,Motor vehicle accident - driver
+INJMVTYPE2_C,Motor vehicle accident - passenger
+INJMVTYPE3_C,Motor vehicle accident - bicyclist
+INJMVTYPE4_C,Motor vehicle accident - pedestrian
+INJMVTYPE5_C,Motor vehicle accident - something else
+INJSAWDOC_C,Saw a doctor about injury
+INJER_C,Visited ER for injury
+INJHOSP_C,Hospitalized for injury
+INJBONES_C,Did injury cause broken bones
+INJSTITCH_C,Did injury require stitches or staples
+INJSCHDYTC_C,Number of school days missed due to injury in the past 3 months
+INJFUTSCH_C,Expected school days missed due to injury
+TBILCDCMG_C,"Lost consciousness, dazed or confused, or had gap in memory, past 12 months"
+TBIHLSBMC_C,"Headache, sensitivities, balance problems or mood change past 12 months"
+TBISPORT_C,"Blow or jolt to head while playing sports or rec activity, past 12 months"
+TBILEAGUE_C,"Blow or jolt to head while playing organized sports, past 12 months"
+TBIEVAL_C,"Evaluated for concussion, past 12 months"
+CVISTST_C,Ever had vision tested by a doctor or other health professional
+CVISLT_C,Time since last vision test
+CVISDIST_C,Need eyeglasses or contacts to see in distance
+CVISREAD_C,Need eyeglasses or contacts to read up close
+AHEARST1_C,Hearing ability
+HRWHISP_C,Hear whispers
+EARINFECT_C,Ear infection past 12 months
+EARINFECT3_C,3 or more ear infections
+CBALHDINJ_C,Lifetime significant head injury
+CBALHDNO_C,Number of lifetime head injuries
+HRTEST_C,Ever had hearing test
+HRTESTLAST_C,How long since hearing test
+HRAIDAQR_C,Hearing aid fit or purchased
+BALDIZZ_C,Balance or dizziness problem past 12 months
+BALDPROB_C,How big of a balance or dizziness problem
+BALDHP_C,Health provider for balance or dizziness problem
+BFALL12M_C,Fallen past 12 months
+BFALLTIMES_C,Number of falls past 12 months
+HRTINNITUS_C,Tinnitus past 12 months
+HRTINLNG_C,Tinnitus how long
+HRTINPROB_C,Tinnitus how big a problem
+HRTINMEDSP_C,Medical specialist for tinnitus
+HRLOUDJOB_C,Ever exposed to loud noise at job
+HRLOUDJBYR_C,Years exposed to loud sounds at job
+HRLOUDJB12M_C,Exposed to loud sounds past 12 months
+HRJOBPROT_C,Job exposure hearing protection
+HRFIREEV_C,Ever used a firearm
+HRFIRETOTR_C,Firearm total rounds
+HRFIRE12M_C,Firearm rounds past 12 months
+HRFIREPROT_C,Firearm hearing protection
+HRVLOUD12M_C,Exposed to very loud sounds past 12 months
+HRVLDPROT_C,Very loud sounds hearing protection
+RELCHPARENTP1_C,Relationship of first residential parent to sample child
+RELCHPARENTP2_C,Relationship of second residential parent to sample child
+MARITAL1_C,Marital status of first residential parent of sample child
+MARITAL2_C,Marital status of second residential parent of sample child
+PCNTPARNTS_C,Count of all residential parents of the sample child
+MARSTAT1_C,Marital status of the sample child's first residential parent
+MARSTAT2_C,Marital status of the sample child's second residential parent
+LEGMSTAT1_C,Legal marital status of the sample child's first residential parent
+LEGMSTAT2_C,Legal marital status of the sample child's second residential parent
+PARAGETC1_C,"Age of sample child's first residential parent, top-and bottom-coded"
+PARSEX1_C,Sex of sample child's first residential parent
+PARWORK1_C,First residential parent of sample child works for pay at job/business
+PARWKFT1_C,Sample child's first residential parent works 35+ hours per week
+PARAGETC2_C,"Age of sample child's second residential parent, top-and bottom-coded"
+PARSEX2_C,Sex of sample child's second residential parent
+PARWORK2_C,Second residential parent of sample child works for pay at job/business
+PARWKFT2_C,Sample child's second residential parent works 35+ hours per week
+SCPARHISP_C,Sample child has the same Hispanic ethnicity as ALL residential parents
+HISPPARSC_C,All residential parents of the sample child are of the same Hispanic ethnicity
+SCPARRAC_C,Sample child has the same race as ALL residential parents
+RACPARSC_C,All residential parents of the sample child are of the same race
+MAXPAREDUP_C,Highest level of education of all SC's parents
+PARSAMEOPP_C,"In two-parent SC families, are the parents of the same sex or opposite sex?"
+SCFAMSTR_C,Family structure of sample child
+SCPARENTSC_C,Sample child relationship to sample adult
+NATUSBORN_C,Born in U.S. or U.S. territory
+YRSINUS_C,Years that sample child has been in the United States
+CITZNSTP_C,Citizenship status
+PCNTADWKP1_C,Number of adults in sample child's family who are working (top-coded)
+PCNTADWFP1_C,Number of adults in sample child's family who are working full-time (top-coded)
+INCWRKO_C,Income from wages
+INCINTER_C,Income from accounts
+INCSSRR_C,Income from SS/Railroad Retirement
+INCSSISSDI_C,Family income from SSDI
+SSISSDIBTH_C,Which family income SSI/SSDI
+SSISSDIDSB_C,SSI/SSDI due to disability
+INCWELF_C,Income from public assistance
+INCRETIRE_C,Income from retirement
+INCOTHR_C,Income from other sources
+IMPNUM_C,Imputation number
+POVRATTC_C,Sample child family poverty ratio (top-coded)
+RATCAT_C,Ratio of family income to poverty threshold for SC's family
+IMPINCFLG_C,Imputed SC family income imputation flag
+INCTCFLG_C,Sample child family income top-code flag
+FSNAP12M_C,"Receive food stamps, past 12m"
+FSNAP30D_C,"Received food stamps, past 30d"
+FWIC12M_C,"Received WIC benefits, past 12m"
+FLUNCH12M1_C,Free or reduced meals at school
+FDSRUNOUT_C,Worry food would run out
+FDSLAST_C,Food didn't last
+FDSBALANCE_C,Couldn't afford to eat balanced meals
+FDSSKIP_C,Cut the size of meals or skip meals
+FDSSKIPDYS_C,How many days did you/adults in the family cut the size of meals or skip meals
+FDSLESS_C,Eat less than should
+FDSHUNGRY_C,Ever hungry because not enough money for food
+FDSWEIGHT_C,Lose weight because not enough money for food
+FDSNOTEAT_C,Not eat for a whole day
+FDSNEDAYS_C,How many days not eat
+FDSCAT3_C,Child 3 category food security recode
+FDSCAT4_C,Child 4 category food security recode
+HOUYRSLIV_C,Length of time in house or apartment
+HOUTENURE_C,Residence owned or rented
+HOUGVASST_C,Paying lower rent

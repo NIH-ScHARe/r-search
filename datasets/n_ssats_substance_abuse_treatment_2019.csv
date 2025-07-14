@@ -1,0 +1,249 @@
+﻿Variable,Description
+CASEID,Case identification number
+STATE,State abbreviations
+STATE,State abbreviations
+STFIPS,Census state FIPS code
+STFIPS,Census state FIPS code
+DETOX,Facility offers detoxification (Q.1)
+TREATMT,Facility offers substance use treatment (Q.1)
+SMISEDSUD,Facility offers treatment for co-occurring serious mental illness
+OWNERSHP,Organization that operates the facility (Q.8)
+FEDOWN,Federal government agency that operates the facility (Q.8a)
+HOSPITAL,Facility is a hospital or located in or operated by a hospital (Q.24)
+LOCS,Type of hospital (Q.24a)
+LOC5,Facility operates transitional housing or a halfway house for substance 
+OTP,Facility operates an opioid treatment program (Q.13)
+ASSESSMENT,Number of assessment and pre-treatment services offered by this
+TESTING,Number of testing services offered by this facility (Q.12)
+MEDICAL,Number of medical services offered by this facility (Q.12)
+TRANSITION,Number of transitional services offered by this facility (Q.12)
+RECOVERY,Number of recovery support services offered by this facility (Q.12)
+EDUCATION,Number of education and counseling services offered by this facility
+ANCILLARY,Number of ancillary services offered by this facility (Q.12)
+OTHER_SRVC,Number of other services offered by this facility (Q.12)
+PHARMACOTHERAPIES,Number of pharmacotherapies offered by this facility (Q.12)
+SRVC89,Facility offers screening for substance abuse (Q.12)
+SRVC90,Facility offers screening for mental health disorders (Q.12)
+SRVC1,Facility offers comprehensive substance abuse assessment or diagnosis (Q.12)
+SRVC2,Facility offers comprehensive mental health assessment or diagnosis (Q.12)
+SRVC107,Facility offers screening for tobacco use (Q.12)
+SRVC91,Facility offers outreach to persons in the community who may need treatment
+SRVC93,Facility offers interim services for clients when immediate admission is not
+SRVCEDCON,Facility offers professional interventionist/educational consultant (Q.12)
+SRVCORAL,Facility offers drug and alcohol oral fluid testing (Q.12)
+SRVC10,Facility offers breathalyzer or other blood alcohol testing (Q.12)
+SRVC11,Facility offers drug or alcohol urine screening (Q.12)
+SRVC73,Facility offers screening for hepatitis B (Q.12)
+SRVC74,Facility offers screening for hepatitis C (Q.12)
+SRVC14,Facility offers HIV testing (Q.12)
+SRVC15,Facility offers STD testing (Q.12)
+SRVC16,Facility offers TB screening (Q.12)
+SRVCMETA,Facility offers testing for metabolic syndrome (Q.12)
+SRVCHAV,Facility offers hepatitis A (HAV) vaccination (Q.12)
+SRVCHBV,Facility offers hepatitis B (HBV) vaccination (Q.12)
+SRVC37,Facility offers discharge planning (Q.12)
+SRVC27,Facility offers aftercare/continuing care (Q.12)
+SRVCODED,Facility offers naloxone and overdose education (Q.12)
+SRVCOUTCM,Facility offers outcome follow-up after discharge (Q.12)
+SRVC97,Facility offers mentoring/peer support (Q.12)
+SRVC102,Facility offers self-help groups (Q.12)
+SRVC39,Facility offers assistance in locating housing for clients (Q.12)
+SRVC38,Facility offers employment counseling or training for clients (Q.12)
+SRVC36,"Facility offers assistance with obtaining social services (for example,"
+SRVCCOACH,Facility offers recovery coach (Q.12)
+SRVC24,"Facility offers HIV or AIDS education, counseling, or support (Q.12)"
+SRVC104,"Facility offers hepatitis education, counseling, or support (Q.12)"
+SRVC99,Facility offers health education other than HIV/AIDS or hepatitis (Q.12)
+SRVC100,Facility offers substance abuse education (Q.12)
+SRVC105,Facility offers smoking/tobacco cessation counseling (Q.12)
+SRVC6,Facility offers individual counseling (Q.12)
+SRVC5,Facility offers group counseling (Q.12)
+SRVC4,Facility offers family counseling (Q.12)
+SRVC103,Facility offers marital/couples counseling (Q.12)
+SRVCVOCED,Facility offers vocational training or educational support (Q.12)
+SRVC49,Facility offers case management services (Q.12)
+SRVC96,Facility offers social skills development (Q.12)
+SRVC50,Facility offers child care for clients' children (Q.12)
+SRVC52,Facility offers domestic (family or partner) violence services (Q.12)
+SRVC98,Facility offers early intervention for HIV (Q.12)
+SRVC59,Facility offers transportation assistance to treatment (Q.12)
+SRVC101,Facility offers mental health services (Q.12)
+SRVC48,Facility offers acupuncture (Q.12)
+SRVC75,Facility offers residential beds for clients' children (Q.12)
+SRVC117,Facility offers treatment services for gambling disorder (Q.12)
+SRVC118,Facility offers treatment services for Internet use disorder (Q.12)
+SRVC119,Facility offers treatment services for other addiction disorder (non-substance
+SRVC70,Facility offers disulfram (Antabuse®) pharmacotherapy services (Q.12)
+SRVC71,Facility offers naltrexone (oral) pharmacotherapy services (Q.12)
+SRVC108,"Facility offers naltrexone (extended-release, injectable, for example, Vivitrol®)"
+SRVC88,Facility offers acamprosate (Campral®) pharmacotherapy services (Q.12)
+SRVC94,Facility offers nicotine replacement pharmacotherapy services (Q.12)
+SRVC106,Facility offers non-nicotine smoking/tobacco cessation medications (for
+SRVC95,Facility offers medications for psychiatric disorders (Q.12)
+SRVC85,Facility offers methadone pharmacotherapy services (Q.12)
+SRVC87,Facility offers buprenorphine with naloxone pharmacotherapy services (Q.12)
+SRVC86,Facility offers buprenorphine without naloxone pharmacotherapy services
+SRVC129,Facility offers buprenorphine sub-dermal implant (Probuphine®)
+SRVC130,"Facility offers buprenorphine (extended-release, injectable, for example,"
+SRVCMEDHIV,"Facility offers medications for HIV treatment (for example, antiretroviral"
+SRVCMEDHCV,"Facility offers medications for hepatitis C (HCV) treatment (for example,"
+SRVCMEDLOFE,Facility offers lofexidine pharmacotherapy services (Q.12)
+SRVCMEDCLON,Facility offers clonidine pharmacotherapy services (Q.12)
+SRVC30,Facility has a tailored program for adolescents (Q.19a)
+SRVC120,Facility has a tailored program for young adults (Q.19a)
+SRVC34,Facility has a tailored program for adult women (Q.19a)
+SRVC33,Facility has a tailored program for pregnant/postpartum women (Q.19a)
+SRVC64,Facility has a tailored program for adult men (Q.19a)
+SRVC63,Facility has a tailored program for seniors or older adults (Q.19a)
+SRVC62,"Facility has a tailored program for lesbian, gay, bisexual, transgender (LGBT)"
+SRVC113,Facility has a tailored program for veterans (Q.19a)
+SRVC114,Facility has a tailored program for active duty military (Q.19a)
+SRVC115,Facility has a tailored program for members of military families (Q.19a)
+SRVC61,Facility has a tailored program for criminal justice clients (other than DUI/DWI)
+SRVC31,Facility has a tailored program for clients with co-occurring mental and
+SRVCPAINSA,Facility has a tailored program for clients with co-occurring pain and
+SRVC32,Facility has a tailored program for clients with HIV or AIDS (Q.19a)
+SRVC121,Facility has a tailored program for clients who have experienced sexual abuse
+SRVC122,Facility has a tailored program for clients who have experienced intimate
+SRVC116,Facility has a tailored program for clients who have experienced trauma
+SRVC35,Facility has a tailored program for other types of clients (Q.19a)
+CTYPE4,Facility offers any hospital inpatient substance abuse services (Q.9)
+CTYPEHI1,Facility offers hospital inpatient detoxification (Q.9a)
+CTYPEHI2,Facility offers hospital inpatient treatment services (Q.9a)
+CTYPE7,Facility offers non-hospital residential treatment services (Q.10)
+CTYPERC1,Facility offers non-hospital residential detoxification (Q.10a)
+CTYPERC3,Facility offers non-hospital residential short-term treatment (Q.10a)
+CTYPERC4,Facility offers non-hospital residential long-term treatment (Q.10a)
+CTYPE1,Facility offers any outpatient substance abuse services (Q.11)
+CTYPE6,Facility offers outpatient detoxification (Q.11a)
+CTYPEML,Facility offers outpatient methadone/buprenorphine maintenance or
+CTYPEOP,Facility offers outpatient day treatment or partial hospitalization (Q.11a)
+CTYPE2,Facility offers intensive outpatient treatment services (Q.11a)
+CTYPE3,Facility offers regular outpatient treatment services (Q.11a)
+SIGNLANG,Facility provides substance use treatment services in sign language (Q.17)
+LANG,Facility provides substance use treatment in a language other than English
+LANG1,Staff counselors provide substance use treatment in Hopi (Q.18b)
+LANG2,Staff counselors provide substance use treatment in Lakota (Q.18b)
+LANG3,Staff counselors provide substance use treatment in Navajo (Q.18b)
+LANG4,Staff counselors provide substance use treatment in Yupik (Q.18b)
+LANG5,Staff counselors provide substance use treatment in other American Indian or
+LANG6,Staff counselors provide substance use treatment in Arabic (Q.18b)
+LANG7,Staff counselors provide substance use treatment in any Chinese language
+LANG8,Staff counselors provide substance use treatment in Creole (Q.18b)
+LANG9,Staff counselors provide substance use treatment in French (Q.18b)
+LANG10,Staff counselors provide substance use treatment in German (Q.18b)
+LANG11,Staff counselors provide substance use treatment in Hmong (Q.18b)
+LANG12,Staff counselors provide substance use treatment in Korean (Q.18b)
+LANG13,Staff counselors provide substance use treatment in Polish (Q.18b)
+LANG14,Staff counselors provide substance use treatment in Portuguese (Q.18b)
+LANG15,Staff counselors provide substance use treatment in Russian (Q.18b)
+LANG16,Staff counselors provide substance use treatment in Spanish (Q.18a1)
+LANG17,Staff counselors provide substance use treatment in Vietnamese (Q.18b)
+LANG18,Staff counselors provide substance use treatment in any other language
+LANG19,Staff counselors provide substance use treatment in Italian (Q.18b)
+LANG20,Staff counselors provide substance use treatment in Tagalog (Q.18b)
+LANG21,Staff counselors provide substance use treatment in Ojibwa (Q.18b)
+LANG22,Staff counselors provide substance use treatment in Greek (Q.18b)
+LANG23,Staff counselors provide substance use treatment in Japanese (Q.18b)
+LANG24,Staff counselors provide substance use treatment in Farsi (Q.18b)
+LANG25,Staff counselors provide substance use treatment in Hebrew (Q.18b)
+LANG26,Staff counselors provide substance use treatment in Hindi (Q.18b)
+DUI_DWI,Facility offers a specially designed program for DUI/DWI or other drunk driver
+ONLYDUI,Facility serves only DUI/DWI clients (Q.16a)
+ONLYOUD,Facility serves only opioid use disorder clients (Q.13b)
+OPIOIDDETOX,Facility provides detoxification from opioids of abuse with methadone
+OPIOIDDLOFE,Facility provides detoxification from opioids of abuse with lofexidine or
+OPIOIDMAINT,Facility provides maintenance services with methadone or
+OPIOIDNAL,Facility provides relapse prevention with naltrexone for treating opioid use
+OPIOIDOTH,Facility provides other medication services for treating opioid use disorder
+OPIOIDWDRAW,Facility provides maintenance services with medically supervised
+FEESCALE,Facility uses a sliding fee scale (Q.20)
+PAYASST,Facility offers treatment at no charge or minimal payment to clients who
+EARMARK,"Facility receives funding or grants from the federal government, or state,"
+REVCHK1,Accepts cash or self-payment for substance use treatment (Q.23)
+REVCHK2,Accepts private health insurance as source of payment for substance use
+REVCHK3,Substance use treatment is free for all clients (Q.23)
+REVCHK5,Accepts Medicaid as source of payment for substance use treatment (Q.23)
+REVCHK8,Accepts Medicare as source of payment for substance use treatment (Q.23)
+REVCHK10,Accepts state-financed health insurance plan other than Medicaid as source
+REVCHK15,Accepts federal military insurance (such as TRICARE) as source of
+REVCHK17,Accepts IHS/Tribal/Urban (ITU) funds as source of payment for substance
+ACCRED,"Facility is licensed, certified, or accredited to provide substance abuse"
+LICEN,Facility is licensed by hospital licensing authority or state authority (Q.27)
+LICENHOS,Facility is licensed by hospital licensing authority (Q.27)
+LICENMH,Facility is licensed by state mental health department (Q.27)
+LICENPH,Facility is licensed by state department of health (Q.27)
+LICENSED,Facility is licensed by state substance abuse agency (Q.27)
+JCAHO,Facility has Joint Commission accreditation (Q.27)
+CARF,Facility is Commission on Accreditation of Rehabilitation Facilities
+NCQA,Facility is National Committee for Quality Assurance (NCQA)-accredited (Q.27)
+COA,Facility is Council on Accreditation (COA)-accredited (Q.27)
+HFAP,Facility is accredited by Healthcare Facilities Accreditation Program (HFAP)
+A_PCT,Percent of clients treated for only alcohol abuse (Q.34)
+B_PCT,Percent of clients treated for both alcohol/drug abuse (Q.34)
+D_PCT,Percent of clients treated for only drug abuse (Q.34)
+HIBUPNUM,"Hospital inpatient clients, buprenorphine dispensed or prescribed for"
+HIMATNUM,Hospital inpatient clients — total medication assisted treatment — March
+HIMETNUM,"Hospital inpatient clients, methadone dispensed for opioid use disorder"
+HIVIVNUM,"Hospital inpatient clients, naltrexone administered for opioid use disorder"
+OPBUPNUM,"Outpatient clients, buprenorphine dispensed or prescribed for opioid use"
+OPMATNUM,"Outpatient clients — total medication assisted treatment — March 29, 2019"
+OPMETNUM,"Outpatient clients, methadone dispensed for opioid use disorder (Q.33c)"
+OPVIVNUM,"Outpatient clients, naltrexone administered for opioid use disorder (Q.33c)"
+RCBUPNUM,"Residential clients, buprenorphine dispensed or prescribed for opioid use"
+RCMATNUM,"Residential clients — total medication assisted treatment — March 29,"
+RCMETNUM,"Residential clients, methadone dispensed for opioid use disorder (Q.32c)"
+RCVIVNUM,"Residential clients, naltrexone administered for opioid use disorder (Q.32c)"
+HOSPBED,Hospital inpatient clients — total beds designated for substance use
+RESBED,Residential clients — total beds designated for substance use treatment
+H_AGE1,Hospital inpatient clients under 18 years old (Q.31b)
+O_AGE1,Outpatient clients under 18 years old (Q.33b)
+R_AGE1,Residential clients under 18 years old (Q.32b)
+T_CLI1_D,"Hospital inpatient clients, detoxification — for DUI/DWI facilities (Q.31a)"
+T_CLI1_O,"Hospital inpatient clients, detoxification — for OTP facilities (Q.31a)"
+T_CLI1_X,"Hospital inpatient clients, detoxification — for non-OTP and non-DUI/DWI "
+T_CLI2_D,"Hospital inpatient clients, treatment — for DUI/DWI facilities (Q.31a)"
+T_CLI2_O,"Hospital inpatient clients, treatment — for OTP facilities (Q.31a)"
+T_CLI2_X,"Hospital inpatient clients, treatment — for non-OTP and non-DUI/DWI "
+T_CLI3_D,"Residential clients, detoxification — for DUI/DWI facilities (Q.32a)"
+T_CLI3_O,"Residential clients, detoxification — for OTP facilities (Q.32a)"
+T_CLI3_X,"Residential clients, detoxification — for non-OTP and non-DUI/DWI "
+T_CLI5_D,"Outpatient clients, regular outpatient care — for DUI/DWI facilities (Q.33a)"
+T_CLI5_O,"Outpatient clients, regular outpatient care — for OTP facilities (Q.33a)"
+T_CLI5_X,"Outpatient clients, regular outpatient care — for non-OTP and non-DUI/DWI "
+T_CLI6_D,"Outpatient clients, intensive — for DUI/DWI facilities (Q.33a)"
+T_CLI6_O,"Outpatient clients, intensive — for OTP facilities (Q.33a)"
+T_CLI6_X,"Outpatient clients, intensive — for non-OTP and non-DUI/DWI facilities "
+T_CLI7_D,"Outpatient clients, detoxification — for DUI/DWI facilities (Q.33a)"
+T_CLI7_O,"Outpatient clients, detoxification — for OTP facilities (Q.33a)"
+T_CLI7_X,"Outpatient clients, detoxification — for non-OTP and non-DUI/DWI "
+T_CLI8_D,"Outpatient clients, day treatment/partial hospitalization — for DUI/DWI "
+T_CLI8_O,"Outpatient clients, day treatment/partial hospitalization — for OTP facilities"
+T_CLI8_X,"Outpatient clients, day treatment/partial hospitalization — for non-OTP "
+T_CLI9_D,"Residential clients, short-term detoxification — for DUI/DWI facilities (Q.32a)"
+T_CLI9_O,"Residential clients, short-term detoxification — for OTP facilities (Q.32a)"
+T_CLI9_X,"Residential clients, short-term detoxification — for non-OTP and "
+T_CLI10_D,"Residential clients, long-term detoxification — for DUI/DWI facilities (Q.32a)"
+T_CLI10_O,"Residential clients, long-term detoxification — for OTP facilities (Q.32a)"
+T_CLI10_X,"Residential clients, long-term detoxification — for non-OTP and"
+T_CLIHI_D,Total number of hospital inpatients — for DUI/DWI facilities (Q.31a)
+T_CLIHI_O,Total number of hospital inpatients — for OTP facilities (Q.31a)
+T_CLIHI_X,Total number of hospital inpatients — for non-OTP and non-DUI/DWI 
+T_CLIML_D,"Outpatient clients, methadone maintenance — for DUI/DWI facilities "
+T_CLIML_O,"Outpatient clients, methadone maintenance — for OTP facilities (Q.33a)"
+T_CLIML_X,"Outpatient clients, methadone maintenance — for non-OTP and non-"
+T_CLIOP_D,Total number of outpatient clients — for DUI/DWI facilities (Q.33a)
+T_CLIOP_O,Total number of outpatient clients — for OTP facilities (Q.33a)
+T_CLIOP_X,Total number of outpatient clients — for non-OTP and non-DUI/DWI 
+T_CLIRC_D,Total number of residential clients — for DUI/DWI facilities (Q.32a)
+T_CLIRC_O,Total number of residential clients — for OTP facilities (Q.32a)
+T_CLIRC_X,Total number of residential clients — for non-OTP and non-DUI/DWI 
+HIDISNUM,"Hospital inpatient clients, disulfiram dispensed or prescribed for alcohol"
+HINALNUM,"Hospital inpatient clients, naltrexone dispensed or prescribed for alcohol"
+HIACAMNUM,"Hospital inpatient clients, acamprosate dispensed or prescribed for"
+RCDISNUM,"Residential clients, disulfiram dispensed or prescribed for alcohol use"
+RCNALNUM,"Residential clients, naltrexone dispensed or prescribed for alcohol use"
+RCACAMNUM,"Residential clients, acamprosate dispensed or prescribed for alcohol"
+OPDISNUM,"Outpatient clients, disulfiram dispensed or prescribed for alcohol use"
+OPNALNUM,"Outpatient clients, naltrexone dispensed or prescribed for alcohol use"
+OPACAMNUM,"Outpatient clients, acamprosate dispensed or prescribed for alcohol use"

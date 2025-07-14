@@ -1,0 +1,7 @@
+﻿Variable,Description
+state,State
+county,County
+fips,FIPS code
+year,Year of value
+month,Month of value
+spei,Standardized_Precipitation_Evapotranspiration

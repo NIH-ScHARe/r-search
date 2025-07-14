@@ -1,0 +1,224 @@
+﻿Variable,Description
+CASEID,Case identification number 
+STATE,State abbreviations 
+DETOX,Offer detoxification (Q.1) 
+TREATMT,Offer substance abuse treatment (Q.1) 
+OWNERSHP,Ownership (Q.7) 
+FEDOWN,Federal government agency (Q.7a) 
+HOSPITAL,Located in/operated by hospital (Q.9) 
+LOCS,Hospital type (Q.9a) 
+ASSESSMENT,Number of assessment services offered (Q.11) 
+TESTING,Number of testing services offered (Q.11) 
+TRANSITION,Number of transition services offered (Q.11) 
+ANCILLARY,Number of ancillary services offered (Q.11) 
+OTHER_SRVC,Number of other services offered (Q.11) 
+SRVC75,Ancillary services — residential beds for children (Q.11)
+SRVC71,Pharmacotherapies — naltrexone (oral) (Q.11) 
+SRVC108,"Pharmacotherapies — naltrexone (extended release, injectable) (Q.11) "
+SRVC85,Pharmacotherapies — methadone (Q.11) 
+SRVC87,Pharmacotherapies — buprenorphine with naloxone (Suboxone®) (Q.11) 
+SRVC86,Pharmacotherapies — buprenorphine without naloxone (Q.11) 
+SRVC129,Pharmacotherapies — buprenorphine sub-dermal implant (Probuphine®) 
+SRVC70,Pharmacotherapies — disulfiram (Antabuse®) (Q.11) 
+SRVC88,Pharmacotherapies — acamprosate (Campral®) (Q.11) 
+SRVC94,Pharmacotherapies — nicotine replacement (Q.11) 
+SRVC106,Pharmacotherapies — non-nicotine smoking/tobacco cessation 
+SRVC95,Pharmacotherapies — medications for psychiatric disorders (Q.11) 
+OTP,Operate an opioid treatment program (Q.12) 
+ONLYOUD,Does this facility serve only opioid use disorder clients? (Q.12a) 
+OPIOIDMAINT,Maintenance services with methadone or buprenorphine (Q.12b) 
+OPIOIDWDRAW,Maintenance services with medically supervised withdrawal after 
+OPIOIDDETOX,Detoxification services with methadone or buprenorphine (Q.12b) 
+OPIOIDNAL,Relapse prevention with naltrexone (Vivitrol®) (Q.12b) 
+COMPSAT,Use frequency of computerized substance abuse treatment (Q.14) 
+DUI_DWI,Program for DUI/DWI/other offenders (Q.16) 
+ONLYDUI,All substance abuse treatment clients identified as DUI/DWI offenders 
+SIGNLANG,Treatment in sign language — Y/N (Q.17) 
+LANG,Treatment in language other than English — Y/N (Q.18) 
+LANG16,Do staff counselors provide substance abuse treatment in Spanish? 
+LANG1,Treatment in Hopi (Q.18b) 
+LANG2,Treatment in Lakota (Q.18b) 
+LANG3,Treatment in Navajo (Q.18b) 
+LANG21,Treatment in Ojibwa (Q.18b) 
+LANG4,Treatment in Yupik (Q.18b) 
+LANG5,Treatment in other American Indian/Alaskan Native language (Q.18b) 
+LANG6,Treatment in Arabic (Q.18b) 
+LANG7,Treatment in Chinese (Q.18b) 
+LANG8,Treatment in Creole (Q.18b) 
+LANG24,Treatment in Farsi (Q.18b) 
+LANG9,Treatment in French (Q.18b) 
+LANG10,Treatment in German (Q.18b) 
+LANG22,Treatment in Greek (Q.18b) 
+LANG25,Treatment in Hebrew (Q.18b) 
+LANG26,Treatment in Hindi (Q.18b) 
+LANG11,Treatment in Hmong (Q.18b) 
+LANG19,Treatment in Italian (Q.18b) 
+LANG23,Treatment in Japanese (Q.18b) 
+LANG12,Treatment in Korean (Q.18b) 
+LANG13,Treatment in Polish (Q.18b) 
+LANG14,Treatment in Portuguese (Q.18b) 
+LANG15,Treatment in Russian (Q.18b) 
+LANG20,Treatment in Tagalog (Q.18b) 
+LANG17,Treatment in Vietnamese (Q.18b) 
+LANG18,Treatment in other language (Q.18b) 
+SRVC30,Specific program/group for adolescents (Q.19a) 
+SRVC34,Specific program/group for adult women (Q.19a) 
+SRVC33,Specific program/group for pregnant/postpartum women (Q.19a) 
+SRVC64,Specific program/group for adult men (Q.19a) 
+SRVC63,Specific program/group for seniors (Q.19a) 
+SRVC62,Specific program/group for clients who identified as 
+SRVC113,Specific program/group for veterans (Q.19a) 
+SRVC114,Specific program/group for active duty military (Q.19a) 
+SRVC115,Specific program/group for military families (Q.19a) 
+SRVC61,Specific program/group for criminal justice clients (Q.19a) 
+SRVC31,Specific program/group for co-occurring substance abuse and mental 
+SRVC32,Specific program/group for persons living with HIV/AIDS (Q.19a) 
+SRVC116,Specific program/group for persons who have experienced trauma 
+CTYPE4,Hospital inpatient substance abuse care offered (Q.20) 
+CTYPEHI1,Hospital inpatient detoxification care offered (Q.20a) 
+CTYPEHI2,Hospital inpatient treatment care offered (Q.20a) 
+CTYPE7,Non-hospital residential substance abuse care offered (Q.21) 
+CTYPERC1,Non-hospital residential detoxification care offered (Q.21a) 
+CTYPERC3,Non-hospital residential short-term treatment offered (Q.21a) 
+CTYPERC4,Non-hospital residential long-term treatment offered (Q.21a) 
+CTYPE1,Any outpatient substance abuse care offered currently (Q.22) 
+CTYPE6,Outpatient detoxification offered (Q.22a) 
+CTYPEML,Outpatient methadone maintenance offered (Q.22a) 
+CTYPEOP,Day treatment/partial hospital offered (Q.22a) 
+CTYPE2,Intensive outpatient treatment offered (Q.22a) 
+CTYPE3,Regular outpatient treatment offered (Q.22a) 
+FEESCALE,Uses sliding fee scale (Q.23) 
+PAYASST,Offers no charge or free treatment (Q.24) 
+EARMARK,"Receive any federal, state, county, or local funds (Q.25) "
+REVCHK3,Free treatment to all clients (Q.26) 
+REVCHK1,Accepts cash or self-payment (Q.26) 
+REVCHK8,Accepts Medicare payments (Q.26) 
+REVCHK5,Accepts Medicaid payments (Q.26) 
+REVCHK10,Accepts state-financed health insurance (Q.26) 
+REVCHK15,Accepts federal military insurance (Q.26) 
+REVCHK2,Accepts private health insurance (Q.26) 
+REVCHK17,Accepts IHS/638 contract care funds (Q.26) 
+LOC5,"Setting, halfway house (Q.35) "
+LICEN,Licensed/certified/accredited by hospital or state authority (Q.37) 
+ACCRED,Licensed/certified/accredited by JC/CARF/NCQA/COA/HFAP (Q.37) 
+HIMETNUM,Total methadone inpatients — for OTP facilities (Q.29c) 
+RCMETNUM,Total methadone residential — for OTP facilities (Q.30c) 
+OPMETNUM,Total methadone outpatients — for OTP facilities (Q.31c) 
+HIMATNUM,"Inpatient — total MAT clients — March 31, 2017 (Q.29c) "
+OPMATNUM,"Outpatient — total MAT clients — March 31, 2017 (Q.31c) "
+RCMATNUM,"Residential — total MAT clients — March 31, 2017 (Q.30c) "
+RCVIVNUM,Total naltrexone residential (Q.30c) 
+OPBUPNUM,Total buprenorphine outpatients (Q.31c) 
+OPVIVNUM,Total naltrexone outpatients (Q.31c) 
+HIBUPNUM,Total buprenorphine inpatients (Q.29c) 
+HIVIVNUM,Total naltrexone inpatients (Q.29c) 
+RCBUPNUM,Total buprenorphine residential (Q.30c) 
+RESBED,Total beds designated — residential clients (Q.30d) 
+HOSPBED,Total beds designated — hospital inpatient clients (Q.29d) 
+R_AGE1,Residential clients under 18 years old (Q.30b) 
+O_AGE1,Outpatient clients under 18 years old (Q.31b) 
+H_AGE1,Hospital inpatient clients under 18 years old (Q.29b) 
+B_PCT,Percent of clients treated for both alcohol and drug abuse (Q.32) 
+A_PCT,Percent of clients treated for only alcohol abuse (Q.32) 
+D_PCT,Percent of clients treated for only drug abuse (Q.32) 
+SRVC89,Assessment services — screening for substance abuse (Q.11)
+SRVC90,Assessment services — screening for mental health disorders (Q.11)
+SRVC1,Assessment services — comprehensive substance abuse assessment or
+SRVC2,Assessment services — comprehensive mental health assessment or
+SRVC91,Assessment services — outreach to persons in the community who may
+SRVC93,Assessment services — interim services for clients when immediate
+SRVC107,Assessment services — screening for tobacco use (Q.11)
+SRVC10,Testing — breathalyzer or other blood alcohol testing (Q.11)
+SRVC11,Testing — drug or alcohol urine screening (Q.11)
+SRVC73,Testing — screening for hepatitis B (Q.11)
+SRVC74,Testing — screening for hepatitis C (Q.11)
+SRVC14,Testing — HIV testing (Q.11)
+SRVC15,Testing — STD testing (Q.11)
+SRVC16,Testing — TB screening (Q.11)
+SRVC37,Transitional services — discharge planning (Q.11)
+SRVC27,Transitional services — aftercare/continuing care (Q.11)
+SRVC49,Ancillary services — case management services (Q.11)
+SRVC96,Ancillary services — social skills development (Q.11)
+SRVC97,Ancillary services — mentoring/peer support (Q.11)
+SRVC50,Ancillary services — child care for clients' children (Q.11)
+SRVC36,Ancillary services — assistance with obtaining social services (for
+SRVC38,Ancillary services — employment counseling or training for clients (Q.11)
+SRVC39,Ancillary services — assistance in locating housing for clients (Q.11)
+SRVC52,Ancillary services — domestic (family or partner) violence services (Q.11)
+SRVC98,Ancillary services — early intervention for HIV (Q.11)
+SRVC24,"Ancillary services — HIV or AIDS education, counseling, or support (Q.11)"
+SRVC104,"Ancillary services — hepatitis education, counseling, or support (Q.11)"
+SRVC99,Ancillary services — health education other than HIV/AIDS or hepatitis
+SRVC100,Ancillary services — substance abuse education (Q.11)
+SRVC59,Ancillary services — transportation assistance to treatment (Q.11)
+SRVC101,Ancillary services — mental health services (Q.11)
+SRVC48,Ancillary services — acupuncture (Q.11)
+SRVC102,Ancillary services — self-help groups (Q.11)
+SRVC105,Ancillary services — smoking/tobacco cessation counseling (Q.11)
+SRVC117,Other services — treatment for gambling disorder (Q.11)
+SRVC118,Other services — treatment for internet use disorder (Q.11)
+SRVC119,Other services — treatment for other addiction disorder (non-substance
+LICENSED,Licensed/certified/accredited by state substance abuse agency (Q.37)
+LICENMH,Licensed/certified/accredited by state mental health department (Q.37)
+LICENPH,Licensed/certified/accredited by state department of health (Q.37)
+LICENHOS,Licensed/certified/accredited by hospital licensing authority (Q.37)
+JCAHO,Accredited by The Joint Commission (Q.37)
+CARF,Accredited by Commission on Accreditation of Rehabilitation Facilities
+NCQA,Accredited by National Committee for Quality Assurance (NCQA) (Q.37)
+COA,Accredited by Council on Accreditation (COA) (Q.37)
+HFAP,Accredited by Healthcare Facilities Accreditation Program (HFAP) (Q.37)
+INTKE,"Electronic, paper, both, intake (Q.27) "
+SCHEDULE,"Electronic, paper, both, scheduling appointments (Q.27) "
+ASSESS,"Electronic, paper, both, assessment (Q.27) "
+TXPLAN,"Electronic, paper, both, treatment plan (Q.27) "
+PROGRESS,"Electronic, paper, both, client progress monitoring (Q.27) "
+DSCHRG,"Electronic, paper, both, discharge (Q.27) "
+REF,"Electronic, paper, both, referrals (Q.27) "
+LAB,"Electronic, paper, both, issue/receive lab results (Q.27) "
+BILL,"Electronic, paper, both, billing (Q.27) "
+OUTCM,"Electronic, paper, outcomes management (Q.27) "
+DISP,"Electronic, paper, both, medication prescribing/dispensing (Q.27) "
+STOREREC,"Electronic, paper, both, store/maintain health records (Q.27) "
+SENDINFO,"Electronic, paper, both, send client health information (Q.27) "
+RECINFO,"Electronic, paper, both, receive client health information (Q.27) "
+T_CLI1_O,"Hospital inpatient clients, detoxification — for OTP facilities (Q.29a) "
+T_CLI2_O,"Hospital inpatient clients, treatment — for OTP facilities (Q.29a) "
+T_CLI3_O,"Residential clients, detoxification — for OTP facilities (Q.30a) "
+T_CLI5_O,"Outpatient clients, regular outpatient care — for OTP facilities (Q.31a) "
+T_CLI6_O,"Outpatient clients, intensive — for OTP facilities (Q.31a) "
+T_CLI7_O,"Outpatient clients, detoxification — for OTP facilities (Q.31a) "
+T_CLI8_O,"Outpatient clients, day treatment/partial hospitalization — for OTP "
+T_CLI9_O,"Residential clients, short-term detoxification — for OTP facilities (Q.30a) "
+T_CLI10_O,"Residential clients, long-term detoxification — for OTP facilities (Q.30a) "
+T_CLIHI_O,Total number of hospital inpatients — for OTP facilities (Q.29a) 
+T_CLIML_O,"Outpatient clients, methadone maintenance — for OTP facilities "
+T_CLIOP_O,Total number of outpatient clients — for OTP facilities (Q.31a) 
+T_CLIRC_O,Total number of residential clients — for OTP facilities (Q.30a) 
+T_CLI1_D,"Hospital inpatient clients, detoxification — for DUI_DWI facilities (Q.29a) "
+T_CLI2_D,"Hospital inpatient clients, treatment — for DUI_DWI facilities (Q.29a) "
+T_CLI3_D,"Residential clients, detoxification — for DUI_DWI facilities (Q.30a) "
+T_CLI5_D,"Outpatient clients, regular outpatient care — for DUI_DWI facilities "
+T_CLI6_D,"Outpatient clients, intensive — for DUI_DWI facilities (Q.31a) "
+T_CLI7_D,"Outpatient clients, detoxification — for DUI_DWI facilities (Q.31a) "
+T_CLI8_D,"Outpatient clients, day treatment/partial hospitalization — for DUI_DWI "
+T_CLI9_D,"Residential clients, short-term detoxification — for DUI_DWI facilities "
+T_CLI10_D,"Residential clients, long-term detoxification — for DUI_DWI facilities "
+T_CLIHI_D,Total number of hospital inpatients — for DUI_DWI facilities (Q.29a) 
+T_CLIML_D,"Outpatient clients, methadone maintenance — for DUI_DWI facilities "
+T_CLIOP_D,Total number of outpatient clients — for DUI_DWI facilities (Q.31a) 
+T_CLIRC_D,Total number of residential clients — for DUI_DWI facilities (Q.30a) 
+T_CLI1_X,"Hospital inpatient clients, detoxification — for non-OTP and non-"
+T_CLI2_X,"Hospital inpatient clients, treatment — for non-OTP and non-DUI_DWI "
+T_CLI3_X,"Residential clients, detoxification — for non-OTP and non-DUI_DWI "
+T_CLI5_X,"Outpatient clients, regular outpatient care — for non-OTP and non-"
+T_CLI6_X,"Outpatient clients, intensive — for non-OTP and non-DUI_DWI facilities "
+T_CLI7_X,"Outpatient clients, detoxification — for non-OTP and non-DUI_DWI "
+T_CLI8_X,"Outpatient clients, day treatment/partial hospitalization — for non-OTP "
+T_CLI9_X,"Residential clients, short-term detoxification — for non-OTP and non-"
+T_CLI10_X,"Residential clients, long-term detoxification — for non-OTP and non-"
+T_CLIHI_X,Total number of hospital inpatients — for non-OTP and non-DUI_DWI 
+T_CLIML_X,"Outpatient clients, methadone maintenance — for non-OTP and non-"
+T_CLIOP_X,Total number of outpatient clients — for non-OTP and non-DUI_DWI 
+T_CLIRC_X,Total number of residential clients — for non-OTP and non-DUI_DWI 
+STFIPS,Census state FIPS code
+STFIPS,Census state FIPS code

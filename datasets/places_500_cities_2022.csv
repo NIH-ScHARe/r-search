@@ -1,0 +1,22 @@
+﻿Variable,Description
+Year,Year
+StateAbbr,State abbreviation
+StateDesc,State name
+LocationName,Incorporated or Census designated place name
+DataSource,Data Source
+Category,Topic
+Measure,Measure full name
+Data_Value_Unit,"The unit, such as ""%"" for percentage"
+Data_Value_Type,"The data type, such as age-adjusted prevalence or crude prevalence"
+Data_Value,"Data Value, such as 14.7"
+Data_Value_Footnote_Symbol,Footnote Symbol
+Data_Value_Footnote,Footnote Text
+Low_Confidence_Limit,Low Confidence Limit
+High_Confidence_Limit,High Confidence Limit
+TotalPopulation,Total population of Census 2010
+Geolocation,"Latitude, Longitude of city centroid (Format: Point(Longitude Latitude))"
+LocationID,Place FIPS
+CategoryID,Identifier for Topic/Category
+MeasureId,Measure identifier
+DataValueTypeID,Identifier for the Data Value Type
+Short_Question_Text,Measure short name

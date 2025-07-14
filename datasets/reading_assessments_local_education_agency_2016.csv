@@ -1,0 +1,41 @@
+﻿Variable,Description
+STNAM,State Name
+FIPST,The two-digit American National Standards Institute (ANSI) code for state
+LEAID,District NCES ID
+ST_LEAID,"Local Education Agency (District) State ID
+Assigned by State"
+LEANM,District Name
+SCHNAM,School Name (Not in District file)
+NCESSCH,School NCES ID (Not in District file)
+ST_SCHID,"School State ID
+(Not in District file)
+Assigned by State"
+DATE_CUR,Date of data snapshot (“Data current as of” date)
+ALL_[SUBJECT]##numvalid_[SY],Total number of students that completed an assessment and for whom a proficiency level was assigned
+ALL_[SUBJECT]##pctprof_[SY],Percentage of students in the school that scored at or above proficient
+MAM_[SUBJECT]##numvalid_[SY],Number of Native American students that completed an assessment and for whom a proficiency level was assigned
+MAM_[SUBJECT]##pctprof_[SY],Percentage of Native American students that scored at or above proficient
+MAS_[SUBJECT]##numvalid_[SY],Number of Asian/Pacific Islander students that completed an assessment and for whom a proficiency level was assigned
+MAS_[SUBJECT]##pctprof_[SY],Percentage of Asian/Pacific Islander students that scored at or above proficient
+MBL_[SUBJECT]##numvalid_[SY],Number of Black students that completed an assessment and for whom a proficiency level was assigned
+MBL_[SUBJECT]##pctprof_[SY],Percentage of Black students that scored at or above proficient
+MHI_[SUBJECT]##numvalid_[SY],Number of Hispanic students that completed an assessment and for whom a proficiency level was assigned
+MHI_[SUBJECT]##pctprof_[SY],Percentage of Hispanic students that scored at or above proficient
+MTR_[SUBJECT]##numvalid_[SY],Number of students with Two or More Races that completed an assessment and for whom a proficiency level was assigned
+MTR_[SUBJECT]##pctprof_[SY],Percentage of students with Two or More Races that scored at or above proficient
+MWH_[SUBJECT]##numvalid_[SY],Number of White students that completed an assessment and for whom a proficiency level was assigned
+MWH_[SUBJECT]##pctprof_[SY],Percentage of White students that scored at or above proficient
+F_[SUBJECT]##numvalid_[SY],Number of female students that completed an assessment and for whom a proficiency level was assigned
+F_[SUBJECT]##pctprof_[SY],Percentage of female students that scored at or above proficient
+M_[SUBJECT]##numvalid_[SY],Number of male students that completed an assessment and for whom a proficiency level was assigned
+M_[SUBJECT]##pctprof_[SY],Percentage of male students that scored at or above proficient
+CWD_[SUBJECT]##numvalid_[SY],Number of children with disabilities that completed an assessment and for whom a proficiency level was assigned
+CWD_[SUBJECT]##pctprof_[SY],Percentage of children with disabilities that scored at or above proficient
+ECD_[SUBJECT]##numvalid_[SY],Number of economically disadvantaged students that completed an assessment and for whom a proficiency level was assigned
+ECD_[SUBJECT]##pctprof_[SY],Percentage of economically disadvantaged students that scored at or above proficient
+LEP_[SUBJECT]##numvalid_[SY],Number of limited English proficient students that completed an assessment and for whom a proficiency level was assigned
+LEP_[SUBJECT]##pctprof_[SY],Percentage of limited English proficient students that scored at or above proficient
+HOM_[SUBJECT]##numvalid_[SY],Number of homeless students that completed an assessment and for whom a proficiency level was assigned
+HOM_[SUBJECT]##pctprof_[SY],Percentage of homeless students that scored at or above proficient
+MIG_[SUBJECT]##numvalid_[SY],Number of migrant students that completed an assessment and for whom a proficiency level was assigned
+MIG_[SUBJECT]##pctprof_[SY],Percentage of migrant students that scored at or above proficient

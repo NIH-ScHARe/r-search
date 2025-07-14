@@ -1,0 +1,19 @@
+﻿Variable,Description
+Series ID,Unique 20 character code identifying the specific estimate series.
+Series title,Description of the series id.
+SOC 2018 code,"6-digit occupation code as defined 2018 Standard Occupational Classification (SOC) system, see www.bls.gov/soc."
+Occupation,Description of the occupation code.
+Requirement,"Main requirement type: physical demands, environmental conditions, education, training, and experience, as well as cognitive and mental requirements."
+Estimate code,The unique code for the datatype and specific requirement.
+Estimate text,Description of datatype and specific requirement.
+Category code,The code indicating the group of related estimates.
+Category,Description of a group of related estimates.
+Additive code,The code indicating the group of related estimates that sum to together.
+Additive,Description of related estimates that sum to together. 
+Datatype code,The code indicating the estimate measurement.
+Datatype,Description of the estimate measurement.
+Estimate,Estimate value. 
+Standard error,Standard error associated with the estimate.
+Data footnote,Footnote code associated with the series id's data value. See footnote codes tab for more information.
+Standard error footnote,Footnote code associated with the series id's standard error. See footnote codes tab for more information.
+Series footnote,Footnote code associated with the series id. See footnote codes tab for more information.

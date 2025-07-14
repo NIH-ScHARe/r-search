@@ -1,0 +1,12 @@
+﻿Variable,Description
+statefips,state FIPS code
+countyfips,county FIPS code
+year,year
+month,"month of the year, from 1-12"
+day,"day of the month, from 1-31"
+edd,"daily county-level population weighted erythemally weighted daily dose, with the unit of J/m2"
+edr,"daily county-level population weighted erythemally weighted irradiance at local solar noon time, with the unit of Mw/m2"
+i305,"daily county-level population weighted spectral irradiance at local solar noon time at 305 nm, with the unit of mW/m2/nm"
+i310,"daily county-level population weighted spectral irradiance at local solar noon time at 310 nm, with the unit of mW/m2/nm"
+i324,"daily county-level population weighted spectral irradiance at local solar noon time at 324 nm, with the unit of mW/m2/nm"
+i380,"daily county-level population weighted spectral irradiance at local solar noon time at 380 nm, with the unit of mW/m2/nm"

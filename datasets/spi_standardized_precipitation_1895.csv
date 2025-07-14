@@ -1,0 +1,6 @@
+﻿Variable,Description
+year,Year of value
+month,Month of value
+statefips,State FIPS code
+countyfips,County FIPS code
+spi,Standardized_Precipitation

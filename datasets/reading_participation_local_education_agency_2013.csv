@@ -1,0 +1,36 @@
+﻿Variable,Description
+STNAM,State Name
+FIPST,The two-digit American National Standards Institute (ANSI) code for state
+LEAID,District NCES ID
+LEANM,District Name 
+NCESSCH,School NCES ID (Not in District file)
+SCHNAM,School Name (Not in District file)
+ALL_RLA##numpart_1314,Total number of students who participated in an assessment 
+ALL_RLA##pctpart_1314,Percentage of students in the school who participated in an assessment
+MAM_RLA##numpart_1314,Number of Native American students who participated in an assessment
+MAM_RLA##pctpart_1314,Percentage of Native American students who participated in an assessment
+MAS_RLA##numpart_1314,Number of Asian/Pacific Islander students who participated in an assessment
+MAS_RLA##pctpart_1314,Percentage of Asian/Pacific Islander students who participated in an assessment
+MBL_RLA##numpart_1314,Number of Black students who participated in an assessment 
+MBL_RLA##pctpart_1314,Percentage of Black students who participated in an assessment
+MHI_RLA##numpart_1314,Number of Hispanic students who participated in an assessment
+MHI_RLA##pctpart_1314,Percentage of Hispanic students who participated in an assessment  
+MTR_RLA##numpart_1314,Number of students with Two or More Races who participated in an assessment
+MTR_RLA##pctpart_1314,Percentage of students with Two or More Races who participated in an assessment 
+MWH_RLA##numpart_1314,Number of White students who participated in an assessment 
+MWH_RLA##pctpart_1314,Percentage of White students who participated in an assessment
+F_RLA##numpart_1314,Number of female students who participated in an assessment 
+F_RLA##pctpart_1314,Percentage of female students who participated in an assessment 
+M_RLA##numpart_1314,Number of male students who participated in an assessment 
+M_RLA##pctpart_1314,Percentage of male students who participated in an assessment
+CWD_RLA##numpart_1314,Number of children with disabilities (IDEA) who participated in an assessment
+CWD_RLA##pctpart_1314,Percentage of children with disabilities (IDEA) who participated in an assessment 
+ECD_RLA##numpart_1314,Number of economically disadvantaged students who participated in an assessment
+ECD_RLA##pctpart_1314,Percentage of economically disadvantaged students who participated in an assessment
+LEP_RLA##numpart_1314,Number of limited English proficient students who participated in an assessment
+LEP_RLA##pctpart_1314,Percentage of limited English proficient students who participated in an assessment
+HOM_RLA##numpart_1314,Number of homeless enrolled students who participated in an assessment 
+HOM_RLA##pctpart_1314,Percentage of homeless enrolled students who participated in an assessment  
+MIG_RLA##numpart_1314,Number of migrant students who participated  in an assessment
+MIG_RLA##pctpart_1314,Percentage of migrant students who participated  in  an assessment 
+ALL_RLA00numfldtst_1314,Total number of students across all grades who participated in a field test

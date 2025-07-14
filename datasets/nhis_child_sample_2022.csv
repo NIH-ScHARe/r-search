@@ -1,0 +1,433 @@
+Variable,Description
+RECTYPE,Record type
+SRVY_YR,Year of the National Health Interview Survey
+HHX,Randomly assigned household number unique to a household
+WTFA_C,Weight - Final Annual
+URBRRL,2013 NCHS Urban-Rural Classification Scheme for Counties
+REGION,Household region
+PSTRAT,Pseudo-stratum for public-use file variance estimation
+PPSU,Pseudo-PSU for public-use file variance estimation
+HHRESPSC_FLG,Sample Child respondent is the household respondent
+INTV_QRT,Interview quarter
+INTV_MON,Interview month
+HHSTAT_C,Indicates the person is the Sample Child
+CSTATNEW,Recoded CSTAT
+RELTIVP_C,Respondent's relationship to Sample Child
+SEX_C,Sex of Sample Child
+AGEP_C,Age of SC
+HISP_C,Recode: Hispanic ethnicity of SC
+HISPALLP_C,Single and multiple race groups with Hispanic origin
+RACEALLP_C,Single and multiple race groups
+HISDETP_C,Hispanic origin detail
+AFNOW,Full-time active duty screener
+PCNTLT18TC,Top-coded count of persons under 18 in the household
+PCNT18UPTC,Top-coded count of persons 18 or older in the household
+PCNTADLT_C,"Number of adults in Sample Child family, top-coded 3+"
+PCNTKIDS_C,"Number of children in Sample Child family, top-coded 3+"
+OVER65FLG_C,Indicator for at least 1 person aged 65+ in SC family
+MLTFAMFLG_C,Indicator for multifamily household
+MAXEDUCP_C,Highest level of education of the adults in the SC's family
+PHSTAT_C,General health status
+LSATIS11_C,Life satisfaction-number
+ASEV_C,Ever had asthma
+ASTILL_C,Still have asthma
+ASAT12M_C,Asthma episode past 12m
+ASER12M_C,"Asthma ER visit, past 12m"
+PREDIB_C,Ever had prediabetes
+DIBEV_C,Ever had diabetes
+ADHDEV_C,Ever had ADD/ADHD
+ADHDNW_C,Currently has ADD/ADHD
+IDEV1_C,Ever had intellectual disability
+IDNW1_C,Currently has intellectual disability
+ASDEV_C,Ever had autism
+ASDNW_C,Currently has autism
+DDEV_C,Ever had developmental delay
+DDNW_C,Currently has developmental delay
+LDEV_C,Ever had learning disability
+LDNW_C,Currently has learning disability
+HEIGHTTC_C,"Total height in inches, public use"
+WEIGHTLBTC_C,"Weight without shoes (pounds), public use"
+BMICAT_C,"Body Mass Index (BMI), public use"
+WEARGLSS_C,Wear glasses/contact lenses
+VISIONDF_C,Difficulty seeing
+HEARAID_C,Use hearing aid
+HEARINGDF_C,Difficulty hearing sounds
+EQUIP_C,Use of equipment for mobility
+NOEQWLKDF_C,Difficulty walking without using equipment
+EQWLKDF_C,Difficulty walking when using equipment
+WLKDF_C,"Difficulty walking, for those who do not use equipment"
+NOEQWLK100_C,Difficulty walking 100 yards without using equipment
+NOEQWLK13M_C,Difficulty walking 1/3 mile without using equipment
+EQWLK100_C,Difficulty walking 100 yards when using equipment
+EQWLK13M_C,Difficulty walking 1/3 mile when using equipment
+WLK100_C,"Difficulty walking 100 yards, for those who do not use equipment"
+WLK13M_C,"Difficulty walking 1/3 mile, for those who do not use equipment"
+PICKUPDF_C,Motor skills difficulty
+SELFCAREDF_C,Motor skills difficulty
+UNDRSTYOU_C,Child's difficulty understanding respondent
+UNDRSTCHD_C,Respondent's difficulty understanding child
+UNDRSTIHH_C,Difficulty being understood by people inside household
+UNDRSTOHH_C,Difficulty being understood by people outside household
+LEARNDF_C,Difficulty learning things
+REMEMBERDF_C,Difficulty remembering things
+ANXFREQ_C,"How often seems anxious, nervous, or worried"
+DEPFREQ_C,How often seems sad or depressed
+BEHDFPLYG_C,Difficulty playing
+BEHKBHYG_C,"Kick, bite or hit"
+BEHDFCNTR_C,Difficulty controlling behavior
+BEHDFFCS_C,Difficulty concentrating
+BEHDFCHG_C,Difficulty with changes in routine
+BEHDFMKFR_C,Difficulty making friends
+DISAB2_C,"The Washington Group Short Set Composite Disability Indicator, children 2-4"
+DISAB5_C,"The Washington Group Short Set Composite Disability Indicator, children 5-17"
+BSCNWPPL_C,Hard time with new people
+BSCNWPLCS_C,Hard time in new places
+BSCCHG_C,Hard time with change
+BSCHLOPPL_C,Held by other people
+BSCCRYALT_C,Cries a lot
+BSCCLMDWN_C,Hard time calming down
+BSCFUSSY_C,Fussy or irritable
+BSCSTHE_C,Hard to comfort
+BSCSCHD_C,Hard to keep on schedule
+BSCPTSLP_C,Hard to put to sleep
+BSCSTYSLP_C,Trouble staying asleep
+BSCPRLKSL_C,Hard to get sleep due to SC
+SCHDYMSSTC_C,"Days of school missed due to illness/injury past 12 months, top-coded"
+SCHSPEDEV_C,Ever received special education
+SCHSPED_C,Currently receives special education
+SCHSPEDEM_C,Currently receives services for mental health
+NOTCOV_C,Coverage status as used in Health United States
+COVER_C,Health insurance hierarchy
+SINCOVDE_C,Single service plan - dental
+SINCOVVS_C,Single service plan - vision
+SINCOVRX_C,Single service plan - prescription
+MEDICAID_C,Medicaid recode
+MAXCHNG_C,Medicaid through Marketplace
+MAPREM_C,Medicaid premium
+MADEDUC_C,Medicaid deductible
+MAHDHP_C,Medicaid HDHP
+MAFLG_C,Medicaid reassignment flag
+PRIVATE_C,Private health insurance recode
+EXCHANGE_C,"Plan through Health Insurance Exchange, NCHS algorithm"
+POLHLD1_C,Policyholder for private plan 1
+PRPLCOV1_C,Plan coverage for others - plan 1
+PRPLCOV1_A_C,Response to PRPLCOV1_A or PRPLCOV2_A from adult - plan 1
+PLNWRKR1_C,How plan was originally obtained - plan 1
+PLNEXCHG1_C,Health plan obtained through Marketplace - plan 1
+PLN1PAY1_C,Paid for by self or family - plan 1
+PLN1PAY2_C,Paid for by employer or union - plan 1
+PLN1PAY3_C,Paid for by someone outside the household - plan 1
+PLN1PAY5_C,Paid for by Medicaid - plan 1
+PLN1PAY6R_C,Paid for by other government program - plan 1
+HICOSTR1_C,Out-of-pocket premium cost - plan 1
+PRDEDUC1_C,Deductible - plan 1
+PRHDHP1_C,High deductible health plan - plan 1
+HSAHRA1_C,Health Savings Accounts / Health Reimbursement Accounts - plan 1
+PRRXCOV1_C,Plan pays for prescription drug - plan 1
+PRDNCOV1_C,Plan pays for dental care - plan 1
+PRVSCOV1_C,Plan pays for vision care - plan 1
+EXCHPR1_C,"Exchange company coding, NCHS - plan 1"
+PRFLG_C,Private reassignment flag
+PXCHNG1_C,"Marketplace or state exchange, reassigned from public to private"
+PRPREM1_C,Premium on plan reassigned from public to private
+PLEXCHPR1_C,"Exchange company coding, NCHS, reassigned from public to private"
+POLHLD2_C,Policyholder for private plan 2
+PRPLCOV2_C,Plan coverage for others - plan 2
+PRPLCOV2_A_C,Response to PRPLCOV1_A or PRPLCOV2_A from adult - plan 2
+PLNWRKR2_C,How plan was originally obtained - plan 2
+PLNEXCHG2_C,Health plan obtained through Marketplace - plan 2
+PLN2PAY1_C,Paid for by self or family - plan 2
+PLN2PAY2_C,Paid for by employer or union - plan 2
+PLN2PAY3_C,Paid for by someone outside the household - plan 2
+PLN2PAY5_C,Paid for by Medicaid - plan 2
+PLN2PAY6R_C,Paid for by other government program - plan 2
+HICOSTR2_C,Out-of-pocket premium cost - plan 2
+PRDEDUC2_C,Deductible - plan 2
+PRHDHP2_C,High deductible health plan - plan 2
+HSAHRA2_C,Health Savings Accounts / Health Reimbursement Accounts - plan 2
+PRRXCOV2_C,Plan pays for prescription drug - plan 2
+PRDNCOV2_C,Plan pays for dental care - plan 2
+PRVSCOV2_C,Plan pays for vision care - plan 2
+EXCHPR2_C,"Exchange company coding, NCHS - plan 2"
+CHIP_C,Children's Health Insurance Program (CHIP) recode
+CHXCHNG_C,CHIP through Marketplace
+CHPREM_C,Pay CHIP premium
+CHDEDUC_C,CHIP deductible
+CHHDHP_C,CHIP HDHP
+CHFLG_C,CHIP reassignment flag
+OTHPUB_C,State-sponsored health plan recode
+OPXCHNG_C,State-sponsored plan through Marketplace
+OPPREM_C,Pay premium for state-sponsored plan
+OPDEDUC_C,State-sponsored plan deductible
+OPHDHP_C,State-sponsored plan HDHP
+PLEXCHOP_C,"Exchange company coding, NCHS (state-sponsored plan)"
+OPFLG_C,State-sponsored reassignment flag
+OTHGOVR_C,Other government program public use file recode
+OGXCHNGR_C,Other government program through Marketplace
+OGPREMR_C,Pay premium for other government program
+OGDEDUCR_C,Other government program deductible
+OGHDHPR_C,Other government program HDHP
+PLEXCHOGR_C,"Exchange company coding, NCHS (other government program)"
+OGFLGR_C,Other government reassignment flag
+MILITARY_C,Military health care coverage recode
+MILSPC2_C,Types of military health care - TRICARE
+MILSPC3_C,Types of military health care - CHAMP-VA
+IHS_C,Indian Health Service recode
+HILAST_C,How long since last health coverage
+HILASTMY_C,Number of months without coverage
+HISTOPJOB_C,Lost job or changed employers
+HISTOPMISS_C,Missed deadline
+HISTOPAGE_C,Ineligible because of age/left school
+HISTOPCOST_C,Cost increase
+HISTOPELIG_C,"Not eligible for Medicaid, CHIP, or other public coverage"
+RSNHICOST_C,Not affordable
+RSNHIWANT_C,Do not need or want coverage
+RSNHIELIG_C,Not eligible for coverage
+RSNHICONF_C,Signing up too difficult or confusing
+RSNHIMEET_C,Cannot find a plan that meets the needs
+RSNHIWAIT_C,Coverage has not started yet
+RSNHIOTH_C,Another reason
+RSNHIJOB_C,Lost job
+RSNHIMISS_C,Missed deadline
+HINOTYR_C,No health coverage during past 12 months
+HINOTMYR_C,Months without coverage in past 12 months
+HICOV_C,Have health insurance
+HIKIND01R_C,Kind(s) of health insurance - private health insurance public use file
+HIKIND04_C,Kind(s) of health insurance - Medicaid
+HIKIND05_C,Kind(s) of health insurance - CHIP
+HIKIND06_C,Kind(s) of health insurance - military related health care
+HIKIND07_C,Kind(s) of health insurance - Indian Health Service
+HIKIND08_C,Kind(s) of health insurance - State-sponsored health plan
+HIKIND09R_C,Kind(s) of health insurance - Other government program public use file
+HIKIND10_C,Kind(s) of health insurance - No coverage of any type
+MCAIDPRB_C,Medicaid coverage probe
+PAYBLL12M_C,"Problems paying medical bills, past 12m"
+PAYNOBLLNW_C,Unable to pay medical bills
+PAYWORRY_C,"Get sick or have accident, worry about paying medical bills"
+CVDDIAG_C,Ever had COVID-19
+POSTEST_C,Ever had positive COVID-19 test
+CVDSEV_C,Symptoms of COVID-19
+LONGCVD_C,Had COVID-19 symptoms for 3 or more months
+SYMPNOW_C,Currently has COVID-19 symptoms
+DENPREV_C,Time since last dental exam/cleaning
+DENDL12M_C,"Delayed dental care due to cost, past 12m"
+DENNG12M_C,"Needed dental care but did not get it due to cost, past 12m"
+LASTDR_C,Time since last saw doctor
+TIMEALONE_C,Time alone at most recent visit
+WELLNESS_C,Was last visit a wellness visit
+WELLVIS_C,Time since last wellness visit
+PTIMEALONE_C,Time alone at most recent wellness visit
+USUALPL_C,Have a usual place for care
+USPLKIND_C,Type of place for usual care
+PERSDOC_C,Has personal doctor
+URGNT12MTC_C,"Number of times visited urgent care, past 12m, top-coded"
+EMERG12MTC_C,"Number of times visited hospital emergency room, past 12m, top-coded"
+HOSPONGT_C,"Hospitalized overnight, past 12m"
+MEDDL12M_C,"Delayed medical care due to cost, past 12m"
+MEDNG12M_C,"Needed medical care but did not get it due to cost, past 12m"
+VIRAPP12M_C,"Virtual medical appointment, past 12m"
+RX12M_C,"Took prescription medication, past 12m"
+RXDL12M_C,"Delayed filling prescription to save money, past 12m"
+RXDG12M_C,"Needed prescription medication but did not get it due to cost, past 12m"
+SHTFLU12M_C,"Flu vaccine, past 12 months"
+SHTFLUNUM_C,"Number of flu vaccines, past 12 months"
+FLUVAC1M_C,Month of most recent flu vaccine
+FLUVAC1Y_C,Year of most recent flu vaccine
+FLUVAC2M_C,Month of next most recent flu vaccine
+FLUVAC2Y_C,Year of next most recent flu vaccine
+SHTCVD191_C,COVID-19 vaccination
+SHTCVD19NM_C,Number of COVID-19 vaccinations
+CVDVAC1M_C,Month of most recent COVID-19 vaccination
+CVDVAC1Y_C,Year of most recent COVID-19 vaccination
+CVDVAC2M_C,Month of next most recent COVID-19 vaccination
+CVDVAC2Y_C,Year of next most recent COVID-19 vaccination
+SHOTTYPE_C,Brand of first COVID-19 shot
+SHTHPV_C,Ever vaccinated for HPV
+SHTHPVAGE_C,Age received first HPV vaccine
+EYEEX12M_C,"Had eye exam, past 12m"
+THERA12M_C,"Received physical/speech/rehabilitative/occupational therapy, past 12m"
+HOMEHC12M_C,"Received care at home, past 12m"
+MHRX_C,"Took medication for emotions/concentration/behavior/mental health, past 12m"
+MHTHRPY_C,"Received counseling/therapy from mental health professional, past 12m"
+MHTHDLY_C,"Delayed counseling/therapy due to cost, past 12m"
+MHTHND_C,"Needed counseling/therapy but did not get it due to cost, past 12m"
+SUPPORT_C,How often social/emotional support
+COMSUPPORT_C,Presence of community support
+SDQ1_C,Considerate of other people's feelings
+SDQ2_C,"Restless, cannot stay still"
+SDQ3_C,Complains of headaches
+SDQ4_C,Shares readily
+SDQ5_C,Often loses temper
+SDQ6_C,"Solitary, prefers to be alone"
+SDQ7_C,Well behaved
+SDQ8_C,Many worries
+SDQ9_C,Helpful to others
+SDQ10_C,Constantly fidgeting/squirming
+SDQ11_C,At least one good friend
+SDQ12_C,Often fights with others
+SDQ13_C,Often unhappy/depressed/tearful
+SDQ14_C,Liked by other children/youth
+SDQ15_C,Easily distracted
+SDQ16_C,Nervous in new situation
+SDQ17_C,Kind to younger children
+SDQ18_C,Lies or cheats
+SDQ19_C,Picked on or bullied by others
+SDQ20_C,Offers to help others
+SDQ21_C,Thinks things out before acting
+SDQ22_C,Steals from home/school/elsewhere
+SDQ23_C,Gets along better with adults than children/youth
+SDQ24_C,"Many fears, easily scared"
+SDQ25_C,Good attention span
+SDQIMP1_C,"Difficulties with emotions, behaviors"
+SDQIMP2_C,Length of time with difficulties
+SDQIMP3_C,Difficulties upset/distress SC
+SDQIMP4_C,Difficulties interfere with home life
+SDQIMP5_C,Difficulties intefere with friendships
+SDQIMP6_C,Difficulties intefere with classroom learning
+SDQIMP7_C,Difficulties intefere with leisure activities
+SDQIMP8_C,Difficulties put burden on family
+SDQEMOT_C,Emotional Subscale Score
+SDQCOND_C,Conduct Subscale Score
+SDQHYPE_C,Hyperactivity Subscale Score
+SDQPEER_C,Peer problem Subscale Score
+SDQPROS_C,Prosocial Subscale Score
+SDQTOT_C,SDQ total score
+SDQIMPTOT_C,SDQ Impact Score
+VIOLENEV_C,Victim of/witnessed violence
+JAILEV1_C,Ever separated from parent who was incarcerated
+MENTDEPEV_C,Ever lived with anyone mentally ill/severely depressed
+ALCDRUGEV_C,Ever lived with anyone with alcohol/drug problem
+PUTDOWN_C,Lifetime of being put down by adults in home
+BNEEDS_C,Lifetime of lacking basic needs
+UNFAIRRE_C,Treated/judged based on race/ethnicity
+UNFAIRSO_C,Treated/judged based on sexual orientation or gender identity
+BULLYVIC_C,"Frequency of bully victimization, 12m"
+CYBERVIC_C,Cyberbullied in the past 12 months
+BULLYPERP_C,"Frequency of bully perpetration, 12m"
+TBILOSTCON_C,Ever lost consciousness
+TBIDAZED_C,Ever dazed or memory gap
+TBIHEADSYM_C,"Ever headache, vomit, blurred vision, or mood change after blow to head"
+TBICHKCONC_C,Ever checked for concussion
+TBIDRCONC_C,Ever told had a concussion
+SPORT_C,"Participate on sports team, past 12m"
+PEGYM_C,Attend physical education class
+PADAYS_C,How often does sample child exercise
+STRENGTH_C,How often sample child does strength training
+WALK_C,How often does sample child walk
+BIKE_C,How often does sample child bike
+SIDEWALK_C,Areas for walking/bicycling
+PARKS_C,Parks/playgrounds to travel to
+TRAFFIC_C,Traffic causes safety issues
+CRIME_C,Crime causes safety issues
+RESTED_C,Frequency of well-rested
+OUTOFBED_C,Frequency of difficulty getting out of bed
+TIRED_C,Frequency of tired during daytime
+NAPS_C,"Frequency of napping, falling asleep during day"
+BEDTIME_C,Frequency of regular bedtime during school/week nights
+WAKETIME_C,Frequency of regular waketime during school days
+SCREENTIME_C,Does child get 2+ hours screen time daily
+CHIRO_C,Seen or talked to a chiropractor
+CHIROPAIN_C,Chiropractor visit for pain
+CHIROHLTH_C,Chiropractor visit to restore overall health
+ACU_C,Saw a practitioner of acupuncture
+ACUPAIN_C,Acupuncture visit for pain
+ACUHLTH_C,Acupuncture visit to restore overall health
+MASS_C,Saw a practitioner of massage
+MASSPAIN_C,Massage visit for pain
+MASSHLTH_C,Massage visit to restore overall health
+NATUR_C,Saw a practitioner of naturopathy
+NATURPAIN_C,Naturopath visit for pain
+NATURHLTH_C,Naturopath visit to restore overall health
+ARTTHPY_C,Saw an art therapist
+MUSICTHPY_C,Saw a music therapist
+MEDITATE_C,Practice meditation
+MEDIPAIN_C,Meditation for pain
+MEDIHLTH_C,Meditation to restore overall health
+GIPR_C,Use guided imagery or progressive relaxation
+GIPRPAIN_C,Use guided imagery or progressive relaxation for pain
+GIPRHLTH_C,Use guided imagery or progressive relaxation to restore overall health
+YOGA_C,Practice yoga
+YOGABRTH_C,Breathing exercises as part of yoga
+YOGAMED_C,Meditation as part of yoga
+YOGAPAIN_C,Yoga to treat or manage pain
+YOGAHLTH_C,Yoga to restore overall health
+VSLVYR_C,Voice problem in the past 12m
+VSLVDYS_C,Duration of voice problem
+VSLVDIF_C,Amount of difficulty with voice problem
+VSLSWYR_C,Swallowing problem in the past 12m
+VSLSWDYS_C,Duration of swallowing problem
+VSLSWDIF_C,Amount of difficulty with swallowing problem
+VSLSPYR_C,Speech problem in the past 12m
+VSLSPDYS_C,Duration of speech problem
+VSLSPDIF_C,Amount of difficulty with speech problem
+VSLSPST_C,Stuttering problem in the past 12m
+VSLLGYR_C,Language problem in the past 12m
+VSLLGDYS_C,Duration of language problem
+VSLLGDIF_C,Amount of difficulty with language problem
+VSLBRAIN_C,VSL problems following a brain injury
+VSLPA_C,Saw a doctor for treatment in the past 12 months
+VSLPALF_C,Seeing a doctor for treatment in the past 12 months affected life
+VSLBTWR_C,VSL problem better or worse
+RELCHPARENTP1_C,Relationship of first residential parent to sample child
+RELCHPARENTP2_C,Relationship of second residential parent to sample child
+MARITAL1_C,Marital status of first residential parent of sample child
+MARITAL2_C,Marital status of second residential parent of sample child
+PCNTPARNTS_C,Count of all residential parents of the sample child
+MARSTAT1_C,Marital status of the sample child's first residential parent
+MARSTAT2_C,Marital status of the sample child's second residential parent
+LEGMSTAT1_C,Legal marital status of the sample child's first residential parent
+LEGMSTAT2_C,Legal marital status of the sample child's second residential parent
+PARAGETC1_C,"Age of sample child's first residential parent, top-and bottom-coded"
+PARSEX1_C,Sex of sample child's first residential parent
+PARWORK1_C,First residential parent of sample child works for pay at job/business
+PARWKFT1_C,Sample child's first residential parent works 35+ hours per week
+PARAGETC2_C,"Age of sample child's second residential parent, top-and bottom-coded"
+PARSEX2_C,Sex of sample child's second residential parent
+PARWORK2_C,Second residential parent of sample child works for pay at job/business
+PARWKFT2_C,Sample child's second residential parent works 35+ hours per week
+SCPARHISP_C,Sample child has the same Hispanic ethnicity as ALL residential parents
+HISPPARSC_C,All residential parents of the sample child are of the same Hispanic ethnicity
+SCPARRAC_C,Sample child has the same race as ALL residential parents
+RACPARSC_C,All residential parents of the sample child are of the same race
+MAXPAREDUP_C,Highest level of education of all SC's parents
+PARSAMEOPP_C,"In two-parent SC families, are the parents of the same sex or opposite sex?"
+SCFAMSTR_C,Family structure of sample child
+SCPARENTSC_C,Sample child relationship to sample adult
+NATUSBORN_C,Born in U.S. or U.S. territory
+YRSINUS_C,Years that sample child has been in the United States
+CITZNSTP_C,Citizenship status
+PCNTADTWKP_C,Number of adults in sample child's family who are working
+PCNTADTWFP_C,Number of adults in sample child's family who are working full-time
+INCWRKO_C,Income from wages
+INCINTER_C,Income from accounts
+INCSSRR_C,Income from SS/Railroad Retirement
+INCSSISSDI_C,Family income from SSDI
+SSISSDIBTH_C,Which family income SSI/SSDI
+SSISSDIDSB_C,SSI/SSDI due to disability
+INCWELF_C,Income from public assistance
+INCRETIRE_C,Income from retirement
+INCOTHR_C,Income from other sources
+IMPNUM_C,Imputation number
+POVRATTC_C,Sample child family poverty ratio (top-coded)
+RATCAT_C,Ratio of family income to poverty threshold for SC's family
+IMPINCFLG_C,Imputed SC family income imputation flag
+INCTCFLG_C,Sample child family income top-code flag
+FSNAP12M_C,"Receive food stamps, past 12m"
+FSNAP30D_C,"Received food stamps, past 30d"
+FWIC12M_C,"Received WIC benefits, past 12m"
+FLUNCH12M_C,Free or reduced meals at school
+FDSRUNOUT_C,Worry food would run out
+FDSLAST_C,Food didn't last
+FDSBALANCE_C,Couldn't afford to eat balanced meals
+FDSSKIP_C,Cut the size of meals or skip meals
+FDSSKIPDYS_C,How many days did you/adults in the family cut the size of meals or skip meals
+FDSLESS_C,Eat less than should
+FDSHUNGRY_C,Ever hungry because not enough money for food
+FDSWEIGHT_C,Lose weight because not enough money for food
+FDSNOTEAT_C,Not eat for a whole day
+FDSNEDAYS_C,How many days not eat
+FDSCAT3_C,Child 3 category food security recode
+FDSCAT4_C,Child 4 category food security recode
+HOUYRSLIV_C,Length of time in house/apartment
+HOUTENURE_C,Residence owned/rented
+HOUGVASST_C,Paying lower rent

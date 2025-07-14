@@ -1,0 +1,15 @@
+﻿Variable,Description
+   RECTYPE   ,File type identifier
+   SRVY_YR   ,Year of Native Hawaiian and Pacific Islander Survey (NHPI)
+   HHX       ,Household Number
+   WTIA_HH   ,Weight - Interim Annual
+   WTFA_HH   ,Weight - Final Annual
+   LIVQRT    ,Type of Living Quarters
+   NON_INTV  ,Category of type A non-response
+   ACPT_FAM  ,Number of families in HH responding
+   REJ_FAM   ,Number of families in HH not responding
+   ACPT_PER  ,Number of persons in HH responding
+   REJ_PER   ,Number of persons in HH not responding
+   ACPTCHLD  ,Number of children in HH that responded
+   VAR_STR   ,Pseudo-stratum for variance estimation
+   VAR_PSU   ,Pseudo-PSU for variance estimation

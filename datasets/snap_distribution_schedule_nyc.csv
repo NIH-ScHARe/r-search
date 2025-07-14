@@ -1,0 +1,21 @@
+﻿Variable,Description
+statefips,two-digit state FIPS code
+state,State name
+countyfips,five-digit state-county FIPS code
+county,County name
+year,year (YYYY)
+month,month (MM)
+yearmonth,year-month (YYYYMM)
+firstdate,earliest distribution date in month
+lastdate,last distribution date in month
+notesapply,notes apply -- see notes tab
+day1,1st day of distribution
+day2,2nd day of distribution
+day3,3rd day of distribution
+day4,4th day of distribution
+day5,5th day of distribution
+day6,6th day of distribution
+day7,7th day of distribution
+day8,8th day of distribution
+day9,9th day of distribution
+day10,10th day of distribution

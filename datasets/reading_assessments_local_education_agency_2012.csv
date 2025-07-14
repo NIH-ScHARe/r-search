@@ -1,0 +1,35 @@
+﻿Variable,Description
+STNAM,State Name
+FIPST,Federal Information Processing Standard code
+LEAID,Local Education Agency (district) NCES ID
+LEANM,Local Education Agency (district) Name (from NCES Common Core of Data)
+NCESSCH,School NCES ID
+SCHNAM,School Name (from NCES Common Core of Data)
+ALL_RLA##numvalid_1213,Total number of students that took a test and received a valid score
+ALL_RLA##pctprof_1213,Percentage of students in the school that scored at or above proficient
+MAM_RLA##numvalid_1213,Number of Native American students that took a test and received a valid score
+MAM_RLA##pctprof_1213,Percentage of Native American students that scored at or above proficient
+MAS_RLA##numvalid_1213,Number of Asian/Pacific Islander students that took a test and received a valid score
+MAS_RLA##pctprof_1213,Percentage of Asian/Pacific Islander students that scored at or above proficient
+MBL_RLA##numvalid_1213,Number of Black students that took a test and received a valid score
+MBL_RLA##pctprof_1213,Percentage of Black students that scored at or above proficient
+MHI_RLA##numvalid_1213,Number of Hispanic students that took a test and received a valid score
+MHI_RLA##pctprof_1213,Percentage of Hispanic students that scored at or above proficient
+MTR_RLA##numvalid_1213,Number of students with Two or More Races that took a test and received a valid score
+MTR_RLA##pctprof_1213,Percentage of students with Two or More Races that scored at or above proficient
+MWH_RLA##numvalid_1213,Number of White students that took a test and received a valid score
+MWH_RLA##pctprof_1213,Percentage of White students that scored at or above proficient
+F_RLA##numvalid_1213,Number of female students that took a test and received a valid score
+F_RLA##pctprof_1213,Percentage of female students that scored at or above proficient
+M_RLA##numvalid_1213,Number of male students that took a test and received a valid score
+M_RLA##pctprof_1213,Percentage of male students that scored at or above proficient
+CWD_RLA##numvalid_1213,Number of children with disabilities that took a test and received a valid score
+CWD_RLA##pctprof_1213,Percentage of children with disabilities that scored at or above proficient
+ECD_RLA##numvalid_1213,Number of economically disadvantaged students that took a test and received a valid score
+ECD_RLA##pctprof_1213,Percentage of economically disadvantaged students that scored at or above proficient
+LEP_RLA##numvalid_1213,Number of limited English proficient students that took a test and received a valid score
+LEP_RLA##pctprof_1213,Percentage of limited English proficient students that scored at or above proficient
+HOM_RLA##numvalid_1213,Number of homeless students that took a test and received a valid score
+HOM_RLA##pctprof_1213,Percentage of homeless students that scored at or above proficient
+MIG_RLA##numvalid_1213,Number of migrant students that took a test and received a valid score
+MIG_RLA##pctprof_1213,Percentage of migrant students that scored at or above proficient
