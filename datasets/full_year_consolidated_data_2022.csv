@@ -1,0 +1,916 @@
+﻿Variable,Description
+DUID,Panel # + Encrypted DU Identifier
+PID,Person Number
+DUPERSID,Person ID (DUID + PID)
+PANEL,Panel Number
+DATAYEAR,Survey Data Year
+FAMID31,Family ID (Student Merged In) - R3/1
+FAMID42,Family ID (Student Merged In) - R4/2
+FAMID53,Family ID (Student Merged In) - R5/3
+FAMID22,Family ID (Student Merged In) - 12/31/22
+FAMIDYR,Annual Family Identifier
+CPSFAMID,CPS-Like Family Identifier
+FCSZ1231,Family Size Responding 12/31 CPS Family
+FCRP1231,Ref Person of 12/31 CPS Family
+RULETR31,RU Letter - R3/1
+RULETR42,RU Letter - R4/2
+RULETR53,RU Letter - R5/3
+RULETR22,RU Letter as of 12/31/22
+RUSIZE31,RU Size - R3/1
+RUSIZE42,RU Size - R4/2
+RUSIZE53,RU Size - R5/3
+RUSIZE22,RU Size as of 12/31/22
+RUCLAS31,"RU fielded as: Standard/New/Student -
+R3/1"
+RUCLAS42,"RU fielded as: Standard/New/Student -
+R4/2"
+RUCLAS53,"RU fielded as: Standard/New/Student -
+R5/3"
+RUCLAS22,"RU fielded as: Standard/New/Stud-
+12/31/22"
+FAMSZE31,RU Size Including Students - R3/1
+FAMSZE42,RU Size Including Students - R4/2
+FAMSZE53,RU Size Including Students - R5/3
+FAMSZE22,RU Size Including Students as of 12/31/22
+FMRS1231,Member of Responding 12/31 Family
+FAMS1231,Family Size of Responding 12/31 Family
+FAMSZEYR,Size of Responding Annualized Family
+FAMRFPYR,Reference Person of Annualized Family
+REGION31,Census Region - R3/1
+REGION42,Census Region - R4/2
+REGION53,Census Region - R5/3
+REGION22,Census Region as of 12/31/22
+REFPRS31,Reference Person at - R3/1
+REFPRS42,Reference Person at - R4/2
+REFPRS53,Reference Person at - R5/3
+REFPRS22,Reference Person as of 12/31/22
+RESP31,1st Respondent Indicator for R3/1
+RESP42,1st Respondent Indicator for R4/2
+RESP53,1st Respondent Indicator for R5/3
+RESP22,1st Respondent Indicator as of 12/31/22
+PROXY31,Was Respondent a Proxy in R3/1
+PROXY42,Was Respondent a Proxy in R4/2
+PROXY53,Was Respondent a Proxy in R5/3
+PROXY22,Was Respondent a Proxy as of 12/31/22
+INTVLANG,Language Interview Was Completed
+INTVTYPE31,"Was Interview In-Person, By Phone, Or By
+Video R3/1"
+INTVTYPE42,"Was Interview In-Person, By Phone, Or By
+Video R4/2"
+INTVTYPE53,"Was Interview In-Person, By Phone, Or By
+Video R5/3"
+BEGRFM31,R3/1 Reference Period Begin Date: Month
+BEGRFY31,R3/1 Reference Period Begin Date: Year
+ENDRFM31,R3/1 Reference Period End Date: Month
+ENDRFY31,R3/1 Reference Period End Date: Year
+BEGRFM42,R4/2 Reference Period Begin Date: Month
+BEGRFY42,R4/2 Reference Period Begin Date: Year
+ENDRFM42,R4/2 Reference Period End Date: Month
+ENDRFY42,R4/2 Reference Period End Date: Year
+BEGRFM53,R5/3 Reference Period Begin Date: Month
+BEGRFY53,R5/3 Reference Period Begin Date: Year
+ENDRFM53,R5/3 Reference Period End Date: Month
+ENDRFY53,R5/3 Reference Period End Date: Year
+ENDRFM22,2022 Reference Period End Date: Month
+ENDRFY22,2022 Reference Period End Date: Year
+KEYNESS,Person Key Status
+INSCOP31,Inscope - R3/1
+INSCOP42,Inscope - R4/2
+INSCOP53,Inscope - R5/3
+INSCOP22,Inscope - R5/3 Start through 12/31/22
+INSC1231,Inscope Status on 12/31/22
+INSCOPE,Was Person Ever Inscope in 2022
+ELGRND31,Eligibility - R3/1
+ELGRND42,Eligibility - R4/2
+ELGRND53,Eligibility - R5/3
+ELGRND22,Eligibility Status as of 12/31/22
+PSTATS31,Person Disposition Status - R3/1
+PSTATS42,Person Disposition Status - R4/2
+PSTATS53,Person Disposition Status - R5/3
+RURSLT31,RU Result - R3/1
+RURSLT42,RU Result - R4/2
+RURSLT53,RU Result - R5/3
+AGE31X,Age - R3/1 (Edited/Imputed)
+AGE42X,Age - R4/2 (Edited/Imputed)
+AGE53X,Age - R5/3 (Edited/Imputed)
+AGE22X,Age as of 12/31/22 (Edited/Imputed)
+AGELAST,Personâ€™s Age Last Time Eligible
+DOBMM,Date of Birth: Month
+DOBYY,Date of Birth: Year
+SEX,Sex
+RACEV1X,Race (Edited/Imputed)
+RACEV2X,Race (Edited/Imputed)
+RACEAX,Asian Among Races Rptd (Edited/Imputed)
+RACEBX,Black Among Races Rptd (Edited/Imputed)
+RACEWX,White Among Races Rptd (Edited/Imputed)
+RACETHX,Race/Ethnicity (Edited/Imputed)
+HISPANX,Hispanic Ethnicity (Edited/Imputed)
+HISPNCAT,Hispanic Ethnicity (Edited/Imputed)
+MARRY31X,Marital Status - R3/1 (Edited/Imputed)
+MARRY42X,Marital Status - R4/2 (Edited/Imputed)
+MARRY53X,Marital Status - R5/3 (Edited/Imputed)
+MARRY22X,Marital Status-12/31/22 (Edited/Imputed)
+SPOUID31,Spouse ID - R3/1
+SPOUID42,Spouse ID - R4/2
+SPOUID53,Spouse ID - R5/3
+SPOUID22,Spouse ID - 12/31/22
+SPOUIN31,Marital Status w/ Spouse Present - R3/1
+SPOUIN42,Marital Status w/ Spouse Present - R4/2
+SPOUIN53,Marital Status w/ Spouse Present - R5/3
+SPOUIN22,Marital Status w/Spouse Present-12/31/22
+EDUCYR,Years of Educ When First Entered MEPS
+HIDEG,Highest Degree When First Entered MEPS
+FTSTU31X,Student Status if Ages 17-23 - R3/1
+FTSTU42X,Student Status if Ages 17-23 - R4/2
+FTSTU53X,Student Status if Ages 17-23 - R5/3
+FTSTU22X,Student Status if Ages 17-23 - 12/31/22
+ACTDTY31,Military Full-Time Active Duty - R3/1
+ACTDTY42,Military Full-Time Active Duty - R4/2
+ACTDTY53,Military Full-Time Active Duty - R5/3
+REFRL31X,Relation to Ref Pers - R3/1 (Edit/Imp)
+REFRL42X,Relation to Ref Pers - R4/2 (Edit/Imp)
+REFRL53X,Relation to Ref Pers - R5/3 (Edit/Imp)
+REFRL22X,Relation to Ref Pers - 12/31/22 (Edit/Imp)
+OTHLGSPK,Speak Other Language at Home
+WHTLGSPK,What Language Spoken Other Than English
+HWELLSPK,How Well Person Speaks English
+BORNUSA,Person Born in the US
+YRSINUS,Years Person Lived in the US
+MOPID31X,PID of Personâ€™s Mom - RD 3/1
+MOPID42X,PID of Personâ€™s Mom - RD 4/2
+MOPID53X,PID of Personâ€™s Mom - RD 5/3
+DAPID31X,PID of Personâ€™s Dad - RD 3/1
+DAPID42X,PID of Personâ€™s Dad - RD 4/2
+DAPID53X,PID of Personâ€™s Dad - RD 5/3
+FILEDR22,Has Person Filed A Fed Income Tax Return
+WILFIL22,Will Person File Fed Income Tax Return
+FLSTAT22,Personâ€™s Filing Status
+FILER22,Primary Or Secondary Filer
+JTINRU22,Joint Filerâ€™s Membership In RU
+JNTPID22,PID of Joint Filer
+TAXFRM22,Tax Form Person Will File
+FOODST22,Did Anyone Receive Food Stamps
+FOODMN22,Number Of Months Food Stamps Received
+FOODVL22,Monthly Value Of Food Stamps
+TTLP22X,Personâ€™s Total Income
+FAMINC22,Familyâ€™s Total Income
+POVCAT22,Family Income As Percent Of Poverty Line - Categorical
+POVLEV22,Family Income As Percent Of Poverty Line - Continuous
+WAGEP22X,Personâ€™s Wage Income
+WAGIMP22,Wage Imputation Flag
+BUSNP22X,Personâ€™s Business Income
+BUSIMP22,Business Income Imputation Flag
+UNEMP22X,Personâ€™s Unemployment Comp Income
+UNEIMP22,Unemployment Imputation Flag
+WCMPP22X,Personâ€™s Workersâ€™ Compensation
+WCPIMP22,Workers' Comp Imputation Flag
+INTRP22X,Personâ€™s Interest Income
+INTIMP22,Interest Imputation Flag
+DIVDP22X,Personâ€™s Dividend Income
+DIVIMP22,Dividend Imputation Flag
+SALEP22X,Personâ€™s Sales Income
+SALIMP22,Sales Income Imputation Flag
+PENSP22X,Personâ€™s Pension Income
+PENIMP22,Pension Income Imputation Flag
+SSECP22X,Personâ€™s Social Security Income
+SSCIMP22,Social Security Imputation Flag
+TRSTP22X,Personâ€™s Trust/Rent Income
+TRTIMP22,Trust Income Imputation Flag
+VETSP22X,Personâ€™s Veteranâ€™s Income
+VETIMP22,Veteran's Income Imputation Flag
+IRASP22X,Personâ€™s Ira Income
+IRAIMP22,Ira Income Imputation Flag
+ALIMP22X,Personâ€™s Alimony Income
+ALIIMP22,Alimony Income Imputation Flag
+CHLDP22X,Personâ€™s Child Support
+CHLIMP22,Child Support Imputation Flag
+CASHP22X,Personâ€™s Other Regular Cash Contrib
+CSHIMP22,Cash Contribution Imputation Flag
+SSIP22X,Personâ€™s SSI
+SSIIMP22,SSI Imputation Flag
+PUBP22X,Personâ€™s Public Assistance
+PUBIMP22,Public Assistance Imputation Flag
+OTHRP22X,Personâ€™s Other Income
+OTHIMP22,Other Income Imputation Flag
+HIEUIDX,Health Insurance Eligibility Unit Identifier
+HIBPDX,High Blood Pressure Diag (>17)
+HIBPAGED,Age of Diagnosis-High Blood Pressure
+BPMLDX,Mult Diag High Blood Press (>17)
+CHDDX,Coronary Hrt Disease Diag (>17)
+CHDAGED,Age of Diagnosis-Coronary Heart Disease
+ANGIDX,Angina Diagnosis (>17)
+ANGIAGED,Age of Diagnosis-Angina
+MIDX,Heart Attack (MI) Diag (>17)
+MIAGED,Age of Diagnosis-Heart Attack (MI)
+OHRTDX,Other Heart Disease Diag (>17)
+OHRTAGED,Age of Diagnosis-Other Heart Disease
+OHRTTYPE,Type of Other Heart Disease (>17)
+STRKDX,Stroke Diagnosis (>17)
+STRKAGED,Age of Diagnosis-Stroke
+EMPHDX,Emphysema Diagnosis (>17)
+EMPHAGED,Age of Diagnosis-Emphysema
+CHBRON31,Chronc Bronchits Last 12 Mths (>17)-R3/1
+CHOLDX,High Cholesterol Diagnosis (>17)
+CHOLAGED,Age of Diagnosis-High Cholesterol
+CANCERDX,Cancer Diagnosis (>17)
+CABLADDR,Cancer Diagnosed - Bladder (>17)
+CABREAST,Cancer Diagnosed - Breast (>17)
+CACERVIX,Cancer Diagnosed - Cervical (>17)
+CACOLON,Cancer Diagnosed - Colon (>17)
+CALUNG,Cancer Diagnosed - Lung (>17)
+CALYMPH,"Cancer Diagnosed - Lymphoma (Non-
+Hodgkinâ€™s) (>17)"
+CAMELANO,Cancer Diagnosed - Skin Melanoma (>17)
+CAOTHER,Cancer Diagnosed - Other (>17)
+CAPROSTA,Cancer Diagnosed - Prostate (>17)
+CASKINNM,Cancer Diagnosed - Skin-Nonmelano (>17)
+CASKINDK,Cancer Diagnosed - Skin-Unknown Type (>17)
+CAUTERUS,Cancer Diagnosed - Uterine (>17)
+DIABDX_M18,Diabetes Diagnosis
+DIABAGED,Age of Diagnosis-Diabetes
+JTPAIN31_M18,Joint Pain Last 12 Months (>17) - RD 3/1
+ARTHDX,Arthritis Diagnosis (>17)
+ARTHTYPE,Type Of Arthritis Diagnosed (>17)
+ARTHAGED,Age of Diagnosis-Arthritis
+ASTHDX,Asthma Diagnosis
+ASTHAGED,Age of Diagnosis-Asthma
+ASSTIL31,Does Person Still Have Asthma - RD 3/1
+ASATAK31,Asthma Attack Last 12 Mos- RD 3/1
+ASTHEP31,When Was Last Episode Of Asthma - RD 3/1
+ASACUT31,Used Acute Pres Inhaler Last 3 Mos - RD 3/1
+ASMRCN31,Used >3 Acute Cn Pres Inh Last 3 Mos - RD 3/1
+ASPREV31,Ever Used Prev Daily Asthma Meds - RD 3/1
+ASDALY31,Now Take Prev Daily Asthma Meds - RD 3/1
+ASPKFL31,Have Peak Flow Meter At Home - RD 3/1
+ASEVFL31,Ever Used Peak Flow Meter - RD 3/1
+ASWNFL31,When Last Used Peak Flow Meter - RD 3/1
+ADHDADDX,ADHD/ADD Diagnosis (5-17)
+ADHDAGED,Age of Diagnosis-ADHD/ADD
+COVIDEVER53,Ever Had COVID-19 - RD 5/3
+LCEVER53,"Ever had COVID-19 Symptoms Lasting â‰¥ 3
+Months (Long Covid) - RD 5/3"
+COVSYMNOW53,"Has COVID-19 or Long COVID-19 Symptoms
+Now - RD 5/3"
+COVREDABIL53,"Reduced Ability from COVID-19 or Long
+COVID-19 Symptoms- RD 5/3"
+COVID12MO53,"Had COVID-19 in the Past 12 MONTHS - RD
+5/3"
+COVMNTHX53,Month Last had COVID-19 - RD 5/3
+COVYRDX53,Year Last had COVID-19 - RD 5/3
+RTHLTH31,Perceived Health Status - RD 3/1
+RTHLTH42,Perceived Health Status - RD 4/2
+RTHLTH53,Perceived Health Status - RD 5/3
+MNHLTH31,Perceived Mental Health Status - RD 3/1
+MNHLTH42,Perceived Mental Health Status - RD 4/2
+MNHLTH53,Perceived Mental Health Status - RD 5/3
+IADLHP31,IADL Screener - RD 3/1
+ADLHLP31,ADL Screener - RD 3/1
+AIDHLP31,Used Assistive Devices - RD 3/1
+WLKLIM31,Limitation in Physical Functioning - RD 3/1
+LFTDIF31,Difficulty Lifting 10 Pounds - RD 3/1
+STPDIF31,Difficulty Walking up 10 Steps - RD 3/1
+WLKDIF31,Difficulty Walking 3 Blocks - RD 3/1
+MILDIF31,Difficulty Walking a Mile - RD 3/1
+STNDIF31,Difficulty Standing 20 Minutes - RD 3/1
+BENDIF31,Difficulty Bending/Stooping - RD 3/1
+RCHDIF31,Difficulty Reaching Overhead - RD 3/1
+FNGRDF31,Difficulty Using Fingers to Grasp - RD 3/1
+ACTLIM31,Any Limitation Work/Housewrk/Schl - RD 3/1
+WRKLIM31,Work Limitation - RD 3/1
+HSELIM31,Housework Limitation - RD 3/1
+SCHLIM31,School Limitation - RD 3/1
+UNABLE31,Completely Unable to Do Activity - RD 3/1
+SOCLIM31,Social Limitations - RD 3/1
+COGLIM31,Cognitive Limitations - RD 3/1
+DFHEAR42,Serious Difficulty Hearing-RD4/2
+DFSEE42,Serious Difficulty See w/Glasses-RD4/2
+DFCOG42,Serious Cognitive Difficulties-RD4/2
+DFWLKC42,Serious Difculty Wlk/Climb Stairs-RD4/2
+DFDRSB42,Difficulty Dressing/Bathing-RD4/2
+DFERND42,Difficulty Doing Errands Alone-RD4/2
+ANYLMI22,"Any Limitation in P24R7,8/P26R3,4/P27R1,2"
+CHPMED42,CSHCN: Child Needs Prescrb Med(0-17)-R4/2
+CHPMHB42,"CSHCN: Pmed for Hlth/Behv Cond (0-17)-
+R4/2"
+CHPMCN42,"CSHCN: Pmed Cond Last 12+ Mos (0-17)-
+R4/2"
+CHSERV42,"CSHCN: Chld Needs Med&Oth Serv (0-17)-
+R4/2"
+CHSRHB42,CSHCN: Serv for Hlth/Behv Cond(0-17)-R4/2
+CHSRCN42,CSHCN: Serv Cond Last 12+ Mos (0-17)-R4/2
+CHLIMI42,CSHCN: Limited in Any Way (0-17)-R4/2
+CHLIHB42,CSHCN: Limt for Hlth/Behv Cond(0-17)-R4/2
+CHLICO42,"CSHCN: Limit Cond Last 12+ Mos (0-17)-
+R4/2"
+CHTHER42,"CSHCN: Chld Needs Spec Therapy (0-17)-
+R4/2"
+CHTHHB42,CSHCN: Spec Ther for Hlth+Cond(0-17)-R4/2
+CHTHCO42,CSHCN: Ther Cond Last 12+ Mos (0-17)-R4/2
+CHCOUN42,CSHCN: Child Needs Counseling (0-17)-R4/2
+CHEMPB42,"CSHCN: Couns Prob Last 12+ Mos (0-17)-
+R4/2"
+CSHCN42,CSHCN:Child w/Spec HC Needs (0-17)-R4/2
+MESHGT42,Doctor Ever Measured Height (0-17) - R4/2
+WHNHGT42,When Doctor Measured Height (0-17) - R4/2
+MESWGT42,Doctor Ever Measured Weight (0-17) - R4/2
+WHNWGT42,When Doctor Measured Weight (0-17) - R4/2
+CHBMIX42,Childâ€™s Body Mass Index (6-17) - R4/2
+MESVIS42,Doctor Checked Childâ€™s Vision (3-6) - R4/2
+EATHLT42,Dr Advise Eat Healthy (2-17) - R4/2
+WHNEAT42,When Dr Advise Eat Healthy (2-17) - R4/2
+PHYSCL42,Dr Advise Exercise (2-17) - R4/2
+WHNPHY42,When Dr Advise Exercise (2-17) - R4/2
+SAFEST42,Dr Advise Chld Safety Seat (Wt<=40) - R4/2
+WHNSAF42,When Dr Advise Safety Seat (Wt<=40) - R4/2
+BOOST42,Dr Advise Booster Seat (40<Wt<=80) - R4/2
+WHNBST42,"Whn Dr Advise Booster Seat(40<Wt<=80) -
+R4/2"
+LAPBLT42,Dr Advise Lap/Shoulder Belt (80<Wt) - R4/2
+WHNLAP42,Whn Dr Advise Lap/Shldr Blt (80<Wt) - R4/2
+HELMET42,Dr Advise Bike Helmet (2-17) - R4/2
+WHNHEL42,When Dr Advise Bike Helmet (2-17) - R4/2
+NOSMOK42,Dr Advise Smkg in Home is Bad(0-17) - R4/2
+WHNSMK42,"Whn Dr Advis Smkg in Home Bad(0-17) -
+R4/2"
+TIMALN42,Doctor Spend Any Time Alone (12-17) - R4/2
+LSTETH53,Lost All Uppr And Lowr Teeth (>17) - RD 5/3
+PHYEXE53,Mod/Vig Phys Exec 5X Wk (>17) - RD 5/3
+OFTSMK53,How Oftn Smoke Cigarettes (>17) - RD 5/3
+COVAXEVR31,Ever Had COVID-19 Vaccine-RD 3/1
+COVAXEVR42,Ever Had COVID-19 Vaccine-RD 4/2
+COVAXEVR53,Ever Had COVID-19 Vaccine-RD 5/3
+BOOSTERSHOT31,Ever Had COVID-19 Booster Shot-RD 3/1
+BOOSTERSHOT42,Ever Had COVID-19 Booster Shot-RD 4/2
+COVAXNEW53,"Had COVID-19 Vaccine Since Prior Round-
+RD 5/3"
+SAQELIG,Eligibility Status for SAQ
+ADPROX42,SAQ: Relationship of Proxy to Adult
+ADSEX42,SAQ: Survey Gender
+ADAGE42,SAQ: Survey Age
+ADGENH42,SAQ: Health in General VR-12
+ADDAYA42,SAQ: Hlth Limits Mod Activities VR-12
+ADCLIM42,SAQ: Hlth Limits Climbing Stairs VR-12
+ADACLS42,SAQ 4Wks:Accmp Less B/C Phy Prbs VR-12
+ADWKLM42,SAQ 4Wks:Work Limt B/C Phy Probs VR-12
+ADEMLS42,SAQ 4Wks:Accmp Less B/C Mnt Prbs VR-12
+ADMWCF42,SAQ 4Wks:Work Limt B/C Mnt Probs VR-12
+ADPAIN42,SAQ 4Wks:Pain Limits Normal Work VR-12
+ADPCFL42,SAQ 4Wks: Felt Calm/Peaceful VR-12
+ADENGY42,SAQ 4Wks: Had a Lot of Energy VR-12
+ADPRST42,SAQ 4Wks: Felt Downhearted/Depr VR-12
+ADSOCA42,SAQ 4Wks: Hlth Stopped Soc Activ VR-12
+ADCOMPAN42,SAQ: Feel Lack Companionship
+ADLEFTOUT42,SAQ: Feel Left Out
+ADISOL42,SAQ: Feel Isolated
+ADNERV42,SAQ 30 Days: How Often Felt Nervous
+ADHOPE42,SAQ 30 Days: How Often Felt Hopeless
+ADREST42,SAQ 30 Days: How Often Felt Restless
+ADSAD42,SAQ 30 Days: How Often Felt Sad
+ADEFRT42,SAQ 30 Days: How Oftn Everythng an Effort
+ADWRTH42,SAQ 30 Days: How Often Felt Worthless
+K6SUM42,SAQ 30 Days: Overall Rating of Feelings
+ADINTR42,SAQ 2 Wks: Little Interest in Things
+ADDPRS42,SAQ 2 Wks: Felt Down/Depressed/Hopeless
+PHQ242,SAQ 2 Wks: Overall Rating of Feelings
+ADSLEEP42,SAQ How Often Trouble With Sleep
+ADDAYEXER42,SAQ: 30 DAYS Avg Days Per Wk Mod Exrcs
+ADMINSEXER42,SAQ: 30 DAYS Min Per Day Mod Exrcs
+ADASKALC42,SAQ 12 MTHS: Alcohol Consumption
+ADNUMDRK42,SAQ 12 MTHS: Number Drinks Typical Day
+ADRNK542_M20,SAQ 12 MTHS: Had 5+ Drinks Per Day
+ADRNK442_M20,SAQ 12 MTHS: Had 4+ Drinks Per Day
+ADOFTALC42,"SAQ 12 MTHS: Asked How Much Or Often
+Alcohol"
+ADSTAL42,SAQ 12 MTHS: Advised To Stop Alcohol
+ADMNTRT42,"SAQ 12 MTHS: Get Counsel Trtment
+Medicine"
+ADPROBTRT42,"SAQ 12 MTHS: Problem Needed Counsel
+Trtment"
+ADUNABTRT42,"SAQ 12 MTHS: Not Get Needed Counsel
+Trtment"
+ADTRTEXP42,SAQ Worry Family Finance Stability M Health
+ADLATERENT42,SAQ: 12 MTHS Pay Rent/Mortg Late
+ADLATEUTIL42,SAQ: 12 MTHS Pay Utility Late
+ADMISSCCLN42,SAQ: 12 MTHS Miss Card Or Loan Pymt
+ADDEBT42,SAQ: 12 MTHS Contact Collection
+ADUNEXPEXP42,SAQ: Cover Unexpected Expense
+ADBRTC42,"SAQ 12 MTHS: Birth Control Counseling Or
+Info"
+ADMDVT42,SAQ: Last Time Dr Visit
+ADFLST42,SAQ 12 MTHS: Flu Vaccination
+ADWGHD42,SAQ 12 MTHS: Weighed By Professional
+ADWTAD42,SAQ 12 MTHS: Weight Management Advice
+ADTBAC42,SAQ 12 MTHS: Did Dr Ask About Tobacco
+ADOFTB42,SAQ 12 MTHS: How Often Use Tobacco
+ADQTTB42,SAQ 12 MTHS: Did Dr Advise Quit Tobacco
+ADQTMD42,SAQ 12 MTHS: Dr Advs Meds To Quit Tobac
+ADQTHP42,SAQ 12 MTHS: Dr Advs Oth Way Quit Tobac
+ADMOOD42,SAQ 12 MTHS: Dr Ask Anxious/Deprssed
+ADBPCK42,SAQ 24 MTHS: Dr Check Blood Pressure
+ADCHLC42,SAQ 5 YRS: Dr Check Cholesterol
+ADPNEU42,SAQ: Ever Had Pneumonia Shot
+ADSHNG42,SAQ: Ever Had Shingles Vaccine
+ADNOAP42,SAQ: Can't Take Asprin For Med Reason
+ADDSCU42,SAQ: Discuss Aspirin Preventive Use
+ADCOLN42,SAQ: Had Colon Cancer/Colon Removed
+ADCLNS42,SAQ 10 YRS: Had Colonoscopy
+ADSGMD42,SAQ 5 YRS: Had Sigmoidoscopy
+ADBLDS42,SAQ 12 MTHS: At Home Blood Stool Test
+ADPROS42,SAQ: Had Prostate Cancer
+ADPSAG42,SAQ: Age Last PSA Test
+ADUTRM42,SAQ: Had Hystrctmy/Crvcl Cancer
+ADPAP42,SAQ 5 YRS: Had Pap Smear Test
+ADPAPG42,SAQ: Age At Last Pap Smear Test
+ADOSTP42,SAQ: Dx With Osteoporosis
+ADBNDN42,SAQ: Bone Density Scan
+ADBRST42,SAQ: Have Brst Cancer\Brst Removed
+ADMMGR42,SAQ 2 YRS: Had Mammogram
+ADBMI42,Adult Body Mass Index (> 17) - RD 4/2
+VPCS42,"SAQ: Phy Component Summry VR-12
+Imputed"
+VMCS42,"SAQ: Mnt Component Summry VR-12
+Imputed"
+VRFLAG42,"SAQ: VPCS42/VMCS42 Imputation Flag VR-
+12"
+ADCMPM42,SAQ: Date Completed - Month
+ADCMPY42,SAQ: Date Completed - Year
+ADLANG42,SAQ: Language of SAQ Interview
+DCSELIG,DCS: Eligibility Status for DCS
+DSDIA53,DCS: Diabetes Diagnosis By Health Prof
+DSA1C53,DCS: Times Tested for A-One-C in 2022
+DSFT2253,DCS: Had Feet Checked During 2023
+DSFT2253,DCS: Had Feet Checked During 2022
+DSFT2053,DCS: Had Feet Checked During 2022
+DSFB2053,DCS: Had Feet Checked Before 2022
+DSFTNV53,DCS: Never Had Feet Checked
+DSEY2353,DCS: Dilated Eye Exam in 2023
+DSEY2253,DCS: Dilated Eye Exam in 2022
+DSEY2153,DCS: Dilated Eye Exam in 2021
+DSEB2153,DCS: Dilated Eye Exam Before 2021
+DSEYNV53,DCS: Never Had Dilated Eye Exam
+DSCH2353,DCS: Blood Cholesterol Checked in 2023
+DSCH2253,DCS: Blood Cholesterol Checked in 2022
+DSCH2153,DCS: Blood Cholesterol Checked in 2021
+DSCB2153,DCS: Blood Cholesterol Checked Before 2021
+DSCHNV53,DCS: Never Had Blood Cholesterol Checked
+DSFL2353,DCS: Got Flu Vaccination in 2023
+DSFL2253,DCS: Got Flu Vaccination in 2022
+DSFL2153,DCS: Got Flu Vaccination in 2021
+DSVB2153,DCS: Got Flu Vaccination Before 2021
+DSFLNV53,DCS: Never Got Flu Vaccination
+DSKIDN53,DCS: Has Diabetes Caused Kidney Problems
+DSEYPR53,DCS: Has Diabetes Caused Eye Probs
+DSDIET53,DCS: Treat Diabetes w/Diet Modification
+DSMED53,DCS: Treat Diabetes w/Meds by Mouth
+DSINSU53,DCS: Treat Diabetes w/Insulin Injections
+DSCPCP53,DCS: Learned Diab Care from Prim Care Prov
+DSCNPC53,DCS: Learned Diab Care from Other Prov
+DSCPHN53,DCS: Learned Diab Care from Phn Call w/Prov
+DSCINT53,"DCS: Learned Diab Care from Reading
+Internet"
+DSCGRP53,DCS: Learned Diab Care by Taking Grp Class
+DSCONF53,DSC: Confident Taking Care of Diabetes
+DSPRX53,DCS: Was Respondent a Proxy
+DDNWRK22,# Days Missed Work Due to Ill/Inj 2022
+OTHDYS22,Miss Any Work Day to Care for Oth 2022
+OTHNDD22,# Day Missed Work to Care for Oth 2022
+ACCELI42,Pers Eligible for Access Supplement-R4/2
+HAVEUS42,Does Person Have USC Provider-R4/2
+PRACTP42,Provider Own/Group Practice-R4/2
+YNOUSC42_M18,Main Reas Pers Doesnt Have USC-R4/2
+PROVTY42_M18,Provider Type - R4/2
+PLCTYP42,USC Type of Place - R4/2
+TMTKUS42,How Long It Takes Get to USC-R4/2
+TYPEPE42,USC Type of Provider - R4/2
+LOCATN42,USC Location - R4/2
+HSPLAP42,Is Provider Hispanic or Latino-R4/2
+WHITPR42,Is Provider White - R4/2
+BLCKPR42,Is Provider Black/African Amer-R4/2
+ASIANP42,Is Provider Asian - R4/2
+NATAMP42,Is Provider Native American - R4/2
+PACISP42,Is Provider Oth Pacific Islndr-R4/2
+OTHRCP42,Is Provider Some Other Race - R4/2
+GENDRP42,Is Provider Male or Female - R4/2
+PHNREG42,How Diff Contact USC By Phone-R4/2
+OFFHOU42,USC Has Offce Hrs Nghts/Wkends-R4/2
+AFTHOU42,How Diff Contact USC Aft Hours-R4/2
+TREATM42,Prov Ask About Oth Treatments-R4/2
+DECIDE42,Prov Asks Pers to Help Decide-R4/2
+EXPLOP42,Prov Explns Options to Pers - R4/2
+PRVSPK42,Prov Speaks Personâ€™s Language-R4/2
+DLAYCA42,Delay Med Care For Cost-R4/2
+AFRDCA42,Could Not Afford Med Care-R4/2
+DLAYDN42,Delay Getting Dental for Cost-R4/2
+AFRDDN42,Could Not Afford Dental Care-R4/2
+DLAYPM42,Delay Getting Pmed For Cost-R4/2
+AFRDPM42,Could Not Afford Pmed Care-R4/2
+EMPST31,Employment Status RD 3/1
+EMPST42,Employment Status RD 4/2
+EMPST53,Employment Status RD 5/3
+RNDFLG31,Data Collection Round for RD 3/1 CMJ
+MORJOB31,Has More than One Job RD 3/1 Int Date
+MORJOB42,Has More than One Job RD 4/2 Int Date
+MORJOB53,Has More than One Job RD 5/3 Int Date
+EVRWRK,Ever Wrkd for Pay in Life as of 12/31/22
+HRWG31X,Hourly Wage RD 3/1 CMJ (Imp)
+HRWG42X,Hourly Wage RD 4/2 CMJ (Imp)
+HRWG53X,Hourly Wage RD 5/3 CMJ (Imp)
+HRWGIM31,HRWG31X Imputation Flag
+HRWGIM42,HRWG42X Imputation Flag
+HRWGIM53,HRWG53X Imputation Flag
+HRHOW31,How Hourly Wage Was Calculated RD 3/1
+HRHOW42,How Hourly Wage Was Calculated RD 4/2
+HRHOW53,How Hourly Wage Was Calculated RD 5/3
+DIFFWG31,Persons Wages Different this RD 3/1 at CMJ
+DIFFWG42,Persons Wages Different this RD 4/2 at CMJ
+DIFFWG53,Persons Wages Different this RD 5/3 at CMJ
+NHRWG31,Updated Hrly Wage RD 3/1 CMJ (Edited)
+NHRWG42,Updated Hrly Wage RD 4/2 CMJ (Edited)
+NHRWG53,Updated Hrly Wage RD 5/3 CMJ (Edited)
+HOUR31,Hours Per Week at RD 3/1 CMJ
+HOUR42,Hours Per Week at RD 4/2 CMJ
+HOUR53,Hours Per Week at RD 5/3 CMJ
+TEMPJB31,Is CMJ a Temporary Job RD 3/1
+TEMPJB42,Is CMJ a Temporary Job RD 4/2
+TEMPJB53,Is CMJ a Temporary Job RD 5/3
+SSNLJB31,Is CMJ a Seasonal Job RD 3/1
+SSNLJB42,Is CMJ a Seasonal Job RD 4/2
+SSNLJB53,Is CMJ a Seasonal Job RD 5/3
+SELFCM31,Self-Employed at RD 3/1 CMJ
+SELFCM42,Self-Employed at RD 4/2 CMJ
+SELFCM53,Self-Employed at RD 5/3 CMJ
+DISVW31X,Disavowed Health Ins at RD 3/1 CMJ (Ed)
+DISVW42X,Disavowed Health Ins at RD 4/2 CMJ (Ed)
+DISVW53X,Disavowed Health Ins at RD 5/3 CMJ (Ed)
+CHOIC31,Choice of Health Plans at RD 3/1 CMJ
+CHOIC42,Choice of Health Plans at RD 4/2 CMJ
+CHOIC53,Choice of Health Plans at RD 5/3 CMJ
+INDCAT31,Industry Group RD 3/1 CMJ
+INDCAT42,Industry Group RD 4/2 CMJ
+INDCAT53,Industry Group RD 5/3 CMJ
+NUMEMP31,Number of Employees at RD 3/1 CMJ
+NUMEMP42,Number of Employees at RD 4/2 CMJ
+NUMEMP53,Number of Employees at RD 5/3 CMJ
+MORE31,RD 3/1 CMJ Firm Has More than 1 Location
+MORE42,RD 4/2 CMJ Firm Has More than 1 Location
+MORE53,RD 5/3 CMJ Firm Has More than 1 Location
+UNION31,Union Status at RD 3/1 CMJ
+UNION42,Union Status at RD 4/2 CMJ
+UNION53,Union Status at RD 5/3 CMJ
+NWK31,Reason Not Working During RD 3/1
+NWK42,Reason Not Working During RD 4/2
+NWK53,Reason Not Working During RD 5/3
+CHGJ3142,Changed Job between RD 3/1 and RD 4/2
+CHGJ4253,Changed Job between RD 4/2 and RD 5/3
+YCHJ3142,Why Chngd Job between RD 3/1 and RD 4/2
+YCHJ4253,Why Chngd Job between RD 4/2 and RD 5/3
+STJBMM31,Month Started RD 3/1 CMJ
+STJBYY31,Year Started RD 3/1 CMJ
+STJBMM42,Month Started RD 4/2 CMJ
+STJBYY42,Year Started RD 4/2 CMJ
+STJBMM53,Month Started RD 5/3 CMJ
+STJBYY53,Year Started RD 5/3 CMJ
+EVRETIRE,Person Has Ever Retired
+OCCCAT31,Occupation Group RD 3/1 CMJ
+OCCCAT42,Occupation Group RD 4/2 CMJ
+OCCCAT53,Occupation Group RD 5/3 CMJ
+PAYVAC31,Paid Vacation at RD 3/1 CMJ
+PAYVAC42,Paid Vacation at RD 4/2 CMJ
+PAYVAC53,Paid Vacation at RD 5/3 CMJ
+SICPAY31,Paid Sick Leave at RD 3/1 CMJ
+SICPAY42,Paid Sick Leave at RD 4/2 CMJ
+SICPAY53,Paid Sick Leave at RD 5/3 CMJ
+PAYDR31,Paid Leave to Visit Dr RD 3/1 CMJ
+PAYDR42,Paid Leave to Visit Dr RD 4/2 CMJ
+PAYDR53,Paid Leave to Visit Dr RD 5/3 CMJ
+RETPLN31,Pension Plan at RD 3/1 CMJ
+RETPLN42,Pension Plan at RD 4/2 CMJ
+RETPLN53,Pension Plan at RD 5/3 CMJ
+BSNTY31,"Sole Prop, Partner, Corp, RD 3/1 CMJ"
+BSNTY42,"Sole Prop, Partner, Corp, RD 4/2 CMJ"
+BSNTY53,"Sole Prop, Partner, Corp, RD 5/3 CMJ"
+JOBORG31,"Priv (Profit,Nonprofit) Gov RD 3/1 CMJ"
+JOBORG42,"Priv (Profit,Nonprofit) Gov RD 4/2 CMJ"
+JOBORG53,"Priv (Profit,Nonprofit) Gov RD 5/3 CMJ"
+HELD31X,Health Insur Held from RD 3/1 CMJ (Ed)
+HELD42X,Health Insur Held from RD 4/2 CMJ (Ed)
+HELD53X,Health Insur Held from RD 5/3 CMJ (Ed)
+OFFER31X,Health Insur Offered by RD 3/1 CMJ (Ed)
+OFFER42X,Health Insur Offered by RD 4/2 CMJ (Ed)
+OFFER53X,Health Insur Offered by RD 5/3 CMJ (Ed)
+OFREMP31,Employer Offers Health Ins RD 3/1 CMJ
+OFREMP42,Employer Offers Health Ins RD 4/2 CMJ
+OFREMP53,Employer Offers Health Ins RD 5/3 CMJ
+EMPST31H,Employment Status RD 3/1 (Imp)
+EMPST42H,Employment Status RD 4/2 (Imp)
+EMPST53H,Employment Status RD 5/3 (Imp)
+SLFCM31H,Self-employed at RD 3/1 CMJ (Imp)
+SLFCM42H,Self-employed at RD 4/2 CMJ (Imp)
+SLFCM53H,Self-employed at RD 5/3 CMJ (Imp)
+NMEMP31H,Number of Employees at RD 3/1 CMJ (Imp)
+NMEMP42H,Number of Employees at RD 4/2 CMJ (Imp)
+NMEMP53H,Number of Employees at RD 5/3 CMJ (Imp)
+MORE31H,RD 3/1 CMJ Firm More Than 1 Locat (Imp)
+MORE42H,RD 4/2 CMJ Firm More Than 1 Locat (Imp)
+MORE53H,RD 5/3 CMJ Firm More Than 1 Locat (Imp)
+INDCT31H,Industry Group RD 3/1 CMJ (Imp)
+INDCT42H,Industry Group RD 4/2 CMJ (Imp)
+INDCT53H,Industry Group RD 5/3 CMJ (Imp)
+OCCCT31H,Occupation Group RD 3/1 CMJ (Imp)
+OCCCT42H,Occupation Group RD 4/2 CMJ (Imp)
+OCCCT53H,Occupation Group RD 5/3 CMJ (Imp)
+HOUR31H,Hours Per Week at RD 3/1 CMJ (Imp)
+HOUR42H,Hours Per Week at RD 4/2 CMJ (Imp)
+HOUR53H,Hours Per Week at RD 5/3 CMJ (Imp)
+JBORG31H,"Prv, St-Lc Gov, Fed Gov RD 3/1 CMJ (Imp)"
+JBORG42H,"Prv, St-Lc Gov, Fed Gov RD 4/2 CMJ (Imp)"
+JBORG53H,"Prv, St-Lc Gov, Fed Gov RD 5/3 CMJ (Imp)"
+UNION31H,Union Status at RD 3/1 CMJ (Imp)
+UNION42H,Union Status at RD 4/2 CMJ (Imp)
+UNION53H,Union Status at RD 5/3 CMJ (Imp)
+BSNTY31H,"Sol Prop, Prtnr, Corp, RD 3/1 CMJ (Imp)"
+BSNTY42H,"Sol Prop, Prtnr, Corp, RD 4/2 CMJ (Imp)"
+BSNTY53H,"Sol Prop, Prtnr, Corp, RD 5/3 CMJ (Imp)"
+HRWG31H,Hourly Wage RD 3/1 CMJ (Imp)
+HRWG42H,Hourly Wage RD 4/2 CMJ (Imp)
+HRWG53H,Hourly Wage RD 5/3 CMJ (Imp)
+CMJHLD31,Hlth Insur Held from RD 3/1 CMJ (PRPL)
+CMJHLD42,Hlth Insur Held from RD 4/2 CMJ (PRPL)
+CMJHLD53,Hlth Insur Held from RD 5/3 CMJ (PRPL)
+OFFER31H,Health Insur Offered by RD 3/1 CMJ (Imp)
+OFFER42H,Health Insur Offered by RD 4/2 CMJ (Imp)
+OFFER53H,Health Insur Offered by RD 5/3 CMJ (Imp)
+OFEMP31H,Emp Offers Health Ins RD 3/1 CMJ (Imp)
+OFEMP42H,Emp Offers Health Ins RD 4/2 CMJ (Imp)
+OFEMP53H,Emp Offers Health Ins RD 5/3 CMJ (Imp)
+PYVAC31H,Paid Vacation at RD 3/1 CMJ (Imp)
+PYVAC42H,Paid Vacation at RD 4/2 CMJ (Imp)
+PYVAC53H,Paid Vacation at RD 5/3 CMJ (Imp)
+SCPAY31H,Paid Sick Leave at RD 3/1 CMJ (Imp)
+SCPAY42H,Paid Sick Leave at RD 4/2 CMJ (Imp)
+SCPAY53H,Paid Sick Leave at RD 5/3 CMJ (Imp)
+PAYDR31H,Paid Leave to Visit Dr RD 3/1 CMJ (Imp)
+PAYDR42H,Paid Leave to Visit Dr RD 4/2 CMJ (Imp)
+PAYDR53H,Paid Leave to Visit Dr RD 5/3 CMJ (Imp)
+RTPLN31H,Pension Plan at RD 3/1 CMJ (Imp)
+RTPLN42H,Pension Plan at RD 4/2 CMJ (Imp)
+RTPLN53H,Pension Plan at RD 5/3 CMJ (Imp)
+TRImm22X,"Covered by TRICARE/CHAMPVA in mm 22 (Ed),
+where mm = JA-DE"
+MCRmm22,"Covered by Medicare in mm 22,
+where mm = JA-DE"
+MCRmm22X,"Covered by Medicare in mm 22 (Ed),
+where mm = JA-DE"
+MCDmm22,"Cov by Medicaid or SCHIP in mm 22,
+where mm = JA-DE"
+MCDmm22X,"Cov by Medicaid or SCHIP in mm 22 (Ed),
+where mm = JA-DE"
+GVAmm22,"Cov by Other Public Coverage in mm 22,
+where mm = JA-DE"
+GVBmm22,"Cov by Other Public HMO in mm 22,
+where mm = JA-DE"
+GVCmm22,"Cov by Other Public Pays Prem in mm 22,
+where mm = JA-DE"
+VAPmm22,"Covered by VA in mm 22,
+where mm=JA-DE"
+IHSmm22,"Cov by Indian Health Service in mm 22,
+where mm=JA-DE"
+PUBmm22X,"Covr by Any Public Ins in mm 22 (Ed),
+where mm = JA-DE"
+PEGmm22,"Covered by Empl Union Ins in mm 22,
+where mm = JA-DE"
+PDKmm22,"Covr by Priv Ins (Source Unknwn) mm 22,
+where mm = JA-DE"
+PNGmm22,"Covered by Nongroup Ins in mm 22,
+where mm = JA-DE"
+POGmm22,"Covered by Other Group Ins in mm 22,
+where mm = JA-DE"
+POEmm22,"Cov by ESI, Pholder Outside RU in mm 22,
+where mm = JA-DE"
+PNEmm22,"Cov by Non-ESI, Phldr Outside RU in mm 22,
+where mm = JA-DE"
+PRXmm22,"Cov by Priv Ins through Exchng in mm 22,
+where mm = JA-DE"
+PRImm22,"Covered by Private Ins in mm 22,
+where mm = JA-DE"
+HPEmm22,"Pholder of Empl Union Ins in mm 22,
+where mm = JA-DE"
+HPDmm22,"Pholder of Priv Ins (Source Unknwn) mm 22,
+where mm = JA-DE"
+HPNmm22,"Pholder of Nongroup Ins in mm 22,
+where mm = JA-DE"
+HPOmm22,"Pholder of Other Group Ins in mm 22,
+where mm = JA-DE"
+HPXmm22,"Pholder of Priv Ins through Exch in mm 22,
+where mm = JA-DE"
+HPRmm22,"Pholder of Private Insurance in mm 22,
+where mm = JA-DE"
+INSmm22X,"Covr by Hosp/Med Ins in mm 22 (Ed),
+where mm = JA-DE"
+PRVEV22,Ever Have Private Insurance during 2022
+TRIEV22,Ever Have TRICARE/CHAMPVA during 2022
+MCREV22,Ever Have Medicare during 2022 (ED)
+MCDEV22,Ever Have MCAID/SCHIP during 2022 (ED)
+VAEV22,Ever Have VA during 2022
+GVAEV22,Ever Have Other Public during 2022
+GVBEV22,Ever Have Other Public HMO during 2022
+GVCEV22,Ever Have Oth Pub Pays Prem during 2022
+UNINS22,Uninsured All of 2022
+INSCOV22,Health Insurance Coverage Indicator 2022
+INSURC22,Full Year Insurance Coverage Status 2022
+TRICH31X,Covered By CHAMPVA - Any Time in R3/1
+TRICH42X,Covered By CHAMPVA - Any Time in R4/2
+TRICH22X,Covered By CHAMPVA - R5/3 Until 12/31/22
+TRI31X,Cov By TRICARE - Any Time in R3/1
+TRI42X,Cov By TRICARE - Any Time in R4/2
+TRI22X,Cov By TRICARE - R5/3 Til 12/31/22
+MCRPHD22,Cov By Medicare Mnged Care Dntl Benefit -12/31/22
+MCRPD31,Cov By Medicare Pmed Benefit - R3/1
+MCRPD42,Cov By Medicare Pmed Benefit - R4/2
+MCRPD22,Cov By Medicare Pmed Benefit - 12/31/22
+MCRPD31X,Cov By Medicare Pmed Benefit - R3/1 (ED)
+MCRPD42X,Cov By Medicare Pmed Benefit - R4/2 (ED)
+MCRPD22X,Cov By Mcare Pmed Benefit-12/31/22 (ED)
+MCRPHO31,"Cov By Medicare Managed Care/Medicare Advantage
+- R3/1"
+MCRPHO42,"Cov By Medicare Managed Care/Medicare Advantage
+- R4/2"
+MCRPHO22,"Cov By Medicare Managed Care/Medicare Advantage
+- 12/31/22"
+MCDHMO31,Cov By Mcaid/SCHIP HMO -Any Time in R3/1
+MCDHMO42,Cov By Mcaid/SCHIP HMO -Any Time in R4/2
+MCDHMO22,Cov By Mcaid/SCHIP HMO-R5/3 Til 12/31/22
+MCDMC31,Cv Mcaid/CHIP Gtkpr Pln-Any Time in R3/1
+MCDMC42,Cv Mcaid/CHIP Gtkpr Pln-Any Time in R4/2
+MCDMC22,Cv Mcd/CHIP Gtkpr Pln-R5/3 Til 12/31/22
+PRVHMO31,Covered By Private HMO-Any Time in R3/1
+PRVHMO42,Covered By Private HMO-Any Time in R4/2
+PRVHMO22,Covered By Private HMO-R5/3 Til 12/31/22
+FSAGT31,Anyone in RU Have FSA - R3/1
+HASFSA31,Person is FSA Holder - R3/1
+PFSAMT31,Person-level FSA Total Amount - R3/1
+PREVCOVR,Per Cov by Ins in Prev 2 Yrs-Pnl 25 Only
+MORECOVR,Cov by Mor Compr Pl Prev 2 Yr-Pn 25 Only
+TRICR31X,Cov by TRICR/CHAMV - R3/1 Int Dt (Ed)
+TRICR42X,Cov by TRICR/CHAMV - R4/2 Int Dt (Ed)
+TRICR53X,Cov by TRICR/CHAMV 12-31/R3 Int Dt (Ed)
+TRICR22X,Cov by TRICR/CHAMV - 12/31/22 (Ed)
+TRIAT31X,Cov TRICARE/CHAMPVA - Any Time in R3/1
+TRIAT42X,Cov TRICARE/CHAMPVA - Any Time in R4/2
+TRIAT53X,Cov TRICARE/CHAMPVA - Any Time in R5/3
+TRIAT22X,Cov TRICARE/CHAMPVA-R5/3 Until 12/31/22
+MCAID31,Cov by Medicaid or SCHIP - R3/1 Int Dt
+MCAID42,Cov by Medicaid or SCHIP - R4/2 Int Dt
+MCAID53,Cov by Medicaid or SCHIP 12-31/R3 Int Dt
+MCAID22,Cov by Medicaid or SCHIP - 12/31/22
+MCAID31X,Cov by Medicaid/SCHIP - R3/1 Int Dt (Ed)
+MCAID42X,Cov by Medicaid/SCHIP - R4/2 Int Dt (Ed)
+MCAID53X,Cov Medicaid/SCHIP 12-31/R3 Int Dt (Ed)
+MCAID22X,Cov by Medicaid or SCHIP - 12/31/22 (Ed)
+MCARE31,Cov by Medicare - R3/1 Int Dt
+MCARE42,Cov by Medicare - R4/2 Int Dt
+MCARE53,Cov by Medicare 12-31/R3 Int Dt
+MCARE22,Cov by Medicare - 12/31/22
+MCARE31X,Cov by Medicare - R3/1 Int Dt (Ed)
+MCARE42X,Cov by Medicare - R4/2 Int Dt (Ed)
+MCARE53X,Cov by Medicare 12-31/R3 Int Dt (Ed)
+MCARE22X,Cov by Medicare - 12/31/22 (Ed)
+MCDAT31X,Cov Medicaid Or SCHIP - Any Time in R3/1
+MCDAT42X,Cov Medicaid Or SCHIP - Any Time in R4/2
+MCDAT53X,Cov Medicaid Or SCHIP - Any Time in R5/3
+MCDAT22X,Cv Mcd/CHIP-Any Tme In R5/3 Til 12/31/22
+GOVTA31,Cov by Other Public Cov - R3/1 Int Dt
+GOVTA42,Cov by Other Public Cov - R4/2 Int Dt
+GOVTA53,Cov by Other Public Cov 12-31/R3 Int Dt
+GOVTA22,Cov by Other Public Cov - 12/31/22
+GOVAAT31,Cov by Other Public -Any Time in R3/1
+GOVAAT42,Cov by Other Public -Any Time in R4/2
+GOVAAT53,Cov by Other Public -Any Time in R5/3
+GOVAAT22,Cv Oth Pub- Any Time in R5/3 Til 12/31/22
+GOVTB31,Cov By Oth Pub HMO - R3/1 Int Dt
+GOVTB42,Cov By Oth Pub HMO - R4/2 Int Dt
+GOVTB53,Cov By Oth Pub HMO 12-31/R3 Int Dt
+GOVTB22,Cov By Oth Pub HMO - 12/31/22
+GOVBAT31,Cov By Oth Pub HMO-Any Time in R3/1
+GOVBAT42,Cov By Oth Pub HMO-Any Time in R4/2
+GOVBAT53,Cov By Oth Pub HMO-Any Time in R5/3
+GOVBAT22,Cov Oth Pb HMO-Any Tm R5/3 Til 12/31/22
+GOVTC31,Cov By Oth Pub Pays Prem - R3/1 Int Dt
+GOVTC42,Cov By Oth Pub Pays Prem - R4/2 Int Dt
+GOVTC53,Cov By Oth Pub Pays Prem 12-31/R3 Int Dt
+GOVTC22,Cov By Oth Pub Pays Prem - 12/31/22
+GOVCAT31,Cv By Oth Pub Pays Prem-Any Time in R3/1
+GOVCAT42,Cv By Oth Pub Pays Prem-Any Time in R4/2
+GOVCAT53,Cv By Oth Pub Pays Prem-Any Time in R5/3
+GOVCAT22,Cv Oth Pub Pays Prem- R5/3 Til 12/31/22
+VAPROG31,Cov By VA - R3/1 Int Dt
+VAPROG42,Cov By VA - R4/2 Int Dt
+VAPROG53,Cov By VA 12-31/R3 Int Dt
+VAPROG22,Cov By VA- 12/31/22
+VAPRAT31,Cov By VA - Any Time in R3/1
+VAPRAT42,Cov By VA - Any Time in R4/2
+VAPRAT53,Cov By VA - Any Time in R5/3
+VAPRAT22,Cov By VA-Any Tme In R5/3 Til 12/31/22
+IHS31,Cv By Indian Health Service- R3/1 Int Dt
+IHS42,Cv By Indian Health Service- R4/2 Int Dt
+IHS53,Cv By IHS 12-31/R3 Int Dt
+IHS22,Cov By IHS - 12/31/22
+IHSAT31,Cov By IHS - Any Time in R3/1
+IHSAT42,Cov By IHS - Any Time in R4/2
+IHSAT53,Cov By IHS - Any Time in R5/3
+IHSAT22,Cov By IHS-Any Tme In R5/3 Til 12/31/22
+PRIDK31,Cov by Priv Ins (Dk Plan) - R3/1 Int
+PRIDK42,Cov by Priv Ins (Dk Plan) - R4/2 Int
+PRIDK53,Cov by Priv Ins (Dk Plan) 12-31/R3 Int
+PRIDK22,Cov by Priv Ins (Dk Plan) - 12/31/22
+PRIEU31,Cov by Empl/Union Grp Ins - R3/1 Int Dt
+PRIEU42,Cov by Empl/Union Grp Ins - R4/2 Int Dt
+PRIEU53,Cov by Empl/Union Grp Ins 12-31/R3 Int
+PRIEU22,Cov by Empl/Union Grp Ins - 12/31/22
+PRING31,Cov by Non-Group Ins - R3/1 Int Dt
+PRING42,Cov by Non-Group Ins - R4/2 Int Dt
+PRING53,Cov by Non-Group Ins 12-31/R3 Int Dt
+PRING22,Cov by Non-Group Ins - 12/31/22
+PRIOG31,Cov by Other Group Ins - R3/1 Int Dt
+PRIOG42,Cov by Other Group Ins - R4/2 Int Dt
+PRIOG53,Cov by Other Group Ins 12-31/R3 Int Dt
+PRIOG22,Cov by Other Group Ins - 12/31/22
+PRINEO31,"Cov By Non-ESI, PHoldr Out RU - R3/1 Int Dt"
+PRINEO42,"Cov By Non-ESI, PHoldr Out RU - R4/2 Int Dt"
+PRINEO53,"Cov By Non-ESI, PHoldr Out RU 12-31/R3 Int Dt"
+PRINEO22,"Cov By Non-ESI, PHoldr Out RU- 12/31/22"
+PRIEUO31,"Cov By ESI, Pholdr Outside RU - R3/1 Int"
+PRIEUO42,"Cov By ESI, Pholdr Outside RU - R4/2 Int"
+PRIEUO53,"Cv By ESI, Phldr Outside RU 12-31/R3 Int"
+PRIEUO22,"Cov By ESI, PHoldr Outside RU - 12/31/22"
+PRSTX31,Cov by Priv Exchange Ins - R3/1 Int Dt
+PRSTX42,Cov by Priv Exchange Ins - R4/2 Int Dt
+PRSTX53,Priv Exchange Ins on 12-31 R5/R3 Int Dt
+PRSTX22,Priv Exchange Insurance on 12/31/22
+PRIV31,Cov by Priv Hlth Ins - R3/1 Int Date
+PRIV42,Cov by Priv Hlth Ins - R4/2 Int Date
+PRIV53,Cov by Priv Hlth Ins 12-31/R3 Int Date
+PRIV22,Cov by Priv Hlth Ins - 12/31/22
+PRIVAT31,Cov by Private Ins - Any Time in R3/1
+PRIVAT42,Cov by Private Ins - Any Time in R4/2
+PRIVAT53,Cov by Private Ins - Any Time in R5/3
+PRIVAT22,Cov by Private Ins - R5/3 Until 12/31/22
+PUB31X,Cov by Public Ins - R3/1 Int Dt (Ed)
+PUB42X,Cov by Public Ins - R4/2 Int Dt (Ed)
+PUB53X,Cov by Public Ins 12-31/R3 Int Dt (Ed)
+PUB22X,Cov by Public Ins - 12/31/22 (Ed)
+PUBAT31X,Cov by Public - Any Time in R3/1
+PUBAT42X,Cov by Public - Any Time in R4/2
+PUBAT53X,Cov by Public - Any Time in R5/3
+PUBAT22X,Cov by Public - R5/3 Until 12/31/22
+VERFLG31,PID Gained Covg Thru Verification R3/1
+VERFLG42,PID Gained Covg Thru Verification R4/2
+VERFLG22,"PID Gained Covg Thru Verification in R5/R3 Until
+12/31/22"
+INS31X,Insured - R3/1 Int Date (Ed)
+INS42X,Insured - R4/2 Int Date (Ed)
+INS53X,Insured 12-31/R3 Int Date (Ed)
+INS22X,Insured - 12/31/22 (Ed)
+INSAT31X,Insured Any Time in R3/1
+INSAT42X,Insured Any Time in R4/2
+INSAT53X,Insured Any Time in R5/3
+INSAT22X,Insured Any Time in R5/R3 until 12/31/22
+DENTIN31,Dental Insurance- Any Time in RD 3/1
+DENTIN42,Dental Insurance- Any Time in RD 4/2
+DENTIN53_M23,Dental Insurance- Any Time in RD 5/3
+DNTINS31,Dental Ins - Any Time In Rd 3/1 in 2022
+DNTINS22_M23,Dentl Ins-Any Time in R5/R3 Til 12/31/22
+PMEDIN31,PMED Ins - Any Time in Rd 3/1
+PMEDIN42,PMEDINS - Any Time in Rd 4/2
+PMEDIN53,PMEDINS - Any Time in Rd 5/3
+PMDINS31,Pmed Ins - RD 3/1 in 2022
+PMDINS22,Pmed Ins - R5/R3 until 12/31/22
+PROBPY42,Family Having Prob Paying Medical Bills
+CRFMPY42,Family Med Bills Being Paid Over Time
+PYUNBL42,Unable to Pay Family Medical Bills
+PMEDUP31,Has Usual 3rd Party Payer for Pmeds - R3/1
+PMEDUP42,Has Usual 3rd Party Payer for Pmeds - R4/2
+PMEDUP53,Has Usual 3rd Party Payer for Pmeds - R5/3
+PMEDPY31,Usual 3rd Party Payer for Pmeds - R3/1
+PMEDPY42,Usual 3rd Party Payer for Pmeds - R4/2
+PMEDPY53,Usual 3rd Party Payer for Pmeds - R5/3
+OBTOTV22,# Office-Based Provider Visits 2022
+OBDRV22,# Office-Based Physician Visits 2022
+OPTOTV22,# Outpatient Dept Provider Visits 2022
+OPDRV22,# Outpatient Dept Physician Visits 2022
+ERTOT22,# Emergency Room Visits 2022
+IPDIS22,# Hospital Discharges 2022
+IPNGTD22,# Nights in Hosp for Discharges 2022
+DVTOT22,# Dental Care Visits 2022
+HHTOTD22,# Home Health Provider Days 2022
+HHAGD22,# Agency Home Health Provider Days 2022
+HHINDD22,# Non-Agency Home Hlth Providr Days 2022
+HHINFD22,# Informal Home Hlth Provider Days 2022
+RXTOT22,# Prescribed Medicines including Refills 2022
+PERWT22F,"Final Person Weight, 2022"
+FAMWT22F,"Final Family Weight, 2022"
+FAMWT22C,Pov Adj Family Weight-CPS Fam on 12/31/22
+SAQWT22F,"Final SAQ Person Weight, 2022"
+DIABW22F,"Final Diabetes Care Supplement Weight, 2022"
+VARSTR,"Variance Estimation Stratum, 2022"
+VARPSU,"Variance Estimation PSU, 2022"

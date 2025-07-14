@@ -1,0 +1,38 @@
+﻿Variable,Description
+STNAM,State Name
+FIPST,The two-digit American National Standards Institute (ANSI) code for state
+LEAID,District NCES ID
+ST_LEAID,"Local Education Agency (District) State ID, Assigned by State"
+LEANM,District Name
+SCHNAM,School Name (Not in District file)
+NCESSCH,School NCES ID (Not in District file)
+ST_SCHID,"School State ID, (Not in District file), Assigned by State"
+DATE_CUR,Date of data snapshot (“Data current as of” date)
+ALL_[SUBJECT]##numpart_[SY],Total number of students who participated in an assessment
+ALL_[SUBJECT]##pctpart_[SY],Percentage of students in the school who participated in an assessment
+MAM_[SUBJECT]##numpart_[SY],Number of Native American students who participated in an assessment
+MAM_[SUBJECT]##pctpart_[SY],Percentage of Native American students who participated in an assessment
+MAS_[SUBJECT]##numpart_[SY],Number of Asian/Pacific Islander students who participated in an assessment
+MAS_[SUBJECT]##pctpart_[SY],Percentage of Asian/Pacific Islander students who participated in an assessment
+MBL_[SUBJECT]##numpart_[SY],Number of Black students who participated in an assessment
+MBL_[SUBJECT]##pctpart_[SY],Percentage of Black students who participated in an assessment
+MHI_[SUBJECT]##numpart_[SY],Number of Hispanic students who participated in an assessment
+MHI_[SUBJECT]##pctpart_[SY],Percentage of Hispanic students who participated in an assessment 
+MTR_[SUBJECT]##numpart_[SY],Number of students with Two or More Races who participated in an assessment
+MTR_[SUBJECT]##pctpart_[SY],Percentage of students with Two or More Races who participated in an assessment
+MWH_[SUBJECT]##numpart_[SY],Number of White students who participated in an assessment
+MWH_[SUBJECT]##pctpart_[SY],Percentage of White students who participated in an assessment
+F_[SUBJECT]##numpart_[SY],Number of female students who participated in an assessment
+F_[SUBJECT]##pctpart_[SY],Percentage of female students who participated in an assessment
+M_[SUBJECT]##numpart_[SY],Number of male students who participated in an assessment
+M_[SUBJECT]##pctpart_[SY],Percentage of male students who participated in an assessment
+CWD_[SUBJECT]##numpart_[SY],Number of children with disabilities (IDEA) who participated in an assessment
+CWD_[SUBJECT]##pctpart_[SY],Percentage of children with disabilities (IDEA) who participated in an assessment
+ECD_[SUBJECT]##numpart_[SY],Number of economically disadvantaged students who participated in an assessment
+ECD_[SUBJECT]##pctpart_[SY],Percentage of economically disadvantaged students who participated in an assessment
+LEP_[SUBJECT]##numpart_[SY],Number of limited English proficient students who participated in an assessment
+LEP_[SUBJECT]##pctpart_[SY],Percentage of limited English proficient students who participated in an assessment
+HOM_[SUBJECT]##numpart_[SY],Number of homeless enrolled students who participated in an assessment
+HOM_[SUBJECT]##pctpart_[SY],Percentage of homeless enrolled students who participated in an assessment 
+MIG_[SUBJECT]##numpart_[SY],Number of migrant students who participated in an assessment
+MIG_[SUBJECT]##pctpart_[SY],Percentage of migrant students who participated in an assessment

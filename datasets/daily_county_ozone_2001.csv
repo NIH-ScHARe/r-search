@@ -1,0 +1,9 @@
+﻿Variable,Description
+year,Year of prediction
+date,Date (day-month-year) of prediction
+statefips,State FIPS code
+countyfips,County FIPS code
+O3_max_pred,Maximum estimated 8-hour average ozone concentration in parts per billion (ppb) within 3 meters of the surface of the earth for the county
+O3_med_pred,Median estimated 8-hour average ozone concentration in parts per billion (ppb) within 3 meters of the surface of the earth for the county
+O3_mean_pred,Mean estimated 8-hour average ozone concentration in parts per billion (ppb) within 3 meters of the surface of the earth for the county
+O3_pop_pred,Population-weighted estimated 8-hour average ozone concentration in parts per billion (ppb) within 3 meters of the surface of the earth for the county

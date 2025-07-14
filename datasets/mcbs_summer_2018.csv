@@ -1,0 +1,140 @@
+Variable,Description
+PUF_ID,Unique PUF Identification Number
+SURVEYYR,Survey year
+VERSION,Version number
+CVS_CVDB,Got CV19 booster (2022-23)
+CVS_VCNU,Number CV19 vaccine doses by Summer
+FIS_FOOD,"Food doesn稚 last, no money to get mo"
+FIS_AFFD,Can't afford to eat balanced meals
+FIS_SKIP,Adults skip meals due to cost
+FIS_EATL,Eat less bc not enough money
+RXS_PDEA,Mcare Rx drug benefit easy understan
+RXS_PDKN,Mcare Rx drug benefit knowledge
+RXS_PDSA,Mcare Rx plan: satisfied w info
+RXS_PDCO,Confident level of coverage meets ne
+RXS_RXUS,Used Mcare Rx drug plan past yr
+RXS_RXCO,"Compared to last year, premium cost"
+RXS_RXAM,"Compared to last year, Rx cost"
+RXS_PDNO,Rx that are not covered
+RXS_RXCH,Change to generic for coverage
+RXS_RXSW,Change to different drug for coverag
+RXS_RXPA,Current pharmacy participation
+RXS_PDRX,Level of satisfaction with Rx covera
+RXS_MCAM,Satisfaction: amt paid for Rx drugs
+RXS_MCDR,Satisfaction:Rx plan list/drugs cove
+RXS_MCFN,Satisfaction: find pharmacy accept R
+RXS_MCRE,Recommend Rx plan to other people
+RXS_GENE,How often ask for generic form of Rx
+RXS_MAIL,How often purchased Rx via mail/inte
+RXS_DOSE,How often took smaller dose of Rx
+RXS_SKIP,How often skipped doses to make Rx l
+RXS_DELA,How often delayed Rx because of cost
+RXS_SAMP,How often asked for Rx samples from
+RXS_COMP,How often compared prices for best p
+RXS_NOFI,How often not get Rx because of cost
+RXS_SPEN,How often spent less $ to save for R
+RXS_CHAI,How often purchased Rx through big c
+RXS_STOP,How often talk to Dr about stop Rx
+RXS_CRED,How often pay with credit card for R
+RXS_NOIN,How often purchase discounted Rx w/o
+PUFSWGT,PUF Summer Ever Enrolled Full Sample
+PUFS001,PUF Summer Ever Enrolled rep wt 1
+PUFS002,PUF Summer Ever Enrolled rep wt 2
+PUFS003,PUF Summer Ever Enrolled rep wt 3
+PUFS004,PUF Summer Ever Enrolled rep wt 4
+PUFS005,PUF Summer Ever Enrolled rep wt 5
+PUFS006,PUF Summer Ever Enrolled rep wt 6
+PUFS007,PUF Summer Ever Enrolled rep wt 7
+PUFS008,PUF Summer Ever Enrolled rep wt 8
+PUFS009,PUF Summer Ever Enrolled rep wt 9
+PUFS010,PUF Summer Ever Enrolled rep wt 10
+PUFS011,PUF Summer Ever Enrolled rep wt 11
+PUFS012,PUF Summer Ever Enrolled rep wt 12
+PUFS013,PUF Summer Ever Enrolled rep wt 13
+PUFS014,PUF Summer Ever Enrolled rep wt 14
+PUFS015,PUF Summer Ever Enrolled rep wt 15
+PUFS016,PUF Summer Ever Enrolled rep wt 16
+PUFS017,PUF Summer Ever Enrolled rep wt 17
+PUFS018,PUF Summer Ever Enrolled rep wt 18
+PUFS019,PUF Summer Ever Enrolled rep wt 19
+PUFS020,PUF Summer Ever Enrolled rep wt 20
+PUFS021,PUF Summer Ever Enrolled rep wt 21
+PUFS022,PUF Summer Ever Enrolled rep wt 22
+PUFS023,PUF Summer Ever Enrolled rep wt 23
+PUFS024,PUF Summer Ever Enrolled rep wt 24
+PUFS025,PUF Summer Ever Enrolled rep wt 25
+PUFS026,PUF Summer Ever Enrolled rep wt 26
+PUFS027,PUF Summer Ever Enrolled rep wt 27
+PUFS028,PUF Summer Ever Enrolled rep wt 28
+PUFS029,PUF Summer Ever Enrolled rep wt 29
+PUFS030,PUF Summer Ever Enrolled rep wt 30
+PUFS031,PUF Summer Ever Enrolled rep wt 31
+PUFS032,PUF Summer Ever Enrolled rep wt 32
+PUFS033,PUF Summer Ever Enrolled rep wt 33
+PUFS034,PUF Summer Ever Enrolled rep wt 34
+PUFS035,PUF Summer Ever Enrolled rep wt 35
+PUFS036,PUF Summer Ever Enrolled rep wt 36
+PUFS037,PUF Summer Ever Enrolled rep wt 37
+PUFS038,PUF Summer Ever Enrolled rep wt 38
+PUFS039,PUF Summer Ever Enrolled rep wt 39
+PUFS040,PUF Summer Ever Enrolled rep wt 40
+PUFS041,PUF Summer Ever Enrolled rep wt 41
+PUFS042,PUF Summer Ever Enrolled rep wt 42
+PUFS043,PUF Summer Ever Enrolled rep wt 43
+PUFS044,PUF Summer Ever Enrolled rep wt 44
+PUFS045,PUF Summer Ever Enrolled rep wt 45
+PUFS046,PUF Summer Ever Enrolled rep wt 46
+PUFS047,PUF Summer Ever Enrolled rep wt 47
+PUFS048,PUF Summer Ever Enrolled rep wt 48
+PUFS049,PUF Summer Ever Enrolled rep wt 49
+PUFS050,PUF Summer Ever Enrolled rep wt 50
+PUFS051,PUF Summer Ever Enrolled rep wt 51
+PUFS052,PUF Summer Ever Enrolled rep wt 52
+PUFS053,PUF Summer Ever Enrolled rep wt 53
+PUFS054,PUF Summer Ever Enrolled rep wt 54
+PUFS055,PUF Summer Ever Enrolled rep wt 55
+PUFS056,PUF Summer Ever Enrolled rep wt 56
+PUFS057,PUF Summer Ever Enrolled rep wt 57
+PUFS058,PUF Summer Ever Enrolled rep wt 58
+PUFS059,PUF Summer Ever Enrolled rep wt 59
+PUFS060,PUF Summer Ever Enrolled rep wt 60
+PUFS061,PUF Summer Ever Enrolled rep wt 61
+PUFS062,PUF Summer Ever Enrolled rep wt 62
+PUFS063,PUF Summer Ever Enrolled rep wt 63
+PUFS064,PUF Summer Ever Enrolled rep wt 64
+PUFS065,PUF Summer Ever Enrolled rep wt 65
+PUFS066,PUF Summer Ever Enrolled rep wt 66
+PUFS067,PUF Summer Ever Enrolled rep wt 67
+PUFS068,PUF Summer Ever Enrolled rep wt 68
+PUFS069,PUF Summer Ever Enrolled rep wt 69
+PUFS070,PUF Summer Ever Enrolled rep wt 70
+PUFS071,PUF Summer Ever Enrolled rep wt 71
+PUFS072,PUF Summer Ever Enrolled rep wt 72
+PUFS073,PUF Summer Ever Enrolled rep wt 73
+PUFS074,PUF Summer Ever Enrolled rep wt 74
+PUFS075,PUF Summer Ever Enrolled rep wt 75
+PUFS076,PUF Summer Ever Enrolled rep wt 76
+PUFS077,PUF Summer Ever Enrolled rep wt 77
+PUFS078,PUF Summer Ever Enrolled rep wt 78
+PUFS079,PUF Summer Ever Enrolled rep wt 79
+PUFS080,PUF Summer Ever Enrolled rep wt 80
+PUFS081,PUF Summer Ever Enrolled rep wt 81
+PUFS082,PUF Summer Ever Enrolled rep wt 82
+PUFS083,PUF Summer Ever Enrolled rep wt 83
+PUFS084,PUF Summer Ever Enrolled rep wt 84
+PUFS085,PUF Summer Ever Enrolled rep wt 85
+PUFS086,PUF Summer Ever Enrolled rep wt 86
+PUFS087,PUF Summer Ever Enrolled rep wt 87
+PUFS088,PUF Summer Ever Enrolled rep wt 88
+PUFS089,PUF Summer Ever Enrolled rep wt 89
+PUFS090,PUF Summer Ever Enrolled rep wt 90
+PUFS091,PUF Summer Ever Enrolled rep wt 91
+PUFS092,PUF Summer Ever Enrolled rep wt 92
+PUFS093,PUF Summer Ever Enrolled rep wt 93
+PUFS094,PUF Summer Ever Enrolled rep wt 94
+PUFS095,PUF Summer Ever Enrolled rep wt 95
+PUFS096,PUF Summer Ever Enrolled rep wt 96
+PUFS097,PUF Summer Ever Enrolled rep wt 97
+PUFS098,PUF Summer Ever Enrolled rep wt 98
+PUFS099,PUF Summer Ever Enrolled rep wt 99
+PUFS100,PUF Summer Ever Enrolled rep wt 100

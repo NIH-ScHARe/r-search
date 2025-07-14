@@ -1,0 +1,86 @@
+Variable,Description
+FPOVCUT,ANNUAL FAMILY POVERTY THRESHOLD. If FTYPE = 3 then value comes from primary family
+FPERSONS,Number of persons in family. Primary families include related       subfamily members.
+FHEADIDX,Index to person record of family head
+FSPOUIDX,Index to person record of family spouse
+FOWNU6,"Own children in family under 6, for FHEADIDX. Primary family  includes own children in related subfamily"
+FRELU6,Related persons in family under 6
+FKIND,Kind of family
+FKINDEX,Kind of family (expanded)
+FTYPE,Family type
+FRELU18,Related persons in family under 18
+FOWNU18,"Number of own never married children under 18, for FHEADIDX.  Primary family includes own children in related subfamily even if  the child is the head of the subfamily."
+FLASTIDX,Index to person record of last member of family.  All persons from  FHEADIDX thru FLASTIDX are members of this family.  (Primary  family includes related subfamily members.)
+FMLASIDX,Index to person record of last member of family.  All persons from  FHEADIDX thru FMLASIDX are members of this family.  (Primary  family excludes subfamily members.)
+FH_SEQ,Household sequence number. Matches H_SEQ for same  household
+FAMLIS,"RATIO OF FAMILY INCOME TO POVERTY THRESHOLD IF FTYPE = 3, THEN VALUE COMES FROM PRIMARY FAMILY."
+FANNVAL,family income - annuities
+FCSPVAL,family income - child support
+FDISVAL,family income - disability income
+FDIVVAL,family income - dividend income
+FDSTVAL,family income - retirement distributions
+FEARNVAL,total family earnings
+FEDVAL,family income - education income
+FFINVAL,family income - financial assistance income
+FFPOS,Unique family identifier. This field plus FH_SEQ results in a       unique family number for the file.
+FFRVAL,family income - farm income
+FHIP_VAL,Total amount paid in premiums by family
+FHIP_VAL2,Total amount paid in premiums by family 2
+FINC_ANN,"annuity income, y/n"
+FINC_CSP,"child support income, y/n"
+FINC_DIS,"disability income, y/n"
+FINC_DIV,"dividend income, y/n"
+FINC_DST,"retirement distributions, y/n"
+FINC_ED,"education income, y/n"
+FINC_FIN,"financial assistance, y/n"
+FINC_FR,"farm self-employment, y/n"
+FINC_INT,"interest income, y/n"
+FINC_OI,"other income, y/n"
+FINC_PAW,"public assistance or welfare, y/n"
+FINC_PEN,"pension income, y/n"
+FINC_RNT,"rental income, y/n"
+FINC_SE,"own business self-employment, y/n"
+FINC_SS,"social security income, y/n"
+FINC_SSI,"supplemental security income, y/n"
+FINC_SUR,"survivor's income, y/n"
+FINC_UC,"unemployment compensation, y/n"
+FINC_VET,"veterans' benefits, y/n"
+FINC_WC,"workers compensation, y/n"
+FINC_WS,"wage and salary, y/n"
+FINTVAL,family income - interest income
+FMED_VAL,Total amount paid in medical expenses by family
+FMOOP,Family's total medical out of pocket expenditures. Sum of MOOP  across family members.
+FMOOP2,Family's total medical out of pocket expenditures with alternative  measure of premiums. Sum of MOOP2 across family members.
+FOIVAL,"family income - other income: such as foster child care, alimony,  jury duty, armed forces reserves, severance pay, hobbies, or any  other source"
+FOTC_VAL,Total amount paid in over the counter expenses by family
+FOTHVAL,total other family income - All other types of income except  FEARNVAL
+FPAWVAL,family income - public assistance income
+FPCTCUT,Income percentiles (for primary families only)
+FPENVAL,family income - pension
+FRECORD,Record Type. Used to identify records on ascii file.
+FRNTVAL,family income - rental income
+FRSPOV,RATIO OF RELATED SUBFAMILY INCOME TO RELATED  SUBFAMILY POVERTY THRESHOLD
+FRSPPCT,ANNUAL RELATED SUBFAMILY POVERTY THRESHOLD  (CARE SHOULD BE EXERCISED WHEN USING THIS DATA AS  RELATED SUBFAMILIES ARE A SUBSET OF PRIMARY  FAMILIES AND USUALLY THEIR POVERTY STATUS COMES  FROM THE PRIMARY FAMILY)
+FSEVAL,family income - self employment income
+FSPANISH,"Reference person or spouse is Spanish, Hispanic, or Latino"
+FSSIVAL,family income - supplemental security income
+FSSVAL,family income - social security
+FSUP_WGT,Householder or Reference Person weight
+FSURVAL,family income - survivor income
+FTOTVAL,Total family income
+FTOT_R,Total family income recode
+FUCVAL,family income - unemployment compensation
+FVETVAL,family income - veteran payments
+FWCVAL,family income - worker's compensation
+FWSVAL,family income - wages and salaries
+F_MV_FS,Family market value of food stamps
+F_MV_SL,Family market value of school lunch
+I_FHIPVAL,Allocation flag for FHIP_VAL
+I_FHIPVAL2,Allocation flag for FHIP_VAL2
+I_FMEDVAL,Allocation flag for FMED_VAL
+I_FMOOP,Allocation flag for FMOOP
+I_FMOOP2,Allocation flag for FMOOP2
+I_FOTCVAL,Allocation flag for FOTC_VAL
+POVLL,"RATIO OF FAMILY INCOME TO POVERTY THRESHOLD. IF FTYPE = 3, THEN VALUE COMES FROM PRIMARY FAMILY."
+FILEDATE,File creation date in MMDDYY format
+YYYYMM,

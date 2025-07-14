@@ -1,0 +1,626 @@
+Variable,Description
+BASMID,Unique child identifier
+RCNOW,Regular care from relative
+RCWEEK,Care from relative regularly scheduled
+RCTYPE,Relative relation to child
+RCAGE,Age of relative care provider
+RCPLACE,Home for relative care
+RCTIME,Time from home to relative’s home
+RCDAYS,Days a week child receives care from relative
+RCHRS,Hours a week child receives care from relative
+RCCVRWK,Relative care covers work hours
+RCSTRTY,Child’s age when care began from relative (Years)
+RCSTRTM,Child’s age when care began from relative (Months)
+RCSPEAK,Language spoken by relative when caring for child
+RCSKNFV,Relative care for child sick without a fever
+RCSKFV,Relative care for child sick with a fever
+RCOTCH,How many children under relative’s care
+RCFEE,Charge for care by relative
+RCREL,Outside relative pays for care by relative
+RCTANF,TANF pays for care by relative
+RCSSAC,Other social service pays for care by relative
+RCEMPL,Employer pays for care by relative
+RCOTHER,Someone else pays for care by relative
+RCCOST,Amount household pays for care by relative
+RCUNIT,Unit of time for cost of relative care
+RCCSTHNX,Number of children in household amount covers for relative care
+RCOTHC,Other regular relative care arrangements
+RCTLHR,Hours each week spent in other relative care
+NCNOW,Care from non-relative
+NCWEEK,Care from non-relative regularly scheduled
+NCINHH,Care provider live in household
+NCPLACE,Home for non-relative care
+NCTIME,Time from home to non-relative’s home
+NCDAYS,Days a week child receives non-relative care
+NCHRS,Hours each week child receives non-relative care
+NCCVRWK,Non-relative care covers work hours
+NCSTRTY,Child’s age when care began from non-relative (Years)
+NCSTRTM,Child’s age when care began from non-relative (Months)
+NCALKNE,Non-relative care provider already known
+NCAGE,Non-relative care provider 18 or older
+NCSPEAK,Language spoken by non-relative when caring for child
+NCSKNFV,Non-relative care for child sick without a fever
+NCSKFV,Non-relative care for child sick with a fever
+NCOTCH,How many children under non-relative’s care
+NCRCMDPT,Recommend non-relative care provider to another
+NCFEE,Charge for care by non-relative
+NCREL,Relative pays for care by non-relative
+NCTANF,TANF pays for care by non-relative
+NCSSAC,Other social service pays for care by non-relative
+NCEMPL,Employer pays for care by non-relative
+NCOTHER,Someone else pays for care by non-relative
+NCCOST,Amount household pays for care by non-relative
+NCUNIT,Unit of time for cost of non-relative care
+NCCSTHNX,Number of children in household amount covers for non-relative care
+NCOTHC,Other regular non-relative care arrangements
+NCTLHR,Total hours per week in care with non-relatives
+CPNNOWX,Attending program not in private home
+CPWEEKX,Attend program at least once a week
+CPPLACEX,Program location
+CPSPRLG,Program teaches religious content
+CPWORK,Program location at workplace
+CPHEADST,(Early) Head Start program
+CPDAYS,Days each week child attends program
+CPHRS,Hours each week child attends program
+CPCVRWK,Program covers work hours
+CPSTRTY,Age of child when starting program (Years)
+CPSTRTM,Age of child when starting program (Months)
+CPSPEAK,Language spoken by program provider when caring for child
+CPTIME,Time from home to program
+CPRCMDPT,Recommend program to another
+CPTEST,"Provide hearing, speech, vision testing"
+CPPHYSE,Provide physical examinations
+CPDENTA,Provide dental examinations
+CPDISAB,Provide testing for learning problems
+CPMEDAM,Provide medication administration
+CPSKNFV,Provide care when child is sick without fever
+CPSKFV,Provide care when child is sick with fever
+CPFEE,Charge for program
+CPREL,Relative pays for program care
+CPTANF,TANF pays for program care
+CPSSAC,Other social service pays for program care
+CPEMPL,Employer pays for program care
+CPOTHER,Someone else pays for program care
+CPCOST,Amount household pays for program care
+CPUNIT,Unit of time for cost of program care
+CPCSTHNX,Number of children in household amount covers for program
+CPOTHC,Other regular program care arrangements
+CPTLHR,Total hours per week at programs
+PCEVRHDX,Ever attended (Early) Head Start program
+MAINRESN,Reason for wanting care
+PPCHOIC,Feel good choices for care
+CRSRCH,Searched for care
+PPDIFCLT,Difficulty finding care
+WHYDIFCLT,Reason finding care was difficult
+CCPY,Care arrangement in the past year
+CCREASN1,Main reason household chose care arrangement - Code 1
+CCREASN2,Main reason household chose care arrangement - Code 2
+CCREASN3,Main reason household chose care arrangement - Code 3
+CCREASN4,Main reason household chose care arrangement - Code 4
+CCREASN5,Main reason household chose care arrangement - Code 5
+DCLOA,Importance of location
+DCOST,Importance of cost
+DRELY,Importance of reliability
+DLERN,Importance of learning activities
+DCHIL,Importance of child interaction with other kids
+DHROP,Importance of caregiver availability
+DNBGRP,Importance of number of children in group
+DRTWEB,Importance of website ratings
+DRECFAM,Importance of personal recommendations
+DQUAL,Importance of qualifications of staff
+DRELOR,Importance of religious orientation
+HABOOKS,Books child owns
+FOREADTOX,Time spent reading to child
+FORDDAYX,Minutes spent each time reading to child
+FOSTORYX,"In the past week, times child has been told a story"
+FOWORDSX,"In the past week, times child has been taught letters, words, or numbers"
+FOSANG,"In the past week, times sang with child"
+FOCRAFTSX,"In the past week, time spent on arts and crafts with child"
+FODINNERX,Times eaten evening meal together
+FOLIBRAY,Visited a library in the past month
+FOBOOKST,Visited a bookstore in the past month
+DPIAGE,Child older or younger than 2 years
+DPLETTER,Recognize letters of alphabet
+DPNAME,Ability to write first name
+DPLTRSND,Recognize beginning sound of a word
+DPEXPLN,Explain things he or she has seen
+DPCOUNT,Count up to N
+DPSHAPE,Identify basic shapes
+HDHEALTH,Health of child
+HDINTDIS,Intellectual disability
+HDSPEECHX,Speech or language impairment
+HDDISTRBX,Serious emotional disturbance
+HDDEAFIMX,Deafness or another hearing impairment
+HDBLINDX,Blindness or another visual impairment
+HDORTHOX,Orthopedic impairment
+HDAUTISMX,Autism
+HDPDDX,Pervasive Developmental Disorder
+HDADDX,Attention Deficit Disorder
+HDLEARNX,Learning disability
+HDDELAYX,Developmental delay
+HDTRBRAIN,Traumatic brain injury
+HDOTHERX,Another health impairment
+HDDLYRSK,At-risk for delay
+HDIFSPIEP,Services provided by ISFP or IEP
+HDCOMMUX,Satisfaction with service provider communication
+HDSPCLED,Enrollment in special education classes
+HDLEARN,Condition interferes with learning
+HDPLAY,Condition interferes with participation in play
+HDOUT,Condition interferes with going on outings
+HDFRNDS,Condition interferes with making friends
+HDCHDCARE,Condition interferes with ability to attend care
+CDOBMM,Month child born
+CDOBYY,Year child born
+CPLCBRTH,Country where child born
+CMOVEAGE,Age of child when first moved to US
+CHISPAN,"Child of Spanish, Hispanic, or Latino origin"
+CAMIND,Child Race - American Indian or Alaska Native
+CASIAN,Child Race - Asian
+CBLACK,Child Race - Black or African American
+CPACI,Child Race - Native Hawaiian or other Pacific Islander
+CWHITE,Child Race - White
+CHISPRM,"Child Race - Hispanic, race not reported"
+CSEX,Child Sex
+CLIVYN,Child lives at another address
+CLIVELSWX,Address where child spends most time
+CSPEAKX,Language spoken by child at home
+CENGLPRG,Enrolled in language program
+HHTOTALXX,Total people in household
+HHBROSX,Brothers
+HHSISSX,Sisters
+HHMOM,Mothers
+HHDAD,Fathers
+HHAUNTSX,Aunts
+HHUNCLSX,Uncles
+HHGMASX,Grandmothers
+HHGPASX,Grandfathers
+HHCSNSX,Cousins
+HHPRTNRSX,Parent’s girlfriend/boyfriend/partner
+HHORELSX,Other relatives
+HHONRELSX,Other non-relatives
+RELATION,Relation to child
+HHENGLISH,Language spoken at home - English
+HHSPANISH,Language spoken at home - Spanish
+HHFRENCH,Language spoken at home - French
+HHCHINESE,Language spoken at home - Chinese
+HHOTHLANG,Language spoken at home - Other
+P1REL,Relation of first parent/guardian to child
+P1SEX,First parent/guardian sex
+P1MRSTA,First parent/guardian marital status
+P1BFGF,First parent/guardian living with partner
+P1FRLNG,First parent/guardian first language
+P1SPEAK,Language spoken most often at home by first parent/guardian
+P1PLCBRTH,First parent/guardian born in U.S.
+P1AGEMV,Age of first parent/guardian when first moved to US
+P1HISPAN,"First parent/guardian of Spanish, Hispanic, or Latino origin"
+P1AMIND,First parent/guardian race - American Indian or Alaska Native
+P1ASIAN,First parent/guardian race - Asian
+P1BLACK,First parent/guardian race - Black or African American
+P1PACI,First parent/guardian race - Native Hawaiian or other Pacific Islander
+P1WHITE,First parent/guardian race - White
+P1HISPRM,"First parent/guardian race - Hispanic, race not reported"
+P1EDUC,First parent/guardian highest grade level completed
+P1ENRL,First parent/guardian attending school
+P1EMPL,First parent/guardian employment status
+P1HRSWK,First parent/guardian hours worked per week
+P1LKWRK,First parent/guardian looking for work
+P1MTHSWRK,First parent/guardian months worked
+P1AGE,First parent/guardian age
+P2GUARD,Second parent/guardian
+P2REL,Relation of second parent/guardian to child
+P2SEX,Second parent/guardian sex
+P2MRSTA,Second parent/guardian marital status
+P2BFGF,Second parent/guardian living with partner
+P2FRLNG,Second parent/guardian first language
+P2SPEAK,Language spoken most often at home by second parent/guardian
+P2PLCBRTH,Second parent/guardian born in U.S.
+P2AGEMV,Age of second parent/guardian when first moved to US
+P2HISPAN,"Second parent/guardian of Spanish, Hispanic, or Latino origin"
+P2AMIND,Second parent/guardian race - American Indian or Alaska Native
+P2ASIAN,Second parent/guardian race - Asian
+P2BLACK,Second parent/guardian race - Black or African American
+P2PACI,Second parent/guardian race - Native Hawaiian or other Pacific Islander
+P2WHITE,Second parent/guardian race - White
+P2HISPRM,"Second parent/guardian race - Hispanic, race not reported"
+P2EDUC,Second parent/guardian highest grade level completed
+P2ENRL,Second parent/guardian attending school
+P2EMPL,Second parent/guardian employment status
+P2HRSWK,Second parent/guardian hours worked per week
+P2LKWRK,Second parent/guardian looking for work
+P2MTHSWRK,Second parent/guardian months worked
+P2AGE,Second parent/guardian age
+HWELFTANST,Received TANF in past 12 months
+HWIC,Received WIC in past 12 months
+HFOODST,Received food stamps in past 12 months
+HMEDICAID,Received Medicaid in past 12 months
+HCHIP,Received CHIP in past 12 months
+HSECN8,Received Section 8 in past 12 months
+TTLHHINC,Total income
+OWNRNTHB,Own/rent house
+HVINTSPHO,Internet access on a cell phone
+HVINTCOM,Internet access on a computer or tablet
+CHLDNT,Child use of internet for learning at home
+LRNCOMP,Learning activities on computer
+LRNTAB,Learning activities on tablet
+LRNCELL,Learning activities on cell phone
+DSBLTY,D-Child currently has disability
+PAR1EDUC,D-Educational attainment of child’s first parent or guardian
+PAR1EMPL,D-Work status of child’s first parent or guardian
+PAR1FTFY,D-First parent or guardian works full time
+PAR1MARST,D-First parent or guardian marital status
+PAR1TYPE,D-Specific relationship of first parent or guardian to child
+PAR1FSTGN,D-First parent or guardian first generation immigrant status
+PAR2EDUC,D-Educational attainment of child’s second parent or guardian
+PAR2EMPL,D-Work status of child’s second parent or guardian
+PAR2FTFY,D-Second parent or guardian works full time
+PAR2MARST,D-Second parent or guardian marital status
+PAR2TYPE,D-Specific relationship of second parent or guardian to child
+PAR2FSTGN,D-Second parent or guardian first generation immigrant status
+HHPARN19X,D-Parental structure of household
+HHPARN19_BRD,D-Household has second parent or guardian
+NUMSIBSX,D-Number of child’s siblings
+FAMILY19X,D-Family type with parents
+FAMILY19_BRD,D-Family type with adults
+HHUNDR6X,D-Number of children younger than age 6
+HHUNDR10X,D-Number of children younger than age 10
+HHUNDR16X,D-Number of children younger than age 16
+HHUNDR18X,D-Number of children younger than age 18
+HHUNID,"D-Other household member, not identified"
+LANGUAGEX,D-English spoken most by parents
+PARGRADEX,D-Parent/guardian highest education
+RACEETH,D-Race and ethnicity of child
+RACEETH2,D-Detailed race and ethnicity of child
+INTACC,D-Household has internet access
+ANYCAREX,D-Child participates in any nonparental care or program arrangements
+ANYCARE2X,D-Child has nonparental care at least once a week
+CAREHOURX,D-Total hours a week child is in nonparental care
+CPARRNEWX,D-Number of center-based programs at least once a week
+MOSTHRSX,D-Care arrangement in which the child spends the most hours per week
+NCARRNEWX,D-Number of nonrelative arrangements at least once a week
+RCARRNEWX,D-Number of relative care arrangements at least once a week
+CENREG,D-Census region where child lives
+ZIP18PO2,D-Percent of families in zip code with children under 18 below the poverty line
+ZIPBLHI2,D-Percent of persons in zip code who were Black or Hispanic
+ZIPLOCL,D-Zip code classification by community type
+ENGLSPANX,D-Questionnaire in English or Spanish
+AGE2018,"D-Child’s Age as of Dec 31, 2018"
+MODECOMP,D-Completed on web or paper
+CHAGE1,D-Age of 1st nonsampled child
+CHAGE2,D-Age of 2nd nonsampled child
+CHAGE3,D-Age of 3rd nonsampled child
+CHAGE4,D-Age of 4th nonsampled child
+CHSEX1,D-Sex of 1st nonsampled child
+CHSEX2,D-Sex of 2nd nonsampled child
+CHSEX3,D-Sex of 3rd nonsampled child
+CHSEX4,D-Sex of 4th nonsampled child
+CHENRL1,D-Enrollment status of 1st nonsampled child
+CHENRL2,D-Enrollment status of 2nd nonsampled child
+CHENRL3,D-Enrollment status of 3rd nonsampled child
+CHENRL4,D-Enrollment status of 4th nonsampled child
+CHGRD1,D-Grade of 1st nonsampled child
+CHGRD2,D-Grade of 2nd nonsampled child
+CHGRD3,D-Grade of 3rd nonsampled child
+CHGRD4,D-Grade of 4th nonsampled child
+EPSU,PSU FOR TAYLOR SERIES VAR EST
+ESTRATUM,STRATUM FOR TAYLOR SERIES VAR EST
+FEWT,FINAL INTV WEIGHT
+FEWT1,"FINAL INTV REPLICATE WEIGHT, FEWT1"
+FEWT2,"FINAL INTV REPLICATE WEIGHT, FEWT2"
+FEWT3,"FINAL INTV REPLICATE WEIGHT, FEWT3"
+FEWT4,"FINAL INTV REPLICATE WEIGHT, FEWT4"
+FEWT5,"FINAL INTV REPLICATE WEIGHT, FEWT5"
+FEWT6,"FINAL INTV REPLICATE WEIGHT, FEWT6"
+FEWT7,"FINAL INTV REPLICATE WEIGHT, FEWT7"
+FEWT8,"FINAL INTV REPLICATE WEIGHT, FEWT8"
+FEWT9,"FINAL INTV REPLICATE WEIGHT, FEWT9"
+FEWT10,"FINAL INTV REPLICATE WEIGHT, FEWT10"
+FEWT11,"FINAL INTV REPLICATE WEIGHT, FEWT11"
+FEWT12,"FINAL INTV REPLICATE WEIGHT, FEWT12"
+FEWT13,"FINAL INTV REPLICATE WEIGHT, FEWT13"
+FEWT14,"FINAL INTV REPLICATE WEIGHT, FEWT14"
+FEWT15,"FINAL INTV REPLICATE WEIGHT, FEWT15"
+FEWT16,"FINAL INTV REPLICATE WEIGHT, FEWT16"
+FEWT17,"FINAL INTV REPLICATE WEIGHT, FEWT17"
+FEWT18,"FINAL INTV REPLICATE WEIGHT, FEWT18"
+FEWT19,"FINAL INTV REPLICATE WEIGHT, FEWT19"
+FEWT20,"FINAL INTV REPLICATE WEIGHT, FEWT20"
+FEWT21,"FINAL INTV REPLICATE WEIGHT, FEWT21"
+FEWT22,"FINAL INTV REPLICATE WEIGHT, FEWT22"
+FEWT23,"FINAL INTV REPLICATE WEIGHT, FEWT23"
+FEWT24,"FINAL INTV REPLICATE WEIGHT, FEWT24"
+FEWT25,"FINAL INTV REPLICATE WEIGHT, FEWT25"
+FEWT26,"FINAL INTV REPLICATE WEIGHT, FEWT26"
+FEWT27,"FINAL INTV REPLICATE WEIGHT, FEWT27"
+FEWT28,"FINAL INTV REPLICATE WEIGHT, FEWT28"
+FEWT29,"FINAL INTV REPLICATE WEIGHT, FEWT29"
+FEWT30,"FINAL INTV REPLICATE WEIGHT, FEWT30"
+FEWT31,"FINAL INTV REPLICATE WEIGHT, FEWT31"
+FEWT32,"FINAL INTV REPLICATE WEIGHT, FEWT32"
+FEWT33,"FINAL INTV REPLICATE WEIGHT, FEWT33"
+FEWT34,"FINAL INTV REPLICATE WEIGHT, FEWT34"
+FEWT35,"FINAL INTV REPLICATE WEIGHT, FEWT35"
+FEWT36,"FINAL INTV REPLICATE WEIGHT, FEWT36"
+FEWT37,"FINAL INTV REPLICATE WEIGHT, FEWT37"
+FEWT38,"FINAL INTV REPLICATE WEIGHT, FEWT38"
+FEWT39,"FINAL INTV REPLICATE WEIGHT, FEWT39"
+FEWT40,"FINAL INTV REPLICATE WEIGHT, FEWT40"
+FEWT41,"FINAL INTV REPLICATE WEIGHT, FEWT41"
+FEWT42,"FINAL INTV REPLICATE WEIGHT, FEWT42"
+FEWT43,"FINAL INTV REPLICATE WEIGHT, FEWT43"
+FEWT44,"FINAL INTV REPLICATE WEIGHT, FEWT44"
+FEWT45,"FINAL INTV REPLICATE WEIGHT, FEWT45"
+FEWT46,"FINAL INTV REPLICATE WEIGHT, FEWT46"
+FEWT47,"FINAL INTV REPLICATE WEIGHT, FEWT47"
+FEWT48,"FINAL INTV REPLICATE WEIGHT, FEWT48"
+FEWT49,"FINAL INTV REPLICATE WEIGHT, FEWT49"
+FEWT50,"FINAL INTV REPLICATE WEIGHT, FEWT50"
+FEWT51,"FINAL INTV REPLICATE WEIGHT, FEWT51"
+FEWT52,"FINAL INTV REPLICATE WEIGHT, FEWT52"
+FEWT53,"FINAL INTV REPLICATE WEIGHT, FEWT53"
+FEWT54,"FINAL INTV REPLICATE WEIGHT, FEWT54"
+FEWT55,"FINAL INTV REPLICATE WEIGHT, FEWT55"
+FEWT56,"FINAL INTV REPLICATE WEIGHT, FEWT56"
+FEWT57,"FINAL INTV REPLICATE WEIGHT, FEWT57"
+FEWT58,"FINAL INTV REPLICATE WEIGHT, FEWT58"
+FEWT59,"FINAL INTV REPLICATE WEIGHT, FEWT59"
+FEWT60,"FINAL INTV REPLICATE WEIGHT, FEWT60"
+FEWT61,"FINAL INTV REPLICATE WEIGHT, FEWT61"
+FEWT62,"FINAL INTV REPLICATE WEIGHT, FEWT62"
+FEWT63,"FINAL INTV REPLICATE WEIGHT, FEWT63"
+FEWT64,"FINAL INTV REPLICATE WEIGHT, FEWT64"
+FEWT65,"FINAL INTV REPLICATE WEIGHT, FEWT65"
+FEWT66,"FINAL INTV REPLICATE WEIGHT, FEWT66"
+FEWT67,"FINAL INTV REPLICATE WEIGHT, FEWT67"
+FEWT68,"FINAL INTV REPLICATE WEIGHT, FEWT68"
+FEWT69,"FINAL INTV REPLICATE WEIGHT, FEWT69"
+FEWT70,"FINAL INTV REPLICATE WEIGHT, FEWT70"
+FEWT71,"FINAL INTV REPLICATE WEIGHT, FEWT71"
+FEWT72,"FINAL INTV REPLICATE WEIGHT, FEWT72"
+FEWT73,"FINAL INTV REPLICATE WEIGHT, FEWT73"
+FEWT74,"FINAL INTV REPLICATE WEIGHT, FEWT74"
+FEWT75,"FINAL INTV REPLICATE WEIGHT, FEWT75"
+FEWT76,"FINAL INTV REPLICATE WEIGHT, FEWT76"
+FEWT77,"FINAL INTV REPLICATE WEIGHT, FEWT77"
+FEWT78,"FINAL INTV REPLICATE WEIGHT, FEWT78"
+FEWT79,"FINAL INTV REPLICATE WEIGHT, FEWT79"
+FEWT80,"FINAL INTV REPLICATE WEIGHT, FEWT80"
+F_RCNOW,Imputation flag for RCNOW
+F_RCWEEK,Imputation flag for RCWEEK
+F_RCTYPE,Imputation flag for RCTYPE
+F_RCAGE,Imputation flag for RCAGE
+F_RCPLACE,Imputation flag for RCPLACE
+F_RCTIME,Imputation flag for RCTIME
+F_RCDAYS,Imputation flag for RCDAYS
+F_RCHRS,Imputation flag for RCHRS
+F_RCCVRWK,Imputation flag for RCCVRWK
+F_RCSTRTY,Imputation flag for RCSTRTY
+F_RCSTRTM,Imputation flag for RCSTRTM
+F_RCSPEAK,Imputation flag for RCSPEAK
+F_RCSKNFV,Imputation flag for RCSKNFV
+F_RCSKFV,Imputation flag for RCSKFV
+F_RCOTCH,Imputation flag for RCOTCH
+F_RCFEE,Imputation flag for RCFEE
+F_RCREL,Imputation flag for RCREL
+F_RCTANF,Imputation flag for RCTANF
+F_RCSSAC,Imputation flag for RCSSAC
+F_RCEMPL,Imputation flag for RCEMPL
+F_RCOTHER,Imputation flag for RCOTHER
+F_RCCOST,Imputation flag for RCCOST
+F_RCUNIT,Imputation flag for RCUNIT
+F_RCCSTHNX,Imputation flag for RCCSTHNX
+F_RCOTHC,Imputation flag for RCOTHC
+F_RCTLHR,Imputation flag for RCTLHR
+F_NCNOW,Imputation flag for NCNOW
+F_NCWEEK,Imputation flag for NCWEEK
+F_NCINHH,Imputation flag for NCINHH
+F_NCPLACE,Imputation flag for NCPLACE
+F_NCTIME,Imputation flag for NCTIME
+F_NCDAYS,Imputation flag for NCDAYS
+F_NCHRS,Imputation flag for NCHRS
+F_NCCVRWK,Imputation flag for NCCVRWK
+F_NCSTRTY,Imputation flag for NCSTRTY
+F_NCSTRTM,Imputation flag for NCSTRTM
+F_NCALKNE,Imputation flag for NCALKNE
+F_NCAGE,Imputation flag for NCAGE
+F_NCSPEAK,Imputation flag for NCSPEAK
+F_NCSKNFV,Imputation flag for NCSKNFV
+F_NCSKFV,Imputation flag for NCSKFV
+F_NCOTCH,Imputation flag for NCOTCH
+F_NCRCMDPT,Imputation flag for NCRCMDPT
+F_NCFEE,Imputation flag for NCFEE
+F_NCREL,Imputation flag for NCREL
+F_NCTANF,Imputation flag for NCTANF
+F_NCSSAC,Imputation flag for NCSSAC
+F_NCEMPL,Imputation flag for NCEMPL
+F_NCOTHER,Imputation flag for NCOTHER
+F_NCCOST,Imputation flag for NCCOST
+F_NCUNIT,Imputation flag for NCUNIT
+F_NCCSTHNX,Imputation flag for NCCSTHNX
+F_NCOTHC,Imputation flag for NCOTHC
+F_NCTLHR,Imputation flag for NCTLHR
+F_CPNNOWX,Imputation flag for CPNNOWX
+F_CPWEEKX,Imputation flag for CPWEEKX
+F_CPPLACEX,Imputation flag for CPPLACEX
+F_CPSPRLG,Imputation flag for CPSPRLG
+F_CPWORK,Imputation flag for CPWORK
+F_CPHEADST,Imputation flag for CPHEADST
+F_CPDAYS,Imputation flag for CPDAYS
+F_CPHRS,Imputation flag for CPHRS
+F_CPCVRWK,Imputation flag for CPCVRWK
+F_CPSTRTY,Imputation flag for CPSTRTY
+F_CPSTRTM,Imputation flag for CPSTRTM
+F_CPSPEAK,Imputation flag for CPSPEAK
+F_CPTIME,Imputation flag for CPTIME
+F_CPRCMDPT,Imputation flag for CPRCMDPT
+F_CPTEST,Imputation flag for CPTEST
+F_CPPHYSE,Imputation flag for CPPHYSE
+F_CPDENTA,Imputation flag for CPDENTA
+F_CPDISAB,Imputation flag for CPDISAB
+F_CPMEDAM,Imputation flag for CPMEDAM
+F_CPSKNFV,Imputation flag for CPSKNFV
+F_CPSKFV,Imputation flag for CPSKFV
+F_CPFEE,Imputation flag for CPFEE
+F_CPREL,Imputation flag for CPREL
+F_CPTANF,Imputation flag for CPTANF
+F_CPSSAC,Imputation flag for CPSSAC
+F_CPEMPL,Imputation flag for CPEMPL
+F_CPOTHER,Imputation flag for CPOTHER
+F_CPCOST,Imputation flag for CPCOST
+F_CPUNIT,Imputation flag for CPUNIT
+F_CPCSTHNX,Imputation flag for CPCSTHNX
+F_CPOTHC,Imputation flag for CPOTHC
+F_CPTLHR,Imputation flag for CPTLHR
+F_PCEVRHDX,Imputation flag for PCEVRHDX
+F_MAINRESN,Imputation flag for MAINRESN
+F_PPCHOIC,Imputation flag for PPCHOIC
+F_CRSRCH,Imputation flag for CRSRCH
+F_PPDIFCLT,Imputation flag for PPDIFCLT
+F_WHYDIFCLT,Imputation flag for WHYDIFCLT
+F_CCPY,Imputation flag for CCPY
+F_DCLOA,Imputation flag for DCLOA
+F_DCOST,Imputation flag for DCOST
+F_DRELY,Imputation flag for DRELY
+F_DLERN,Imputation flag for DLERN
+F_DCHIL,Imputation flag for DCHIL
+F_DHROP,Imputation flag for DHROP
+F_DNBGRP,Imputation flag for DNBGRP
+F_DRTWEB,Imputation flag for DRTWEB
+F_DRECFAM,Imputation flag for DRECFAM
+F_DQUAL,Imputation flag for DQUAL
+F_DRELOR,Imputation flag for DRELOR
+F_HABOOKS,Imputation flag for HABOOKS
+F_FOREADTOX,Imputation flag for FOREADTOX
+F_FORDDAYX,Imputation flag for FORDDAYX
+F_FOSTORYX,Imputation flag for FOSTORYX
+F_FOWORDSX,Imputation flag for FOWORDSX
+F_FOSANG,Imputation flag for FOSANG
+F_FOCRAFTSX,Imputation flag for FOCRAFTSX
+F_FODINNERX,Imputation flag for FODINNERX
+F_FOLIBRAY,Imputation flag for FOLIBRAY
+F_FOBOOKST,Imputation flag for FOBOOKST
+F_DPIAGE,Imputation flag for DPIAGE
+F_DPLETTER,Imputation flag for DPLETTER
+F_DPNAME,Imputation flag for DPNAME
+F_DPLTRSND,Imputation flag for DPLTRSND
+F_DPEXPLN,Imputation flag for DPEXPLN
+F_DPCOUNT,Imputation flag for DPCOUNT
+F_DPSHAPE,Imputation flag for DPSHAPE
+F_HDHEALTH,Imputation flag for HDHEALTH
+F_HDINTDIS,Imputation flag for HDINTDIS
+F_HDSPEECHX,Imputation flag for HDSPEECHX
+F_HDDISTRBX,Imputation flag for HDDISTRBX
+F_HDDEAFIMX,Imputation flag for HDDEAFIMX
+F_HDBLINDX,Imputation flag for HDBLINDX
+F_HDORTHOX,Imputation flag for HDORTHOX
+F_HDAUTISMX,Imputation flag for HDAUTISMX
+F_HDPDDX,Imputation flag for HDPDDX
+F_HDADDX,Imputation flag for HDADDX
+F_HDLEARNX,Imputation flag for HDLEARNX
+F_HDDELAYX,Imputation flag for HDDELAYX
+F_HDTRBRAIN,Imputation flag for HDTRBRAIN
+F_HDOTHERX,Imputation flag for HDOTHERX
+F_HDDLYRSK,Imputation flag for HDDLYRSK
+F_HDIFSPIEP,Imputation flag for HDIFSPIEP
+F_HDCOMMUX,Imputation flag for HDCOMMUX
+F_HDSPCLED,Imputation flag for HDSPCLED
+F_HDLEARN,Imputation flag for HDLEARN
+F_HDPLAY,Imputation flag for HDPLAY
+F_HDOUT,Imputation flag for HDOUT
+F_HDFRNDS,Imputation flag for HDFRNDS
+F_HDCHDCARE,Imputation flag for HDCHDCARE
+F_CDOBMM,Imputation flag for CDOBMM
+F_CDOBYY,Imputation flag for CDOBYY
+F_CPLCBRTH,Imputation flag for CPLCBRTH
+F_CMOVEAGE,Imputation flag for CMOVEAGE
+F_CHISPAN,Imputation flag for CHISPAN
+F_CAMIND,Imputation flag for CAMIND
+F_CASIAN,Imputation flag for CASIAN
+F_CBLACK,Imputation flag for CBLACK
+F_CPACI,Imputation flag for CPACI
+F_CWHITE,Imputation flag for CWHITE
+F_CHISPRM,Imputation flag for CHISPRM
+F_CSEX,Imputation flag for CSEX
+F_CLIVYN,Imputation flag for CLIVYN
+F_CLIVELSWX,Imputation flag for CLIVELSWX
+F_CSPEAKX,Imputation flag for CSPEAKX
+F_CENGLPRG,Imputation flag for CENGLPRG
+F_HHTOTALXX,Imputation flag for HHTOTALXX
+F_HHBROSX,Imputation flag for HHBROSX
+F_HHSISSX,Imputation flag for HHSISSX
+F_HHMOM,Imputation flag for HHMOM
+F_HHDAD,Imputation flag for HHDAD
+F_HHAUNTSX,Imputation flag for HHAUNTSX
+F_HHUNCLSX,Imputation flag for HHUNCLSX
+F_HHGMASX,Imputation flag for HHGMASX
+F_HHGPASX,Imputation flag for HHGPASX
+F_HHCSNSX,Imputation flag for HHCSNSX
+F_HHPRTNRSX,Imputation flag for HHPRTNRSX
+F_HHORELSX,Imputation flag for HHORELSX
+F_HHONRELSX,Imputation flag for HHONRELSX
+F_RELATION,Imputation flag for RELATION
+F_HHENGLISH,Imputation flag for HHENGLISH
+F_HHSPANISH,Imputation flag for HHSPANISH
+F_HHFRENCH,Imputation flag for HHFRENCH
+F_HHCHINESE,Imputation flag for HHCHINESE
+F_HHOTHLANG,Imputation flag for HHOTHLANG
+F_P1REL,Imputation flag for P1REL
+F_P1SEX,Imputation flag for P1SEX
+F_P1MRSTA,Imputation flag for P1MRSTA
+F_P1BFGF,Imputation flag for P1BFGF
+F_P1FRLNG,Imputation flag for P1FRLNG
+F_P1SPEAK,Imputation flag for P1SPEAK
+F_P1PLCBRTH,Imputation flag for P1PLCBRTH
+F_P1AGEMV,Imputation flag for P1AGEMV
+F_P1HISPAN,Imputation flag for P1HISPAN
+F_P1AMIND,Imputation flag for P1AMIND
+F_P1ASIAN,Imputation flag for P1ASIAN
+F_P1BLACK,Imputation flag for P1BLACK
+F_P1PACI,Imputation flag for P1PACI
+F_P1WHITE,Imputation flag for P1WHITE
+F_P1HISPRM,Imputation flag for P1HISPRM
+F_P1EDUC,Imputation flag for P1EDUC
+F_P1ENRL,Imputation flag for P1ENRL
+F_P1EMPL,Imputation flag for P1EMPL
+F_P1HRSWK,Imputation flag for P1HRSWK
+F_P1LKWRK,Imputation flag for P1LKWRK
+F_P1MTHSWRK,Imputation flag for P1MTHSWRK
+F_P1AGE,Imputation flag for P1AGE
+F_P2GUARD,Imputation flag for P2GUARD
+F_P2REL,Imputation flag for P2REL
+F_P2SEX,Imputation flag for P2SEX
+F_P2MRSTA,Imputation flag for P2MRSTA
+F_P2BFGF,Imputation flag for P2BFGF
+F_P2FRLNG,Imputation flag for P2FRLNG
+F_P2SPEAK,Imputation flag for P2SPEAK
+F_P2PLCBRTH,Imputation flag for P2PLCBRTH
+F_P2AGEMV,Imputation flag for P2AGEMV
+F_P2HISPAN,Imputation flag for P2HISPAN
+F_P2AMIND,Imputation flag for P2AMIND
+F_P2ASIAN,Imputation flag for P2ASIAN
+F_P2BLACK,Imputation flag for P2BLACK
+F_P2PACI,Imputation flag for P2PACI
+F_P2WHITE,Imputation flag for P2WHITE
+F_P2HISPRM,Imputation flag for P2HISPRM
+F_P2EDUC,Imputation flag for P2EDUC
+F_P2ENRL,Imputation flag for P2ENRL
+F_P2EMPL,Imputation flag for P2EMPL
+F_P2HRSWK,Imputation flag for P2HRSWK
+F_P2LKWRK,Imputation flag for P2LKWRK
+F_P2MTHSWRK,Imputation flag for P2MTHSWRK
+F_P2AGE,Imputation flag for P2AGE
+F_HWELFTANST,Imputation flag for HWELFTANST
+F_HWIC,Imputation flag for HWIC
+F_HFOODST,Imputation flag for HFOODST
+F_HMEDICAID,Imputation flag for HMEDICAID
+F_HCHIP,Imputation flag for HCHIP
+F_HSECN8,Imputation flag for HSECN8
+F_TTLHHINC,Imputation flag for TTLHHINC
+F_OWNRNTHB,Imputation flag for OWNRNTHB
+F_HVINTSPHO,Imputation flag for HVINTSPHO
+F_HVINTCOM,Imputation flag for HVINTCOM
+F_CHLDNT,Imputation flag for CHLDNT
+F_LRNCOMP,Imputation flag for LRNCOMP
+F_LRNTAB,Imputation flag for LRNTAB
+F_LRNCELL,Imputation flag for LRNCELL
+F_HHUNID,Imputation flag for HHUNID
+F_ZIPLOCL,Imputation flag for ZIPLOCL

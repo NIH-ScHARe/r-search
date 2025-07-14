@@ -1,0 +1,15 @@
+﻿Variable,Description
+STNAM,State Name
+FIPST,The two-digit American National Standards Institute (ANSI) code for state
+LEAID,District NCES ID
+ST_LEAID,"Local Education Agency (District) State ID
+Assigned by State"
+LEANM,District Name
+SCHNAM,School Name (Not in District file)
+NCESSCH,School NCES ID (Not in District file)
+ST_SCHID,School State ID (Not in District file)
+DATE_CUR,Date of data snapshot
+CATEGORY,"Category/Subgroup
+• ALL, MAM, MAS, MHI, MBL, MWH, MTR, CWD, ECD, LEP, HOM, FCS, MIL"
+COHORT_COUNT,Total number of students within the four-year adjusted-cohort
+RATE,Rate of students who graduated within the four-year adjusted-cohort

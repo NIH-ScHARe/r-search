@@ -1,0 +1,7 @@
+﻿Variable,Description
+statefips,state FIPS code
+countyfips,county FIPS code
+year,year
+month,"month of the year, from 1-12"
+day,"day of the month, from 1-31"
+ghi,county-level population weighted daily GHI in wh/m2

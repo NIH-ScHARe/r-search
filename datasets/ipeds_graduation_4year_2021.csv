@@ -1,0 +1,37 @@
+Variable,Description
+UNITID,Unique identification number of the institution
+GRTYPE,Cohort data
+CHRTSTAT,Graduation rate status in cohort
+SECTION,Section of survey form
+COHORT,Cohort
+LINE,Original line number of survey form
+GRTOTLT,Grand total
+GRTOTLM,Total men
+GRTOTLW,Total women
+GRAIANT,American Indian or Alaska Native total
+GRAIANM,American Indian or Alaska Native men
+GRAIANW,American Indian or Alaska Native women
+GRASIAT,Asian total
+GRASIAM,Asian men
+GRASIAW,Asian women
+GRBKAAT,Black or African American total
+GRBKAAM,Black or African American men
+GRBKAAW,Black or African American women
+GRHISPT,Hispanic total
+GRHISPM,Hispanic men
+GRHISPW,Hispanic women
+GRNHPIT,Native Hawaiian or Other Pacific Islander total
+GRNHPIM,Native Hawaiian or Other Pacific Islander men
+GRNHPIW,Native Hawaiian or Other Pacific Islander women
+GRWHITT,White total
+GRWHITM,White men
+GRWHITW,White women
+GR2MORT,Two or more races total
+GR2MORM,Two or more races men
+GR2MORW,Two or more races women
+GRUNKNT,Race/ethnicity unknown total
+GRUNKNM,Race/ethnicity unknown men
+GRUNKNW,Race/ethnicity unknown women
+GRNRALT,Nonresident alien total
+GRNRALM,Nonresident alien men
+GRNRALW,Nonresident alien women

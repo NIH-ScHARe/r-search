@@ -1,0 +1,1091 @@
+Variable,Description
+CONTROL,Control number
+TOTROOMS,Total number of rooms
+PERPOVLVL,Household income as percent of poverty threshold (rounded)
+COMTYPE,Flag indicating mode(s) of transportation used to commute to work
+COMCOST,Total annual commuting cost
+JACPRIMARY,Edit flag for ACPRIMARY
+JACSECNDRY,Edit flag for ACSECNDRY
+JADEQUACY,Edit flag for ADEQUACY
+JBATHEXCLU,Edit flag for BATHEXCLU
+JBATHROOMS,Edit flag for BATHROOMS
+JBEDROOMS,Edit flag for BEDROOMS
+JBIKE,Edit flag for BIKE
+JBLD,Edit flag for BLD
+JBUS,Edit flag for BUS
+JCARPOOL,Edit flag for CARPOOL
+JCELLPHONE,Edit flag for CELLPHONE
+JCOLD,Edit flag for COLD
+JCOLDCOST,Edit flag for COLDCOST
+JCOLDEQ,Edit flag for COLDEQ
+JCOLDEQFREQ,Edit flag for COLDEQFREQ
+JCOLDHTCAP,Edit flag for COLDHTCAP
+JCOLDINSUL,Edit flag for COLDINSUL
+JCOLDOTHER,Edit flag for COLDOTHER
+JCOLDUTIL,Edit flag for COLDUTIL
+JCOMCOST,Edit flag for COMCOST
+JCOMDAYS,Edit flag for COMDAYS
+JCOMPANYCAR,Edit flag for COMPANYCAR
+JCOMTYPE,Edit flag for COMTYPE
+JCONDO,Edit flag for CONDO
+JCOOKFUEL,Edit flag for COOKFUEL
+JCOOKTYPE,Edit flag for COOKTYPE
+JDBEVICLK,Edit flag for DBEVICLK
+JDBEVICNOTE,Edit flag for DBEVICNOTE
+JDBEVICTHT,Edit flag for DBEVICTHT
+JDBEVICWHERE,Edit flag for DBEVICWHERE
+JDBFORCWHR,Edit flag for DBFORCWHR
+JDBLVEFORC,Edit flag for DBLVEFORC
+JDBMISSMORT,Edit flag for DBMISSMORT
+JDBMISSRENT,Edit flag for DBMISSRENT
+JDBUTBILL,Edit flag for DBUTBILL
+JDINING,Edit flag for DINING
+JDISHH,Edit flag for DISHH
+JDISHWASH,Edit flag for DISHWASH
+JDIST,Edit flag for DIST
+JDPALTCOM,Edit flag for DPALTCOM
+JDPDRFOOD,Edit flag for DPDRFOOD
+JDPEMWATER,Edit flag for DPEMWATER
+JDPEVACPETS,Edit flag for DPEVACPETS
+JDPEVFIN,Edit flag for DPEVFIN
+JDPEVINFO,Edit flag for DPEVINFO
+JDPEVKIT,Edit flag for DPEVKIT
+JDPEVLOC,Edit flag for DPEVLOC
+JDPEVSEP,Edit flag for DPEVSEP
+JDPEVVEHIC,Edit flag for DPEVVEHIC
+JDPFLDINS,Edit flag for DPFLDINS
+JDPGENERT,Edit flag for DPGENERT
+JDPGETINFO,Edit flag for DPGETINFO
+JDPMAJDIS,Edit flag for DPMAJDIS
+JDPSHELTR,Edit flag for DPSHELTR
+JDRIVEALL,Edit flag for DRIVEALL
+JDRIVEPART,Edit flag for DRIVEPART
+JDRYER,Edit flag for DRYER
+JDWNPAYPCT,Edit flag for DWNPAYPCT
+JELECAMT,Edit flag for ELECAMT
+JENTRYSYS,Edit flag for ENTRYSYS
+JFERRY,Edit flag for FERRY
+JFINCP,Edit flag for FINCP
+JFINROOMS,Edit flag for FINROOMS
+JFIREPLACE,Edit flag for FIREPLACE
+JFIRSTHOME,Edit flag for FIRSTHOME
+JFLOORHOLE,Edit flag for FLOORHOLE
+JFNDCRUMB,Edit flag for FNDCRUMB
+JFOUNDTYPE,Edit flag for FOUNDTYPE
+JFRIDGE,Edit flag for FRIDGE
+JFS,Edit flag for FS
+JFUSEBLOW,Edit flag for FUSEBLOW
+JGARAGE,Edit flag for GARAGE
+JGASAMT,Edit flag for GASAMT
+JGRANDHH,Edit flag for GRANDHH
+JGUTREHB,Edit flag for GUTREHB
+JHEATFUEL,Edit flag for HEATFUEL
+JHEATTYPE,Edit flag for HEATTYPE
+JHHADLTKIDS,Edit flag for HHADLTKIDS
+JHHAGE,Edit flag for HHAGE
+JHHCARE,Edit flag for HHCARE
+JHHCITSHP,Edit flag for HHCITSHP
+JHHENROLL,Edit flag for HHENROLL
+JHHERRND,Edit flag for HHERRND
+JHHGRAD,Edit flag for HHGRAD
+JHHHEAR,Edit flag for HHHEAR
+JHHINUSYR,Edit flag for HHINUSYR
+JHHMAR,Edit flag for HHMAR
+JHHMEMRY,Edit flag for HHMEMRY
+JHHMOVE,Edit flag for HHMOVE
+JHHNATVTY,Edit flag for HHNATVTY
+JHHOLDKIDS,Edit flag for HHOLDKIDS
+JHHRACE,Edit flag for HHRACE
+JHHRACEAS,Edit flag for HHRACEAS
+JHHRACEPI,Edit flag for HHRACEPI
+JHHSEE,Edit flag for HHSEE
+JHHSEX,Edit flag for HHSEX
+JHHSPAN,Edit flag for HHSPAN
+JHHWALK,Edit flag for HHWALK
+JHHYNGKIDS,Edit flag for HHYNGKIDS
+JHINCP,Edit flag for HINCP
+JHMRACCESS,Edit flag for HMRACCESS
+JHMRENEFF,Edit flag for HMRENEFF
+JHMRSALE,Edit flag for HMRSALE
+JHOA,Edit flag for HOA
+JHOAAMT,Edit flag for HOAAMT
+JHOTWATER,Edit flag for HOTWATER
+JHOWBUY,Edit flag for HOWBUY
+JHRATE,Edit flag for HRATE
+JHSHLDTYPE,Edit flag for HSHLDTYPE
+JHUDSUB,Edit flag for HUDSUB
+JINSURAMT,Edit flag for INSURAMT
+JKITCHENS,Edit flag for KITCHENS
+JKITCHSINK,Edit flag for KITCHSINK
+JKITEXCLU,Edit flag for KITEXCLU
+JLAUNDY,Edit flag for LAUNDY
+JLEADINSP,Edit flag for LEADINSP
+JLEAKI,Edit flag for LEAKI
+JLEAKIDK,Edit flag for LEAKIDK
+JLEAKIOTH,Edit flag for LEAKIOTH
+JLEAKIPIPE,Edit flag for LEAKIPIPE
+JLEAKIPLUM,Edit flag for LEAKIPLUM
+JLEAKIWATH,Edit flag for LEAKIWATH
+JLEAKO,Edit flag for LEAKO
+JLEAKOBASE,Edit flag for LEAKOBASE
+JLEAKOOTH,Edit flag for LEAKOOTH
+JLEAKOROOF,Edit flag for LEAKOROOF
+JLEAKOWALL,Edit flag for LEAKOWALL
+JLOTAMT,Edit flag for LOTAMT
+JLOTSIZE,Edit flag for LOTSIZE
+JMAINTAMT,Edit flag for MAINTAMT
+JMARKETVAL,Edit flag for MARKETVAL
+JMGRONSITE,Edit flag for MGRONSITE
+JMHANCHOR,Edit flag for MHANCHOR
+JMHMOVE,Edit flag for MHMOVE
+JMHWIDE,Edit flag for MHWIDE
+JMILHH,Edit flag for MILHH
+JMOLDBASEM,Edit flag for MOLDBASEM
+JMOLDBATH,Edit flag for MOLDBATH
+JMOLDBEDRM,Edit flag for MOLDBEDRM
+JMOLDKITCH,Edit flag for MOLDKITCH
+JMOLDLROOM,Edit flag for MOLDLROOM
+JMOLDOTHER,Edit flag for MOLDOTHER
+JMONLSTOCC,Edit flag for MONLSTOCC
+JMONOXIDE,Edit flag for MONOXIDE
+JMORTAMT,Edit flag for MORTAMT
+JMOVFORCE,Edit flag for MOVFORCE
+JMOVWHY,Edit flag for MOVWHY
+JMULTIGEN,Edit flag for MULTIGEN
+JMVG1COST,Edit flag for MVG1COST
+JMVG1LOC,Edit flag for MVG1LOC
+JMVG1PER,Edit flag for MVG1PER
+JMVG1STAT,Edit flag for MVG1STAT
+JMVG1TEN,Edit flag for MVG1TEN
+JMVG1TYPE,Edit flag for MVG1TYPE
+JMVG2COST,Edit flag for MVG2COST
+JMVG2LOC,Edit flag for MVG2LOC
+JMVG2PER,Edit flag for MVG2PER
+JMVG2STAT,Edit flag for MVG2STAT
+JMVG2TEN,Edit flag for MVG2TEN
+JMVG2TYPE,Edit flag for MVG2TYPE
+JMVG3COST,Edit flag for MVG3COST
+JMVG3LOC,Edit flag for MVG3LOC
+JMVG3PER,Edit flag for MVG3PER
+JMVG3STAT,Edit flag for MVG3STAT
+JMVG3TEN,Edit flag for MVG3TEN
+JMVG3TYPE,Edit flag for MVG3TYPE
+JNEARABAND,Edit flag for NEARABAND
+JNEARBARCL,Edit flag for NEARBARCL
+JNEARTRASH,Edit flag for NEARTRASH
+JNHQPCRIME,Edit flag for NHQPCRIME
+JNHQPUBTRN,Edit flag for NHQPUBTRN
+JNHQRISK,Edit flag for NHQRISK
+JNHQSCHOOL,Edit flag for NHQSCHOOL
+JNHQSCRIME,Edit flag for NHQSCRIME
+JNORC,Edit flag for NORC
+JNOSTEP,Edit flag for NOSTEP
+JNOTOIL,Edit flag for NOTOIL
+JNOTOILFREQ,Edit flag for NOTOILFREQ
+JNOWAT,Edit flag for NOWAT
+JNOWATFREQ,Edit flag for NOWATFREQ
+JNOWIRE,Edit flag for NOWIRE
+JNRATE,Edit flag for NRATE
+JNUMADULTS,Edit flag for NUMADULTS
+JNUMCARE,Edit flag for NUMCARE
+JNUMELDERS,Edit flag for NUMELDERS
+JNUMERRND,Edit flag for NUMERRND
+JNUMHEAR,Edit flag for NUMHEAR
+JNUMMEMRY,Edit flag for NUMMEMRY
+JNUMNONREL,Edit flag for NUMNONREL
+JNUMOLDKIDS,Edit flag for NUMOLDKIDS
+JNUMPEOPLE,Edit flag for NUMPEOPLE
+JNUMSECFAM,Edit flag for NUMSECFAM
+JNUMSEE,Edit flag for NUMSEE
+JNUMSUBFAM,Edit flag for NUMSUBFAM
+JNUMVETS,Edit flag for NUMVETS
+JNUMWALK,Edit flag for NUMWALK
+JNUMYNGKIDS,Edit flag for NUMYNGKIDS
+JOCCAPRIL,Edit flag for OCCAPRIL
+JOCCAUGUST,Edit flag for OCCAUGUST
+JOCCDECEM,Edit flag for OCCDECEM
+JOCCFEBRU,Edit flag for OCCFEBRU
+JOCCJANUR,Edit flag for OCCJANUR
+JOCCJULY,Edit flag for OCCJULY
+JOCCJUNE,Edit flag for OCCJUNE
+JOCCMARCH,Edit flag for OCCMARCH
+JOCCMAY,Edit flag for OCCMAY
+JOCCNOVEM,Edit flag for OCCNOVEM
+JOCCOCTOB,Edit flag for OCCOCTOB
+JOCCSEPTEM,Edit flag for OCCSEPTEM
+JOCCYRRND,Edit flag for OCCYRRND
+JOILAMT,Edit flag for OILAMT
+JOTHERAMT,Edit flag for OTHERAMT
+JOWNLOT,Edit flag for OWNLOT
+JPAINTPEEL,Edit flag for PAINTPEEL
+JPARKING,Edit flag for PARKING
+JPARTNER,Edit flag for PARTNER
+JPERMNEAR,Edit flag for PERMNEAR
+JPERPOVLVL,Edit flag for PERPOVLVL
+JPLUGS,Edit flag for PLUGS
+JPOOLAMT,Edit flag for POOLAMT
+JPORCH,Edit flag for PORCH
+JPOVLVLINC,Edit flag for POVLVLINC
+JPROTAXAMT,Edit flag for PROTAXAMT
+JRATINGHS,Edit flag for RATINGHS
+JRATINGNH,Edit flag for RATINGNH
+JREMODAMT,Edit flag for REMODAMT
+JREMODJOBS,Edit flag for REMODJOBS
+JRENT,Edit flag for RENT
+JRENTCNTRL,Edit flag for RENTCNTRL
+JRENTSUB,Edit flag for RENTSUB
+JRMCHANGE,Edit flag for RMCHANGE
+JRMCOMMUTE,Edit flag for RMCOMMUTE
+JRMCOSTS,Edit flag for RMCOSTS
+JRMFAMILY,Edit flag for RMFAMILY
+JRMHOME,Edit flag for RMHOME
+JRMHOOD,Edit flag for RMHOOD
+JRMJOB,Edit flag for RMJOB
+JRMOTHER,Edit flag for RMOTHER
+JRMOWNHH,Edit flag for RMOWNHH
+JROACH,Edit flag for ROACH
+JRODENT,Edit flag for RODENT
+JROOFHOLE,Edit flag for ROOFHOLE
+JROOFSAG,Edit flag for ROOFSAG
+JROOFSHIN,Edit flag for ROOFSHIN
+JSEARCHFAM,Edit flag for SEARCHFAM
+JSEARCHLIST,Edit flag for SEARCHLIST
+JSEARCHNET,Edit flag for SEARCHNET
+JSEARCHOTH,Edit flag for SEARCHOTH
+JSEARCHPUB,Edit flag for SEARCHPUB
+JSEARCHREA,Edit flag for SEARCHREA
+JSEARCHSIGN,Edit flag for SEARCHSIGN
+JSEARCHSTOP,Edit flag for SEARCHSTOP
+JSEWBREAK,Edit flag for SEWBREAK
+JSEWTYPE,Edit flag for SEWTYPE
+JSEWUSERS,Edit flag for SEWUSERS
+JSOLAR,Edit flag for SOLAR
+JSTORIES,Edit flag for STORIES
+JSUBDIV,Edit flag for SUBDIV
+JSUBSIDY,Edit flag for SUBSIDY
+JSUBWAY,Edit flag for SUBWAY
+JSUITYRRND,Edit flag for SUITYRRND
+JSUPP1HEAT,Edit flag for SUPP1HEAT
+JSUPP2HEAT,Edit flag for SUPP2HEAT
+JTAXI,Edit flag for TAXI
+JTENURE,Edit flag for TENURE
+JTIMESHARE,Edit flag for TIMESHARE
+JTOLL,Edit flag for TOLL
+JTOTBALAMT,Edit flag for TOTBALAMT
+JTOTHCAMT,Edit flag for TOTHCAMT
+JTOTROOMS,Edit flag for TOTROOMS
+JTRANAMT,Edit flag for TRANAMT
+JTRASHAMT,Edit flag for TRASHAMT
+JUFINROOMS,Edit flag for UFINROOMS
+JUNITFLOORS,Edit flag for UNITFLOORS
+JUNITSIZE,Edit flag for UNITSIZE
+JUPKEEP,Edit flag for UPKEEP
+JUTILAMT,Edit flag for UTILAMT
+JVACANCY,Edit flag for VACANCY
+JVACINHER,Edit flag for VACINHER
+JVACINVEST,Edit flag for VACINVEST
+JVACMONTHS,Edit flag for VACMONTHS
+JVACOTH,Edit flag for VACOTH
+JVACPRIRES,Edit flag for VACPRIRES
+JVACREC,Edit flag for VACREC
+JVACRESDAYS,Edit flag for VACRESDAYS
+JVACRNTDAYS,Edit flag for VACRNTDAYS
+JVACSELL,Edit flag for VACSELL
+JVAN,Edit flag for VAN
+JWALK,Edit flag for WALK
+JWALLCRACK,Edit flag for WALLCRACK
+JWALLSIDE,Edit flag for WALLSIDE
+JWALLSLOPE,Edit flag for WALLSLOPE
+JWASHER,Edit flag for WASHER
+JWATERAMT,Edit flag for WATERAMT
+JWATSOURCE,Edit flag for WATSOURCE
+JWINBARS,Edit flag for WINBARS
+JWINBOARD,Edit flag for WINBOARD
+JWINBROKE,Edit flag for WINBROKE
+JYRBUILT,Edit flag for YRBUILT
+DBEVICLK,Likelihood of leaving home because of eviction
+DBEVICNOTE,Receipt of eviction notice
+DBEVICTHT,Threat of eviction
+DBFORCWHR,Where household would go in event of foreclosure
+DBLVEFORC,Likelihood of leaving home due to foreclosure
+RENT,Monthly rent amount
+BATHEXCLU,Bathroom facilities for household use only
+DISHWASH,Unit has working dishwasher
+SOLAR,Unit has solar panels
+GARAGE,Garage or carport
+DINING,Number of dining rooms
+LAUNDY,Number of laundry or utility rooms
+STORIES,Stories in building
+NOSTEP,No step entrance
+GUTREHB,Gut rehab
+CONDO,Condominium
+SEARCHFAM,"Found home through family, friends, or other word of mouth"
+SEARCHLIST,Found home through apartment rental agency listing
+SEARCHNET,Found home through the Internet
+SEARCHOTH,Found home through some other way
+SEARCHPUB,Found home through newspaper or publication
+SEARCHREA,Found home through real estate agent
+SEARCHSIGN,Found home through sign outside of building
+RMCHANGE,Moved because of change in household
+RMCOMMUTE,Moved to reduce commute
+RMCOSTS,Moved to reduce housing costs
+RMFAMILY,Moved for family
+RMHOME,Moved for better home
+RMHOOD,Moved to be in more desirable neighborhood
+RMJOB,Moved for job
+RMOWNHH,Moved to form household
+RMOTHER,Moved for another reason
+HMRACCESS,Home improvements done to make home more accessible for elderly or disabled in last two years
+HMRENEFF,Home improvements done to make home more energy efficient in last two years
+HMRSALE,Home improvements done to get house ready for sale  in last two years
+BIKE,Flag indicating bike to work
+WALK,Flag indicating walk to work
+TRANAMT,Amount of out-of-pocket expenses for public transportation
+COMDAYS,Number of days the respondent commutes to work
+DIST,Round trip commute distance
+POOLAMT,Amount of carpool expenses
+RATINGHS,Rating of unit
+RATINGNH,Rating of neighborhood
+NHQPCRIME,Neighborhood has a lot of petty crime
+NHQPUBTRN,Neighborhood has public transportation
+NHQRISK,Neighborhood is at high risk for floods or other disasters
+NHQSCHOOL,Neighborhood has good schools
+NHQSCRIME,Neighborhood has a lot of serious crime
+NORC,Respondent thinks the majority of neighbors 55 or older
+SUBDIV,Flag indicating house is part of a subdivision or housing development
+NOWIRE,Electrical wiring concealed by walls
+TENURE,Owner or renter status of unit
+MHWIDE,MH type
+PLUGS,Every room has working electrical plug
+CELLPHONE,Number of adults with cell phones
+PORCH,"Porch, deck, or balcony"
+LEAKO,Outside water leaks in last 12 months
+LEAKI,Inside water leaks in last 12 months
+NOTOIL,Toilet breakdowns in last 3 months
+PAINTPEEL,Peeling paint larger than 8 x 11
+HOWBUY,Description of how owner obtained unit
+OCCJANUR,Unit is typically occupied in January
+OCCFEBRU,Unit is typically occupied in February
+OCCMARCH,Unit is typically occupied in March
+OCCAPRIL,Unit is typically occupied in April
+OCCMAY,Unit is typically occupied in May
+OCCJUNE,Unit is typically occupied in June
+OCCJULY,Unit is typically occupied in July
+OCCAUGUST,Unit is typically occupied in August
+OCCSEPTEM,Unit is typically occupied in September
+OCCOCTOB,Unit is typically occupied in October
+OCCNOVEM,Unit is typically occupied in November
+OCCDECEM,Unit is typically occupied in December
+OCCYRRND,Unit is typically occupied year-round
+LEADINSP,Lead pipes inspected before purchase
+MONLSTOCC,Number months since occupied as permanent home
+SUITYRRND,Unit suitable for year round use
+TIMESHARE,Timeshare
+VACRESDAYS,Number of nights owner spends at this unit
+VACRNTDAYS,Unit was rented out
+PERMNEAR,Unit is within 150 miles of owners residence
+VACPRIRES,Unit was a previous usual residence
+VACREC,Unit is used for recreational purposes
+VACINVEST,Unit is used for investment purposes
+VACSELL,Owner wishes to sell this unit
+VACINHER,Unit was inherited
+VACOTH,Unit is owned for some other reason
+OWNLOT,Owner owns the lot
+RENTCNTRL,Rent control
+RENTSUB,Type of rental subsidy or reduction (based on respondent report)
+NEARABAND,Buildings that are abandoned or vandalized buildings within 1/2 block
+NEARBARCL,Buildings with bars on windows within 1/2 block
+NEARTRASH,"Trash, litter, or junk in streets, lots, or properties within 1/2 block"
+BUS,Flag indicating bus used for commute
+SUBWAY,Flag indicating subway used for commute
+VAN,Flag indicating commuter van used for commute
+DBMISSMORT,Inability to pay mortgage
+DBMISSRENT,Inability to pay rent
+DBUTBILL,Received utility shut-off notice
+DBEVICWHERE,Where household would go in event of eviction
+INTLANG,Interview language
+DIVISION,Census division
+OMB13CBSA,2013 OMB CBSA code
+WEIGHT,Final weight
+SP1WEIGHT,Final weight for split sample group 1
+SP2WEIGHT,Final weight for split sample group 2
+INTMODE,Interview mode
+INTSTATUS,Interview status
+INTMONTH,Interview month
+BLD,Type of housing unit
+ENTRYSYS,MF entry system
+HHSEX,Sex of householder
+HHMAR,Marital status of householder
+HHSPAN,Spanish origin of householder
+HHCITSHP,US citizenship of householder
+MILHH,Type of military household
+HHAGE,Age of householder
+HHMOVE,Year householder moved in
+HHINUSYR,Year householder came to US
+HHRACE,Race of householder
+HHRACEAS,Race of householder (Asian group)
+HHRACEPI,Race of householder (Native Hawaiian or other Pacific Islander group)
+HHGRAD,Educational level of householder
+HHNATVTY,Country of birth of householder
+HHENROLL,School enrollment status of householder
+PARTNER,Flag indicating unmarried partner household
+HSHLDTYPE,Type of household
+SAMEHHLD,Flag indicating if the household members are the same as the previous survey year
+NUMELDERS,Number of persons age 65 and over living in this unit
+NUMADULTS,Number of persons age 18 and over living in this unit
+NUMNONREL,Number of non-relatives living in this unit
+HHYNGKIDS,"Number of the householder's children under age 6, living in this unit"
+HHOLDKIDS,"Number of the householder's children age 6 through 17, living in this unit"
+NUMVETS,Number of veterans living in this unit
+NUMYNGKIDS,Number of children under age 6 living in this unit
+NUMOLDKIDS,Number of children age 6 through 17 living in this unit
+NUMSUBFAM,Number of subfamilies living in this unit
+NUMSECFAM,Number of secondary families living in this unit
+NUMPEOPLE,Number of persons living in this unit
+HHADLTKIDS,"Number of the householder's unmarried children age 18 and over, living in this unit"
+GRANDHH,Flag indicating grandparent headed household with no parent present
+MULTIGEN,Type of multigenerational household
+UFINROOMS,Number of other unfinished rooms
+MHANCHOR,MH anchor method
+LOTSIZE,Lot size (acres)
+FINROOMS,Total number of other finished rooms
+YRBUILT,Year built
+HOA,Homeowner's association
+FOUNDTYPE,Foundation type
+UNITFLOORS,Floors in unit
+UNITSIZE,Unit size (square feet)
+BEDROOMS,Number of bedrooms
+KITCHENS,Number of kitchens
+MONOXIDE,Carbon monoxide detector
+WATSOURCE,Source of water for unit
+SEWUSERS,Number of units connected to septic tank or cesspool
+KITEXCLU,Kitchen facilities for household use only
+FRIDGE,Unit has working refrigerator
+KITCHSINK,Unit has kitchen sink
+WASHER,Unit has working washing machine
+COOKTYPE,Type of cooking equipment
+COOKFUEL,Fuel used most for cooking
+DRYER,Clothes dryer type
+SEWTYPE,Type of sewer system
+BATHROOMS,Number of bathrooms
+HOTWATER,Type of hot water system
+HEATFUEL,Main heating fuel
+FIREPLACE,Unit has useable fireplace
+ACPRIMARY,Primary AC
+ACSECNDRY,Secondary AC
+HEATTYPE,Main heating equipment
+SUPP1HEAT,First type of supplemental heating
+SUPP2HEAT,Second type of supplemental heating
+COLD,Unit uncomfortably cold for 24 hours or more
+COLDEQ,Main heating equipment broke down
+NOWAT,Unit completely without running water
+COLDUTIL,Unit cold due to utility interruption
+COLDHTCAP,Unit cold due to inadequate heating capacity
+COLDINSUL,Unit cold due to inadequate insulation
+COLDCOST,Unit cold due to cost of heating
+COLDOTHER,Unit cold because of some other reason
+LEAKOROOF,Water leak from roof
+LEAKOBASE,Water leak from basement
+LEAKOWALL,Water leak from wall or closed window or door
+LEAKOOTH,Water leak from somewhere else outside
+LEAKIPLUM,Water leak from own plumbing fixtures
+LEAKIPIPE,Water leak from pipes leaking
+LEAKIWATH,Water leak from broken water heater
+LEAKIOTH,Water leak from somewhere else inside
+LEAKIDK,Water leak with unknown inside source
+WALLCRACK,Walls or ceilings have open holes or cracks wider than dime
+FLOORHOLE,Floor has holes
+FNDCRUMB,"Foundation holes, cracks, or crumbling"
+ROOFSHIN,Roof missing shingles or other roofing materials
+ROOFHOLE,Roof has holes
+ROOFSAG,Roof sags or is uneven
+WALLSIDE,"Outside walls missing siding, bricks, or other materials"
+WALLSLOPE,"Outside walls slope, lean, slant, or buckle"
+WINBOARD,Windows boarded up
+WINBROKE,Windows broken
+WINBARS,Windows covered with metal bars
+COLDEQFREQ,Number of times main heating equipment broke down
+NOWATFREQ,Number of times completely without running water
+NOTOILFREQ,Number of toilet breakdowns 6 hours or more
+MOLDKITCH,Mold in kitchen
+MOLDBATH,Mold in bathroom
+MOLDBEDRM,Mold in bedroom
+MOLDBASEM,Mold in basement
+MOLDLROOM,Mold in living room
+MOLDOTHER,Mold in other room
+RODENT,Rodent frequency
+ROACH,Roach frequency
+SEWBREAK,Number of sewer breakdowns
+FUSEBLOW,Fuses blown or circuit breakers tripped
+VACMONTHS,Number months unit has been vacant
+DWNPAYPCT,Down payment percentage
+MHMOVE,Mobile home to be moved
+ELECAMT,Monthly electric amount
+GASAMT,Monthly gas amount
+OILAMT,Monthly oil amount
+OTHERAMT,Monthly amount for other fuels
+TRASHAMT,Monthly trash amount
+WATERAMT,Monthly water amount
+UTILAMT,Monthly total utility amount
+REMODJOBS,Total number of home improvement jobs in last two years
+FS,SNAP
+HHHEAR,Householder has difficulty hearing
+HHSEE,Householder has difficulty seeing
+HHMEMRY,Householder has difficulty concentrating or remembering
+HHWALK,Householder has difficulty walking or climbing stairs
+HHCARE,Householder has difficulty dressing or bathing
+HHERRND,Householder has difficulty doing errands
+NUMHEAR,Number of persons who have difficulty hearing
+NUMSEE,Number of persons who have difficulty seeing
+NUMMEMRY,Number of persons who have difficulty concentrating or remembering
+NUMWALK,Number of persons who have difficulty walking or climbing stairs
+NUMCARE,Number of persons who have difficulty dressing or bathing
+NUMERRND,Number of persons who have difficulty doing errands
+DISHH,Flag indicating disabled person household
+MVG1TYPE,Type of structure of former home (mover group 1)
+MVG2TYPE,Type of structure of former home (mover group 2)
+MVG3TYPE,Type of structure of former home (mover group 3)
+MVG1TEN,Tenure of former home (mover group 1)
+MVG2TEN,Tenure of former home (mover group 2)
+MVG3TEN,Tenure of former home (mover group 3)
+MVG1PER,Number of people in former home (mover group 1)
+MVG2PER,Number of people in former home (mover group 2)
+MVG3PER,Number of people in former home (mover group 3)
+MVG1COST,Comparison of housing costs to former home (mover group 1)
+MVG2COST,Comparison of housing costs to former home (mover group 2)
+MVG3COST,Comparison of housing costs to former home (mover group 3)
+MVG1STAT,Former home was owned/rented by someone in current home (mover group 1)
+MVG2STAT,Former home was owned/rented by someone in current home (mover group 2)
+MVG3STAT,Former home was owned/rented by someone in current home (mover group 3)
+MVG1LOC,Move was more than 50 miles (mover group 1)
+MVG2LOC,Move was more than 50 miles (mover group 2)
+MVG3LOC,Move was more than 50 miles (mover group 3)
+SEARCHSTOP,Reason for stopping housing search sooner than preferred
+MOVFORCE,"Forced to move by landlord, bank, government, or disaster"
+MOVWHY,Why respondent was forced to move
+HRATE,Rating of current home
+NRATE,Rating of current neighborhood
+CARPOOL,Flag indicating carpool use and number of people in the carpool
+TAXI,Amount of taxi expenses
+FERRY,Amount of ferry expenses
+DRIVEALL,Number of days (per week) the respondent drives all the way to work
+COMPANYCAR,Flag indicating company vehicle used for commute
+DRIVEPART,Flag indicating own vehicle used for part of commute
+PARKING,Amount of parking expenses
+TOLL,Amount of toll expenses
+SUBSIDY,Flag indicating transit subsidy
+DPALTCOM,Flag indicating alternative communication plan
+DPGENERT,Flag indicating generator
+DPDRFOOD,Flag indicating emergency food
+DPEMWATER,Flag indicating emergency water
+DPEVFIN,Flag indicating financial resources available
+DPEVINFO,Flag indicating disaster plan with financial and contact info
+DPEVKIT,Flag indicating emergency kit prepared
+DPEVLOC,Flag indicating evacuation location
+DPEVVEHIC,Flag indicating vehicle available
+DPGETINFO,Flag indicating source of information during a disaster
+DPSHELTR,Flag indicating unit has tornado shelter
+DPEVSEP,Flag indicating meeting spot
+DPEVACPETS,Household needs assistance evacuating pets
+DPFLDINS,Presence of  flood insurance and reason for purchase
+DPMAJDIS,Type of major disaster in last two years for rental unit
+MGRONSITE,Owner or property manager onsite
+ADEQUACY,Housing adequacy
+POVLVLINC,Federal poverty level threshold
+HUDSUB,Subsidized renter status and eligibility
+UPKEEP,Type of upkeep problems
+SPLITSAMP,Flag indicating split sample group
+VACANCY,Vacancy status
+REPWEIGHT1,Replicate Weight 1
+REPWEIGHT2,Replicate Weight 2
+REPWEIGHT3,Replicate Weight 3
+REPWEIGHT4,Replicate Weight 4
+REPWEIGHT5,Replicate Weight 5
+REPWEIGHT6,Replicate Weight 6
+REPWEIGHT7,Replicate Weight 7
+REPWEIGHT8,Replicate Weight 8
+REPWEIGHT9,Replicate Weight 9
+REPWEIGHT10,Replicate Weight 10
+REPWEIGHT11,Replicate Weight 11
+REPWEIGHT12,Replicate Weight 12
+REPWEIGHT13,Replicate Weight 13
+REPWEIGHT14,Replicate Weight 14
+REPWEIGHT15,Replicate Weight 15
+REPWEIGHT16,Replicate Weight 16
+REPWEIGHT17,Replicate Weight 17
+REPWEIGHT18,Replicate Weight 18
+REPWEIGHT19,Replicate Weight 19
+REPWEIGHT20,Replicate Weight 20
+REPWEIGHT21,Replicate Weight 21
+REPWEIGHT22,Replicate Weight 22
+REPWEIGHT23,Replicate Weight 23
+REPWEIGHT24,Replicate Weight 24
+REPWEIGHT25,Replicate Weight 25
+REPWEIGHT26,Replicate Weight 26
+REPWEIGHT27,Replicate Weight 27
+REPWEIGHT28,Replicate Weight 28
+REPWEIGHT29,Replicate Weight 29
+REPWEIGHT30,Replicate Weight 30
+REPWEIGHT31,Replicate Weight 31
+REPWEIGHT32,Replicate Weight 32
+REPWEIGHT33,Replicate Weight 33
+REPWEIGHT34,Replicate Weight 34
+REPWEIGHT35,Replicate Weight 35
+REPWEIGHT36,Replicate Weight 36
+REPWEIGHT37,Replicate Weight 37
+REPWEIGHT38,Replicate Weight 38
+REPWEIGHT39,Replicate Weight 39
+REPWEIGHT40,Replicate Weight 40
+REPWEIGHT41,Replicate Weight 41
+REPWEIGHT42,Replicate Weight 42
+REPWEIGHT43,Replicate Weight 43
+REPWEIGHT44,Replicate Weight 44
+REPWEIGHT45,Replicate Weight 45
+REPWEIGHT46,Replicate Weight 46
+REPWEIGHT47,Replicate Weight 47
+REPWEIGHT48,Replicate Weight 48
+REPWEIGHT49,Replicate Weight 49
+REPWEIGHT50,Replicate Weight 50
+REPWEIGHT51,Replicate Weight 51
+REPWEIGHT52,Replicate Weight 52
+REPWEIGHT53,Replicate Weight 53
+REPWEIGHT54,Replicate Weight 54
+REPWEIGHT55,Replicate Weight 55
+REPWEIGHT56,Replicate Weight 56
+REPWEIGHT57,Replicate Weight 57
+REPWEIGHT58,Replicate Weight 58
+REPWEIGHT59,Replicate Weight 59
+REPWEIGHT60,Replicate Weight 60
+REPWEIGHT61,Replicate Weight 61
+REPWEIGHT62,Replicate Weight 62
+REPWEIGHT63,Replicate Weight 63
+REPWEIGHT64,Replicate Weight 64
+REPWEIGHT65,Replicate Weight 65
+REPWEIGHT66,Replicate Weight 66
+REPWEIGHT67,Replicate Weight 67
+REPWEIGHT68,Replicate Weight 68
+REPWEIGHT69,Replicate Weight 69
+REPWEIGHT70,Replicate Weight 70
+REPWEIGHT71,Replicate Weight 71
+REPWEIGHT72,Replicate Weight 72
+REPWEIGHT73,Replicate Weight 73
+REPWEIGHT74,Replicate Weight 74
+REPWEIGHT75,Replicate Weight 75
+REPWEIGHT76,Replicate Weight 76
+REPWEIGHT77,Replicate Weight 77
+REPWEIGHT78,Replicate Weight 78
+REPWEIGHT79,Replicate Weight 79
+REPWEIGHT80,Replicate Weight 80
+REPWEIGHT81,Replicate Weight 81
+REPWEIGHT82,Replicate Weight 82
+REPWEIGHT83,Replicate Weight 83
+REPWEIGHT84,Replicate Weight 84
+REPWEIGHT85,Replicate Weight 85
+REPWEIGHT86,Replicate Weight 86
+REPWEIGHT87,Replicate Weight 87
+REPWEIGHT88,Replicate Weight 88
+REPWEIGHT89,Replicate Weight 89
+REPWEIGHT90,Replicate Weight 90
+REPWEIGHT91,Replicate Weight 91
+REPWEIGHT92,Replicate Weight 92
+REPWEIGHT93,Replicate Weight 93
+REPWEIGHT94,Replicate Weight 94
+REPWEIGHT95,Replicate Weight 95
+REPWEIGHT96,Replicate Weight 96
+REPWEIGHT97,Replicate Weight 97
+REPWEIGHT98,Replicate Weight 98
+REPWEIGHT99,Replicate Weight 99
+REPWEIGHT100,Replicate Weight 100
+REPWEIGHT101,Replicate Weight 101
+REPWEIGHT102,Replicate Weight 102
+REPWEIGHT103,Replicate Weight 103
+REPWEIGHT104,Replicate Weight 104
+REPWEIGHT105,Replicate Weight 105
+REPWEIGHT106,Replicate Weight 106
+REPWEIGHT107,Replicate Weight 107
+REPWEIGHT108,Replicate Weight 108
+REPWEIGHT109,Replicate Weight 109
+REPWEIGHT110,Replicate Weight 110
+REPWEIGHT111,Replicate Weight 111
+REPWEIGHT112,Replicate Weight 112
+REPWEIGHT113,Replicate Weight 113
+REPWEIGHT114,Replicate Weight 114
+REPWEIGHT115,Replicate Weight 115
+REPWEIGHT116,Replicate Weight 116
+REPWEIGHT117,Replicate Weight 117
+REPWEIGHT118,Replicate Weight 118
+REPWEIGHT119,Replicate Weight 119
+REPWEIGHT120,Replicate Weight 120
+REPWEIGHT121,Replicate Weight 121
+REPWEIGHT122,Replicate Weight 122
+REPWEIGHT123,Replicate Weight 123
+REPWEIGHT124,Replicate Weight 124
+REPWEIGHT125,Replicate Weight 125
+REPWEIGHT126,Replicate Weight 126
+REPWEIGHT127,Replicate Weight 127
+REPWEIGHT128,Replicate Weight 128
+REPWEIGHT129,Replicate Weight 129
+REPWEIGHT130,Replicate Weight 130
+REPWEIGHT131,Replicate Weight 131
+REPWEIGHT132,Replicate Weight 132
+REPWEIGHT133,Replicate Weight 133
+REPWEIGHT134,Replicate Weight 134
+REPWEIGHT135,Replicate Weight 135
+REPWEIGHT136,Replicate Weight 136
+REPWEIGHT137,Replicate Weight 137
+REPWEIGHT138,Replicate Weight 138
+REPWEIGHT139,Replicate Weight 139
+REPWEIGHT140,Replicate Weight 140
+REPWEIGHT141,Replicate Weight 141
+REPWEIGHT142,Replicate Weight 142
+REPWEIGHT143,Replicate Weight 143
+REPWEIGHT144,Replicate Weight 144
+REPWEIGHT145,Replicate Weight 145
+REPWEIGHT146,Replicate Weight 146
+REPWEIGHT147,Replicate Weight 147
+REPWEIGHT148,Replicate Weight 148
+REPWEIGHT149,Replicate Weight 149
+REPWEIGHT150,Replicate Weight 150
+REPWEIGHT151,Replicate Weight 151
+REPWEIGHT152,Replicate Weight 152
+REPWEIGHT153,Replicate Weight 153
+REPWEIGHT154,Replicate Weight 154
+REPWEIGHT155,Replicate Weight 155
+REPWEIGHT156,Replicate Weight 156
+REPWEIGHT157,Replicate Weight 157
+REPWEIGHT158,Replicate Weight 158
+REPWEIGHT159,Replicate Weight 159
+REPWEIGHT160,Replicate Weight 160
+SP1REPWGT1,Replicate weight for split sample group 1
+SP1REPWGT2,Replicate weight for split sample group 1
+SP1REPWGT3,Replicate weight for split sample group 1
+SP1REPWGT4,Replicate weight for split sample group 1
+SP1REPWGT5,Replicate weight for split sample group 1
+SP1REPWGT6,Replicate weight for split sample group 1
+SP1REPWGT7,Replicate weight for split sample group 1
+SP1REPWGT8,Replicate weight for split sample group 1
+SP1REPWGT9,Replicate weight for split sample group 1
+SP1REPWGT10,Replicate weight for split sample group 1
+SP1REPWGT11,Replicate weight for split sample group 1
+SP1REPWGT12,Replicate weight for split sample group 1
+SP1REPWGT13,Replicate weight for split sample group 1
+SP1REPWGT14,Replicate weight for split sample group 1
+SP1REPWGT15,Replicate weight for split sample group 1
+SP1REPWGT16,Replicate weight for split sample group 1
+SP1REPWGT17,Replicate weight for split sample group 1
+SP1REPWGT18,Replicate weight for split sample group 1
+SP1REPWGT19,Replicate weight for split sample group 1
+SP1REPWGT20,Replicate weight for split sample group 1
+SP1REPWGT21,Replicate weight for split sample group 1
+SP1REPWGT22,Replicate weight for split sample group 1
+SP1REPWGT23,Replicate weight for split sample group 1
+SP1REPWGT24,Replicate weight for split sample group 1
+SP1REPWGT25,Replicate weight for split sample group 1
+SP1REPWGT26,Replicate weight for split sample group 1
+SP1REPWGT27,Replicate weight for split sample group 1
+SP1REPWGT28,Replicate weight for split sample group 1
+SP1REPWGT29,Replicate weight for split sample group 1
+SP1REPWGT30,Replicate weight for split sample group 1
+SP1REPWGT31,Replicate weight for split sample group 1
+SP1REPWGT32,Replicate weight for split sample group 1
+SP1REPWGT33,Replicate weight for split sample group 1
+SP1REPWGT34,Replicate weight for split sample group 1
+SP1REPWGT35,Replicate weight for split sample group 1
+SP1REPWGT36,Replicate weight for split sample group 1
+SP1REPWGT37,Replicate weight for split sample group 1
+SP1REPWGT38,Replicate weight for split sample group 1
+SP1REPWGT39,Replicate weight for split sample group 1
+SP1REPWGT40,Replicate weight for split sample group 1
+SP1REPWGT41,Replicate weight for split sample group 1
+SP1REPWGT42,Replicate weight for split sample group 1
+SP1REPWGT43,Replicate weight for split sample group 1
+SP1REPWGT44,Replicate weight for split sample group 1
+SP1REPWGT45,Replicate weight for split sample group 1
+SP1REPWGT46,Replicate weight for split sample group 1
+SP1REPWGT47,Replicate weight for split sample group 1
+SP1REPWGT48,Replicate weight for split sample group 1
+SP1REPWGT49,Replicate weight for split sample group 1
+SP1REPWGT50,Replicate weight for split sample group 1
+SP1REPWGT51,Replicate weight for split sample group 1
+SP1REPWGT52,Replicate weight for split sample group 1
+SP1REPWGT53,Replicate weight for split sample group 1
+SP1REPWGT54,Replicate weight for split sample group 1
+SP1REPWGT55,Replicate weight for split sample group 1
+SP1REPWGT56,Replicate weight for split sample group 1
+SP1REPWGT57,Replicate weight for split sample group 1
+SP1REPWGT58,Replicate weight for split sample group 1
+SP1REPWGT59,Replicate weight for split sample group 1
+SP1REPWGT60,Replicate weight for split sample group 1
+SP1REPWGT61,Replicate weight for split sample group 1
+SP1REPWGT62,Replicate weight for split sample group 1
+SP1REPWGT63,Replicate weight for split sample group 1
+SP1REPWGT64,Replicate weight for split sample group 1
+SP1REPWGT65,Replicate weight for split sample group 1
+SP1REPWGT66,Replicate weight for split sample group 1
+SP1REPWGT67,Replicate weight for split sample group 1
+SP1REPWGT68,Replicate weight for split sample group 1
+SP1REPWGT69,Replicate weight for split sample group 1
+SP1REPWGT70,Replicate weight for split sample group 1
+SP1REPWGT71,Replicate weight for split sample group 1
+SP1REPWGT72,Replicate weight for split sample group 1
+SP1REPWGT73,Replicate weight for split sample group 1
+SP1REPWGT74,Replicate weight for split sample group 1
+SP1REPWGT75,Replicate weight for split sample group 1
+SP1REPWGT76,Replicate weight for split sample group 1
+SP1REPWGT77,Replicate weight for split sample group 1
+SP1REPWGT78,Replicate weight for split sample group 1
+SP1REPWGT79,Replicate weight for split sample group 1
+SP1REPWGT80,Replicate weight for split sample group 1
+SP1REPWGT81,Replicate weight for split sample group 1
+SP1REPWGT82,Replicate weight for split sample group 1
+SP1REPWGT83,Replicate weight for split sample group 1
+SP1REPWGT84,Replicate weight for split sample group 1
+SP1REPWGT85,Replicate weight for split sample group 1
+SP1REPWGT86,Replicate weight for split sample group 1
+SP1REPWGT87,Replicate weight for split sample group 1
+SP1REPWGT88,Replicate weight for split sample group 1
+SP1REPWGT89,Replicate weight for split sample group 1
+SP1REPWGT90,Replicate weight for split sample group 1
+SP1REPWGT91,Replicate weight for split sample group 1
+SP1REPWGT92,Replicate weight for split sample group 1
+SP1REPWGT93,Replicate weight for split sample group 1
+SP1REPWGT94,Replicate weight for split sample group 1
+SP1REPWGT95,Replicate weight for split sample group 1
+SP1REPWGT96,Replicate weight for split sample group 1
+SP1REPWGT97,Replicate weight for split sample group 1
+SP1REPWGT98,Replicate weight for split sample group 1
+SP1REPWGT99,Replicate weight for split sample group 1
+SP1REPWGT100,Replicate weight for split sample group 1
+SP1REPWGT101,Replicate weight for split sample group 1
+SP1REPWGT102,Replicate weight for split sample group 1
+SP1REPWGT103,Replicate weight for split sample group 1
+SP1REPWGT104,Replicate weight for split sample group 1
+SP1REPWGT105,Replicate weight for split sample group 1
+SP1REPWGT106,Replicate weight for split sample group 1
+SP1REPWGT107,Replicate weight for split sample group 1
+SP1REPWGT108,Replicate weight for split sample group 1
+SP1REPWGT109,Replicate weight for split sample group 1
+SP1REPWGT110,Replicate weight for split sample group 1
+SP1REPWGT111,Replicate weight for split sample group 1
+SP1REPWGT112,Replicate weight for split sample group 1
+SP1REPWGT113,Replicate weight for split sample group 1
+SP1REPWGT114,Replicate weight for split sample group 1
+SP1REPWGT115,Replicate weight for split sample group 1
+SP1REPWGT116,Replicate weight for split sample group 1
+SP1REPWGT117,Replicate weight for split sample group 1
+SP1REPWGT118,Replicate weight for split sample group 1
+SP1REPWGT119,Replicate weight for split sample group 1
+SP1REPWGT120,Replicate weight for split sample group 1
+SP1REPWGT121,Replicate weight for split sample group 1
+SP1REPWGT122,Replicate weight for split sample group 1
+SP1REPWGT123,Replicate weight for split sample group 1
+SP1REPWGT124,Replicate weight for split sample group 1
+SP1REPWGT125,Replicate weight for split sample group 1
+SP1REPWGT126,Replicate weight for split sample group 1
+SP1REPWGT127,Replicate weight for split sample group 1
+SP1REPWGT128,Replicate weight for split sample group 1
+SP1REPWGT129,Replicate weight for split sample group 1
+SP1REPWGT130,Replicate weight for split sample group 1
+SP1REPWGT131,Replicate weight for split sample group 1
+SP1REPWGT132,Replicate weight for split sample group 1
+SP1REPWGT133,Replicate weight for split sample group 1
+SP1REPWGT134,Replicate weight for split sample group 1
+SP1REPWGT135,Replicate weight for split sample group 1
+SP1REPWGT136,Replicate weight for split sample group 1
+SP1REPWGT137,Replicate weight for split sample group 1
+SP1REPWGT138,Replicate weight for split sample group 1
+SP1REPWGT139,Replicate weight for split sample group 1
+SP1REPWGT140,Replicate weight for split sample group 1
+SP1REPWGT141,Replicate weight for split sample group 1
+SP1REPWGT142,Replicate weight for split sample group 1
+SP1REPWGT143,Replicate weight for split sample group 1
+SP1REPWGT144,Replicate weight for split sample group 1
+SP1REPWGT145,Replicate weight for split sample group 1
+SP1REPWGT146,Replicate weight for split sample group 1
+SP1REPWGT147,Replicate weight for split sample group 1
+SP1REPWGT148,Replicate weight for split sample group 1
+SP1REPWGT149,Replicate weight for split sample group 1
+SP1REPWGT150,Replicate weight for split sample group 1
+SP1REPWGT151,Replicate weight for split sample group 1
+SP1REPWGT152,Replicate weight for split sample group 1
+SP1REPWGT153,Replicate weight for split sample group 1
+SP1REPWGT154,Replicate weight for split sample group 1
+SP1REPWGT155,Replicate weight for split sample group 1
+SP1REPWGT156,Replicate weight for split sample group 1
+SP1REPWGT157,Replicate weight for split sample group 1
+SP1REPWGT158,Replicate weight for split sample group 1
+SP1REPWGT159,Replicate weight for split sample group 1
+SP1REPWGT160,Replicate weight for split sample group 1
+SP2REPWGT1,Replicate weight for split sample group 2
+SP2REPWGT2,Replicate weight for split sample group 2
+SP2REPWGT3,Replicate weight for split sample group 2
+SP2REPWGT4,Replicate weight for split sample group 2
+SP2REPWGT5,Replicate weight for split sample group 2
+SP2REPWGT6,Replicate weight for split sample group 2
+SP2REPWGT7,Replicate weight for split sample group 2
+SP2REPWGT8,Replicate weight for split sample group 2
+SP2REPWGT9,Replicate weight for split sample group 2
+SP2REPWGT10,Replicate weight for split sample group 2
+SP2REPWGT11,Replicate weight for split sample group 2
+SP2REPWGT12,Replicate weight for split sample group 2
+SP2REPWGT13,Replicate weight for split sample group 2
+SP2REPWGT14,Replicate weight for split sample group 2
+SP2REPWGT15,Replicate weight for split sample group 2
+SP2REPWGT16,Replicate weight for split sample group 2
+SP2REPWGT17,Replicate weight for split sample group 2
+SP2REPWGT18,Replicate weight for split sample group 2
+SP2REPWGT19,Replicate weight for split sample group 2
+SP2REPWGT20,Replicate weight for split sample group 2
+SP2REPWGT21,Replicate weight for split sample group 2
+SP2REPWGT22,Replicate weight for split sample group 2
+SP2REPWGT23,Replicate weight for split sample group 2
+SP2REPWGT24,Replicate weight for split sample group 2
+SP2REPWGT25,Replicate weight for split sample group 2
+SP2REPWGT26,Replicate weight for split sample group 2
+SP2REPWGT27,Replicate weight for split sample group 2
+SP2REPWGT28,Replicate weight for split sample group 2
+SP2REPWGT29,Replicate weight for split sample group 2
+SP2REPWGT30,Replicate weight for split sample group 2
+SP2REPWGT31,Replicate weight for split sample group 2
+SP2REPWGT32,Replicate weight for split sample group 2
+SP2REPWGT33,Replicate weight for split sample group 2
+SP2REPWGT34,Replicate weight for split sample group 2
+SP2REPWGT35,Replicate weight for split sample group 2
+SP2REPWGT36,Replicate weight for split sample group 2
+SP2REPWGT37,Replicate weight for split sample group 2
+SP2REPWGT38,Replicate weight for split sample group 2
+SP2REPWGT39,Replicate weight for split sample group 2
+SP2REPWGT40,Replicate weight for split sample group 2
+SP2REPWGT41,Replicate weight for split sample group 2
+SP2REPWGT42,Replicate weight for split sample group 2
+SP2REPWGT43,Replicate weight for split sample group 2
+SP2REPWGT44,Replicate weight for split sample group 2
+SP2REPWGT45,Replicate weight for split sample group 2
+SP2REPWGT46,Replicate weight for split sample group 2
+SP2REPWGT47,Replicate weight for split sample group 2
+SP2REPWGT48,Replicate weight for split sample group 2
+SP2REPWGT49,Replicate weight for split sample group 2
+SP2REPWGT50,Replicate weight for split sample group 2
+SP2REPWGT51,Replicate weight for split sample group 2
+SP2REPWGT52,Replicate weight for split sample group 2
+SP2REPWGT53,Replicate weight for split sample group 2
+SP2REPWGT54,Replicate weight for split sample group 2
+SP2REPWGT55,Replicate weight for split sample group 2
+SP2REPWGT56,Replicate weight for split sample group 2
+SP2REPWGT57,Replicate weight for split sample group 2
+SP2REPWGT58,Replicate weight for split sample group 2
+SP2REPWGT59,Replicate weight for split sample group 2
+SP2REPWGT60,Replicate weight for split sample group 2
+SP2REPWGT61,Replicate weight for split sample group 2
+SP2REPWGT62,Replicate weight for split sample group 2
+SP2REPWGT63,Replicate weight for split sample group 2
+SP2REPWGT64,Replicate weight for split sample group 2
+SP2REPWGT65,Replicate weight for split sample group 2
+SP2REPWGT66,Replicate weight for split sample group 2
+SP2REPWGT67,Replicate weight for split sample group 2
+SP2REPWGT68,Replicate weight for split sample group 2
+SP2REPWGT69,Replicate weight for split sample group 2
+SP2REPWGT70,Replicate weight for split sample group 2
+SP2REPWGT71,Replicate weight for split sample group 2
+SP2REPWGT72,Replicate weight for split sample group 2
+SP2REPWGT73,Replicate weight for split sample group 2
+SP2REPWGT74,Replicate weight for split sample group 2
+SP2REPWGT75,Replicate weight for split sample group 2
+SP2REPWGT76,Replicate weight for split sample group 2
+SP2REPWGT77,Replicate weight for split sample group 2
+SP2REPWGT78,Replicate weight for split sample group 2
+SP2REPWGT79,Replicate weight for split sample group 2
+SP2REPWGT80,Replicate weight for split sample group 2
+SP2REPWGT81,Replicate weight for split sample group 2
+SP2REPWGT82,Replicate weight for split sample group 2
+SP2REPWGT83,Replicate weight for split sample group 2
+SP2REPWGT84,Replicate weight for split sample group 2
+SP2REPWGT85,Replicate weight for split sample group 2
+SP2REPWGT86,Replicate weight for split sample group 2
+SP2REPWGT87,Replicate weight for split sample group 2
+SP2REPWGT88,Replicate weight for split sample group 2
+SP2REPWGT89,Replicate weight for split sample group 2
+SP2REPWGT90,Replicate weight for split sample group 2
+SP2REPWGT91,Replicate weight for split sample group 2
+SP2REPWGT92,Replicate weight for split sample group 2
+SP2REPWGT93,Replicate weight for split sample group 2
+SP2REPWGT94,Replicate weight for split sample group 2
+SP2REPWGT95,Replicate weight for split sample group 2
+SP2REPWGT96,Replicate weight for split sample group 2
+SP2REPWGT97,Replicate weight for split sample group 2
+SP2REPWGT98,Replicate weight for split sample group 2
+SP2REPWGT99,Replicate weight for split sample group 2
+SP2REPWGT100,Replicate weight for split sample group 2
+SP2REPWGT101,Replicate weight for split sample group 2
+SP2REPWGT102,Replicate weight for split sample group 2
+SP2REPWGT103,Replicate weight for split sample group 2
+SP2REPWGT104,Replicate weight for split sample group 2
+SP2REPWGT105,Replicate weight for split sample group 2
+SP2REPWGT106,Replicate weight for split sample group 2
+SP2REPWGT107,Replicate weight for split sample group 2
+SP2REPWGT108,Replicate weight for split sample group 2
+SP2REPWGT109,Replicate weight for split sample group 2
+SP2REPWGT110,Replicate weight for split sample group 2
+SP2REPWGT111,Replicate weight for split sample group 2
+SP2REPWGT112,Replicate weight for split sample group 2
+SP2REPWGT113,Replicate weight for split sample group 2
+SP2REPWGT114,Replicate weight for split sample group 2
+SP2REPWGT115,Replicate weight for split sample group 2
+SP2REPWGT116,Replicate weight for split sample group 2
+SP2REPWGT117,Replicate weight for split sample group 2
+SP2REPWGT118,Replicate weight for split sample group 2
+SP2REPWGT119,Replicate weight for split sample group 2
+SP2REPWGT120,Replicate weight for split sample group 2
+SP2REPWGT121,Replicate weight for split sample group 2
+SP2REPWGT122,Replicate weight for split sample group 2
+SP2REPWGT123,Replicate weight for split sample group 2
+SP2REPWGT124,Replicate weight for split sample group 2
+SP2REPWGT125,Replicate weight for split sample group 2
+SP2REPWGT126,Replicate weight for split sample group 2
+SP2REPWGT127,Replicate weight for split sample group 2
+SP2REPWGT128,Replicate weight for split sample group 2
+SP2REPWGT129,Replicate weight for split sample group 2
+SP2REPWGT130,Replicate weight for split sample group 2
+SP2REPWGT131,Replicate weight for split sample group 2
+SP2REPWGT132,Replicate weight for split sample group 2
+SP2REPWGT133,Replicate weight for split sample group 2
+SP2REPWGT134,Replicate weight for split sample group 2
+SP2REPWGT135,Replicate weight for split sample group 2
+SP2REPWGT136,Replicate weight for split sample group 2
+SP2REPWGT137,Replicate weight for split sample group 2
+SP2REPWGT138,Replicate weight for split sample group 2
+SP2REPWGT139,Replicate weight for split sample group 2
+SP2REPWGT140,Replicate weight for split sample group 2
+SP2REPWGT141,Replicate weight for split sample group 2
+SP2REPWGT142,Replicate weight for split sample group 2
+SP2REPWGT143,Replicate weight for split sample group 2
+SP2REPWGT144,Replicate weight for split sample group 2
+SP2REPWGT145,Replicate weight for split sample group 2
+SP2REPWGT146,Replicate weight for split sample group 2
+SP2REPWGT147,Replicate weight for split sample group 2
+SP2REPWGT148,Replicate weight for split sample group 2
+SP2REPWGT149,Replicate weight for split sample group 2
+SP2REPWGT150,Replicate weight for split sample group 2
+SP2REPWGT151,Replicate weight for split sample group 2
+SP2REPWGT152,Replicate weight for split sample group 2
+SP2REPWGT153,Replicate weight for split sample group 2
+SP2REPWGT154,Replicate weight for split sample group 2
+SP2REPWGT155,Replicate weight for split sample group 2
+SP2REPWGT156,Replicate weight for split sample group 2
+SP2REPWGT157,Replicate weight for split sample group 2
+SP2REPWGT158,Replicate weight for split sample group 2
+SP2REPWGT159,Replicate weight for split sample group 2
+SP2REPWGT160,Replicate weight for split sample group 2
+FIRSTHOME,First-time home buyer
+MARKETVAL,Current market value of unit
+TOTBALAMT,Total remaining debt
+PROTAXAMT,Monthly property tax amount
+INSURAMT,Monthly homeowner or renter insurance amount
+HOAAMT,Monthly homeowners or condominium association amount
+LOTAMT,Monthly manufactured home lot rent amount
+MAINTAMT,Amount of annual routine maintenance costs
+MORTAMT,Monthly total mortgage amount (all mortgages)
+HINCP,Household Income
+FINCP,Family income
+REMODAMT,Total cost of home improvement jobs in last two years
+TOTHCAMT,Monthly total housing costs

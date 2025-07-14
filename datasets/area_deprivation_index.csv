@@ -1,0 +1,11 @@
+﻿Variable,Description
+geo_id,Geolocation id
+state_fips_code,State FIPS code
+county_fips_code,County FIPS code
+block_group_fips_code,Block-group FIPS code
+description,Block-group FIPS code description
+county_name,County name
+state_name,State name
+state,State abbreviation
+year,Year
+area_deprivation_index_percent,Percentage of area-level socioeconomic deprivation index

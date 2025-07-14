@@ -1,0 +1,24 @@
+﻿Variable,Description
+GEO_ID,A geographic identifier which contains information on the type of geography and applicable FIPS codes
+STATE,State FIPS code*
+COUNTY,County FIPS code*
+TRACT,Tract FIPS code*
+NAME,Geographic Area Name
+GEO_LEVEL,Geographic level*
+POPUNI,Total population
+PRED0_E,Estimated number of individuals with zero risk factors
+PRED0_M,Estimated margin of error for individuals with zero risk factors
+PRED0_PE,Rate of individuals with zero risk factors
+PRED0_PM,Rate margin of error for individuals with zero risk factors
+PRED12_E,Estimated number of individuals with one-two risk factors
+PRED12_M,Estimated margin of error for individuals with one-two risk factors
+PRED12_PE,Rate of individuals with one-two risk factors
+PRED12_PM,Rate margin of error for individuals with one-two risk factors
+PRED3_E,Estimated number of individuals with three plus risk factors
+PRED3_M,Estimated margin of error for individuals with three plus risk factors
+PRED3_PE,Rate of individuals with three plus risk factors
+PRED3_PM,Rate margin of error for individuals with three plus risk factors
+,
+,
+,
+,

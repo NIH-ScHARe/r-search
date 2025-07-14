@@ -1,0 +1,22 @@
+Variable,Description
+UNITID,Unique identification number of the institution
+LINE_10,Revised Cohort
+LINE_45,Exclusions
+LINE_50,Adjusted cohort (revised cohort minus exclusions)
+LINE_55,Completers within 100% of normal time
+LINE_11,Completers within 150% of normal time
+LINE_30,Transfer-out students
+LINE_51,Still enrolled
+LINE_52,No longer enrolled
+PGLIN10,Pell Grant recipients - revised cohort
+PGLIN45,Pell Grant recipients - exclusions
+PGLIN50,Pell Grant recipients - adjusted  cohort (revised minus exclusions)
+PGLIN11,Pell Grant  recipients - total number that completed an award  within 150% of normal time to completion
+SSLIN10,Subsidized Stafford Loan recipients not receiving Pell Grants - revised cohort
+SSLIN45,Subsidized Stafford Loan recipients not receiving Pell Grants - exclusions
+SSLIN50,Subsidized Stafford Loan recipients not receiving Pell Grants - adjusted cohort (revised minus exclusions)
+SSLIN11,Subsidized Stafford Loan recipients not receiving Pell Grants - total number completed an award within 150% of normal time to completion
+NRLIN10,Did not receive Pell grant or subsidized Stafford loan - revised cohort
+NRLIN45,Did not receive Pell grant or subsidized Stafford loan - exclusions
+NRLIN50,Did not receive Pell grant or subsidized Stafford loan - adjusted cohort
+NRLIN11,Did not receive Pell grant or subsidized Stafford loan -  total number completed an award within 150% of normal time to completion

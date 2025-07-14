@@ -1,0 +1,141 @@
+﻿Variable,Description
+geocode,11-digit FIP identifier (state + county + tract)
+cluster,Census Region/ Division
+urban_group,Level of urbanicity 
+est_pmiles,Person Miles
+est_ptrp,Person Trips
+est_vmiles,Vehicle Miles
+est_vtrp,Vehicle Trips
+flag_acs_lt_moe,1 = margin of error greater than ACS estimate for one or more of ACS estimates; 0 = otherwise
+flag_gpqtr,1 = total population equals group quarter population; 0 = otherwise
+flag_incomplete_acs,1 = ACS estimate not available for one or more of ACS estimates; 0 = otherwise
+flag_manhattan_trt,"1 = tract in Manhattan, NY; 0 = otherwise"
+tot_pop,Total population
+grp_qtr_pop,Population in group quarters
+hh_cnt,Count of households
+median_hh_inc,Household Income 
+,
+hh_veh_1,Households with 1 vehicle available (Count)
+,
+pct_veh_1,Households with 1 vehicle available (Percent)
+,
+hh_veh_2_more,Households with 2+ vehicles available (Count)
+,
+pct_veh_2_more,Households with 2+ vehicles available (Percent)
+,
+hh_worker_1,Households with 1 worker (Count)
+,
+pct_worker_1,Households with 1 worker (Percent)
+,
+hh_worker_2_more,Households with 2+ workers (Count)
+,
+pct_worker_2_more,Households with 2+ workers (Percent)
+,
+lhcd,Life Cycle (1+ child <18) (Count)
+pct_lhcd,Life Cycle (1+ child <18) (Percent)
+lhd1,"Life Cycle ( 1 person household, <65) (Count)"
+pct_lhd1,"Life Cycle ( 1 person household, <65) (Percent)"
+lhd2,"Life Cycle (2+ person household, 0 65+) (Count)"
+pct_lhd2,"Life Cycle (2+ person household, 0 65+) (Percent)"
+lhd3,"Life Cycle (1 person household, 65+) (Count)"
+pct_lhd3,"Life Cycle (1 person household, 65+) (Percent)"
+lhd4,"Life Cycle (2+ person household, 1+ 65+) (Count)"
+pct_lhd4,"Life Cycle (2+ person household, 1+ 65+) (Percent)"
+m_tot_pop,Total population margin of error
+m_grp_qtr_pop,Population in group quarters margin of error
+m_hh_cnt,Margin of error for count of households
+m_median_hh_inc,Household income margin of error
+,
+m_hh_veh_1,Margin of error for households with 1 vehicle available
+,
+m_hh_veh_2_more,Margin of error for households with 2+ vehicles available 
+,
+m_hh_worker_1,Margin of error for households with 1 worker 
+,
+m_hh_worker_2_more,Margin of error for households with 2+ workers 
+,
+m_lhcd,Life Cycle (1+ child <18) margin of error 
+m_lhd1,"Life Cycle ( 1 person household, <65) margin of error "
+m_lhd2,"Life Cycle (2+ person household, 0 65+) margin of error "
+m_lhd3,"Life Cycle (1 person household, 65+) margin of error "
+m_lhd4,"Life Cycle (2+ person household, 1+ 65+) margin of error "
+ptrp_1mem_0veh,Person trips assuming 1 person household with 0 vehicles available 
+ptrp_1mem_1veh,Person trips assuming 1 person household with 1 vehicle available
+ptrp_1mem_2veh,Person trips assuming 1 person household with 2 vehicles available
+ptrp_1mem_3veh,Person trips assuming 1 person household with 3 vehicles available
+ptrp_1mem_4veh,Person trips assuming 1 person household with 4 or more vehicles available
+ptrp_2mem_0veh,Person trips assuming 2 person household with 0 vehicles available 
+ptrp_2mem_1veh,Person trips assuming 2 person household with 1 vehicle available
+ptrp_2mem_2veh,Person trips assuming 2 person household with 2 vehicles available
+ptrp_2mem_3veh,Person trips assuming 2 person household with 3 vehicles available
+ptrp_2mem_4veh,Person trips assuming 2 person household with 4 or more vehicles available
+ptrp_3mem_0veh,Person trips assuming 3 person household with 0 vehicles available 
+ptrp_3mem_1veh,Person trips assuming 3 person household with 1 vehicle available
+ptrp_3mem_2veh,Person trips assuming 3 person household with 2 vehicles available
+ptrp_3mem_3veh,Person trips assuming 3 person household with 3 vehicles available
+ptrp_3mem_4veh,Person trips assuming 3 person household with 4 or more vehicles available
+ptrp_4mem_0veh,Person trips assuming 4 or more person household with 0 vehicles available 
+ptrp_4mem_1veh,Person trips assuming 4 or more person household with 1 vehicle available
+ptrp_4mem_2veh,Person trips assuming 4 or more person household with 2 vehicles available
+ptrp_4mem_3veh,Person trips assuming 4 or more person household with 3 vehicles available
+ptrp_4mem_4veh,Person trips assuming 4 or more person household with 4 or more vehicles available
+pmiles_1mem_0veh,Person miles assuming 1 person household with 0 vehicles available 
+pmiles_1mem_1veh,Person miles assuming 1 person household with 1 vehicle available
+pmiles_1mem_2veh,Person miles assuming 1 person household with 2 vehicles available
+pmiles_1mem_3veh,Person miles assuming 1 person household with 3 vehicles available
+pmiles_1mem_4veh,Person miles assuming 1 person household with 4 or more vehicles available
+pmiles_2mem_0veh,Person miles assuming 2 person household with 0 vehicles available 
+pmiles_2mem_1veh,Person miles assuming 2 person household with 1 vehicle available
+pmiles_2mem_2veh,Person miles assuming 2 person household with 2 vehicles available
+pmiles_2mem_3veh,Person miles assuming 2 person household with 3 vehicles available
+pmiles_2mem_4veh,Person miles assuming 2 person household with 4 or more vehicles available
+pmiles_3mem_0veh,Person miles assuming 3 person household with 0 vehicles available 
+pmiles_3mem_1veh,Person miles assuming 3 person household with 1 vehicle available
+pmiles_3mem_2veh,Person miles assuming 3 person household with 2 vehicles available
+pmiles_3mem_3veh,Person miles assuming 3 person household with 3 vehicles available
+pmiles_3mem_4veh,Person miles assuming 3 person household with 4 or more vehicles available
+pmiles_4mem_0veh,Person miles assuming 4 or more person household with 0 vehicles available 
+pmiles_4mem_1veh,Person miles assuming 4 or more person household with 1 vehicle available
+pmiles_4mem_2veh,Person miles assuming 4 or more person household with 2 vehicles available
+pmiles_4mem_3veh,Person miles assuming 4 or more person household with 3 vehicles available
+pmiles_4mem_4veh,Person miles assuming 4 or more person household with 4 or more vehicles available
+vtrp_1mem_0veh,Vehicle trips assuming 1 person household with 0 vehicles available 
+vtrp_1mem_1veh,Vehicle trips assuming 1 person household with 1 vehicle available
+vtrp_1mem_2veh,Vehicle trips assuming 1 person household with 2 vehicles available
+vtrp_1mem_3veh,Vehicle trips assuming 1 person household with 3 vehicles available
+vtrp_1mem_4veh,Vehicle trips assuming 1 person household with 4 or more vehicles available
+vtrp_2mem_0veh,Vehicle trips assuming 2 person household with 0 vehicles available 
+vtrp_2mem_1veh,Vehicle trips assuming 2 person household with 1 vehicle available
+vtrp_2mem_2veh,Vehicle trips assuming 2 person household with 2 vehicles available
+vtrp_2mem_3veh,Vehicle trips assuming 2 person household with 3 vehicles available
+vtrp_2mem_4veh,Vehicle trips assuming 2 person household with 4 or more vehicles available
+vtrp_3mem_0veh,Vehicle trips assuming 3 person household with 0 vehicles available 
+vtrp_3mem_1veh,Vehicle trips assuming 3 person household with 1 vehicle available
+vtrp_3mem_2veh,Vehicle trips assuming 3 person household with 2 vehicles available
+vtrp_3mem_3veh,Vehicle trips assuming 3 person household with 3 vehicles available
+vtrp_3mem_4veh,Vehicle trips assuming 3 person household with 4 or more vehicles available
+vtrp_4mem_0veh,Vehicle trips assuming 4 or more person household with 0 vehicles available 
+vtrp_4mem_1veh,Vehicle trips assuming 4 or more person household with 1 vehicle available
+vtrp_4mem_2veh,Vehicle trips assuming 4 or more person household with 2 vehicles available
+vtrp_4mem_3veh,Vehicle trips assuming 4 or more person household with 3 vehicles available
+vtrp_4mem_4veh,Vehicle trips assuming 4 or more person household with 4 or more vehicles available
+vmiles_1mem_0veh,Vehicle miles assuming 1 person household with 0 vehicles available 
+vmiles_1mem_1veh,Vehicle miles assuming 1 person household with 1 vehicle available
+vmiles_1mem_2veh,Vehicle miles assuming 1 person household with 2 vehicles available
+vmiles_1mem_3veh,Vehicle miles assuming 1 person household with 3 vehicles available
+vmiles_1mem_4veh,Vehicle miles assuming 1 person household with 4 or more vehicles available
+vmiles_2mem_0veh,Vehicle miles assuming 2 person household with 0 vehicles available 
+vmiles_2mem_1veh,Vehicle miles assuming 2 person household with 1 vehicle available
+vmiles_2mem_2veh,Vehicle miles assuming 2 person household with 2 vehicles available
+vmiles_2mem_3veh,Vehicle miles assuming 2 person household with 3 vehicles available
+vmiles_2mem_4veh,Vehicle miles assuming 2 person household with 4 or more vehicles available
+vmiles_3mem_0veh,Vehicle miles assuming 3 person household with 0 vehicles available 
+vmiles_3mem_1veh,Vehicle miles assuming 3 person household with 1 vehicle available
+vmiles_3mem_2veh,Vehicle miles assuming 3 person household with 2 vehicles available
+vmiles_3mem_3veh,Vehicle miles assuming 3 person household with 3 vehicles available
+vmiles_3mem_4veh,Vehicle miles assuming 3 person household with 4 or more vehicles available
+vmiles_4mem_0veh,Vehicle miles assuming 4 or more person household with 0 vehicles available 
+vmiles_4mem_1veh,Vehicle miles assuming 4 or more person household with 1 vehicle available
+vmiles_4mem_2veh,Vehicle miles assuming 4 or more person household with 2 vehicles available
+vmiles_4mem_3veh,Vehicle miles assuming 4 or more person household with 3 vehicles available
+vmiles_4mem_4veh,Vehicle miles assuming 4 or more person household with 4 or more vehicles available

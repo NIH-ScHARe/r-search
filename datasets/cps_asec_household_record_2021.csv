@@ -1,0 +1,135 @@
+Variable,Description
+H_IDNUM,Household id number.  Same as characters 1-20 of PERIDNUM.
+GEREG,Region
+GESTFIPS,State FIPS code
+GEDIV,Recode - Census division of current residence
+HRHTYPE,Household type
+HEFAMINC,"Family income from basic CPS iincome screener question. NOTE:  If a nonfamily household, income includes only that of  householder."
+H_MONTH,Month of survey
+H_YEAR,Year of survey
+H_TENURE,Tenure
+H_HHNUM,"Household number.  Identifier for unique set of residents located at  this sample address.  If this group changes between months in  sample, household number is incremented by 1."
+H_LIVQRT,Type of living quarters (recode)
+H_RESPNM,Line number of household respondent
+H_TELHHD,Telephone in household
+H_TELAVL,Telephone available
+H_TELINT,Telephone interview acceptable
+H1TENURE,Allocation flag for H_TENURE
+H1LIVQRT,Allocation flag for H_LIVQRT
+H1TELHHD,Allocation flag for H_TELHHD
+H1TELAVL,Allocation flag for H_TELINT
+H1TELINT,Allocation flag for H_TELAVL
+H_NUMPER,Number of persons in household
+H_HHTYPE,Type of household interview
+H_TYPEBC,Item 15 - Type B/C
+H_MIS,Month in sample
+HANNVAL,household income - annuities
+HANN_YN,"During 20.., did anyone receive income from an annuity?"
+HCHCARE_VAL,Annual amount paid for child care by household members
+HCHCARE_YN,Did (you/anyone in this household) PAY for the care of (your/their)  (child/children) while they worked last year? (Include preschool  and nursery school; exclude kindergarten or grade/elementary  school)?
+HCOV,Any health insurance coverage in the household last year
+HCSPVAL,household income - child support
+HCSP_YN,During 20.. did anyone in this household receive: any child support  payments?
+HDISVAL,household income - disability income
+HDIS_YN,"Does anyone in the household have a disability or health problem  which prevented them from working, even for a short time, or  which limited the work they could do?"
+HDIVVAL,household income - dividend income
+HDIV_YN,At any time during 20.. did anyone in this household: own any  shares of stock in corporations or any mutual fund shares?
+HDSTVAL,household income - retirement distributions
+HDST_YN,"Household retirement distribution income for people age 58 and  over, y/n?"
+HEARNVAL,total household earnings
+HEDVAL,household income - education income
+HED_YN,"Did anyone receive any educational assistance for tuition, fees,  books, or living expenses during 20..?"
+HENGAST,Assistance for heating/colling costs received for anyone in the  household
+HENGVAL,"Altogether, how much energy assistance has been received  during, 20..?"
+HFDVAL,What was the value of all food stamps received during 20..?
+HFINVAL,household income - financial assistance income
+HFIN_YN,During 20.. did anyone in this household receive: any (other)  regular financial assistance from friends or relatives not living in  this household?
+HFLUNCH,During 20.. how many of the children in this household received  free or reduced price lunches because they qualified for federal  school lunch program?
+HFLUNNO,"Number receiving free/reduced price lunch. Note: if more than 9  children/persons present, a value of 9 does not necessarily mean  ""all."""
+HFOODMO,number months covered by food stamps
+HFOODNO,"Number covered by food stamps note: if more than 9  children/persons present, a value of 9 does not necessarily mean  ""all."""
+HFOODSP,Did anyone in this household get food stamps at any time in 20..?
+HFRVAL,household income - farm income
+HH5TO18,Recode: Number of persons in household age 5 to 18 
+HHINC,Total household income - recode
+HHOTLUN,During 20.. how many of the children in this household usually ate  a complete hot lunch offered at school?
+HHOTNO,"number of children in household who usually ate hot lunch. note: if  more than 9 children/persons present, a value of 9 does not  necessarily mean ""all."""
+HHSTATUS,Recode - Household status
+HH_HI_UNIV,
+HINC_FR,"farm self-employment, y/n"
+HINC_SE,"own business self-employment, y/n"
+HINC_UC,"unemployment compensation, y/n"
+HINC_WC,"workers compensation, y/n"
+HINC_WS,"wage and salary, y/n"
+HINTVAL,household income - interest income
+HINT_YN,At any time during 20.. did anyone in this household have money  in:     1) savings accounts 2) checking accounts 3) money market funds 4) certificates of deposit 5) savings bonds 6) any other (non-retirement) investments which pay interest  7) retirement accounts   
+HLORENT,"Are you paying lower rent because the federal, state, or local  government is paying part of the cost?"
+HMCAID,"Any Medicaid, PCHIP or other means-tested coverage in the  household last year"
+HNUMFAM,Number of families in household
+HOIVAL,"household income - other income: (such as foster child care,  alimony, jury duty, armed forces reserves, severance pay,  hobbies, or any other source)"
+HOI_YN,"During 20.. Did anyone receive cash income not already covered,  such as income from: foster child care, alimony, jury duty, armed  forces reserves, severance pay, hobbies, or any other source?"
+HOTHVAL,All other types of income except HEARNVAL      Recode - Total  other household income
+HPAWVAL,household income - public assistance income amt
+HPAW_YN,At any time during 20.. did anyone in this household receive: any  public assistance or welfare payments from the state or local  welfare office?
+HPCTCUT,Recode - HHLD income percentiles
+HPENVAL,household income - pension income
+HPEN_YN,"During 20.., did anyone receive  any pension income from  a  previous employer or union?"
+HPRES_MORT,Presence of home mortgage (respondent answers yes to hmort_yn  or hsmort_yn)
+HPRIV,Any private coverage in the household last year
+HPROP_VAL,Estimate of current property value 
+HPUB,Any public coverage in the household last year
+HPUBLIC,"Is this a public housing project, that is owned by a local housing  authority or other public agency?"
+HRECORD,Record Type. Used to identify records on ascii file.
+HRNTVAL,household income - rental income amt
+HRNT_YN,"During 20.. did anyone in the household:     1) own any land, business property, apartments, houses which  were rented to others?     2) receive income from royalties or from roomers or boarders?     3) receive income from estates or trusts?"
+HRNUMWIC,Number of people in the household receiving WIC
+HRWICYN,"At any time last year, (were you/was anyone in this household) on  WIC, the Women, Infants, and Children Nutrition Program?"
+HSEVAL,household income - self employment income
+HSSIVAL,household income - supplemental security income
+HSSI_YN,During 20.. did anyone in this household receive: any  supplemental security income payments?
+HSSVAL,household income - social security
+HSS_YN,During 20.. did anyone in this household receive: any social  security payments from U.S. government?
+HSUP_WGT,ASEC Supplement Final Weight
+HSURVAL,household income - survivor income
+HSUR_YN,"Did anyone in this household receive any income in 20.. as a  survivor or widow such as survivor or widow's pensions, estates,  trusts, annuities, or other survivor benefits?"
+HTOP5PCT,Top 5 percent of households
+HTOTVAL,total household income
+HUCVAL,household income - unemployment compensation
+HUNDER15,Recode: Number of persons in household under age 15
+HUNDER18,Recode - Number of persons in HHLD under age 18
+HUNITS,How many units in the structure?
+HVETVAL,household income - veteran payments
+HVET_YN,At any time during 20.. did anyone in this household receive: any  payments from the veterans' administration other than above?
+HWCVAL,household income - worker's compensation
+HWSVAL,household income - wages and salaries
+H_SEQ,Household sequence number
+I_CHCAREVAL,Allocation flag for HCHCARE_VAL
+I_HENGAS,Allocation flag for HENGAST
+I_HENGVA,Allocation flag for HENGVAL
+I_HFDVAL,Allocation flag for HFDVAL
+I_HFLUNC,Allocation flag for HFLUNCH
+I_HFLUNN,Allocation flag for HFLUNNO
+I_HFOODM,Allocation flag for HFOODMO
+I_HFOODN,Allocation flag for HFOODNO
+I_HFOODS,Allocation flag for HFOODSP
+I_HHOTLU,Allocation flag for HHOTLUN
+I_HHOTNO,Allocation flag for HHOTNO
+I_HLOREN,Allocation flag for HLORENT
+I_HPUBLI,Allocation flag for HPUBLIC
+I_HUNITS,Allocation flag for HUNITS
+I_PROPVAL,Allocation flag for HPROP_VAL
+NOW_HCOV,Any current health insurance coverage in the household
+NOW_HMCAID,"Any current Medicaid, PCHIP or other means-tested coverage in  the household"
+NOW_HPRIV,Any current private coverage in the household
+NOW_HPUB,Any current public coverage in the household
+THCHCARE_VAL,Topcode flag for HCHCARE_VAL
+THPROP_VAL,Data swapping flag for HPROP_VAL
+GTCBSA,Metropolitan CBSA FIPS CODE
+GTCO,FIPS County Code
+GTCBSAST,Principal city/Balance status
+GTCBSASZ,Metropolitan area (CBSA) size
+GTCSA,Consolidated Statistical Area (CSA) FIPS Code
+GTMETSTA,Metropolitan status
+GTINDVPC,Individual Principal City Code
+FILEDATE,File creation date in MMDDYY format
+YYYYMM,

@@ -1,0 +1,27 @@
+Variable,Description
+UNITID,Unique identification number of the institution
+PSGRTYPE,Cohort type
+PGREVCT,Pell Grant recipients - revised cohort
+PGEXCLU,Pell Grant recipients - exclusions
+PGADJCT,Pell Grant recipients - adjusted  cohort (revised minus exclusions)
+PGCMBAC,Pell Grant  recipients - number that completed a bachelor's or equivalent degree within 150% of normal time
+PGCMOBA,Pell Grant  recipients - number that completed an award of less than 4 academic years or equivalent within 150% of normal time
+PGCMTOT,Pell Grant  recipients - total number that completed an award  within 150% of normal time
+SSREVCT,Direct Subsidized Loan recipients not receiving Pell Grants - revised cohort
+SSEXCLU,Direct Subsidized Loan recipients not receiving Pell Grants - exclusions
+SSADJCT,Direct Subsidized Loan recipients not receiving Pell Grants - adjusted cohort (revised minus exclusions)
+SSCMBAC,Direct Subsidized Loan recipients not receiving Pell Grants - number completed a bachelor's or equivalent within 150% of normal time
+SSCMOBA,Direct Subsidized Loan recipients not receiving Pell Grants - number completed an award of less than 4 academic years within 150% of normal time
+SSCMTOT,Direct Subsidized Loan recipients not receiving Pell Grants - total number completed an award within 150% of normal time
+NRREVCT,Did not receive Pell grant or Direct Subsidized loan - revised cohort
+NREXCLU,Did not receive Pell grant or Direct Subsidized loan - exclusions
+NRADJCT,Did not receive Pell grant or Direct Subsidized loan - adjusted  cohort (revised minus exclusions)
+NRCMBAC,Did not receive Pell grant or Direct Subsidized loan - number that completed a bachelor's or equivalent degree within 150% of normal time
+NRCMOBA,Did not receive Pell grant or Direct Subsidized loan - number that completed an award of less than 4 academic years within 150% of normal time
+NRCMTOT,Did not receive Pell grant or Direct Subsidized loan - total number that completed an award  within 150% of normal time
+TTREVCT,Total revised cohort
+TTEXCLU,Total exclusions
+TTADJCT,Total adjusted cohort
+TTCMBAC,Total number that completed a bachelor's or equivalent degree within 150% of normal time
+TTCMOBA,Total number that completed an award of less than 4 academic years within 150% of normal time
+TTCMTOT,Total number that completed an award  within 150% of normal time

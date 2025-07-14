@@ -1,0 +1,34 @@
+﻿Variable,Description
+STNAM,State Name
+FIPST,The two-digit American National Standards Institute (ANSI) code for state
+LEAID,District NCES ID
+ST_LEAID,Local Education Agency (District) State ID
+LEANM,District Name
+SCHNAM,School Name (Not in District file)
+NCESSCH,School NCES ID (Not in District file)
+ST_SCHID,School State ID (Not in District file)
+DATE_CUR,Date of data snapshot
+ALL_COHORT_1718,Total number of students within the four-year adjusted-cohort
+ALL_RATE_1718,Rate of students who graduated within the four-year adjusted-cohort
+MAM_COHORT_1718,Total number of American Indian/Alaska Native students within the four-year adjusted-cohort
+MAM_RATE_1718,Rate of American Indian/Alaska Native students who graduated within the four-year adjusted-cohort
+MAS_COHORT_1718,Total number of Asian/Pacific Islander students within the four-year adjusted-cohort
+MAS_RATE_1718,Rate of Asian/Pacific Islander students who graduated within the four-year adjusted-cohort
+MBL_COHORT_1718,Total number of Black students within the four-year adjusted-cohort
+MBL_RATE_1718,Rate of Black students who graduated within the four-year adjusted-cohort
+MHI_COHORT_1718,Total number of Hispanic students within the four-year adjusted-cohort
+MHI_RATE_1718,Rate of Hispanic students who graduated within the four-year adjusted-cohort
+MTR_COHORT_1718,Total number of Multiracial students within the four-year adjusted-cohort
+MTR_RATE_1718,Rate of Multiracial students who graduated within the four-year adjusted-cohort
+MWH_COHORT_1718,Total number of White students within the four-year adjusted-cohort
+MWH_RATE_1718,Rate of White students who graduated within the four-year adjusted-cohort
+CWD_COHORT_1718,Total number of students with disabilities within the four-year adjusted-cohort
+CWD_RATE_1718,Rate of students with disabilities who graduated within the four-year adjusted-cohort
+ECD_COHORT_1718,Total number of economically disadvantaged students within the four-year adjusted-cohort
+ECD_RATE_1718,Rate of economically disadvantaged students who graduated within the four-year adjusted-cohort
+FCS_COHORT_1718,Number of students in foster care in the graduation cohort
+FCS_RATE_1718,Rate of foster care students who graduated within the four-year adjusted-cohort
+HOM_COHORT_1718,Number of homeless enrolled students in the graduation cohort
+HOM_RATE_1718,Rate of homeless enrolled students who graduated within the four-year adjusted-cohort
+LEP_COHORT_1718,Total number of students with limited English proficiency within the four-year adjusted-cohort
+LEP_RATE_1718,Rate of students with limited English proficiency who graduated within the four-year adjusted-cohort

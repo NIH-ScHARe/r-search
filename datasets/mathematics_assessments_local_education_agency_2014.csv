@@ -1,0 +1,71 @@
+﻿Variable,Description
+STNAM,State Name
+FIPST,The two-digit American National Standards Institute (ANSI) code for state
+LEAID,District NCES ID
+LEANM,District Name
+NCESSCH,School NCES ID (Not in District file)
+SCHNAM,School Name (Not in District file)
+DATE_CUR,Date of data snapshot (“Data current as of” date)
+ALL_MTH##numvalid_1415,Total number of students that completed an assessment and for whom a proficiency level was assigned
+ALL_MTH##pctprof_1415,Percentage of students in the school that scored at or above proficient
+MAM_MTH##numvalid_1415,Number of Native American students that completed an assessment and for whom a proficiency level was assigned
+MAM_MTH##pctprof_1415,Percentage of Native American students that scored at or above proficient
+MAS_MTH##numvalid_1415,Number of Asian/Pacific Islander students that completed an assessment and for whom a proficiency level was assigned
+MAS_MTH##pctprof_1415,Percentage of Asian/Pacific Islander students that scored at or above proficient
+MBL_MTH##numvalid_1415,Number of Black students that completed an assessment and for whom a proficiency level was assigned
+MBL_MTH##pctprof_1415,Percentage of Black students that scored at or above proficient
+MHI_MTH##numvalid_1415,Number of Hispanic students that completed an assessment and for whom a proficiency level was assigned
+MHI_MTH##pctprof_1415,Percentage of Hispanic students that scored at or above proficient
+MTR_MTH##numvalid_1415,Number of students with Two or More Races that completed an assessment and for whom a proficiency level was assigned
+MTR_MTH##pctprof_1415,Percentage of students with Two or More Races that scored at or above proficient
+MWH_MTH##numvalid_1415,Number of White students that completed an assessment and for whom a proficiency level was assigned
+MWH_MTH##pctprof_1415,Percentage of White students that scored at or above proficient
+F_MTH##numvalid_1415,Number of female students that completed an assessment and for whom a proficiency level was assigned
+F_MTH##pctprof_1415,Percentage of female students that scored at or above proficient
+M_MTH##numvalid_1415,Number of male students that completed an assessment and for whom a proficiency level was assigned
+M_MTH##pctprof_1415,Percentage of male students that scored at or above proficient
+CWD_MTH##numvalid_1415,Number of children with disabilities (IDEA) that completed an assessment and for whom a proficiency level was assigned
+CWD_MTH##pctprof_1415,Percentage of children with disabilities (IDEA) that scored at or above proficient
+ECD_MTH##numvalid_1415,Number of economically disadvantaged students that completed an assessment and for whom a proficiency level was assigned
+ECD_MTH##pctprof_1415,Percentage of economically disadvantaged students that scored at or above proficient
+LEP_MTH##numvalid_1415,Number of limited English proficient students that completed an assessment and for whom a proficiency level was assigned
+LEP_MTH##pctprof_1415,Percentage of limited English proficient students that scored at or above proficient
+HOM_MTH##numvalid_1415,Number of homeless enrolled students that completed an assessment and for whom a proficiency level was assigned
+HOM_MTH##pctprof_1415,Percentage of homeless enrolled students that scored at or above proficient
+MIG_MTH##numvalid_1415,Number of migrant students that completed an assessment and for whom a proficiency level was assigned
+MIG_MTH##pctprof_1415,Percentage of migrant students that scored at or above proficient
+STNAM,State Name
+FIPST,The two-digit American National Standards Institute (ANSI) code for state
+LEAID,District NCES ID
+LEANM,District Name
+NCESSCH,School NCES ID (Not in District file)
+SCHNAM,School Name (Not in District file)
+DATE_CUR,Date of data snapshot (“Data current as of” date)
+ALL_MTH##numpart_1415,Total number of students who participated in an assessment
+ALL_MTH##pctpart_1415,Percentage of students in the school who participated in an assessment
+MAM_MTH##numpart_1415,Number of Native American students who participated in an assessment 
+MAM_MTH##pctpart_1415,Percentage of Native American students who participated in an assessment
+MAS_MTH##numpart_1415,Number of Asian/Pacific Islander students who participated in an assessment
+MAS_MTH##pctpart_1415,Percentage of Asian/Pacific Islander students who participated in an assessment
+MBL_MTH##numpart_1415,Number of Black students who participated in an assessment
+MBL_MTH##pctpart_1415,Percentage of Black students who participated  in an assessment
+MHI_MTH##numpart_1415,Number of Hispanic students who participated in an assessment
+MHI_MTH##pctpart_1415,Percentage of Hispanic students participated in an assessment
+MTR_MTH##numpart_1415,Number of students with Two or More Races who participated in an assessment
+MTR_MTH##pctpart_1415,Percentage of students with Two or More Races who participated in an assessment
+MWH_MTH##numpart_1415,Number of White students who participated in an assessment
+MWH_MTH##pctpart_1415,Percentage of White students who participated in an assessment
+F_MTH##numpart_1415,Number of female students who participated  in an assessment
+F_MTH##pctpart_1415,Percentage of female students who participated in an assessment
+M_MTH##numpart_1415,Number of male students who participated in an assessment
+M_MTH##pctpart_1415,Percentage of male students who participated in an assessment
+CWD_MTH##numpart_1415,Number of children with disabilities (IDEA) who participated in an assessment
+CWD_MTH##pctpart_1415,Percentage of children with disabilities (IDEA) who participated in an assessment
+ECD_MTH##numpart_1415,Number of economically disadvantaged students who participated in an assessment
+ECD_MTH##pctpart_1415,Percentage of economically disadvantaged students who participated  in an assessment
+LEP_MTH##numpart_1415,Number of limited English proficient students who  participated  in an assessment
+LEP_MTH##pctpart_1415,Percentage of limited English proficient students who participated in an assessment
+HOM_MTH##numpart_1415,Number of homeless enrolled students who participated  in an assessment
+HOM_MTH##pctpart_1415,Percentage of homeless enrolled students who participated in an assessment
+MIG_MTH##numpart_1415,Number of migrant students who participated in an assessment
+MIG_MTH##pctpart_1415,Percentage of migrant students who participated in an assessment

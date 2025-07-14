@@ -1,0 +1,22 @@
+Variable,Description
+JINTPMT,Edit flag for INTPMT
+JINTRATE,Edit flag for INTRATE
+JLOANTYPE,Edit flag for LOANTYPE
+JMISCPMT,Edit flag for MISCPMT
+JMORTLINE,Edit flag for MORTLINE
+JMORTNEW,Edit flag for MORTNEW
+JMORTPURCH,Edit flag for MORTPURCH
+JPMTAMT,Edit flag for PMTAMT
+JREFI,Edit flag for REFI
+JTAXPMT,Edit flag for TAXPMT
+CONTROL,Control number
+MORTLINE,Line number of mortgage
+MORTNEW,Mortgage new or assumed
+LOANTYPE,Type of loan
+REFI,Refinance mortgage
+INTPMT,Interest included in mortgage payment
+TAXPMT,Property taxes included in mortgage payment
+PMTAMT,Amount of mortgage payment
+INTRATE,Interest rate of mortgage
+MORTPURCH,Percentage of mortgage used for purchase of home
+MISCPMT,Homeowners insurance and PMI included in mortgage payment

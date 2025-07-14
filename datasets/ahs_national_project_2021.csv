@@ -1,0 +1,16 @@
+Variable,Description
+JJOBCOMP,Edit flag for JOBCOMP
+JJOBCOMPYR,Edit flag for JOBCOMPYR
+JJOBCOST,Edit flag for JOBCOST
+JJOBDIY,Edit flag for JOBDIY
+JJOBFUNDS,Edit flag for JOBFUNDS
+JJOBTYPE,Edit flag for JOBTYPE
+JJOBWORKYR,Edit flag for JOBWORKYR
+CONTROL,Control number
+JOBTYPE,Type of home improvement job
+JOBDIY,Job was do-it-yourself
+JOBCOST,Cost of home improvement job
+JOBCOMP,Home improvement job is complete
+JOBCOMPYR,Year home improvement job was completed
+JOBWORKYR,Year that the majority of home improvement expenses were incurred for this job
+JOBFUNDS,Main source of funding for home improvement job

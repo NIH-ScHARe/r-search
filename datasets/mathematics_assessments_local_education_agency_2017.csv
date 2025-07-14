@@ -1,0 +1,17 @@
+﻿Variable,Description
+YEAR,School Year
+STNAM,State Name
+FIPST,The two-digit American National Standards Institute (ANSI) code for state
+LEAID,District NCES ID
+ST_LEAID,"Local Education Agency (District) State ID, Assigned by State"
+LEANM,District Name
+SCHNAM,School Name (Not in District file)
+NCESSCH,School NCES ID (Not in District file)
+ST_SCHID,"School State ID, (Not in District file), Assigned by State"
+SUBJECT,"• Mathematics = MTH, • Reading/language arts = RLA"
+GRADE,"•00 (All grades), 03, 04, 05, 06, 07, 08, HS"
+CATEGORY,"Category/Subgroup- •ALL, MAM, MAS, MHI, MBL, MWH, MTR, CWD, ECD, LEP, F, M, HOM, MIG, FCS, MIL"
+DATE_CUR,Date of data snapshot (“Data current as of” date)
+NUMVALID,Number of proficient students who were assigned a performance level
+NUMPROF,Number of students who scored at or above proficient
+PCTPROF,Percentage of students who scored at or above proficient (Calculation of NUMVALID divided by NUMPROF)

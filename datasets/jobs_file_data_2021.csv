@@ -1,0 +1,87 @@
+﻿Variable,Description
+ANYINS,Health insurance offered to any employees
+BONSAMT,How much are person's bonuses
+BONSUNIT,Period which bonuses are based on
+BUSINC,Business incorporated
+COMMAMT,How much are person's commissions
+COMMUNIT,Period which commissions are based on
+DAYWAGE,Person's daily wage rate
+DIFFPLNS,Choice of different health insurance plans
+DIFFWAGE,Any change in wage amount
+DUID,Panel # + encrypted DU identifier
+DUPERSID,Person ID (DUID+PID)
+EARNBONS,Person earns bonuses
+EARNCOMM,Person earns commission
+EARNTIPS,Person earns tips
+EMPLINS,Has health insurance thru current main job
+EmplUnionProv,Employer or union is primary health insurer
+ESTBIDX,Establishment identifier
+ESTBTHRU,"Offered insurance, did not take (review)"
+ESTMATE1_M19,Categorical approximate establishment size
+GROSSPAY,Person's salary before taxes (gross)
+GROSSPER,Period in which gross salary was earned
+HHMEMBER_M18,Any other hh member wrk at this business
+HIDISAVW,Capi q where health insur thru emp/union disavowed
+HOWPAID,How is person paid
+HRLYWAGE,How much person makes per hour
+HRS35WK,Works at least 35 hours per week
+HRSALBAS,Hours per week salary based on
+HRSPRDY,Number of hours person worked in one day
+HRSPRWK,Number of hours worked per week
+INDCODEX,Condensed industry code
+INSESTB,Insurance offered to any employees (review)
+INUNION,Belongs to labor union
+JOBHASHI,Has health insurance thru job
+JOBIDX,Person's unique job identifier
+JOBNUM,Unique DU-job identifier
+JOBSIDX,Job-round identifier
+JOBTYPE,Self-employed or works for someone else
+JSTOPM,Job stop date - month
+JSTOPY,Job stop date - year
+JSTRTM,Job start date - month
+JSTRTY,Job start date - year
+MAIN_JOB,Still main job or business
+MAKEAMT,How much money does person make
+MORE10,Person makes more or less than $10/hour
+MORE15,Person makes more or less than $15/hour
+MORELOC,Employer has more than one location
+MOREMINM,Person makes more or less than min. wage
+NOWTAKEI,Now offered and take insurance
+NOWTAKEI_M22,Now has health insurance through employer
+NUMEMPS,Establishment size at not self-employed job
+OCCCODEX,Condensed occupation code
+OFFRDINS,Offered insurance but chose not to take
+OFFTAKEI,Offered insurance and now take
+OrigRnd,Round job first reported
+PANEL,Panel to which jobholder belongs
+PAYDRVST,Has paid sick leave for doc visit thru job
+PAYVACTN,Has paid vacation leave thru job
+PERUNIT_M18,Period for which person is paid
+PID,Person number
+PROPRIET,Proprietorship or partnership
+PROVDINS,"Is health ins provided by employer, union or both"
+RETIRJOB,Person retired from this job
+RETIRPLN,Has pension/retirement plan thru job
+RN,Round
+RvwTotNumEmp,Establishment size at continuing self-employed job
+SALARIED,"Person salaried, paid by hour, some other way"
+SALRYWKS,Number of weeks per year salary is based
+SESNLJOB,Job is available certain time of year
+SICKPAY,Has paid sick leave thru job
+STILLAT,Still works at main job establishment
+StillWorkFTPT,Still works full or part time
+STILLWRK,Still works at misc job establishment
+SUBTYPE,Job sub-type
+TEMPJOB,Job at employer is temporary
+TIPSAMT,How much are person's tips
+TIPSUNIT_M18,Period which tip earnings are based on
+TOTLEMP_M18,Current establishment size at self-employed job
+TotNumEmp,Establishment size at new self-employed job
+TYPECHGD,Job sub-type changed between rounds
+TYPEEMPL,Employee type
+WHY_LEFT_M18,Reason why no longer at job now
+WhyChngFTToPT,Why change full to part time
+WhyChngPTToFT,Why change part to full time
+WKLYAMT,Usual weekly gross income at misc job
+YLEFT_M18,Reason why no longer at job
+YNOBUSN_M18,Reason why no longer has business

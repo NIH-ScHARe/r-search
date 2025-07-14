@@ -1,0 +1,194 @@
+﻿Variable,Description
+GEOID,Geographic Identifier - fully concatenated geographic code (State FIPS and district number)
+STATE,Census 2-digit FIPS State Code
+COUNTY,Census 5-digit FIPS County Code
+TRACT,Census 11-digit FIPS Tract Code
+STUSAB,State Abbreviation
+blkgrp,block group
+households,number of households
+area_median_income,area median income
+blkgrp_median_income_owners,block group median income (homeowners)
+blkgrp_median_income_renters,block group median income (renters)
+avg_hh_size_owners,average homeowner household size
+avg_hh_size_renters,average renter household size
+commuters_per_hh_owners,average commuters per homeowner household
+commuters_per_hh_renters,average commuters per renter household
+pct_renters,percent of units occupied by renters
+gross_hh_density,households per acre
+median_rooms_per_owner_unit,median rooms per unit for homeowners
+median_rooms_per_renter_unit,median rooms per unit for renters
+pct_detatched_single_family_unit,percent of units that are single-family detached
+median_commute_distance,median commute distance
+block_denstiy,blocks per acre
+employment_access_index,Employment Access Index
+local_job_density,Local Job Density (overall)
+local_retail_job_density,Local Job Density (retail)
+retail_access_index,Retail Access Index
+hh_type1_income,HH profile 1 income
+hh_type1_size,HH profile 1 size
+hh_type1_workers,HH profile 1 number of commuters
+hh_type1_ht,HH profile 1 estimated housing+transportation costs % of income
+hh_type1_h,HH profile 1 estimated housing costs % of income
+hh_type1_t,HH profile 1 estimated transportation costs % of income
+hh_type1_autos,HH profile 1 estimated autos owned
+hh_type1_vmt,HH profile 1 estimated annual VMT
+hh_type1_transit_trips,HH profile 1 estimated annual transit trips
+hh_type1_ht_own,HH profile 1 estimated housing+transportation costs % of income (owners)
+hh_type1_h_own,HH profile 1 estimated housing costs % of income (owners)
+hh_type1_t_own,HH profile 1 estimated transportation costs % income (owners)
+hh_type1_autos_own,HH profile 1 estimated autos owned (owners)
+hh_type1_vmt_own,HH profile 1 estimated annual VMT (owners)
+hh_type1_transit_trips_own,HH profile 1 estimated annual transit trips (owners)
+hh_type1_ht_rent,HH profile 1 estimated housing+transportation costs % of income (renters)
+hh_type1_h_rent,HH profile 1 estimated housing costs % of income (renters)
+hh_type1_t_rent,HH profile 1 estimated transportation costs % of income (renters)
+hh_type1_autos_rent,HH profile 1 estimated autos owned (renters)
+hh_type1_vmt_rent,HH profile 1 estimated annual VMT (renters)
+hh_type1_transit_trips_rent,HH profile 1 estimated annual transit trips (renters)
+hh_type2_income,HH profile 2 income
+hh_type2_size,HH profile 2 size
+hh_type2_workers,HH profile 2 number of commuters
+hh_type2_ht,HH profile 2 estimated housing+transportation costs % of income
+hh_type2_h,HH profile 2 estimated housing costs % of income
+hh_type2_t,HH profile 2 estimated transportation costs % of income
+hh_type2_autos,HH profile 2 estimated autos owned
+hh_type2_vmt,HH profile 2 estimated annual VMT
+hh_type2_transit_trips,HH profile 2 estimated annual transit trips
+hh_type2_ht_own,HH profile 2 estimated housing+transportation costs % of income (owners)
+hh_type2_h_own,HH profile 2 estimated housing costs % of income (owners)
+hh_type2_t_own,HH profile 2 estimated transportation costs % income (owners)
+hh_type2_autos_own,HH profile 2 estimated autos owned (owners)
+hh_type2_vmt_own,HH profile 2 estimated annual VMT (owners)
+hh_type2_transit_trips_own,HH profile 2 estimated annual transit trips (owners)
+hh_type2_ht_rent,HH profile 2 estimated housing+transportation costs % of income (renters)
+hh_type2_h_rent,HH profile 2 estimated housing costs % of income (renters)
+hh_type2_t_rent,HH profile 2 estimated transportation costs % of income (renters)
+hh_type2_autos_rent,HH profile 2 estimated autos owned (renters)
+hh_type2_vmt_rent,HH profile 2 estimated annual VMT (renters)
+hh_type2_transit_trips_rent,HH profile 2 estimated annual transit trips (renters)
+hh_type3_income,HH profile 3 income
+hh_type3_size,HH profile 3 size
+hh_type3_workers,HH profile 3 number of commuters
+hh_type3_ht,HH profile 3 estimated housing+transportation costs % of income
+hh_type3_h,HH profile 3 estimated housing costs % of income
+hh_type3_t,HH profile 3 estimated transportation costs % of income
+hh_type3_autos,HH profile 3 estimated autos owned
+hh_type3_vmt,HH profile 3 estimated annual VMT
+hh_type3_transit_trips,HH profile 3 estimated annual transit trips
+hh_type3_ht_own,HH profile 3 estimated housing+transportation costs % of income (owners)
+hh_type3_h_own,HH profile 3 estimated housing costs % of income (owners)
+hh_type3_t_own,HH profile 3 estimated transportation costs % income (owners)
+hh_type3_autos_own,HH profile 3 estimated autos owned (owners)
+hh_type3_vmt_own,HH profile 3 estimated annual VMT (owners)
+hh_type3_transit_trips_own,HH profile 3 estimated annual transit trips (owners)
+hh_type3_ht_rent,HH profile 3 estimated housing+transportation costs % of income (renters)
+hh_type3_h_rent,HH profile 3 estimated housing costs % of income (renters)
+hh_type3_t_rent,HH profile 3 estimated transportation costs % of income (renters)
+hh_type3_autos_rent,HH profile 3 estimated autos owned (renters)
+hh_type3_vmt_rent,HH profile 3 estimated annual VMT (renters)
+hh_type3_transit_trips_rent,HH profile 3 estimated annual transit trips (renters)
+hh_type4_income,HH profile 4 income
+hh_type4_size,HH profile 4 size
+hh_type4_workers,HH profile 4 number of commuters
+hh_type4_ht,HH profile 4 estimated housing+transportation costs % of income
+hh_type4_h,HH profile 4 estimated housing costs % of income
+hh_type4_t,HH profile 4 estimated transportation costs % of income
+hh_type4_autos,HH profile 4 estimated autos owned
+hh_type4_vmt,HH profile 4 estimated annual VMT
+hh_type4_transit_trips,HH profile 4 estimated annual transit trips
+hh_type4_ht_own,HH profile 4 estimated housing+transportation costs % of income (owners)
+hh_type4_h_own,HH profile 4 estimated housing costs % of income (owners)
+hh_type4_t_own,HH profile 4 estimated transportation costs % income (owners)
+hh_type4_autos_own,HH profile 4 estimated autos owned (owners)
+hh_type4_vmt_own,HH profile 4 estimated annual VMT (owners)
+hh_type4_transit_trips_own,HH profile 4 estimated annual transit trips (owners)
+hh_type4_ht_rent,HH profile 4 estimated housing+transportation costs % of income (renters)
+hh_type4_h_rent,HH profile 4 estimated housing costs % of income (renters)
+hh_type4_t_rent,HH profile 4 estimated transportation costs % of income (renters)
+hh_type4_autos_rent,HH profile 4 estimated autos owned (renters)
+hh_type4_vmt_rent,HH profile 4 estimated annual VMT (renters)
+hh_type4_transit_trips_rent,HH profile 4 estimated annual transit trips (renters)
+hh_type5_income,HH profile 5 income
+hh_type5_size,HH profile 5 size
+hh_type5_workers,HH profile 5 number of commuters
+hh_type5_ht,HH profile 5 estimated housing+transportation costs % of income
+hh_type5_h,HH profile 5 estimated housing costs % of income
+hh_type5_t,HH profile 5 estimated transportation costs % of income
+hh_type5_autos,HH profile 5 estimated autos owned
+hh_type5_vmt,HH profile 5 estimated annual VMT
+hh_type5_transit_trips,HH profile 5 estimated annual transit trips
+hh_type5_ht_own,HH profile 5 estimated housing+transportation costs % of income (owners)
+hh_type5_h_own,HH profile 5 estimated housing costs % of income (owners)
+hh_type5_t_own,HH profile 5 estimated transportation costs % income (owners)
+hh_type5_autos_own,HH profile 5 estimated autos owned (owners)
+hh_type5_vmt_own,HH profile 5 estimated annual VMT (owners)
+hh_type5_transit_trips_own,HH profile 5 estimated annual transit trips (owners)
+hh_type5_ht_rent,HH profile 5 estimated housing+transportation costs % of income (renters)
+hh_type5_h_rent,HH profile 5 estimated housing costs % of income (renters)
+hh_type5_t_rent,HH profile 5 estimated transportation costs % of income (renters)
+hh_type5_autos_rent,HH profile 5 estimated autos owned (renters)
+hh_type5_vmt_rent,HH profile 5 estimated annual VMT (renters)
+hh_type5_transit_trips_rent,HH profile 5 estimated annual transit trips (renters)
+hh_type6_income,HH profile 6 income
+hh_type6_size,HH profile 6 size
+hh_type6_workers,HH profile 6 number of commuters
+hh_type6_ht,HH profile 6 estimated housing+transportation costs % of income
+hh_type6_h,HH profile 6 estimated housing costs % of income
+hh_type6_t,HH profile 6 estimated transportation costs % of income
+hh_type6_autos,HH profile 6 estimated autos owned
+hh_type6_vmt,HH profile 6 estimated annual VMT
+hh_type6_transit_trips,HH profile 6 estimated annual transit trips
+hh_type6_ht_own,HH profile 6 estimated housing+transportation costs % of income (owners)
+hh_type6_h_own,HH profile 6 estimated housing costs % of income (owners)
+hh_type6_t_own,HH profile 6 estimated transportation costs % income (owners)
+hh_type6_autos_own,HH profile 6 estimated autos owned (owners)
+hh_type6_vmt_own,HH profile 6 estimated annual VMT (owners)
+hh_type6_transit_trips_own,HH profile 6 estimated annual transit trips (owners)
+hh_type6_ht_rent,HH profile 6 estimated housing+transportation costs % of income (renters)
+hh_type6_h_rent,HH profile 6 estimated housing costs % of income (renters)
+hh_type6_t_rent,HH profile 6 estimated transportation costs % of income (renters)
+hh_type6_autos_rent,HH profile 6 estimated autos owned (renters)
+hh_type6_vmt_rent,HH profile 6 estimated annual VMT (renters)
+hh_type6_transit_trips_rent,HH profile 6 estimated annual transit trips (renters)
+hh_type7_income,HH profile 7 income
+hh_type7_size,HH profile 7 size
+hh_type7_workers,HH profile 7 number of commuters
+hh_type7_ht,HH profile 7 estimated housing+transportation costs % of income
+hh_type7_h,HH profile 7 estimated housing costs % of income
+hh_type7_t,HH profile 7 estimated transportation costs % of income
+hh_type7_autos,HH profile 7 estimated autos owned
+hh_type7_vmt,HH profile 7 estimated annual VMT
+hh_type7_transit_trips,HH profile 7 estimated annual transit trips
+hh_type7_ht_own,HH profile 7 estimated housing+transportation costs % of income (owners)
+hh_type7_h_own,HH profile 7 estimated housing costs % of income (owners)
+hh_type7_t_own,HH profile 7 estimated transportation costs % income (owners)
+hh_type7_autos_own,HH profile 7 estimated autos owned (owners)
+hh_type7_vmt_own,HH profile 7 estimated annual VMT (owners)
+hh_type7_transit_trips_own,HH profile 7 estimated annual transit trips (owners)
+hh_type7_ht_rent,HH profile 7 estimated housing+transportation costs % of income (renters)
+hh_type7_h_rent,HH profile 7 estimated housing costs % of income (renters)
+hh_type7_t_rent,HH profile 7 estimated transportation costs % of income (renters)
+hh_type7_autos_rent,HH profile 7 estimated autos owned (renters)
+hh_type7_vmt_rent,HH profile 7 estimated annual VMT (renters)
+hh_type7_transit_trips_rent,HH profile 7 estimated annual transit trips (renters)
+hh_type8_income,HH profile 8 income
+hh_type8_size,HH profile 8 size
+hh_type8_workers,HH profile 8 number of commuters
+hh_type8_ht,HH profile 8 estimated housing+transportation costs % of income
+hh_type8_h,HH profile 8 estimated housing costs % of income
+hh_type8_t,HH profile 8 estimated transportation costs % of income
+hh_type8_autos,HH profile 8 estimated autos owned
+hh_type8_vmt,HH profile 8 estimated annual VMT
+hh_type8_transit_trips,HH profile 8 estimated annual transit trips
+hh_type8_ht_own,HH profile 8 estimated housing+transportation costs % of income (owners)
+hh_type8_h_own,HH profile 8 estimated housing costs % of income (owners)
+hh_type8_t_own,HH profile 8 estimated transportation costs % income (owners)
+hh_type8_autos_own,HH profile 8 estimated autos owned (owners)
+hh_type8_vmt_own,HH profile 8 estimated annual VMT (owners)
+hh_type8_transit_trips_own,HH profile 8 estimated annual transit trips (owners)
+hh_type8_ht_rent,HH profile 8 estimated housing+transportation costs % of income (renters)
+hh_type8_h_rent,HH profile 8 estimated housing costs % of income (renters)
+hh_type8_t_rent,HH profile 8 estimated transportation costs % of income (renters)
+hh_type8_autos_rent,HH profile 8 estimated autos owned (renters)
+hh_type8_vmt_rent,HH profile 8 estimated annual VMT (renters)
+hh_type8_transit_trips_rent,HH profile 8 estimated annual transit trips (renters)

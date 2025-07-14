@@ -1,0 +1,20 @@
+Variable,Description
+UNITID,Unique identification number of the institution
+UGPO9_N,Number receiving Post-9/11 GI Bill Benefits - undergraduate students
+UGPO9_T,Total amount of Post-9/11 GI Bill Benefits awarded - undergraduate students
+UGPO9_A,Average amount of Post-9/11 GI Bill Benefits awarded - undergraduate students
+GPO9_N,Number receiving Post-9/11 GI Bill Benefits - graduate students
+GPO9_T,Total amount of Post-9/11 GI Bill Benefits awarded - graduate students
+GPO9_A,Average amount of Post-9/11 GI Bill Benefits awarded - graduate students
+PO9_N,Number receiving Post-9/11 GI Bill Benefits - all students
+PO9_T,Total amount of Post-9/11 GI Bill Benefits awarded - all students
+PO9_A,Average amount of Post-9/11 GI Bill Benefits awarded - all students
+UGDOD_N,Number receiving Department of Defense Tuition Assistance Program benefits - undergraduate students
+UGDOD_T,Total amount of Department of Defense Tuition Assistance Program benefits  awarded - undergraduate students
+UGDOD_A,Average amount of Department of Defense Tuition Assistance Program benefits awarded- undergraduate students
+GDOD_N,Number receiving Department of Defense Tuition Assistance Program benefits - graduate students
+GDOD_T,Total amount of Department of Defense Tuition Assistance Program benefits awarded - graduate students
+GDOD_A,Average amount of Department of Defense Tuition Assistance Program benefits awarded - graduate students
+DOD_N,Number receiving Department of Defense Tuition Assistance Program benefits - all students
+DOD_T,Total amount of Department of Defense Tuition Assistance Program benefits awarded - all students
+DOD_A,Average amount of Department of Defense Tuition Assistance Program benefits awarded - all students

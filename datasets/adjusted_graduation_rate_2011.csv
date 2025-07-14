@@ -1,0 +1,28 @@
+﻿Variable,Description
+STNAM,State Name
+FIPST,The two digit American National Standards Institute (ANSI) code for the state
+LEAID,Local Education Agency (district) NCES ID
+LEANM,Local Education Agency (district) Name
+NCESSCH,12 digit School NCES ID
+SCHNAM,School Name
+ALL_COHORT_1112,Total number of students in the graduation cohort
+ALL_RATE_1112,Percentage (or range of percentage) of students in the cohort graduating with a high school diploma within 4 years
+MAM_ COHORT_1112,Number of Native American students in the graduation cohort
+MAM_ RATE_1112,Percentage (or range of percentage) of Native American students in the cohort graduating with a high school diploma within 4 years
+MAS_ COHORT_1112,Number of Asian/Pacific Islander students in the graduation cohort
+MAS_ RATE_1112,Percentage (or range of percentage) of Asian/Pacific Islander students in the cohort graduating with a high school diploma within 4 years
+MBL_ COHORT_1112,Number of Black students in the graduation cohort
+MBL_ RATE_1112,Percentage (or range of percentage) of Black students in the cohort graduating with a high school diploma within 4 years
+MHI_ COHORT_1112,Number of Hispanic students in the graduation cohort
+MHI_ RATE_1112,Percentage(or range of percentage)  of Hispanic students in the cohort graduating with a high school diploma within 4 years
+MTR_ COHORT_1112,Number of students with Two or More Races in the graduation cohort
+MTR_ RATE_1112,Percentage (or range of percentage) of students with Two or More Races in the cohort graduating with a high school diploma within 4 years
+MWH_ COHORT_1112,Number of White students in the graduation cohort
+MWH_ RATE_1112,Percentage (or range of percentage) of White students in the cohort graduating with a high school diploma within 4 years
+CWD_ COHORT_1112,Number of children with disabilities in the graduation cohort
+CWD_ RATE_1112,Percentage (or range of percentage) of children with disabilities in the cohort graduating with a high school diploma within 4 years
+ECD_ COHORT_1112,Number of economically disadvantaged students in the graduation cohort
+ECD_ RATE_1112,Percentage (or range of percentage) of economically disadvantaged students in the cohort graduating with a high school diploma within 4 years
+LEP_ COHORT_1112,Number of limited English proficient students in the graduation cohort
+LEP_ RATE_1112,Percentage (or range of percentage) of limited English proficient students in the cohort graduating with a high school diploma within 4 years
+DATE_CUR,The date that the data are current as of.

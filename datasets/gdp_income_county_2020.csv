@@ -1,0 +1,35 @@
+Variable,Description
+Year,FIPS Year
+GeoFIPS,US County Geoids
+GeoName,US County Geoids Description
+Employer_contrib_pension_and_insurance,Thousands of dollars;Includes actual employer contributions and actuarially imputed employer contributions to reflect benefits accrued by defined benefit pension plan participants through service to employers in the current period.
+Employer_contrib_govt_and_social_insurance,Thousands of dollars
+Farm_proprietors_income,Thousands of dollars
+Nonfarm_proprietors_income,Thousands of dollars
+Farm_proprietors_employment,Number of jobs; Excludes limited partners.
+Income_maintenance_benefits,"Thousands of dollars; Consists largely of Supplemental Security Income (SSI) payments; Earned Income Tax Credits (EITC); family assistance; general assistance; expenditures for food under the Special Supplemental Nutrition Program for Women, Infants, and Children (WIC); Supplemental Nutrition Assistance Program (SNAP); and other assistance benefits."
+Nonfarm_proprietors_employment,Number of jobs
+Percapita_income_maintenance_benefits,Dollars; Type of income divided by population yields a per capita measure for that type of income.
+Percapita_retirement_and_other,Dollars; Type of income divided by population yields a per capita measure for that type of income.
+Percapita_unemployment_insurance_compensation,Dollars; Type of income divided by population yields a per capita measure for that type of income.
+Proprietors_income,Thousands of dollars
+Retirement_and_other,Thousands of dollars
+Wages_and_salaries_supplement,Thousands of dollars
+Unemployment_insurance,Thousands of dollars
+Wages_and_salaries,Thousands of dollars
+Nonfarm_proprietors_income_avg,Dollars
+Wages_and_salaries_avg,Dollars
+Dividends_interest_rent,Thousands of dollars; Rental income of persons includes the capital consumption adjustment.
+Earnings_by_place_of_work,Thousands of dollars
+Net_earnings_by_place_of_residence,Thousands of dollars
+Percapita_dividends_interest_rent,Dollars; Type of income divided by population yields a per capita measure for that type of income.
+Percapita_net_earnings,Dollars; Type of income divided by population yields a per capita measure for that type of income.
+Percapita_personal_current_transfer_receipts,Dollars; Type of income divided by population yields a per capita measure for that type of income.
+Percapita_personal_income,Dollars; Type of income divided by population yields a per capita measure for that type of income.
+Personal_current_transfer_receipts,Thousands of dollars
+Population,Number of persons; Census Bureau midyear population estimates. Estimates for 2010-2018 reflect county population estimates available as of March 2019.
+Proprietors_employment,Number of jobs
+Wage_and_salary_employment,Number of jobs
+Earnings_per_job_avg,Dollars
+Personal_income,Thousands of dollars
+Total_employment,Number of jobs

@@ -1,0 +1,333 @@
+Variable,Description
+UNITID,Unique identification number of the institution
+SCUGRAD,Total number of undergraduates - financial aid cohort
+SCUGDGSK,Total number of degree/certificate-seeking undergraduate students
+SCUGNDGS,Total number of non-degee/non-certificate seeking undergraduate students
+SCUGFFN,Total number of full-time first-time degree/certificate seeking undergraduates - financial aid cohort
+SCUGFFP,Full-time first-time degree/certificate seeking undergraduates as a percent of all undergraduates - financial aid cohort
+SCFA2,Total number of undergraduates - fall cohort
+SCFA2DG,Total number of degree/certificate-seeking undergraduates - fall cohort
+SCFA2ND,Total number of non-degee/non-certificate seeking undergraduates - fall cohort
+SCFA1N,Number of students in fall cohort
+SCFA1P,Students in fall cohort as a percentage of all undergraduates
+SCFA11N,Number of students in fall cohort who are paying in-district tuition rates
+SCFA11P,Percentage of students in fall cohort who are paying in-district tuition rates
+SCFA12N,Number of students in fall cohort who are paying in-state tuititon rates
+SCFA12P,Percentage of students in fall cohort who paying in-state tuition rates
+SCFA13N,Number of students in fall cohort who are paying out-of-state tuition rates
+SCFA13P,Percentage of students in fall cohort who are paying out-of-state tuition rates
+SCFA14N,Number of students in fall cohort whose residence/tuition rate is unknown
+SCFA14P,Percentage of students in fall cohort whose residence/ tuition rate is unknown
+SCFY2,Total number of undergraduates - full-year cohort
+SCFY2DG,Total number of degree/certificate-seeking undergraduates - full-year cohort
+SCFY2ND,Total number of non-degee/non-certificate seeking undergraduates - full-year cohort
+SCFY1N,Number of students in full-year cohort
+SCFY1P,Students in full-year cohort as a percentage of all  undergraduates
+UAGRNTN,"Number of undergraduate students awarded federal, state, local, institutional or other sources of grant aid"
+UAGRNTP,"Percent of undergraduate students awarded federal, state, local, institutional or other sources of grant aid"
+UAGRNTT,"Total amount of federal, state, local, institutional or other sources of grant aid awarded to undergraduate students"
+UAGRNTA,"Average amount of federal, state, local, institutional or other sources of grant aid awarded to undergraduate students"
+UDGAGRNTN,"Number of degree/certificate-seeking undergraduate students awarded federal, state, local, institutional or other sources of grant aid"
+UDGAGRNTP,"Percent of degree/certificate-seeking undergraduate students awarded federal, state, local, institutional or other sources of grant aid"
+UDGAGRNTT,"Total amount of federal, state, local, institutional or other sources of grant aid awarded to degree/certificate-seeking undergraduate students"
+UDGAGRNTA,"Average amount of federal, state, local, institutional or other sources of grant aid awarded to degree/certificate-seeking undergraduate students"
+UNDAGRNTN,"Number of non-degree/non-certificate-seeking undergraduate students awarded federal, state, local, institutional or other sources of grant aid"
+UNDAGRNTP,"Percent of non-degree/non-certificate-seeking undergraduate students awarded federal, state, local, institutional or other sources of grant aid"
+UNDAGRNTT,"Total amount of federal, state, local, institutional or other sources of grant aid awarded to non-degree/non-certificate-seeking undergraduates"
+UNDAGRNTA,"Average amount of federal, state, local, institutional or other sources of grant aid awarded to non-degree/non-certificate-seeking undergraduates"
+UPGRNTN,Number of undergraduate students awarded Pell grants
+UPGRNTP,Percent of undergraduate students awarded Pell grants
+UPGRNTT,Total amount of Pell grant aid awarded to undergraduate students
+UPGRNTA,Average amount Pell grant aid awarded to undergraduate students
+UDGPGRNTP,Percent of degree/certificate-seeking undergraduate students awarded Federal Pell Grants
+UFLOANN,Number of undergraduate students awarded federal student loans
+UFLOANP,Percent of undergraduate students awarded federal student loans
+UFLOANT,Total amount of federal student loans awarded to undergraduate students
+UFLOANA,Average amount of federal student loans awarded to undergraduate students
+UDGFLOANP,Percent of degree/certificate-seeking undergraduate students awarded federal student loans
+ANYAIDN,Number of full-time first-time undergraduates awarded any financial aid
+ANYAIDP,Percent of full-time first-time undergraduates awarded any financial aid
+AIDFSIN,Number of full-time first-time undergraduates awarded any loans to students or grant aid  from federal state/local government or the institution
+AIDFSIP,Percent of full-time first-time undergraduates awarded any loans to students or grant aid  from federal state/local government or the institution
+AGRNT_N,"Number of full-time first-time undergraduates awarded federal, state, local or institutional grant aid"
+AGRNT_P,"Percent of full-time first-time undergraduates awarded federal, state, local or institutional grant aid"
+AGRNT_T,"Total amount of federal, state, local or institutional grant aid awarded to full-time first-time undergraduates"
+AGRNT_A,"Average amount of federal, state, local or institutional grant aid awarded"
+FGRNT_N,Number of full-time first-time undergraduates awarded federal grant aid
+FGRNT_P,Percent of full-time first-time undergraduates awarded federal grant aid
+FGRNT_T,Total amount of federal grant aid awarded to full-time first-time undergraduates
+FGRNT_A,Average amount of federal grant aid awarded to full-time first-time undergraduates
+PGRNT_N,Number of full-time first-time undergraduates awarded Pell grants
+PGRNT_P,Percent of full-time first-time undergraduates awarded Pell grants
+PGRNT_T,Total amount of Pell grant aid awarded to full-time first-time undergraduates
+PGRNT_A,Average amount of Pell grant aid awarded to full-time first-time undergraduates
+OFGRT_N,Number of full-time first-time undergraduates awarded other federal grant aid
+OFGRT_P,Percent of full-time first-time undergraduates awarded other federal grant aid
+OFGRT_T,Total amount of other federal grant aid awarded to full-time first-time undergraduates
+OFGRT_A,Average amount of other federal grant aid awarded to full-time first-time undergraduates
+SGRNT_N,Number of full-time first-time undergraduates awarded state/local grant aid
+SGRNT_P,Percent of full-time first-time undergraduates awarded state/local grant aid
+SGRNT_T,Total amount of state/local grant aid awarded to full-time first-time undergraduates
+SGRNT_A,Average amount of state/local grant aid awarded to full-time first-time undergraduates
+IGRNT_N,Number of full-time first-time undergraduates awarded  institutional grant aid
+IGRNT_P,Percent of full-time first-time undergraduates awarded institutional grant aid
+IGRNT_T,Total amount of institutional grant aid awarded to full-time first-time undergraduates
+IGRNT_A,Average amount of institutional grant aid awarded to full-time first-time undergraduates
+LOAN_N,Number of full-time first-time undergraduates awarded student loans
+LOAN_P,Percent of full-time first-time undergraduates awarded student loans
+LOAN_T,Total amount of student loans awarded to full-time first-time undergraduates
+LOAN_A,Average amount of student loans awarded to full-time first-time undergraduates
+FLOAN_N,Number of full-time first-time undergraduates awarded federal student loans
+FLOAN_P,Percent of full-time first-time undergraduates awarded federal student loans
+FLOAN_T,Total amount of federal student loans awarded to full-time first-time undergraduates
+FLOAN_A,Average amount of federal student loans awarded to full-time first-time undergraduates
+OLOAN_N,Number of full-time first-time undergraduates awarded other student loans
+OLOAN_P,Percent of full-time first-time undergraduates awarded other student loans
+OLOAN_T,Total amount of other student loans awarded to full-time first-time undergraduates
+OLOAN_A,Average amount of other student loans awarded to full-time first-time undergraduates
+GISTN2,"Total number, 2021-22"
+GISTON2,"Number living on-campus, 2021-22"
+GISTWF2,"Number living off-campus with family, 2021-22"
+GISTOF2,"Number living off-campus not with family, 2021-22"
+GISTUN2,"Number living arrangement unknown, 2021-22"
+GISTT2,"Total amount of grant and scholarship aid awarded, 2021-22"
+GISTA2,"Average amount of grant and scholarship aid awarded, 2021-22"
+GISTN1,"Total number, 2020-21"
+GISTON1,"Number living on-campus, 2020-21"
+GISTWF1,"Number living off-campus with family, 2020-21"
+GISTOF1,"Number living off-campus not with family, 2020-21"
+GISTUN1,"Number living arrangement unknown, 2020-21"
+GISTT1,"Total amount of grant and scholarship aid awarded, 2020-21"
+GISTA1,"Average amount of grant and scholarship aid awarded, 2020-21"
+GISTN0,"Total number, 2019-20"
+GISTON0,"Number living on-campus, 2019-20"
+GISTWF0,"Number living off-campus with family, 2019-20"
+GISTOF0,"Number living off-campus not with family, 2019-20"
+GISTUN0,"Number living arrangement unknown, 2019-20"
+GISTT0,"Total amount of grant and scholarship aid awarded, 2019-20"
+GISTA0,"Average amount of grant and scholarship aid awarded, 2019-20"
+GIS4N2,"Total number in all income levels, 2021-22"
+GIS4ON2,"Number living on-campus in all income levels, 2021-22"
+GIS4WF2,"Number living off-campus with family in all income levels, 2021-22"
+GIS4OF2,"Number living off-campus not with family in all income levels, 2021-22"
+GIS4UN2,"Number living arrangement unknown in all income levels, 2021-22"
+GIS4G2,"Number awarded grant and scholarship aid, all income levels, 2021-22"
+GIS4T2,"Total amount of grant and scholarship aid awarded, all income levels, 2021-22"
+GIS4A2,"Average amount of grant and scholarship aid awarded, all income levels, 2021-22"
+GIS4N12,"Number in income level (0-30,000), 2021-22"
+GIS4G12,"Number awarded grant and scholarship aid, income level (0-30,000), 2021-22"
+GIS4T12,"Total amount of grant and scholarship aid awarded, income level (0-30,000), 2021-22"
+GIS4A12,"Average amount of grant and scholarship aid awarded, income level (0-30,000), 2021-22"
+GIS4N22,"Number in income level (30,001-48,000), 2021-22"
+GIS4G22,"Number awarded grant and scholarship aid, income level (30,001-48,000), 2021-22"
+GIS4T22,"Total amount of grant and scholarship aid awarded, income level (30,001-48,000), 2021-22"
+GIS4A22,"Average amount of grant and scholarship aid awarded, income level (30,001-48,000), 2021-22"
+GIS4N32,"Number in income level (48,001-75,000), 2021-22"
+GIS4G32,"Number awarded grant and scholarship aid, income level (48,001-75,000), 2021-22"
+GIS4T32,"Total amount of grant and scholarship aid awarded, income level (48,001-75,000), 2021-22"
+GIS4A32,"Average amount of grant and scholarship aid awarded, income level (48,001-75,000), 2021-22"
+GIS4N42,"Number in income level (75,001-110,000), 2021-22"
+GIS4G42,"Number awarded grant and scholarship aid, income level (75,001-110,000), 2021-22"
+GIS4T42,"Total amount of grant and scholarship aid awarded, income level (75,001-110,000), 2021-22"
+GIS4A42,"Average amount of grant and scholarship aid awarded, income level (75,001-110,000), 2021-22"
+GIS4N52,"Number in income level (110,001 or more), 2021-22"
+GIS4G52,"Number awarded grant and scholarship aid, income level (110,001 or more), 2021-22"
+GIS4T52,"Total amount of grant and scholarship aid awarded, income level (110,001 or more), 2021-22"
+GIS4A52,"Average amount of grant and scholarship aid awarded, income level (110,001 or more), 2021-22"
+GIS4N1,"Total number in all income levels, 2020-21"
+GIS4ON1,"Number living on-campus in all income levels, 2020-21"
+GIS4WF1,"Number living off-campus with family in all income levels, 2020-21"
+GIS4OF1,"Number living off-campus not with family in all income levels, 2020-21"
+GIS4UN1,"Number living arrangement unknown in all income levels, 2020-21"
+GIS4G1,"Number awarded grant and scholarship aid, all income levels, 2020-21"
+GIS4T1,"Total amount of grant and scholarship aid awarded, all income levels, 2020-21"
+GIS4A1,"Average amount of grant and scholarship aid awarded, all income levels, 2020-21"
+GIS4N11,"Number in income level (0-30,000), 2020-21"
+GIS4G11,"Number awarded grant and scholarship aid, income level (0-30,000), 2020-21"
+GIS4T11,"Total amount of grant and scholarship aid awarded, income level (0-30,000), 2020-21"
+GIS4A11,"Average amount of grant and scholarship aid awarded, income level (0-30,000), 2020-21"
+GIS4N21,"Number in income level (30,001-48,000), 2020-21"
+GIS4G21,"Number awarded grant and scholarship aid, income level (30,001-48,000), 2020-21"
+GIS4T21,"Total amount of grant and scholarship aid awarded, income level (30,001-48,000), 2020-21"
+GIS4A21,"Average amount of grant and scholarship aid awarded, income level (30,001-48,000), 2020-21"
+GIS4N31,"Number in income level (48,001-75,000), 2020-21"
+GIS4G31,"Number awarded grant and scholarship aid, income level (48,001-75,000), 2020-21"
+GIS4T31,"Total amount of grant and scholarship aid awarded, income level (48,001-75,000), 2020-21"
+GIS4A31,"Average amount of grant and scholarship aid awarded, income level (48,001-75,000), 2020-21"
+GIS4N41,"Number in income level (75,001-110,000), 2020-21"
+GIS4G41,"Number awarded grant and scholarship aid, income level (75,001-110,000), 2020-21"
+GIS4T41,"Total amount of grant and scholarship aid awarded, income level (75,001-110,000), 2020-21"
+GIS4A41,"Average amount of grant and scholarship aid awarded, income level (75,001-110,000), 2020-21"
+GIS4N51,"Number in income level (110,001 or more), 2020-21"
+GIS4G51,"Number awarded grant and scholarship aid, income level (110,001 or more), 2020-21"
+GIS4T51,"Total amount of grant and scholarship aid awarded, income level (110,001 or more), 2020-21"
+GIS4A51,"Average amount of grant and scholarship aid awarded, income level (110,001 or more), 2020-21"
+GIS4N0,"Total number in all income levels, 2019-20"
+GIS4ON0,"Number living on-campus in all income levels, 2019-20"
+GIS4WF0,"Number living off-campus with family in all income levels, 2019-20"
+GIS4OF0,"Number living off-campus not with family in all income levels, 2019-20"
+GIS4UN0,"Number living arrangement unknown in all income levels, 2019-20"
+GIS4G0,"Number awarded grant and scholarship aid, all income levels, 2019-20"
+GIS4T0,"Total amount of grant and scholarship aid awarded, all income levels, 2019-20"
+GIS4A0,"Average amount of grant and scholarship aid awarded, all income levels, 2019-20"
+GIS4N10,"Number in income level (0-30,000), 2019-20"
+GIS4G10,"Number awarded grant and scholarship aid, income level (0-30,000), 2019-20"
+GIS4T10,"Total amount of grant and scholarship aid awarded, income level (0-30,000), 2019-20"
+GIS4A10,"Average amount of grant and scholarship aid awarded, income level (0-30,000), 2019-20"
+GIS4N20,"Number in income level (30,001-48,000), 2019-20"
+GIS4G20,"Number awarded grant and scholarship aid, income level (30,001-48,000), 2019-20"
+GIS4T20,"Total amount of grant and scholarship aid awarded, income level (30,001-48,000), 2019-20"
+GIS4A20,"Average amount of grant and scholarship aid awarded, income level (30,001-48,000), 2019-20"
+GIS4N30,"Number in income level (48,001-75,000), 2019-20"
+GIS4G30,"Number awarded grant and scholarship aid, income level (48,001-75,000), 2019-20"
+GIS4T30,"Total amount of grant and scholarship aid awarded, income level (48,001-75,000), 2019-20"
+GIS4A30,"Average amount of grant and scholarship aid awarded, income level (48,001-75,000), 2019-20"
+GIS4N40,"Number in income level (75,001-110,000), 2019-20"
+GIS4G40,"Number awarded grant and scholarship aid, income level (75,001-110,000), 2019-20"
+GIS4T40,"Total amount of grant and scholarship aid awarded, income level (75,001-110,000), 2019-20"
+GIS4A40,"Average amount of grant and scholarship aid awarded, income level (75,001-110,000), 2019-20"
+GIS4N50,"Number in income level (110,001 or more), 2019-20"
+GIS4G50,"Number awarded grant and scholarship aid, income level (110,001 or more), 2019-20"
+GIS4T50,"Total amount of grant and scholarship aid awarded, income level (110,001 or more), 2019-20"
+GIS4A50,"Average amount of grant and scholarship aid awarded, income level (110,001 or more), 2019-20"
+NPIST2,"Average net price-students awarded grant or scholarship aid, 2021-22"
+NPIST1,"Average net price-students awarded grant or scholarship aid, 2020-21"
+NPIST0,"Average net price-students awarded grant or scholarship aid, 2019-20"
+NPIS412,"Average net price (income 0-30,000)-students awarded Title IV federal financial aid, 2021-22"
+NPIS422,"Average net price (income 30,001-48,000)-students awarded Title IV federal financial aid, 2021-22"
+NPIS432,"Average net price (income 48,001-75,000)-students awarded Title IV federal financial aid, 2021-22"
+NPIS442,"Average net price (income 75,001-110,000)-students awarded Title IV federal financial aid, 2021-22"
+NPIS452,"Average net price (income over 110,000)-students awarded Title IV federal financial aid, 2021-22"
+NPIS411,"Average net price (income 0-30,000)-students awarded Title IV federal financial aid, 2020-21"
+NPIS421,"Average net price (income 30,001-48,000)-students awarded Title IV federal financial aid, 2020-21"
+NPIS431,"Average net price (income 48,001-75,000)-students awarded Title IV federal financial aid, 2020-21"
+NPIS441,"Average net price (income 75,001-110,000)-students awarded Title IV federal financial aid, 2020-21"
+NPIS451,"Average net price (income over 110,000)-students awarded Title IV federal financial aid, 2020-21"
+NPIS410,"Average net price (income 0-30,000)-students awarded Title IV federal financial aid, 2019-20"
+NPIS420,"Average net price (income 30,001-48,000)-students awarded Title IV federal financial aid, 2019-20"
+NPIS430,"Average net price (income 48,001-75,000)-students awarded Title IV federal financial aid, 2019-20"
+NPIS440,"Average net price (income 75,001-110,000)-students awarded Title IV federal financial aid, 2019-20"
+NPIS450,"Average net price (income over 110,000)-students awarded Title IV federal financial aid, 2019-20"
+GRNTN2,"Total number, 2021-22"
+GRNTON2,"Number living on-campus, 2021-22"
+GRNTWF2,"Number living off-campus with family, 2021-22"
+GRNTOF2,"Number living off-campus not with family, 2021-22"
+GRNTUN2,"Number living arrangement unknown, 2021-22"
+GRNTT2,"Total amount of grant and scholarship aid awarded, 2021-22"
+GRNTA2,"Average amount of grant and scholarship aid awarded, 2021-22"
+GRNTN1,"Total number, 2020-21"
+GRNTON1,"Number living on-campus, 2020-21"
+GRNTWF1,"Number living off-campus with family, 2020-21"
+GRNTOF1,"Number living off-campus not with family, 2020-21"
+GRNTUN1,"Number living arrangement unknown, 2020-21"
+GRNTT1,"Total amount of grant and scholarship aid awarded, 2020-21"
+GRNTA1,"Average amount of grant and scholarship aid awarded, 2020-21"
+GRNTN0,"Total number, 2019-20"
+GRNTON0,"Number living on-campus, 2019-20"
+GRNTWF0,"Number living off-campus with family, 2019-20"
+GRNTOF0,"Number living off-campus not with family, 2019-20"
+GRNTUN0,"Number living arrangement unknown, 2019-20"
+GRNTT0,"Total amount of grant and scholarship aid awarded, 2019-20"
+GRNTA0,"Average amount of grant and scholarship aid awarded, 2019-20"
+GRN4N2,"Total number in all income levels, 2021-22"
+GRN4ON2,"Number living on-campus in all income levels, 2021-22"
+GRN4WF2,"Number living off-campus with family in all income levels, 2021-22"
+GRN4OF2,"Number living off-campus not with family in all income levels, 2021-22"
+GRN4UN2,"Number living arrangement unknown in all income levels, 2021-22"
+GRN4G2,"Number awarded grant and scholarship aid, all income levels, 2021-22"
+GRN4T2,"Total amount of grant and scholarship aid awarded, all income levels, 2021-22"
+GRN4A2,"Average amount of grant and scholarship aid awarded, all income levels, 2021-22"
+GRN4N12,"Number in income level (0-30,000), 2021-22"
+GRN4G12,"Number awarded grant and scholarship aid, income level (0-30,000), 2021-22"
+GRN4T12,"Total amount of grant and scholarship aid awarded, income level (0-30,000), 2021-22"
+GRN4A12,"Average amount of grant and scholarship aid awarded, income level (0-30,000), 2021-22"
+GRN4N22,"Number in income level (30,001-48,000), 2021-22"
+GRN4G22,"Number awarded grant and scholarship aid, income level (30,001-48,000), 2021-22"
+GRN4T22,"Total amount of grant and scholarship aid awarded, income level (30,001-48,000), 2021-22"
+GRN4A22,"Average amount of grant and scholarship aid awarded, income level (30,001-48,000), 2021-22"
+GRN4N32,"Number in income level (48,001-75,000), 2021-22"
+GRN4G32,"Number awarded grant and scholarship aid, income level (48,001-75,000), 2021-22"
+GRN4T32,"Total amount of grant and scholarship aid awarded, income level (48,001-75,000), 2021-22"
+GRN4A32,"Average amount of grant and scholarship aid awarded, income level (48,001-75,000), 2021-22"
+GRN4N42,"Number in income level (75,001-110,000), 2021-22"
+GRN4G42,"Number awarded grant and scholarship aid, income level (75,001-110,000), 2021-22"
+GRN4T42,"Total amount of grant and scholarship aid awarded, income level (75,001-110,000), 2021-22"
+GRN4A42,"Average amount of grant and scholarship aid awarded, income level (75,001-110,000), 2021-22"
+GRN4N52,"Number in income level (110,001 or more), 2021-22"
+GRN4G52,"Number awarded grant and scholarship aid, income level (110,001 or more), 2021-22"
+GRN4T52,"Total amount of grant and scholarship aid awarded, income level (110,001 or more), 2021-22"
+GRN4A52,"Average amount of grant and scholarship aid awarded, income level (110,001 or more), 2021-22"
+GRN4N1,"Total number in all income levels, 2020-21"
+GRN4ON1,"Number living on-campus in all income levels, 2020-21"
+GRN4WF1,"Number living off-campus with family in all income levels, 2020-21"
+GRN4OF1,"Number living off-campus not with family in all income levels, 2020-21"
+GRN4UN1,"Number living arrangement unknown in all income levels, 2020-21"
+GRN4G1,"Number awarded grant and scholarship aid, all income levels, 2020-21"
+GRN4T1,"Total amount of grant and scholarship aid awarded, all income levels, 2020-21"
+GRN4A1,"Average amount of grant and scholarship aid awarded, all income levels, 2020-21"
+GRN4N11,"Number in income level (0-30,000), 2020-21"
+GRN4G11,"Number awarded grant and scholarship aid, income level (0-30,000), 2020-21"
+GRN4T11,"Total amount of grant and scholarship aid awarded, income level (0-30,000), 2020-21"
+GRN4A11,"Average amount of grant and scholarship aid awarded, income level (0-30,000), 2020-21"
+GRN4N21,"Number in income level (30,001-48,000), 2020-21"
+GRN4G21,"Number awarded grant and scholarship aid, income level (30,001-48,000), 2020-21"
+GRN4T21,"Total amount of grant and scholarship aid awarded, income level (30,001-48,000), 2020-21"
+GRN4A21,"Average amount of grant and scholarship aid awarded, income level (30,001-48,000), 2020-21"
+GRN4N31,"Number in income level (48,001-75,000), 2020-21"
+GRN4G31,"Number awarded grant and scholarship aid, income level (48,001-75,000), 2020-21"
+GRN4T31,"Total amount of grant and scholarship aid awarded, income level (48,001-75,000), 2020-21"
+GRN4A31,"Average amount of grant and scholarship aid awarded, income level (48,001-75,000), 2020-21"
+GRN4N41,"Number in income level (75,001-110,000), 2020-21"
+GRN4G41,"Number awarded grant and scholarship aid, income level (75,001-110,000), 2020-21"
+GRN4T41,"Total amount of grant and scholarship aid awarded, income level (75,001-110,000), 2020-21"
+GRN4A41,"Average amount of grant and scholarship aid awarded, income level (75,001-110,000), 2020-21"
+GRN4N51,"Number in income level (110,001 or more), 2020-21"
+GRN4G51,"Number awarded grant and scholarship aid, income level (110,001 or more), 2020-21"
+GRN4T51,"Total amount of grant and scholarship aid awarded, income level (110,001 or more), 2020-21"
+GRN4A51,"Average amount of grant and scholarship aid awarded, income level (110,001 or more), 2020-21"
+GRN4N0,"Total number in all income levels, 2019-20"
+GRN4ON0,"Number living on-campus in all income levels, 2019-20"
+GRN4WF0,"Number living off-campus with family in all income levels, 2019-20"
+GRN4OF0,"Number living off-campus not with family in all income levels, 2019-20"
+GRN4UN0,"Number living arrangement unknown in all income levels, 2019-20"
+GRN4G0,"Number awarded grant and scholarship aid, all income levels, 2019-20"
+GRN4T0,"Total amount of grant and scholarship aid awarded, all income levels, 2019-20"
+GRN4A0,"Average amount of grant and scholarship aid awarded, all income levels, 2019-20"
+GRN4N10,"Number in income level (0-30,000), 2019-20"
+GRN4G10,"Number awarded grant and scholarship aid, income level (0-30,000), 2019-20"
+GRN4T10,"Total amount of grant and scholarship aid awarded, income level (0-30,000), 2019-20"
+GRN4A10,"Average amount of grant and scholarship aid awarded, income level (0-30,000), 2019-20"
+GRN4N20,"Number in income level (30,001-48,000), 2019-20"
+GRN4G20,"Number awarded grant and scholarship aid, income level (30,001-48,000), 2019-20"
+GRN4T20,"Total amount of grant and scholarship aid awarded, income level (30,001-48,000), 2019-20"
+GRN4A20,"Average amount of grant and scholarship aid awarded, income level (30,001-48,000), 2019-20"
+GRN4N30,"Number in income level (48,001-75,000), 2019-20"
+GRN4G30,"Number awarded grant and scholarship aid, income level (48,001-75,000), 2019-20"
+GRN4T30,"Total amount of grant and scholarship aid awarded, income level (48,001-75,000), 2019-20"
+GRN4A30,"Average amount of grant and scholarship aid awarded, income level (48,001-75,000), 2019-20"
+GRN4N40,"Number in income level (75,001-110,000), 2019-20"
+GRN4G40,"Number awarded grant and scholarship aid, income level (75,001-110,000), 2019-20"
+GRN4T40,"Total amount of grant and scholarship aid awarded, income level (75,001-110,000), 2019-20"
+GRN4A40,"Average amount of grant and scholarship aid awarded, income level (75,001-110,000), 2019-20"
+GRN4N50,"Number in income level (110,001 or more), 2019-20"
+GRN4G50,"Number awarded grant and scholarship aid, income level (110,001 or more), 2019-20"
+GRN4T50,"Total amount of grant and scholarship aid awarded, income level (110,001 or more), 2019-20"
+GRN4A50,"Average amount of grant and scholarship aid awarded, income level (110,001 or more), 2019-20"
+NPGRN2,"Average net price-students awarded grant or scholarship aid, 2021-22"
+NPGRN1,"Average net price-students awarded grant or scholarship aid, 2020-21"
+NPGRN0,"Average net price-students awarded grant or scholarship aid, 2019-20"
+NPT412,"Average net price (income 0-30,000)-students awarded Title IV federal financial aid, 2021-22"
+NPT422,"Average net price (income 30,001-48,000)-students awarded Title IV federal financial aid, 2021-22"
+NPT432,"Average net price (income 48,001-75,000)-students awarded Title IV federal financial aid, 2021-22"
+NPT442,"Average net price (income 75,001-110,000)-students awarded Title IV federal financial aid, 2021-22"
+NPT452,"Average net price (income over 110,000)-students awarded Title IV federal financial aid, 2021-22"
+NPT411,"Average net price (income 0-30,000)-students awarded Title IV federal financial aid, 2020-21"
+NPT421,"Average net price (income 30,001-48,000)-students awarded Title IV federal financial aid, 2020-21"
+NPT431,"Average net price (income 48,001-75,000)-students awarded Title IV federal financial aid, 2020-21"
+NPT441,"Average net price (income 75,001-110,000)-students awarded Title IV federal financial aid, 2020-21"
+NPT451,"Average net price (income over 110,000)-students awarded Title IV federal financial aid, 2020-21"
+NPT410,"Average net price (income 0-30,000)-students awarded Title IV federal financial aid, 2019-20"
+NPT420,"Average net price (income 30,001-48,000)-students awarded Title IV federal financial aid, 2019-20"
+NPT430,"Average net price (income 48,001-75,000)-students awarded Title IV federal financial aid, 2019-20"
+NPT440,"Average net price (income 75,001-110,000)-students awarded Title IV federal financial aid, 2019-20"
+NPT450,"Average net price (income over 110,000)-students awarded Title IV federal financial aid, 2019-20"

@@ -1,0 +1,38 @@
+Variable,Description
+JAMMORT,Edit flag for AMMORT
+JHELOCADD,Edit flag for HELOCADD
+JHELOCBAL,Edit flag for HELOCBAL
+JHELOCLIM,Edit flag for HELOCLIM
+JINTRATE,Edit flag for INTRATE
+JLOANTYPE,Edit flag for LOANTYPE
+JMISCPMT,Edit flag for MISCPMT
+JMORTADDTN,Edit flag for MORTADDTN
+JMORTCLASS,Edit flag for MORTCLASS
+JMORTLINE,Edit flag for MORTLINE
+JMORTTYPE,Edit flag for MORTTYPE
+JPMTAMT,Edit flag for PMTAMT
+JPMTFREQ,Edit flag for PMTFREQ
+JPMTONLY,Edit flag for PMTONLY
+JREFI,Edit flag for REFI
+JREFICSH,Edit flag for REFICSH
+JREFICSHAMT,Edit flag for REFICSHAMT
+JTAXPMT,Edit flag for TAXPMT
+CONTROL,Control number
+AMMORT,Initial amount borrowed or refinanced for the mortgage
+REFI,Refinance mortgage
+MORTCLASS,"Regular loan, lump sum loan, or line of credit"
+MORTTYPE,How payments vary over the length of the mortgage
+TAXPMT,Property taxes included in mortgage payment
+PMTONLY,Amount of mortgage payment paid towards principal and interest only
+MORTLINE,Line number of mortgage
+REFICSHAMT,Amount of cash received from refinance
+MORTADDTN,Percentage of mortgage used for additions or improvements
+HELOCLIM,Amount of credit limit on home equity loan
+REFICSH,Mortgage refinanced to receive cash or increase the outstanding balance
+HELOCBAL,Home equity loan has a current balance
+HELOCADD,"Home equity loan used for additions, improvements, or repairs"
+PMTFREQ,Frequency of mortgage payment
+LOANTYPE,Type of loan
+MISCPMT,Homeowners insurance or PMI included in mortgage payment
+PMTAMT,Amount of mortgage payment
+INTRATE,Interest rate of mortgage

@@ -1,0 +1,343 @@
+Variable,Description
+PUF_ID,Unique PUF Identification Number
+SURVEYYR,Survey year
+VERSION,Version number
+ADM_H_ME,Medicare status code as of 12/31
+ADM_H_GH,Some group health participation in year
+ADM_H_PD,RDS Indicator for the year
+ADM_OP_M,Medicare-Medicaid dual eligibility
+ADM_DUAL,Dual eligibility flag for the year
+ADM_FFS_,Fee-for-Service flag for the year
+ADM_MA_F,Medicare Advantage flag for the year
+ADM_PART,Part D plan flag for the year
+ADM_LIS_,Low income subsidy indicator for the yr
+ADM_PREM,Premium subsidy coverage for the year
+ADM_H_HH,1+ HHA visit current year (FFS)
+ADM_H_HO,1+ hospice bill current yr (FFS)
+ADM_H_IN,1+ inpatient discharge current yr (FFS)
+ADM_H_OU,1+ outpatient visit current yr (FFS)
+ADM_H_PB,1+ Part B claim current yr (FFS)
+ADM_H_SN,1+ SNF admission current yr (FFS)
+ADM_H_AC,Number inpatient stays current yr (FFS)
+ADM_H_AC,Number IP covered days current yr (FFS)
+ADM_H_SN,Total SNF stays current yr (FFS)
+ADM_H_SN,Total SNF covered days current yr (FFS)
+ADM_H_HH,Total HHA visits current yr (FFS)
+ADM_H_PH,Total office visits in current yr (FFS)
+INS_PRIV,Private plan covers Rx drugs (excl. RDS)
+INS_PRIV,Private plan covers nursing home
+INS_PRIV,Private plan covers vision
+INS_PRIV,Private plan covers dental
+INS_D_MA,Enrolled in Medicare Advantage
+INS_D_PR,One or more private plans (excl. RDS)
+INS_D_PR,Number of private plans (excl. RDS)
+INS_D_PV,Has employer-sponsored insurance
+INS_D_PV,Has self-purchased private insurance
+INS_D_RD,Has Retiree Drug Subsidy (RDS)
+INS_MADV,Medicare Advantage plan covers drugs
+INT_LANG,Language of interview
+INT_SPPR,Self - respondent or proxy
+DEM_AGE,Age group
+DEM_SEX,Gender
+DEM_RACE,Race/ethnicity group
+DEM_RE_A,Race/ethnicity age group
+DEM_EDU,Highest grade completed
+DEM_MARS,Marital status
+DEM_INCO,Income group
+DEM_INCS,Source of income data
+DEM_ARME,Ever served in armed forces
+DEM_CBSA,Metro residence designated by CBSA
+DEM_IPR_,Income Poverty Ratio Medicare Threshold
+ACC_HCTR,Has SP had troub get needed health care?
+ACC_HCTR,"Troub getting care: cost, insuff. money"
+ACC_HCDE,Last year ever delay in care due to cost
+ACC_PAYP,Problem paying medical bills
+ACC_PAYO,Medical bills being paid off over time
+ACC_MCQU,Satisfaction: qual of med care last year
+ACC_MCAV,Satisfaction: medical care night/wkend
+ACC_MCEA,Satisfaction: ease get to Dr from home
+ACC_MCCO,Satisfaction: OOP costs for med services
+ACC_MCIN,Satisfaction: info abt what was wrong
+ACC_MCCO,Satisfaction: Dr concern w/overall hlth
+ACC_MCSA,Satisfaction: med care at same location
+ACC_MCSP,Satisfaction: avail care by specialists
+ACC_MCTE,Satisfaction: phone answers for tx or Rx
+ACC_MCWO,Worry abt hlth more than others your age
+ACC_MCAV,Do almost anything to avoid going to Dr
+ACC_MCSI,When sick - try keeping sickness to self
+ACC_MCDR,Usually go to Dr as soon as feel bad
+HLT_HYST,Hysterectomy (ever)
+HLT_OCAR,Hardening of arteries (ever)
+HLT_OCHB,Hypertension/high BP (ever)
+HLT_OCMY,MI/heart attack (ever)
+HLT_OCCH,Angina pectoris/CHD (ever)
+HLT_OCCF,Congestive heart failure (ever)
+HLT_OCHR,"Other heart cond, eg valve/rhythm (ever)"
+HLT_OCST,Stroke/brain hemorrhage (ever)
+HLT_OCCH,High cholesterol (ever)
+HLT_OCCS,Skin cancer (ever)
+HLT_OCCA,Other (non-skin) cancer (ever)
+HLT_OCAR,Rheumatoid arthritis (ever)
+HLT_OCOS,Osteoarthritis (ever)
+HLT_OCAR,"Arthritis, other (ever)"
+HLT_ALZD,Ever told Alzheimer's or dx of dementia
+HLT_OCDE,Depression (ever)
+HLT_OCPS,Ever told had mental disorder
+HLT_OCOS,Osteoporosis/soft bones (ever)
+HLT_OCBR,Broken hip (ever)
+HLT_OCEM,Emphysema/asthma/COPD (ever)
+HLT_OCPP,Complete/partial paralysis (ever)
+HLT_HAVE,Enlarged prostate/BPH (ever)
+HLT_OCKI,Chronic kidney disease (ever)
+HLT_OCBE,Diabetes/high blood sugar (ever)
+HLT_OCDT,Type of diabetes diagnosed
+HLT_OCDV,Told on 2+ visits had diabetes
+HLT_LOST,How often lost urine control (past year)
+HLT_TALK,Talked to Dr about urine control
+HLT_REAS,Medical exam for urine control problem
+HLT_SURG,Dr talked urine control meds/surgery
+HLT_HYPE,Told on 2+ visits had high BP
+HLT_HYPE,Years since 1st told of hgh bld pressure
+HLT_HYPE,Measures BP at home
+HLT_HYPE,Takes meds for high BP
+HLT_HYPE,Reducing alcohol intake due to high BP
+HLT_HYPE,How long taken meds for high BP (years)
+HLT_HYPE,Side effects from BP meds
+HLT_HYPE,How confident in control of BP
+HLT_HYPE,Difficulty paying for BP meds
+HLT_HYPE,Skip/share BP meds b/c high cost
+HLT_PROS,Prostate surgery (ever)
+HLT_GENH,General health compared others same age
+HLT_COMP,General health compared to one year ago
+HLT_HELM,Limited social activities (past month)
+HLT_BMI_,BMI categories (kg/m^2)
+HLT_DIAI,Takes insulin
+HLT_DIAM,Takes prescribed diabetes pill/medicine
+HLT_DIAT,Tests own blood for sugar/glucose
+HLT_CONT,Uses continuous glucose monitor
+HLT_DIAT,Foot exam in last year
+HLT_DIAC,Blood sugar well controlled
+HLT_DIAH,Ever experience hypoglycemia
+HLT_DIAM,Had diabetes self management course
+HLT_DIST,Lost all upper and lower natural teeth
+HLT_DISD,Difficulty concentrate/remember/decide
+HLT_DISW,Difficulty walking/stairs
+HLT_DISB,Difficulty dressing/bathing
+HLT_DISE,Difficulty doing errands
+HLT_FOOD,Difficulty eating solid foods b/c teeth
+HLT_DIFS,Difficulty stooping/crouching/kneeling
+HLT_DIFL,Difficulty lifting/carrying 10 pounds
+HLT_DIFR,Difficulty extending arms above shoulder
+HLT_DIFW,Difficulty writing/handling object
+HLT_DIFW,Difficulty walking 1/4 mile
+HLT_D_VI,Hrs/wk spent doing vigorous activities
+HLT_D_MO,Hrs/wk spent doing moderate activities
+HLT_D_MU,Hrs/wk spent increasing muscle strength
+HLT_FUNC,Functional limitations: IADLs and ADLs
+HLT_D_LS,Number helpers for listed ADLs/IADLs
+HLT_DTBL,Has trouble getting places
+HLT_DRED,Reduced day-to-day travel
+HLT_DASK,Ask others for rides
+HLT_DGIV,Given up driving altogether
+HLT_DLIM,Limited driving to daytime
+HLT_DUSE,Use taxi or special transportation
+HLT_ECHE,SP wear eyeglasses/contact lenses
+HLT_ECTR,Description of SP's vision
+HLT_EDOC,Has SP had eye exam in past year
+HLT_EDOC,How Long since last eye exam
+HLT_EDOC,Eye care professional last exam
+HLT_EDOC,Eye Dr ever dilate eyes
+HLT_CATA,Ever told had cataracts
+HLT_GLCO,Ever told had glaucoma
+HLT_RETI,Ever told had diabetic retinopathy
+HLT_MACU,Ever told had macular degeneration
+HLT_CATA,Ever had operation for cataracts
+HLT_EYES,Ever had laser eye surgery
+HLT_HCHE,SP use hearing aid
+HLT_HCTR,Description of SP's hearing
+HLT_HCKN,Difficult finding Mcare info bc hearing
+HLT_HCCO,Difficult communicate w/ Dr bc hearing
+PRV_BPTA,How long since BP taken
+PRV_BCTA,How long since blood cholesterol taken
+PRV_MAMM,Mammogram/breast X-ray (past year)
+PRV_PAPS,Pap smear (past year)
+PRV_DIGT,DRE prostate exam (past year)
+PRV_BLOO,PSA prostate blood test (past year)
+PRV_ONED,Got 1+ CV19 vaccine dose by Fall 2022
+PRV_CVDO,Number CV19 vaccine doses by Fall 2022
+PRV_FLUS,Flu shot for last winter
+PRV_SHIN,Ever had shingles vaccine
+PRV_PNEU,Pneumonia shot (ever)
+PRV_DIAE,Ever had a blood test for diabetes
+PRV_DIAR,Ever told at high risk for diabetes
+PRV_COLH,Heard of colon cancer before today
+PRV_COLH,Given home fecal blood test (FOBT)
+PRV_COLO,Ever tested for colon cancer
+PRV_COLH,Heard of home FOBT
+PRV_COLC,Sent card in for most recent FOBT
+PRV_COLF,Had FOBT in Drs office
+PRV_COLR,How long since FOBT
+PRV_EVER,Colonoscopy/sigmoidoscopy (ever)
+PRV_HEAR,Heard of colonoscopy before today
+PRV_COLD,Dr ever recommend colonoscopy
+PRV_COLS,Know Medicare help pay screening test
+PRV_OSTE,Ever talked to dr. about osteoporosis
+PRV_OSTH,Told at high risk for osteoporosis
+PRV_WELL,Annual wellness since last fall
+PRV_BASK,Ever had oral cancer exam
+RSK_EVRS,Ever smoke cigarette/cigar/tobacco
+RSK_SMKN,Currently smoke cigarette/cigar/tobacco
+RSK_SMKL,Has ever used smokeless tobacco
+RSK_SMKL,Uses smokeless tobacco now
+RSK_ECIG,Has ever used e-cigarette
+RSK_ECIG,Uses e-cigarette now
+RSK_ALCL,Has had at least 12 drinks in life
+RSK_D_AL,Number of days/month drink alcohol
+RSK_ALCD,Number of alcohol drinks/day (past yr)
+RSK_FFDR,Number days/mo has 5/4+ drinks (past yr)
+FAL_FALL,Fallen down (past year)
+FAL_FALL,Number of times fallen (past year)
+FAL_FALL,Fall required medical help
+FAL_FALF,Fracture from fall
+FAL_FALS,Sprain from fall
+FAL_FALB,Bruise from fall
+FAL_FALC,Cut from fall
+FAL_FALC,Concuss/dislocate/other injury from fall
+FAL_FALN,No injury from fall
+FAL_FALL,Limit activities b/c fall
+FAL_FALL,Time to get back to regular activities
+FAL_FALL,Fear of falling scale
+HOU_D_HH,Total Number of People in Household
+HOU_D_HH,Num in HH Under 50 (May Include SP)
+HOU_D_HH,Num in HH 50 and Over (May Include SP)
+HOU_D_HH,Num <18 related to SP (May Include SP)
+HOU_DWEL,Description of Home
+HOU_HLEV,Levels in SP Housing
+HOU_HELE,Elevator in SP Housing
+HOU_HONE,One Level Living Space
+HOU_HBTH,Bathroom on All Levels
+HOU_HRAM,Ramps at Entrances
+HOU_HBAT,Does SP Bathroom have Modifications
+HOU_HRAI,Special Railing in Housing
+HOU_HOUS,Is Housing in Special Comm Type in HA10
+HOU_HPER,SP Housing Have Personal Care
+HOU_MEAL,Do You Have Access to Prepared Meals
+HOU_MAID,Do You Have Access to Cleaning Services
+HOU_WASH,Do You Have Access to Laundry Services
+HOU_HELP,Do You Have Access to Help w/Medications
+HOU_TRAN,Do You Have Access to Transportation
+HOU_RECP,Do You Have Access to Rec Services
+HOU_SERV,Personal Srvcs Included in Housing Cost
+HOU_STAY,Stay in Same Housing if Need More Care
+HOU_CARE,Provide Care in Diff Part of Housing
+HOU_REQA,Must be Certain Age for Housing
+HOU_PERS,SP Have Own Bath Facilities
+HOU_NBRR,How Many Rooms in Housing
+HOU_PERK,SP Have Kitchen
+MA_MADVD,Mcare Adv plan covers dental
+MA_MADVE,Mcare Adv plan covers eye exams
+MA_MADVN,Mcare Adv plan covers nursing home
+MA_MADVP,Ever pay additional for Mcare Adv cvg
+MA_RECMA,Recommend Mcare Adv to family/friends
+MA_MADVY,Years enrolled in Medicare Advantage
+PUFFWGT,PUF Fall Ever Enrolled Full Sample Wt
+PUFF001,PUF Fall Ever Enrolled rep wt 1
+PUFF002,PUF Fall Ever Enrolled rep wt 2
+PUFF003,PUF Fall Ever Enrolled rep wt 3
+PUFF004,PUF Fall Ever Enrolled rep wt 4
+PUFF005,PUF Fall Ever Enrolled rep wt 5
+PUFF006,PUF Fall Ever Enrolled rep wt 6
+PUFF007,PUF Fall Ever Enrolled rep wt 7
+PUFF008,PUF Fall Ever Enrolled rep wt 8
+PUFF009,PUF Fall Ever Enrolled rep wt 9
+PUFF010,PUF Fall Ever Enrolled rep wt 10
+PUFF011,PUF Fall Ever Enrolled rep wt 11
+PUFF012,PUF Fall Ever Enrolled rep wt 12
+PUFF013,PUF Fall Ever Enrolled rep wt 13
+PUFF014,PUF Fall Ever Enrolled rep wt 14
+PUFF015,PUF Fall Ever Enrolled rep wt 15
+PUFF016,PUF Fall Ever Enrolled rep wt 16
+PUFF017,PUF Fall Ever Enrolled rep wt 17
+PUFF018,PUF Fall Ever Enrolled rep wt 18
+PUFF019,PUF Fall Ever Enrolled rep wt 19
+PUFF020,PUF Fall Ever Enrolled rep wt 20
+PUFF021,PUF Fall Ever Enrolled rep wt 21
+PUFF022,PUF Fall Ever Enrolled rep wt 22
+PUFF023,PUF Fall Ever Enrolled rep wt 23
+PUFF024,PUF Fall Ever Enrolled rep wt 24
+PUFF025,PUF Fall Ever Enrolled rep wt 25
+PUFF026,PUF Fall Ever Enrolled rep wt 26
+PUFF027,PUF Fall Ever Enrolled rep wt 27
+PUFF028,PUF Fall Ever Enrolled rep wt 28
+PUFF029,PUF Fall Ever Enrolled rep wt 29
+PUFF030,PUF Fall Ever Enrolled rep wt 30
+PUFF031,PUF Fall Ever Enrolled rep wt 31
+PUFF032,PUF Fall Ever Enrolled rep wt 32
+PUFF033,PUF Fall Ever Enrolled rep wt 33
+PUFF034,PUF Fall Ever Enrolled rep wt 34
+PUFF035,PUF Fall Ever Enrolled rep wt 35
+PUFF036,PUF Fall Ever Enrolled rep wt 36
+PUFF037,PUF Fall Ever Enrolled rep wt 37
+PUFF038,PUF Fall Ever Enrolled rep wt 38
+PUFF039,PUF Fall Ever Enrolled rep wt 39
+PUFF040,PUF Fall Ever Enrolled rep wt 40
+PUFF041,PUF Fall Ever Enrolled rep wt 41
+PUFF042,PUF Fall Ever Enrolled rep wt 42
+PUFF043,PUF Fall Ever Enrolled rep wt 43
+PUFF044,PUF Fall Ever Enrolled rep wt 44
+PUFF045,PUF Fall Ever Enrolled rep wt 45
+PUFF046,PUF Fall Ever Enrolled rep wt 46
+PUFF047,PUF Fall Ever Enrolled rep wt 47
+PUFF048,PUF Fall Ever Enrolled rep wt 48
+PUFF049,PUF Fall Ever Enrolled rep wt 49
+PUFF050,PUF Fall Ever Enrolled rep wt 50
+PUFF051,PUF Fall Ever Enrolled rep wt 51
+PUFF052,PUF Fall Ever Enrolled rep wt 52
+PUFF053,PUF Fall Ever Enrolled rep wt 53
+PUFF054,PUF Fall Ever Enrolled rep wt 54
+PUFF055,PUF Fall Ever Enrolled rep wt 55
+PUFF056,PUF Fall Ever Enrolled rep wt 56
+PUFF057,PUF Fall Ever Enrolled rep wt 57
+PUFF058,PUF Fall Ever Enrolled rep wt 58
+PUFF059,PUF Fall Ever Enrolled rep wt 59
+PUFF060,PUF Fall Ever Enrolled rep wt 60
+PUFF061,PUF Fall Ever Enrolled rep wt 61
+PUFF062,PUF Fall Ever Enrolled rep wt 62
+PUFF063,PUF Fall Ever Enrolled rep wt 63
+PUFF064,PUF Fall Ever Enrolled rep wt 64
+PUFF065,PUF Fall Ever Enrolled rep wt 65
+PUFF066,PUF Fall Ever Enrolled rep wt 66
+PUFF067,PUF Fall Ever Enrolled rep wt 67
+PUFF068,PUF Fall Ever Enrolled rep wt 68
+PUFF069,PUF Fall Ever Enrolled rep wt 69
+PUFF070,PUF Fall Ever Enrolled rep wt 70
+PUFF071,PUF Fall Ever Enrolled rep wt 71
+PUFF072,PUF Fall Ever Enrolled rep wt 72
+PUFF073,PUF Fall Ever Enrolled rep wt 73
+PUFF074,PUF Fall Ever Enrolled rep wt 74
+PUFF075,PUF Fall Ever Enrolled rep wt 75
+PUFF076,PUF Fall Ever Enrolled rep wt 76
+PUFF077,PUF Fall Ever Enrolled rep wt 77
+PUFF078,PUF Fall Ever Enrolled rep wt 78
+PUFF079,PUF Fall Ever Enrolled rep wt 79
+PUFF080,PUF Fall Ever Enrolled rep wt 80
+PUFF081,PUF Fall Ever Enrolled rep wt 81
+PUFF082,PUF Fall Ever Enrolled rep wt 82
+PUFF083,PUF Fall Ever Enrolled rep wt 83
+PUFF084,PUF Fall Ever Enrolled rep wt 84
+PUFF085,PUF Fall Ever Enrolled rep wt 85
+PUFF086,PUF Fall Ever Enrolled rep wt 86
+PUFF087,PUF Fall Ever Enrolled rep wt 87
+PUFF088,PUF Fall Ever Enrolled rep wt 88
+PUFF089,PUF Fall Ever Enrolled rep wt 89
+PUFF090,PUF Fall Ever Enrolled rep wt 90
+PUFF091,PUF Fall Ever Enrolled rep wt 91
+PUFF092,PUF Fall Ever Enrolled rep wt 92
+PUFF093,PUF Fall Ever Enrolled rep wt 93
+PUFF094,PUF Fall Ever Enrolled rep wt 94
+PUFF095,PUF Fall Ever Enrolled rep wt 95
+PUFF096,PUF Fall Ever Enrolled rep wt 96
+PUFF097,PUF Fall Ever Enrolled rep wt 97
+PUFF098,PUF Fall Ever Enrolled rep wt 98
+PUFF099,PUF Fall Ever Enrolled rep wt 99
+PUFF100,PUF Fall Ever Enrolled rep wt 100

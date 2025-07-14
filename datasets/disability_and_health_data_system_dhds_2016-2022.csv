@@ -1,0 +1,32 @@
+﻿Variable,Description
+Year,Year
+LocationAbbr,Location abbreviation
+LocationDesc,Location description
+DataSource,Abbreviation of data source name
+Category,Category description
+Indicator,Indicator description
+Response,Indicator response
+Data_Value_Unit,The unit for a data value such as %
+Data_Value_Type,The data type such as age-adjusted prevalence and prevalence
+Data_Value,The data Value such as 14.7
+Data_Value_Alt,"Equal to data value, but formatting is numeric"
+Data_Value_Footnote_Symbol,"Footnote Symbol (i.e., - or *)"
+Data_Value_Footnote,Footnote Text
+Low_Confidence_Limit,95% confidence interval lower bound
+High_Confidence_Limit,95% confidence interval upper bound
+Number,The crude unweighted number of respondents
+WeightedNumber,An adjusted version of the crude number of respondents that reflects the number of persons with the attribute in the population.
+StratificationCategory1,"The category of the stratification, such as disability status, disability type, and overall"
+Stratification1,"Stratifications within the stratification category such as any disability, no disability, cognitive disability, mobility disability, vision disability, hearing disability, self-care disability, independent living disability, and overall"
+StratificationCategory2,"The category of the stratification such as Age, Sex, Race/Ethnicity"
+Stratification2,"Stratification within the statification categories such as 18 -24, 25 - 44, 20 - 44, 21 - 35, 36 - 50, 51 - 65, 50 - 74, 50 - 75,18 - 44, 45-64, 65+, Male, Female, White, Black, Hispanic, Multirace/Other"
+CategoryID,Category identifier
+IndicatorID,Indicator Identifier
+Geolocation,Location identifier
+LocationID,Location Identifier
+ResponseID,Response Identifier
+DataValueTypeID,Identifier for the Data Value Type
+StratificationCategoryID1,Stratification Category 1 Identifier
+StratificationID1,Stratification 1 Identifier
+StratificationCategoryID2,Stratification Category 2 Identifier
+StratificationID2,Stratification 2 Identifier

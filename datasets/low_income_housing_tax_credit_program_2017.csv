@@ -1,0 +1,91 @@
+﻿Variable,Description
+hud_id,"Unique Project Identifier for the Database — characters 1-3: Allocating agency code (see table below) digits 4-7: Year placed in service (0000 or 0001 if unknown or missing) digit 8: Number of years property was added to database after initial request, e.g. 1= 2015 property reported to HUD with 2016 update (0 if property added to DB prior to 2015 update) digits 9-11: Record number within allocating agency and year placed in service;* Note: Beginning with the 2015 database update, digit 8 (see variable definition) was added to HUD_ID."
+project,Project name
+proj_add,Project street address
+proj_cty,Project city
+proj_st,Project state
+proj_zip,Project zip
+state_id,State-defined Project ID
+contact,Owner or owner's contact
+company,Name of contact company
+co_add,Contact's business address
+co_cty,Contact's city
+co_st,Contact's state
+co_zip,Contact's zip
+co_tel,Contact's telephone
+latitude,Latitude: Degrees Decimal
+longitude,Longitude: Negative Degrees Decimal -- GIS Mapping Convention
+reg,Census Region; 1=Northeast 2=Midwest 3=South 4=West
+msa,MSA/PMSA Number (1999)
+cbsa,Core Based Statistical Area (CBSA) Lowest Level Code
+placece,Census Place Code (1990)
+placefp,FIPS Place Code (2000)
+place2010,FIPS Place Code (2010)
+cosubcur,County Subdivision Code (Minor Civil Division/ Census Civil Division)
+fips1990,Unique 1990 Census Tract ID -- digits 1-2: State FIPS Code digits 3-5: County FIPS Code digits 6-11: Census Tract Number (no decimal point included)
+st1990,1990 State FIPS Code
+cnty1990,1990 County FIPS Code
+trct1990,1990 Census Tract Number
+fips2000,Unique 2000 Census Tract ID -- digits 1-2: State FIPS Code digits 3-5: County FIPS Code digits 6-11: Census Tract Number (no decimal point included)
+st2000,2000 State FIPS Code
+cnty2000,2000 County FIPS Code
+trct2000,2000 Census Tract Number
+fips2010,Unique 2010 Census Tract: Digits 1-2: State FIPS Code Digits 3-5: County FIPS Code Digits 6-11: Census Tract Number (decimal point excluded)
+st2010,2010 State FIPS Code
+cnty2010,2010 County FIPS Code
+trct2010,2010 Census Tract Number
+scattered_site_cd,Scattered Site Property; 1=Yes 2=No
+resyndication_cd,Resyndicated Property; 1=Yes 2=No
+allocamt,Annual dollar amount of tax credits allocated
+n_units,Total number of units
+li_units,Total number of low income units
+n_0br,Number of efficiencies
+n_1br,Number of 1-bedroom units
+n_2br,Number of 2-bedroom units
+n_3br,Number of 3-bedroom units
+n_4br,Number of 4-bedroom units
+inc_ceil,Elected rent/income ceiling for low income units;1=50% AMGI 2=60% AMGI 3=Not Reported
+low_ceil,Units set aside with rents lower than elected rent/income ceiling;1=Yes 2=No
+ceilunit,Number of units set aside with rents lower than elected rent/income ceiling
+yr_pis,"Year placed in service; 1987-2016=year placed in service 8888=placed in service status not confirmed 9999=placed in service status confirmed, but placed in service year missing"
+yr_alloc,Allocation year
+non_prof,Non-profit sponsor;1=Yes 2=No
+basis,Increase in eligible basis; 1=Yes 2=No
+bond,Tax-exempt bond received; 1=Yes 2=No
+mff_ra,HUD Multi-Family financing/rental assistance; 1=Yes 2=No
+fmha_514,FmHA (RHS) Section 514 loan; 1=Yes 2=No
+fmha_515,FmHA (RHS) Section 515 loan; 1=Yes 2=No
+fmha_538,FmHA (RHS) Section 538 loan; 1=Yes 2=No
+home,HOME Investment Partnership Program funds; 1=Yes 2=No
+home_amt,Dollar amount of HOME funds
+tcap,Tax Credit Assistance Program (TCAP) funds;1=Yes 2=No
+tcap_amt,TCAP Amount
+cdbg,Community Development Block Grant (CDBG) funds;1=Yes 2=No
+cdbg_amt,Dollar amount of CDBG funds
+fha,FHA-insured loan;1=Yes 2=No
+hopevi,Forms part of a HOPEVI development;1=Yes 2=No
+hpvi_amt,Dollar amount of HOPEVI funds for development or building costs
+tcep,Tax Credit Exchange Program (TCEP) Funds;1=Yes 2=No
+tcep_amt,Dollar amount of TCEP funds
+rentassist,Federal or state project-based rental assistance contract;1=Federal 2=State 3=Both Federal and State 4=Neither 5=Unknown whether Federal or State
+trgt_pop,Targets a specific population with specialized services or facilities;1=Yes 2=No
+trgt_fam,Targets a specific population – families;1=Yes 2=No 0 or blank = Not indicated
+trgt_eld,Targets a specific population – elderly;1=Yes 2=No 0 or blank = Not indicated
+trgt_dis,Targets a specific population – disabled;1=Yes 2=No 0 or blank = Not indicated
+trgt_hml,Targets a specific population – homeless;1=Yes 2=No 0 or blank = Not indicated
+trgt_other,Targets a specific population – other;1=Yes 2=No 0 or blank = Not indicated
+trgt_spc,Targets a specific population – other as specified
+type,Type of construction;1=New construction 2=Acquisition and Rehab 3=Both new construction and A/R 4=Existing
+credit,Type of credit percentage;1=30 percent present value 2=70 percent present value 3=Both 4=TCEP only
+n_unitsr,"Total number of units or if total units missing or inconsistent, total low-income units"
+li_unitr,"Total number of low income units or if total low-income units missing, total units"
+metro,Is the census tract metro or non-metro?;1=Metro/Non-Central City 2=Metro/Central City 3=Non-Metro
+dda,Is the census tract in a difficult development area? (DDA status is based on placed in service year.);0=Not in DDA 1=In Metro DDA 2=In Non-Metro DDA 3=In Metro GO Zone DDA 4=In Non-Metro GO Zone DDA
+qct,"Is the census tract a qualified census tract? (For projects placed in service prior to 2003, QCT is based on 1990 Census tract. For projects placed in service since 2003, QCT is based on 2000 Census tract.);1=In a qualified tract 2=Not in a qualified tract"
+nonprog,No longer monitored for LIHTC program due to expired use or other reason (Status of no longer being monitored for the LIHTC Program is indicated for projects as specified by the allocating agency. This does not indicate whether or not a project remains affordable to low income populations.); 1=Yes
+datanote,Notes about data record changes processed for database update.
+record_status,Record Status compared to previous version of LIHTC database;N=New U=Updated X=Existing (Unchanged from previous DB version)
+x,None
+y,None
+z,None
+yrmisflg,None

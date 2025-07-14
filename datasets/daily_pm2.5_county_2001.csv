@@ -1,0 +1,9 @@
+﻿Variable,Description
+year,Year of prediction
+date,Date (day-month-year) of prediction
+statefips,State FIPS code
+countyfips,County FIPS code
+PM25_max_pred,Maximum estimated 24-hour average PM2.5 concentration in μg/m3 for the county
+PM25_med_pred,Median estimated 24-hour average PM2.5 concentration in μg/m3 for the county
+PM25_mean_pred,Mean estimated 24-hour average PM2.5 concentration in μg/m3 for the county
+PM25_pop_pred,Population-weighted estimated 24-hour average PM2.5 concentration in μg/m3 for the county

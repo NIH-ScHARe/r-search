@@ -1,0 +1,11 @@
+﻿Variable,Description
+Year,Year
+County_of_Residence,County of Residence
+County_of_Residence_FIPS,County of Residence Code
+Births,Number of Births
+Ave_Age_of_Mother,Average Age of Mother (years)
+Ave_OE_Gestational_Age_Wks,Average OE Gestational Age (weeks)
+Ave_LMP_Gestational_Age_Wks,Average LMP Gestational Age (weeks)
+Ave_Birth_Weight_gms,Average Birth Weight (grams)
+Ave_Pre_pregnancy_BMI,Average Pre-pregnancy BMI
+Ave_Number_of_Prenatal_Wks,Average Number of Prenatal Visits

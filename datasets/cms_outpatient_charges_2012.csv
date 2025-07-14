@@ -1,0 +1,12 @@
+﻿Variable,Description
+provider_id,The CMS Certification Number (CCN) of the provider billing for outpatient hospital services
+provider_name,The name of the provider
+provider_street_address,The street address in which the provider is physically located
+provider_city,The city in which the provider is physically located
+provider_state,The state in which the provider is physically located
+provider_zipcode,The zip code in which the provider is physically located
+apc,The code and description identifying the MS-DRG. MS-DRGs are a classification system that groups similar clinical conditions (diagnoses) and the procedures furnished by the hospital during the stay
+hospital_referral_region,Code and description identifying the APC. APCs are a classification system where individual services (Healthcare Common Procedure Coding System [HCPCS] codes) are assigned based on similar clinical characteristics and similar costs
+outpatient_services,The number of discharges billed by the provider for inpatient hospital services
+average_estimated_submitted_charges,The number of services billed by the provider for outpatient hospital services
+average_total_payments,The provider's average estimated submitted charge for services covered by Medicare for the APC. These will vary from hospital to hospital because of differences in hospital charge structures

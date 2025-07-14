@@ -1,0 +1,442 @@
+﻿Variable,Description
+GEOID,"Geographic Identifier - fully concatenated geographic code (State FIPS, County FIPS, and Tract number)"
+STATE,Census 2-digit FIPS State Code
+COUNTY,Census 3-digit FIPS County Code
+TRACT,Census 6-digit FIPS Tract Code
+CNTY_FIPS,Census 5-digit FIPS County Code
+STUSAB,Two letter State Abbreviation code
+households,Number of households 
+owner_occupied_hu,Number of owner occupied housing units 
+renter_occupied_hu,Number of renter occupied housing units
+avg_hh_size_owners,Average number of people in owner households
+pct_renter_occupied_hu,Percent of households in renter-occupied housing units
+pct_transit_j2w_renters,Percent of commuters living in rental households using transit for their journey to work
+pct_transit_j2w_owners,Percent of commuters living in owner households using transit for their journey to work
+pct_transit_j2w,Percent of commuters using transit for their journey to work
+median_smoc_mortgage,Median selected monthly ownership costs 
+median_gross_rent,Median gross rent
+avg_h_cost,Average monthly housing cost
+autos_per_hh_renters,Autos per household for renter households
+autos_per_hh_owner,Autos per household for owner households
+autos_per_hh,Autos per household 
+avg_hh_size_renters,Average number of people in renter households
+commuters_per_hh_owners,Average number of commuters per household in renter households
+commuters_per_hh,Average number of commuters per household in owner households
+commuters_per_hh_renters,Average number of commuters per household 
+pct_renters,Percent of rental housing units
+avg_hh_size,Average number of people per household
+area_income_renter_frac,Fraction of area median household income for renters in this tract relative to the regional median household income
+median_hh_income,Median household income
+median_rooms_per_renter_hu,Median number of rooms in renter households
+median_rooms_per_owner_hu,Median number of rooms in owner households 
+median_rooms_per_hu,Median number of rooms per household
+pct_hu_1_detached,Percent of single family detached housing units 
+gross_hh_density,Number of households per land acre
+area_income_owner_frac,Fraction of area median household income for owners in this tract relative to the regional median household income
+area_income_frac,Fraction of area median household income in this tract relative to the regional median household income
+area_median_hh_income,Regional median household income
+block_density,Census blocks per acre
+avg_block_acres,Average block size in acres
+job_density_simple,Jobs per land acre simple
+retail_density_simple,Retail jobs per land acre simple
+job_gravity,Total jobs for every tract in the US divided by its distance from the centroid squared
+retail_gravity,Retail jobs for every tract in the US divided by its distance from the centroid squared
+median_commute,Median distance of commuters in the tracts using the centroid of the employment block
+veh_count,Number of vehicles that were used to determine VMT from Illinois odometer reading (for appropriate Illinois tracts only)
+avg_vmt,Average VMT from Illinois odometer reading (for appropriate Illinois tracts only)
+avg_hh_vmt,Average VMT per household from Illinois odometer reading (for appropriate Illinois tracts only)
+std_dev_vmt,Standard deviation for VMT from Illinois odometer reading (for appropriate Illinois tracts only)
+area_type,‘county’ or ‘cbsa’ depending on the location of the tract
+area_stfid,Census id for either county of cbsa for this tract’s location
+hh1_control_hh_income_frac,HH profile 1: Fraction of household income as defined for the household above relative to the regional median household income
+hh1_control_hh_income,HH profile 1: The household income for the geography as defined for the household above
+hh1_control_hh_size,HH profile 1: The household size for geography as defined for the household above
+hh1_control_hh_commuters,HH profile 1: The number of commuters for the geography as defined for the household above
+hh1_fixes,HH profile 1: Code if a fix was used to substitute the missing values - codes definitions in will be documented in methods doc
+hh1_model_autos_per_hh_owners,HH profile 1: The modeled autos per household for owners
+hh1_model_h_cost_owners,HH profile 1: The modeled housing costs for owners
+hh1_model_pct_transit_commuters_owners,HH profile 1: The modeled percent of transit use commuters for owners
+hh1_model_vmt_per_hh_owners,HH profile 1: The modeled household annual vehicle miles traveled (VMT) for owners
+hh1_model_autos_per_hh_renters,HH profile 1: The modeled autos per household for renters
+hh1_model_h_cost_renters,HH profile 1: The modeled housing costs for renters
+hh1_model_pct_transit_commuters_renters,HH profile 1: The modeled percent of transit use commuters for renters
+hh1_model_vmt_per_hh_renters,HH profile 1: The modeled household annual vehicle miles traveled (VMT) for renters
+hh1_model_autos_per_hh,HH profile 1: The modeled autos per household
+hh1_model_h_cost,HH profile 1: The modeled housing costs
+hh1_model_pct_transit_commuters,HH profile 1: The modeled percent of transit use commuters 
+hh1_model_vmt_per_hh,HH profile 1: The modeled household annual vehicle miles traveled (VMT)
+hh1_alpha,HH profile 1: Factor used to calculate average transit cost per household
+hh1_beta,HH profile 1: Factor used to calculate average annual transit trip per household
+hh1_gas_price,HH profile 1: The cost of gas per gallon
+hh1_mpg,HH profile 1: The national average fuel efficiency
+hh1_income_bin,HH profile 1: Indicate the income bracket for the controlled household type
+hh1_auto_own_cost_owners,HH profile 1: Auto ownership costs for owners
+hh1_vmt_cost_owners,HH profile 1: vehicle miles traveled costs for owners
+hh1_transit_cost_owners,HH profile 1: Average transit costs for owners
+hh1_transit_trips_owners,HH profile 1: The modeled household annual transit trips for owners
+hh1_t_cost_owners,HH profile 1: The modeled transportation costs for owners
+hh1_t_owners,HH profile 1: The modeled transportation costs as a percent of income for owners
+hh1_h_owners,HH profile 1: The modeled housing costs as a percent of income for owners
+hh1_ht_owners,HH profile 1: The modeled housing and transportation costs as a percent of income for owners
+hh1_auto_own_cost_renters,HH profile 1: Auto ownership costs for renters
+hh1_vmt_cost_renters,HH profile 1: vehicle miles traveled costs for renters
+hh1_transit_cost_renters,HH profile 1: Average transit costs for renters
+hh1_transit_trips_renters,HH profile 1: The modeled household annual transit trips for renters
+hh1_t_cost_renters,HH profile 1: The modeled transportation costs for renters.
+hh1_t_renters,HH profile 1: The modeled transportation costs as a percent of income for renters
+hh1_h_renters,HH profile 1: The modeled housing costs as a percent of income for renters
+hh1_ht_renters,HH profile 1: The modeled housing and transportation costs as a percent of income for renters
+hh1_auto_own_cost,HH profile 1: Auto ownership costs
+hh1_vmt_cost,HH profile 1: vehicle miles traveled costs
+hh1_transit_cost,HH profile 1: Average transit costs
+hh1_transit_trips,HH profile 1: The modeled household annual transit trips
+hh1_t_cost,HH profile 1: The modeled transportation costs
+hh1_t,HH profile 1: The modeled transportation costs as a percent of income
+hh1_h,HH profile 1: The modeled housing costs as a percent of income
+hh1_ht,HH profile 1: The modeled housing and transportation costs as a percent of income
+hh1_pctile_all,HH profile 1: Income percentile in a given tract as defined for the household above
+hh1_pctile_own,HH profile 1: Income percentile for owners in a given tract as defined for the household above
+hh1_pctile_rent,HH profile 1: Income percentile for renters in a given tract as defined for the household above
+hh2_control_hh_income_frac,HH profile 2: Fraction of household income as defined for the household above relative to the regional median household income
+hh2_control_hh_income,HH profile 2: The household income for the geography as defined for the household above
+hh2_control_hh_size,HH profile 2: The household size for geography as defined for the household above
+hh2_control_hh_commuters,HH profile 2: The number of commuters for the geography as defined for the household above
+hh2_fixes,HH profile 2: Code if a fix was used to substitute the missing values - codes definitions in will be documented in methods doc
+hh2_model_autos_per_hh_owners,HH profile 2: The modeled autos per household for owners
+hh2_model_h_cost_owners,HH profile 2: The modeled housing costs for owners
+hh2_model_pct_transit_commuters_owners,HH profile 2: The modeled percent of transit use commuters for owners
+hh2_model_vmt_per_hh_owners,HH profile 2: The modeled household annual vehicle miles traveled (VMT) for owners
+hh2_model_autos_per_hh_renters,HH profile 2: The modeled autos per household for renters
+hh2_model_h_cost_renters,HH profile 2: The modeled housing costs for renters
+hh2_model_pct_transit_commuters_renters,HH profile 2: The modeled percent of transit use commuters for renters
+hh2_model_vmt_per_hh_renters,HH profile 2: The modeled household annual vehicle miles traveled (VMT) for renters
+hh2_model_autos_per_hh,HH profile 2: The modeled autos per household
+hh2_model_h_cost,HH profile 2: The modeled housing costs
+hh2_model_pct_transit_commuters,HH profile 2: The modeled percent of transit use commuters 
+hh2_model_vmt_per_hh,HH profile 2: The modeled household annual vehicle miles traveled (VMT)
+hh2_alpha,HH profile 2: Factor used to calculate average transit cost per household
+hh2_beta,HH profile 2: Factor used to calculate average annual transit trip per household
+hh2_gas_price,HH profile 2: The cost of gas per gallon
+hh2_mpg,HH profile 2: The national average fuel efficiency
+hh2_income_bin,HH profile 2: Indicate the income bracket for the controlled household type
+hh2_auto_own_cost_owners,HH profile 2: Auto ownership costs for owners
+hh2_vmt_cost_owners,HH profile 2: vehicle miles traveled costs for owners
+hh2_transit_cost_owners,HH profile 2: Average transit costs for owners
+hh2_transit_trips_owners,HH profile 2: The modeled household annual transit trips for owners
+hh2_t_cost_owners,HH profile 2: The modeled transportation costs for owners
+hh2_t_owners,HH profile 2: The modeled transportation costs as a percent of income for owners
+hh2_h_owners,HH profile 2: The modeled housing costs as a percent of income for owners
+hh2_ht_owners,HH profile 2: The modeled housing and transportation costs as a percent of income for owners
+hh2_auto_own_cost_renters,HH profile 2: Auto ownership costs for renters
+hh2_vmt_cost_renters,HH profile 2: vehicle miles traveled costs for renters
+hh2_transit_cost_renters,HH profile 2: Average transit costs for renters
+hh2_transit_trips_renters,HH profile 2: The modeled household annual transit trips for renters
+hh2_t_cost_renters,HH profile 2: The modeled transportation costs for renters.
+hh2_t_renters,HH profile 2: The modeled transportation costs as a percent of income for renters
+hh2_h_renters,HH profile 2: The modeled housing costs as a percent of income for renters
+hh2_ht_renters,HH profile 2: The modeled housing and transportation costs as a percent of income for renters
+hh2_auto_own_cost,HH profile 2: Auto ownership costs
+hh2_vmt_cost,HH profile 2: vehicle miles traveled costs
+hh2_transit_cost,HH profile 2: Average transit costs
+hh2_transit_trips,HH profile 2: The modeled household annual transit trips
+hh2_t_cost,HH profile 2: The modeled transportation costs
+hh2_t,HH profile 2: The modeled transportation costs as a percent of income
+hh2_h,HH profile 2: The modeled housing costs as a percent of income
+hh2_ht,HH profile 2: The modeled housing and transportation costs as a percent of income
+hh2_pctile_all,HH profile 2: Income percentile in a given tract as defined for the household above
+hh2_pctile_own,HH profile 2: Income percentile for owners in a given tract as defined for the household above
+hh2_pctile_rent,HH profile 2: Income percentile for renters in a given tract as defined for the household above
+hh3_control_hh_income_frac,HH profile 3: Fraction of household income as defined for the household above relative to the regional median household income
+hh3_control_hh_income,HH profile 3: The household income for the geography as defined for the household above
+hh3_control_hh_size,HH profile 3: The household size for geography as defined for the household above
+hh3_control_hh_commuters,HH profile 3: The number of commuters for the geography as defined for the household above
+hh3_fixes,HH profile 3: Code if a fix was used to substitute the missing values - codes definitions in will be documented in methods doc
+hh3_model_autos_per_hh_owners,HH profile 3: The modeled autos per household for owners
+hh3_model_h_cost_owners,HH profile 3: The modeled housing costs for owners
+hh3_model_pct_transit_commuters_owners,HH profile 3: The modeled percent of transit use commuters for owners
+hh3_model_vmt_per_hh_owners,HH profile 3: The modeled household annual vehicle miles traveled (VMT) for owners
+hh3_model_autos_per_hh_renters,HH profile 3: The modeled autos per household for renters
+hh3_model_h_cost_renters,HH profile 3: The modeled housing costs for renters
+hh3_model_pct_transit_commuters_renters,HH profile 3: The modeled percent of transit use commuters for renters
+hh3_model_vmt_per_hh_renters,HH profile 3: The modeled household annual vehicle miles traveled (VMT) for renters
+hh3_model_autos_per_hh,HH profile 3: The modeled autos per household
+hh3_model_h_cost,HH profile 3: The modeled housing costs
+hh3_model_pct_transit_commuters,HH profile 3: The modeled percent of transit use commuters 
+hh3_model_vmt_per_hh,HH profile 3: The modeled household annual vehicle miles traveled (VMT)
+hh3_alpha,HH profile 3: Factor used to calculate average transit cost per household
+hh3_beta,HH profile 3: Factor used to calculate average annual transit trip per household
+hh3_gas_price,HH profile 3: The cost of gas per gallon
+hh3_mpg,HH profile 3: The national average fuel efficiency
+hh3_income_bin,HH profile 3: Indicate the income bracket for the controlled household type
+hh3_auto_own_cost_owners,HH profile 3: Auto ownership costs for owners
+hh3_vmt_cost_owners,HH profile 3: vehicle miles traveled costs for owners
+hh3_transit_cost_owners,HH profile 3: Average transit costs for owners
+hh3_transit_trips_owners,HH profile 3: The modeled household annual transit trips for owners
+hh3_t_cost_owners,HH profile 3: The modeled transportation costs for owners
+hh3_t_owners,HH profile 3: The modeled transportation costs as a percent of income for owners
+hh3_h_owners,HH profile 3: The modeled housing costs as a percent of income for owners
+hh3_ht_owners,HH profile 3: The modeled housing and transportation costs as a percent of income for owners
+hh3_auto_own_cost_renters,HH profile 3: Auto ownership costs for renters
+hh3_vmt_cost_renters,HH profile 3: vehicle miles traveled costs for renters
+hh3_transit_cost_renters,HH profile 3: Average transit costs for renters
+hh3_transit_trips_renters,HH profile 3: The modeled household annual transit trips for renters
+hh3_t_cost_renters,HH profile 3: The modeled transportation costs for renters.
+hh3_t_renters,HH profile 3: The modeled transportation costs as a percent of income for renters
+hh3_h_renters,HH profile 3: The modeled housing costs as a percent of income for renters
+hh3_ht_renters,HH profile 3: The modeled housing and transportation costs as a percent of income for renters
+hh3_auto_own_cost,HH profile 3: Auto ownership costs
+hh3_vmt_cost,HH profile 3: vehicle miles traveled costs
+hh3_transit_cost,HH profile 3: Average transit costs
+hh3_transit_trips,HH profile 3: The modeled household annual transit trips
+hh3_t_cost,HH profile 3: The modeled transportation costs
+hh3_t,HH profile 3: The modeled transportation costs as a percent of income
+hh3_h,HH profile 3: The modeled housing costs as a percent of income
+hh3_ht,HH profile 3: The modeled housing and transportation costs as a percent of income
+hh3_pctile_all,HH profile 3: Income percentile in a given tract as defined for the household above
+hh3_pctile_own,HH profile 3: Income percentile for owners in a given tract as defined for the household above
+hh3_pctile_rent,HH profile 3: Income percentile for renters in a given tract as defined for the household above
+hh4_control_hh_income_frac,HH profile 4: Fraction of household income as defined for the household above relative to the regional median household income
+hh4_control_hh_income,HH profile 4: The household income for the geography as defined for the household above
+hh4_control_hh_size,HH profile 4: The household size for geography as defined for the household above
+hh4_control_hh_commuters,HH profile 4: The number of commuters for the geography as defined for the household above
+hh4_fixes,HH profile 4: Code if a fix was used to substitute the missing values - codes definitions in will be documented in methods doc
+hh4_model_autos_per_hh_owners,HH profile 4: The modeled autos per household for owners
+hh4_model_h_cost_owners,HH profile 4: The modeled housing costs for owners
+hh4_model_pct_transit_commuters_owners,HH profile 4: The modeled percent of transit use commuters for owners
+hh4_model_vmt_per_hh_owners,HH profile 4: The modeled household annual vehicle miles traveled (VMT) for owners
+hh4_model_autos_per_hh_renters,HH profile 4: The modeled autos per household for renters
+hh4_model_h_cost_renters,HH profile 4: The modeled housing costs for renters
+hh4_model_pct_transit_commuters_renters,HH profile 4: The modeled percent of transit use commuters for renters
+hh4_model_vmt_per_hh_renters,HH profile 4: The modeled household annual vehicle miles traveled (VMT) for renters
+hh4_model_autos_per_hh,HH profile 4: The modeled autos per household
+hh4_model_h_cost,HH profile 4: The modeled housing costs
+hh4_model_pct_transit_commuters,HH profile 4: The modeled percent of transit use commuters 
+hh4_model_vmt_per_hh,HH profile 4: The modeled household annual vehicle miles traveled (VMT)
+hh4_alpha,HH profile 4: Factor used to calculate average transit cost per household
+hh4_beta,HH profile 4: Factor used to calculate average annual transit trip per household
+hh4_gas_price,HH profile 4: The cost of gas per gallon
+hh4_mpg,HH profile 4: The national average fuel efficiency
+hh4_income_bin,HH profile 4: Indicate the income bracket for the controlled household type
+hh4_auto_own_cost_owners,HH profile 4: Auto ownership costs for owners
+hh4_vmt_cost_owners,HH profile 4: vehicle miles traveled costs for owners
+hh4_transit_cost_owners,HH profile 4: Average transit costs for owners
+hh4_transit_trips_owners,HH profile 4: The modeled household annual transit trips for owners
+hh4_t_cost_owners,HH profile 4: The modeled transportation costs for owners
+hh4_t_owners,HH profile 4: The modeled transportation costs as a percent of income for owners
+hh4_h_owners,HH profile 4: The modeled housing costs as a percent of income for owners
+hh4_ht_owners,HH profile 4: The modeled housing and transportation costs as a percent of income for owners
+hh4_auto_own_cost_renters,HH profile 4: Auto ownership costs for renters
+hh4_vmt_cost_renters,HH profile 4: vehicle miles traveled costs for renters
+hh4_transit_cost_renters,HH profile 4: Average transit costs for renters
+hh4_transit_trips_renters,HH profile 4: The modeled household annual transit trips for renters
+hh4_t_cost_renters,HH profile 4: The modeled transportation costs for renters.
+hh4_t_renters,HH profile 4: The modeled transportation costs as a percent of income for renters
+hh4_h_renters,HH profile 4: The modeled housing costs as a percent of income for renters
+hh4_ht_renters,HH profile 4: The modeled housing and transportation costs as a percent of income for renters
+hh4_auto_own_cost,HH profile 4: Auto ownership costs
+hh4_vmt_cost,HH profile 4: vehicle miles traveled costs
+hh4_transit_cost,HH profile 4: Average transit costs
+hh4_transit_trips,HH profile 4: The modeled household annual transit trips
+hh4_t_cost,HH profile 4: The modeled transportation costs
+hh4_t,HH profile 4: The modeled transportation costs as a percent of income
+hh4_h,HH profile 4: The modeled housing costs as a percent of income
+hh4_ht,HH profile 4: The modeled housing and transportation costs as a percent of income
+hh4_pctile_all,HH profile 4: Income percentile in a given tract as defined for the household above
+hh4_pctile_own,HH profile 4: Income percentile for owners in a given tract as defined for the household above
+hh4_pctile_rent,HH profile 4: Income percentile for renters in a given tract as defined for the household above
+hh5_control_hh_income_frac,HH profile 5: Fraction of household income as defined for the household above relative to the regional median household income
+hh5_control_hh_income,HH profile 5: The household income for the geography as defined for the household above
+hh5_control_hh_size,HH profile 5: The household size for geography as defined for the household above
+hh5_control_hh_commuters,HH profile 5: The number of commuters for the geography as defined for the household above
+hh5_fixes,HH profile 5: Code if a fix was used to substitute the missing values - codes definitions in will be documented in methods doc
+hh5_model_autos_per_hh_owners,HH profile 5: The modeled autos per household for owners
+hh5_model_h_cost_owners,HH profile 5: The modeled housing costs for owners
+hh5_model_pct_transit_commuters_owners,HH profile 5: The modeled percent of transit use commuters for owners
+hh5_model_vmt_per_hh_owners,HH profile 5: The modeled household annual vehicle miles traveled (VMT) for owners
+hh5_model_autos_per_hh_renters,HH profile 5: The modeled autos per household for renters
+hh5_model_h_cost_renters,HH profile 5: The modeled housing costs for renters
+hh5_model_pct_transit_commuters_renters,HH profile 5: The modeled percent of transit use commuters for renters
+hh5_model_vmt_per_hh_renters,HH profile 5: The modeled household annual vehicle miles traveled (VMT) for renters
+hh5_model_autos_per_hh,HH profile 5: The modeled autos per household
+hh5_model_h_cost,HH profile 5: The modeled housing costs
+hh5_model_pct_transit_commuters,HH profile 5: The modeled percent of transit use commuters 
+hh5_model_vmt_per_hh,HH profile 5: The modeled household annual vehicle miles traveled (VMT)
+hh5_alpha,HH profile 5: Factor used to calculate average transit cost per household
+hh5_beta,HH profile 5: Factor used to calculate average annual transit trip per household
+hh5_gas_price,HH profile 5: The cost of gas per gallon
+hh5_mpg,HH profile 5: The national average fuel efficiency
+hh5_income_bin,HH profile 5: Indicate the income bracket for the controlled household type
+hh5_auto_own_cost_owners,HH profile 5: Auto ownership costs for owners
+hh5_vmt_cost_owners,HH profile 5: vehicle miles traveled costs for owners
+hh5_transit_cost_owners,HH profile 5: Average transit costs for owners
+hh5_transit_trips_owners,HH profile 5: The modeled household annual transit trips for owners
+hh5_t_cost_owners,HH profile 5: The modeled transportation costs for owners
+hh5_t_owners,HH profile 5: The modeled transportation costs as a percent of income for owners
+hh5_h_owners,HH profile 5: The modeled housing costs as a percent of income for owners
+hh5_ht_owners,HH profile 5: The modeled housing and transportation costs as a percent of income for owners
+hh5_auto_own_cost_renters,HH profile 5: Auto ownership costs for renters
+hh5_vmt_cost_renters,HH profile 5: vehicle miles traveled costs for renters
+hh5_transit_cost_renters,HH profile 5: Average transit costs for renters
+hh5_transit_trips_renters,HH profile 5: The modeled household annual transit trips for renters
+hh5_t_cost_renters,HH profile 5: The modeled transportation costs for renters.
+hh5_t_renters,HH profile 5: The modeled transportation costs as a percent of income for renters
+hh5_h_renters,HH profile 5: The modeled housing costs as a percent of income for renters
+hh5_ht_renters,HH profile 5: The modeled housing and transportation costs as a percent of income for renters
+hh5_auto_own_cost,HH profile 5: Auto ownership costs
+hh5_vmt_cost,HH profile 5: vehicle miles traveled costs
+hh5_transit_cost,HH profile 5: Average transit costs
+hh5_transit_trips,HH profile 5: The modeled household annual transit trips
+hh5_t_cost,HH profile 5: The modeled transportation costs
+hh5_t,HH profile 5: The modeled transportation costs as a percent of income
+hh5_h,HH profile 5: The modeled housing costs as a percent of income
+hh5_ht,HH profile 5: The modeled housing and transportation costs as a percent of income
+hh5_pctile_all,HH profile 5: Income percentile in a given tract as defined for the household above
+hh5_pctile_own,HH profile 5: Income percentile for owners in a given tract as defined for the household above
+hh5_pctile_rent,HH profile 5: Income percentile for renters in a given tract as defined for the household above
+hh6_control_hh_income_frac,HH profile 6: Fraction of household income as defined for the household above relative to the regional median household income
+hh6_control_hh_income,HH profile 6: The household income for the geography as defined for the household above
+hh6_control_hh_size,HH profile 6: The household size for geography as defined for the household above
+hh6_control_hh_commuters,HH profile 6: The number of commuters for the geography as defined for the household above
+hh6_fixes,HH profile 6: Code if a fix was used to substitute the missing values - codes definitions in will be documented in methods doc
+hh6_model_autos_per_hh_owners,HH profile 6: The modeled autos per household for owners
+hh6_model_h_cost_owners,HH profile 6: The modeled housing costs for owners
+hh6_model_pct_transit_commuters_owners,HH profile 6: The modeled percent of transit use commuters for owners
+hh6_model_vmt_per_hh_owners,HH profile 6: The modeled household annual vehicle miles traveled (VMT) for owners
+hh6_model_autos_per_hh_renters,HH profile 6: The modeled autos per household for renters
+hh6_model_h_cost_renters,HH profile 6: The modeled housing costs for renters
+hh6_model_pct_transit_commuters_renters,HH profile 6: The modeled percent of transit use commuters for renters
+hh6_model_vmt_per_hh_renters,HH profile 6: The modeled household annual vehicle miles traveled (VMT) for renters
+hh6_model_autos_per_hh,HH profile 6: The modeled autos per household
+hh6_model_h_cost,HH profile 6: The modeled housing costs
+hh6_model_pct_transit_commuters,HH profile 6: The modeled percent of transit use commuters 
+hh6_model_vmt_per_hh,HH profile 6: The modeled household annual vehicle miles traveled (VMT)
+hh6_alpha,HH profile 6: Factor used to calculate average transit cost per household
+hh6_beta,HH profile 6: Factor used to calculate average annual transit trip per household
+hh6_gas_price,HH profile 6: The cost of gas per gallon
+hh6_mpg,HH profile 6: The national average fuel efficiency
+hh6_income_bin,HH profile 6: Indicate the income bracket for the controlled household type
+hh6_auto_own_cost_owners,HH profile 6: Auto ownership costs for owners
+hh6_vmt_cost_owners,HH profile 6: vehicle miles traveled costs for owners
+hh6_transit_cost_owners,HH profile 6: Average transit costs for owners
+hh6_transit_trips_owners,HH profile 6: The modeled household annual transit trips for owners
+hh6_t_cost_owners,HH profile 6: The modeled transportation costs for owners
+hh6_t_owners,HH profile 6: The modeled transportation costs as a percent of income for owners
+hh6_h_owners,HH profile 6: The modeled housing costs as a percent of income for owners
+hh6_ht_owners,HH profile 6: The modeled housing and transportation costs as a percent of income for owners
+hh6_auto_own_cost_renters,HH profile 6: Auto ownership costs for renters
+hh6_vmt_cost_renters,HH profile 6: vehicle miles traveled costs for renters
+hh6_transit_cost_renters,HH profile 6: Average transit costs for renters
+hh6_transit_trips_renters,HH profile 6: The modeled household annual transit trips for renters
+hh6_t_cost_renters,HH profile 6: The modeled transportation costs for renters.
+hh6_t_renters,HH profile 6: The modeled transportation costs as a percent of income for renters
+hh6_h_renters,HH profile 6: The modeled housing costs as a percent of income for renters
+hh6_ht_renters,HH profile 6: The modeled housing and transportation costs as a percent of income for renters
+hh6_auto_own_cost,HH profile 6: Auto ownership costs
+hh6_vmt_cost,HH profile 6: vehicle miles traveled costs
+hh6_transit_cost,HH profile 6: Average transit costs
+hh6_transit_trips,HH profile 6: The modeled household annual transit trips
+hh6_t_cost,HH profile 6: The modeled transportation costs
+hh6_t,HH profile 6: The modeled transportation costs as a percent of income
+hh6_h,HH profile 6: The modeled housing costs as a percent of income
+hh6_ht,HH profile 6: The modeled housing and transportation costs as a percent of income
+hh6_pctile_all,HH profile 6: Income percentile in a given tract as defined for the household above
+hh6_pctile_own,HH profile 6: Income percentile for owners in a given tract as defined for the household above
+hh6_pctile_rent,HH profile 6: Income percentile for renters in a given tract as defined for the household above
+hh7_control_hh_income_frac,HH profile 7: Fraction of household income as defined for the household above relative to the regional median household income
+hh7_control_hh_income,HH profile 7: The household income for the geography as defined for the household above
+hh7_control_hh_size,HH profile 7: The household size for geography as defined for the household above
+hh7_control_hh_commuters,HH profile 7: The number of commuters for the geography as defined for the household above
+hh7_fixes,HH profile 7: Code if a fix was used to substitute the missing values - codes definitions in will be documented in methods doc
+hh7_model_autos_per_hh_owners,HH profile 7: The modeled autos per household for owners
+hh7_model_h_cost_owners,HH profile 7: The modeled housing costs for owners
+hh7_model_pct_transit_commuters_owners,HH profile 7: The modeled percent of transit use commuters for owners
+hh7_model_vmt_per_hh_owners,HH profile 7: The modeled household annual vehicle miles traveled (VMT) for owners
+hh7_model_autos_per_hh_renters,HH profile 7: The modeled autos per household for renters
+hh7_model_h_cost_renters,HH profile 7: The modeled housing costs for renters
+hh7_model_pct_transit_commuters_renters,HH profile 7: The modeled percent of transit use commuters for renters
+hh7_model_vmt_per_hh_renters,HH profile 7: The modeled household annual vehicle miles traveled (VMT) for renters
+hh7_model_autos_per_hh,HH profile 7: The modeled autos per household
+hh7_model_h_cost,HH profile 7: The modeled housing costs
+hh7_model_pct_transit_commuters,HH profile 7: The modeled percent of transit use commuters 
+hh7_model_vmt_per_hh,HH profile 7: The modeled household annual vehicle miles traveled (VMT)
+hh7_alpha,HH profile 7: Factor used to calculate average transit cost per household
+hh7_beta,HH profile 7: Factor used to calculate average annual transit trip per household
+hh7_gas_price,HH profile 7: The cost of gas per gallon
+hh7_mpg,HH profile 7: The national average fuel efficiency
+hh7_income_bin,HH profile 7: Indicate the income bracket for the controlled household type
+hh7_auto_own_cost_owners,HH profile 7: Auto ownership costs for owners
+hh7_vmt_cost_owners,HH profile 7: vehicle miles traveled costs for owners
+hh7_transit_cost_owners,HH profile 7: Average transit costs for owners
+hh7_transit_trips_owners,HH profile 7: The modeled household annual transit trips for owners
+hh7_t_cost_owners,HH profile 7: The modeled transportation costs for owners
+hh7_t_owners,HH profile 7: The modeled transportation costs as a percent of income for owners
+hh7_h_owners,HH profile 7: The modeled housing costs as a percent of income for owners
+hh7_ht_owners,HH profile 7: The modeled housing and transportation costs as a percent of income for owners
+hh7_auto_own_cost_renters,HH profile 7: Auto ownership costs for renters
+hh7_vmt_cost_renters,HH profile 7: vehicle miles traveled costs for renters
+hh7_transit_cost_renters,HH profile 7: Average transit costs for renters
+hh7_transit_trips_renters,HH profile 7: The modeled household annual transit trips for renters
+hh7_t_cost_renters,HH profile 7: The modeled transportation costs for renters.
+hh7_t_renters,HH profile 7: The modeled transportation costs as a percent of income for renters
+hh7_h_renters,HH profile 7: The modeled housing costs as a percent of income for renters
+hh7_ht_renters,HH profile 7: The modeled housing and transportation costs as a percent of income for renters
+hh7_auto_own_cost,HH profile 7: Auto ownership costs
+hh7_vmt_cost,HH profile 7: vehicle miles traveled costs
+hh7_transit_cost,HH profile 7: Average transit costs
+hh7_transit_trips,HH profile 7: The modeled household annual transit trips
+hh7_t_cost,HH profile 7: The modeled transportation costs
+hh7_t,HH profile 7: The modeled transportation costs as a percent of income
+hh7_h,HH profile 7: The modeled housing costs as a percent of income
+hh7_ht,HH profile 7: The modeled housing and transportation costs as a percent of income
+hh7_pctile_all,HH profile 7: Income percentile in a given tract as defined for the household above
+hh7_pctile_own,HH profile 7: Income percentile for owners in a given tract as defined for the household above
+hh7_pctile_rent,HH profile 7: Income percentile for renters in a given tract as defined for the household above
+hh8_control_hh_income_frac,HH profile 8: Fraction of household income as defined for the household above relative to the regional median household income
+hh8_control_hh_income,HH profile 8: The household income for the geography as defined for the household above
+hh8_control_hh_size,HH profile 8: The household size for geography as defined for the household above
+hh8_control_hh_commuters,HH profile 8: The number of commuters for the geography as defined for the household above
+hh8_fixes,HH profile 8: Code if a fix was used to substitute the missing values - codes definitions in will be documented in methods doc
+hh8_model_autos_per_hh_owners,HH profile 8: The modeled autos per household for owners
+hh8_model_h_cost_owners,HH profile 8: The modeled housing costs for owners
+hh8_model_pct_transit_commuters_owners,HH profile 8: The modeled percent of transit use commuters for owners
+hh8_model_vmt_per_hh_owners,HH profile 8: The modeled household annual vehicle miles traveled (VMT) for owners
+hh8_model_autos_per_hh_renters,HH profile 8: The modeled autos per household for renters
+hh8_model_h_cost_renters,HH profile 8: The modeled housing costs for renters
+hh8_model_pct_transit_commuters_renters,HH profile 8: The modeled percent of transit use commuters for renters
+hh8_model_vmt_per_hh_renters,HH profile 8: The modeled household annual vehicle miles traveled (VMT) for renters
+hh8_model_autos_per_hh,HH profile 8: The modeled autos per household
+hh8_model_h_cost,HH profile 8: The modeled housing costs
+hh8_model_pct_transit_commuters,HH profile 8: The modeled percent of transit use commuters 
+hh8_model_vmt_per_hh,HH profile 8: The modeled household annual vehicle miles traveled (VMT)
+hh8_alpha,HH profile 8: Factor used to calculate average transit cost per household
+hh8_beta,HH profile 8: Factor used to calculate average annual transit trip per household
+hh8_gas_price,HH profile 8: The cost of gas per gallon
+hh8_mpg,HH profile 8: The national average fuel efficiency
+hh8_income_bin,HH profile 8: Indicate the income bracket for the controlled household type
+hh8_auto_own_cost_owners,HH profile 8: Auto ownership costs for owners
+hh8_vmt_cost_owners,HH profile 8: vehicle miles traveled costs for owners
+hh8_transit_cost_owners,HH profile 8: Average transit costs for owners
+hh8_transit_trips_owners,HH profile 8: The modeled household annual transit trips for owners
+hh8_t_cost_owners,HH profile 8: The modeled transportation costs for owners
+hh8_t_owners,HH profile 8: The modeled transportation costs as a percent of income for owners
+hh8_h_owners,HH profile 8: The modeled housing costs as a percent of income for owners
+hh8_ht_owners,HH profile 8: The modeled housing and transportation costs as a percent of income for owners
+hh8_auto_own_cost_renters,HH profile 8: Auto ownership costs for renters
+hh8_vmt_cost_renters,HH profile 8: vehicle miles traveled costs for renters
+hh8_transit_cost_renters,HH profile 8: Average transit costs for renters
+hh8_transit_trips_renters,HH profile 8: The modeled household annual transit trips for renters
+hh8_t_cost_renters,HH profile 8: The modeled transportation costs for renters.
+hh8_t_renters,HH profile 8: The modeled transportation costs as a percent of income for renters
+hh8_h_renters,HH profile 8: The modeled housing costs as a percent of income for renters
+hh8_ht_renters,HH profile 8: The modeled housing and transportation costs as a percent of income for renters
+hh8_auto_own_cost,HH profile 8: Auto ownership costs
+hh8_vmt_cost,HH profile 8: vehicle miles traveled costs
+hh8_transit_cost,HH profile 8: Average transit costs
+hh8_transit_trips,HH profile 8: The modeled household annual transit trips
+hh8_t_cost,HH profile 8: The modeled transportation costs
+hh8_t,HH profile 8: The modeled transportation costs as a percent of income
+hh8_h,HH profile 8: The modeled housing costs as a percent of income
+hh8_ht,HH profile 8: The modeled housing and transportation costs as a percent of income
+hh8_pctile_all,HH profile 8: Income percentile in a given tract as defined for the household above
+hh8_pctile_own,HH profile 8: Income percentile for owners in a given tract as defined for the household above
+hh8_pctile_rent,HH profile 8: Income percentile for renters in a given tract as defined for the household above

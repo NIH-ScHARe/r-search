@@ -1,0 +1,148 @@
+Variable ,Description
+CensusTract,Census tract number
+State,State name
+County,County name
+Urban,Flag for urban tract
+POP2010,Population count from 2010 census
+OHU2010,Occupied housing unit count from 2010 census
+GroupQuartersFlag,Flag for tract where >=67%
+NUMGQTRS,Count of tract population residing in group quarters
+PCTGQTRS,Percent of tract population residing in group quarters
+LILATracts_1And10,Flag for low-income and low access when considering low accessibilty at 1 and 10 miles
+LILATracts_halfAnd10,Flag for low-income and low access when considering low accessibilty at 1/2 and 10 miles
+LILATracts_1And20,Flag for low-income and low access when considering low accessibilty at 1 and 20 miles
+LILATracts_Vehicle,Flag for low-income and low access when considering vehicle access or at 20 miles
+HUNVFlag,"Flag for tract where >= 100 of households do not have a vehicle, and beyond 1/2 mile from supermarket"
+LowIncomeTracts,Flag for low income tract
+PovertyRate,Share of the tract population living with income at or below the Federal poverty thresholds for family size
+MedianFamilyIncome,Tract median family income
+LA1and10,Flag for low access tract at 1 mile for urban areas or 10 miles for rural areas
+LAhalfand10,Flag for low access tract at 1/2 mile for urban areas or 10 miles for rural areas
+LA1and20,Flag for low access tract at 1 mile for urban areas or 20 miles for rural areas
+LATracts_half,Flag for low access tract when considering 1/2 mile distance
+LATracts1,Flag for low access tract when considering 1 mile distance
+LATracts10,Flag for low access tract when considering 10 mile distance
+LATracts20,Flag for low access tract when considering 20 mile distance
+LATractsVehicle_20,"Flag for tract where >= 100 of households do not have a vehicle, and beyond 1/2 mile from supermarket; or >= 500 individuals are beyond 20 miles from supermarket ; or >= 33% of individuals are beyond 20 miles from supermarket"
+LAPOP1_10,Population count beyond 1 mile for urban areas or 10 miles for rural areas from supermarket
+LAPOP05_10,Population count beyond 1/2 mile for urban areas or 10 miles for rural areas from supermarket
+LAPOP1_20,Population count beyond 1 mile for urban areas or 20 miles for rural areas from supermarket
+LALOWI1_10,Low income population count beyond 1 mile for urban areas or 10 miles for rural areas from supermarket
+LALOWI05_10,Low income population count beyond 1/2 mile for urban areas or 10 miles for rural areas from supermarket
+LALOWI1_20,Low income population count beyond 1 mile for urban areas or 20 miles for rural areas from supermarket
+lapophalf,Population count beyond 1/2 mile from supermarket
+lapophalfshare,Share of tract population that are beyond 1/2 mile from supermarket
+lalowihalf,Low income population count beyond 1/2 mile from supermarket
+lalowihalfshare,Share of tract population that are low income individuals beyond 1/2 mile from supermarket
+lakidshalf,Kids population count beyond 1/2 mile from supermarket
+lakidshalfshare,Share of tract population that are kids beyond 1/2 mile from supermarket
+laseniorshalf,Seniors population count beyond 1/2 mile from supermarket
+laseniorshalfshare,Share of tract population that are seniors beyond 1/2 mile from supermarket
+lawhitehalf,White population count beyond 1/2 mile from supermarket
+lawhitehalfshare,Share of tract population that are white beyond 1/2 mile from supermarket
+lablackhalf,Black or African American population count beyond 1/2 mile from supermarket
+lablackhalfshare,Share of tract population that are Black or African American beyond 1/2 mile from supermarket
+laasianhalf,Asian population count beyond 1/2 mile from supermarket
+laasianhalfshare,Share of tract population that are Asian beyond 1/2 mile from supermarket
+lanhopihalf,Native Hawaiian or Other Pacific Islander population count beyond 1/2 mile from supermarket
+lanhopihalfshare,Share of tract population that are Native Hawaiian or Other Pacific Islander beyond 1/2 mile from supermarket
+laaianhalf,American Indian or Alaska Native population count beyond 1/2 mile from supermarket
+laaianhalfshare,Share of tract population that are American Indian or Alaska Native beyond 1/2 mile from supermarket
+laomultirhalf,Other/Multiple race population count beyond 1/2 mile from supermarket
+laomultirhalfshare,Share of tract population that are Other/Multiple race beyond 1/2 mile from supermarket
+lahisphalf,Hispanic or Latino ethnicity population count beyond 1/2 mile from supermarket
+lahisphalfshare,Share of tract population that are of Hispanic or Latino ethnicity beyond 1/2 mile from supermarket
+lahunvhalf,Housing units without vehicle count beyond 1/2 mile from supermarket
+lahunvhalfshare,Share of tract housing units that are without vehicle and beyond 1/2 mile from supermarket
+lasnaphalf,Housing units receiving SNAP benefits count beyond 1/2 mile from supermarket
+lasnaphalfshare,Share of tract housing units receiving SNAP benefits count beyond 1/2 mile from supermarket
+lapop1,Population count beyond 1 mile from supermarket
+lapop1share,Share of tract population that are beyond 1 mile from supermarket
+lalowi1,Low income population count beyond 1 mile from supermarket
+lalowi1share,Share of tract population that are low income individuals beyond 1 mile from supermarket
+lakids1,Kids population count beyond 1 mile from supermarket
+lakids1share,Share of tract population that are kids beyond 1 mile from supermarket
+laseniors1,Seniors population count beyond 1 mile from supermarket
+laseniors1share,Share of tract population that are seniors beyond 1 mile from supermarket
+lawhite1,White population count beyond 1 mile from supermarket
+lawhite1share,Share of tract population that are white beyond 1 mile from supermarket
+lablack1,Black or African American population count beyond 1 mile from supermarket
+lablack1share,Share of tract population that are Black or African American beyond 1 mile from supermarket
+laasian1,Asian population count beyond 1 mile from supermarket
+laasian1share,Share of tract population that are Asian beyond 1 mile from supermarket
+lanhopi1,Native Hawaiian or Other Pacific Islander population count beyond 1 mile from supermarket
+lanhopi1share,Share of tract population that are Native Hawaiian or Other Pacific Islander beyond 1 mile from supermarket
+laaian1,American Indian or Alaska Native population count beyond 1 mile from supermarket
+laaian1share,Share of tract population that are American Indian or Alaska Native beyond 1 mile from supermarket
+laomultir1,Other/Multiple race population count beyond 1 mile from supermarket
+laomultir1share,Share of tract population that are Other/Multiple race beyond 1 mile from supermarket
+lahisp1,Hispanic or Latino ethnicity population count beyond 1 mile from supermarket
+lahisp1share,Share of tract population that are of Hispanic or Latino ethnicity beyond 1 mile from supermarket
+lahunv1,Housing units without vehicle count beyond 1 mile from supermarket
+lahunv1share,Share of tract housing units that are without vehicle and beyond 1 mile from supermarket
+lasnap1,Housing units receiving SNAP benefits count beyond 1 mile from supermarket
+lasnap1share,Share of tract housing units receiving SNAP benefits count beyond 1 mile from supermarket
+lapop10,Population count beyond 10 miles from supermarket
+lapop10share,Share of tract population that are beyond 10 miles from supermarket
+lalowi10,Low income population count beyond 10 miles from supermarket
+lalowi10share,Share of tract population that are low income individuals beyond 10 miles from supermarket
+lakids10,Kids population count beyond 10 miles from supermarket
+lakids10share,Share of tract population that are kids beyond 10 miles from supermarket
+laseniors10,Seniors population count beyond 10 miles from supermarket
+laseniors10share,Share of tract population that are seniors beyond 10 miles from supermarket
+lawhite10,White population count beyond 10 miles from supermarket
+lawhite10share,Share of tract population that are white beyond 10 miles from supermarket
+lablack10,Black or African American population count beyond 10 miles from supermarket
+lablack10share,Share of tract population that are Black or African American beyond 10 miles from supermarket
+laasian10,Asian population count beyond 10 miles from supermarket
+laasian10share,Share of tract population that are Asian beyond 10 miles from supermarket
+lanhopi10,Native Hawaiian or Other Pacific Islander population count beyond 10 miles from supermarket
+lanhopi10share,Share of tract population that are Native Hawaiian or Other Pacific Islander beyond 10 miles from supermarket
+laaian10,American Indian or Alaska Native population count beyond 10 miles from supermarket
+laaian10share,Share of tract population that are American Indian or Alaska Native beyond 10 miles from supermarket
+laomultir10,Other/Multiple race population count beyond 10 miles from supermarket
+laomultir10share,Share of tract population that are Other/Multiple race beyond 10 miles from supermarket
+lahisp10,Hispanic or Latino ethnicity population count beyond 10 miles from supermarket
+lahisp10share,Share of tract population that are of Hispanic or Latino ethnicity beyond 10 miles from supermarket
+lahunv10,Housing units without vehicle count beyond 10 miles from supermarket
+lahunv10share,Share of tract housing units that are without vehicle and beyond 10 miles from supermarket
+lasnap10,Housing units receiving SNAP benefits count beyond 10 miles from supermarket
+lasnap10share,Share of tract housing units receiving SNAP benefits count beyond 10 miles from supermarket
+lapop20,Population count beyond 20 miles from supermarket
+lapop20share,Share of tract population that are beyond 20 miles from supermarket
+lalowi20,Low income population count beyond 20 miles from supermarket
+lalowi20share,Share of tract population that are low income individuals beyond 20 miles from supermarket
+lakids20,Kids population count beyond 20 miles from supermarket
+lakids20share,Share of tract population that are kids beyond 20 miles from supermarket
+laseniors20,Seniors population count beyond 20 miles from supermarket
+laseniors20share,Share of tract population that are seniors beyond 20 miles from supermarket
+lawhite20,White population count beyond 20 miles from supermarket
+lawhite20share,Share of tract population that are white beyond 20 miles from supermarket
+lablack20,Black or African American population count beyond 20 miles from supermarket
+lablack20share,Share of tract population that are Black or African American beyond 20 miles from supermarket
+laasian20,Asian population count beyond 20 miles from supermarket
+laasian20share,Share of tract population that are Asian beyond 20 miles from supermarket
+lanhopi20,Native Hawaiian or Other Pacific Islander population count beyond 20 miles from supermarket
+lanhopi20share,Share of tract population that are Native Hawaiian or Other Pacific Islander beyond 20 miles from supermarket
+laaian20,American Indian or Alaska Native population count beyond 20 miles from supermarket
+laaian20share,Share of tract population that are American Indian or Alaska Native beyond 20 miles from supermarket
+laomultir20,Other/Multiple race population count beyond 20 miles from supermarket
+laomultir20share,Share of tract population that are Other/Multiple race beyond 20 miles from supermarket
+lahisp20,Hispanic or Latino ethnicity population count beyond 20 miles from supermarket
+lahisp20share,Share of tract population that are of Hispanic or Latino ethnicity beyond 20 miles from supermarket
+lahunv20,Housing units without vehicle count beyond 20 miles from supermarket
+lahunv20share,Share of tract housing units that are without vehicle and beyond 20 miles from supermarket
+lasnap20,Housing units receiving SNAP benefits count beyond 20 miles from supermarket
+lasnap20share,Share of tract housing units receiving SNAP benefits count beyond 20 miles from supermarket
+TractLOWI,Total count of low-income population in tract 
+TractKids,Total count of children age 0-17 in tract 
+TractSeniors,Total count of seniors age 65+ in tract 
+TractWhite,Total count of White population in tract 
+TractBlack,Total count of Black or African American population in tract 
+TractAsian,Total count of Asian population in tract 
+TractNHOPI,Total count of Native Hawaiian and Other Pacific Islander population in tract 
+TractAIAN,Total count of American Indian and Alaska Native population in tract 
+TractOMultir,Total count of Other/Multiple race population in tract 
+TractHispanic,Total count of Hispanic or Latino population in tract 
+TractHUNV,Total count of housing units without a vehicle in tract 
+TractSNAP,Total count of housing units receiving SNAP benefits in tract 

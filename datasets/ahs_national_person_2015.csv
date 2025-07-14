@@ -1,0 +1,93 @@
+Variable,Description
+CONTROL,Control number
+JAGE,Edit flag for AGE
+JCITSHP,Edit flag for CITSHP
+JFAMLINE,Edit flag for FAMLINE
+JFAMREL,Edit flag for FAMREL
+JFAMTYP,Edit flag for FAMTYP
+JGRAD,Edit flag for GRAD
+JINTP,Edit flag for INTP
+JINUSYR,Edit flag for INUSYR
+JMAR,Edit flag for MAR
+JMIL,Edit flag for MIL
+JMLPA,Edit flag for MLPA
+JMLPB,Edit flag for MLPB
+JMLPCD,Edit flag for MLPCD
+JMLPE,Edit flag for MLPE
+JMLPFG,Edit flag for MLPFG
+JMLPH,Edit flag for MLPH
+JMLPI,Edit flag for MLPI
+JMLPJ,Edit flag for MLPJ
+JMLPK,Edit flag for MLPK
+JMOVE,Edit flag for MOVE
+JMOVERGRP,Edit flag for MOVERGRP
+JNATVTY,Edit flag for NATVTY
+JOIP,Edit flag for OIP
+JPAP,Edit flag for PAP
+JPASTHWHO,Edit flag for PASTHWHO
+JPCARE,Edit flag for PCARE
+JPERRND,Edit flag for PERRND
+JPHEAR,Edit flag for PHEAR
+JPMEMRY,Edit flag for PMEMRY
+JPSEE,Edit flag for PSEE
+JPWALK,Edit flag for PWALK
+JRACE,Edit flag for RACE
+JRACEAS,Edit flag for RACEAS
+JRACEPI,Edit flag for RACEPI
+JREL,Edit flag for REL
+JRESPONDENT,Edit flag for RESPONDENT
+JRETP,Edit flag for RETP
+JSEMP,Edit flag for SEMP
+JSEX,Edit flag for SEX
+JSPAN,Edit flag for SPAN
+JSSIP,Edit flag for SSIP
+JSSP,Edit flag for SSP
+JWAGP,Edit flag for WAGP
+PLINE,Line number of person
+NATVTY,Country of birth of person
+INUSYR,Year person came to the US
+AGE,Age of person
+MAR,Marital status of person
+SEX,Sex of person
+SPAN,Spanish origin of person
+MOVE,Year person moved in
+PHEAR,Person has difficulty hearing
+PSEE,Person has difficulty seeing
+PMEMRY,Person has difficulty concentrating or remembering
+PWALK,Person has difficulty walking or climbing stairs
+PCARE,Person has difficulty dressing or bathing
+PERRND,Person has difficulty doing errands
+PASTHWHO,Person has asthma
+CITSHP,US citizenship of person
+FAMTYP,Family type of person
+FAMREL,Family relationship of person
+WAGP,Wages or salary income
+SEMP,Self-employment income
+SSP,Social Security income
+SSIP,Supplemental Security income
+PAP,Public assistance income
+RETP,Retirement income
+INTP,"Interest, dividends, and net rental income"
+OIP,All other income
+RACE,Race of person
+RACEAS,Race of person (Asian group)
+RACEPI,Race of person (Native Hawaiian or other Pacific Islander group)
+RESPONDENT,Flag indicating this person is the respondent
+MIL,Military status of person
+MLPA,Served September 2001 or later
+MLPB,Served August 1990 - August 2001
+MLPCD,Served May 1975 - July 1990
+MLPE,Served August 1964 - April 1975
+MLPFG,Served February 1955 - July 1964
+MLPH,Served July 1950 - January 1955
+MLPI,Served January 1947 - June 1950
+MLPJ,Served December 1941 - December 1946
+MLPK,Served November 1941 or earlier
+MOVERGRP,Recent mover group
+PERSONID,Person identifier
+SPOUSE,Line number of spouse of person
+FIRPARENT,Line number of parent number one
+SECPARENT,Line number of parent number two
+FAMLINE,Family number of person
+GRAD,Educational level of person
+REL,Relationship of person to reference person
